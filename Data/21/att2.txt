@@ -1,0 +1,852 @@
+SKORYGOWANY RAPORT
+       OKRESOWY
+ ZA II KWARTA£ 2020 R.
+       Warszawa, 22 marca 2021 r.
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+        1. PISMO PRZEWODNIE ZARZ•DU SP”£KI
+        Szanowni Akcjonariusze,
+        W drugim kwartale ukaza≥y siÍ trzy gry z logo Sonki - Book of Demons na
+        Ñwszystkichî konsolach, 911 Deluxe i Duke Nukem na Switchu. Za Duke Nukem
+        pieniπdze dostaliúmy rok temu, za Book of Demons poza zap≥atπ za port
+        przys≥uguje nam okreúlony w umowie procent z zysku (w tym kwartale sprzedaø
+        jeszcze nie pokry≥a kosztÛw wydawcy, wiÍc nie dostaliúmy od 505 Games tantiem),
+        a 911 Deluxe sprzedaje siÍ na zadowalajπcym poziomie.
+        Unhatched jest na ostatnim etapie i wyjdzie na prze≥omie III i IV kwarta≥u.
+        Astro Bears DLC i wersja azjatycka czekajπ-jesteúmy w trakcie rozmÛw z
+        wydawcami, rozwaøamy wejúcie na inne platformy, niø Switch. DopÛki rozmowy
+        nie zostanπ skoÒczone (tj. zdecydujemy, czy bardziej siÍ op≥acaÊ bÍdzie wydaÊ
+        Misie z innym podmiotem na Steamie, PlayStation i Xboxie -czy samemu), DLC i
+        Azja czekajπ.
+        Farm Tycoon, Car Mechanic Flipper i Unlucky7 powstajπ, jeúli nie trafi siÍ kolejny
+        lockdown to wydamy je w tym roku. W przypadku zdarzeÒ losowych, najmniejszy
+        priorytet ma Unlucky7 i ten projekt byúmy przesunÍli.
+        Bum Simulator jest, wed≥ug naszych przyjaciÛ≥ z Ragged Games, na ostatniej
+        prostej. Wed≥ug mnie jest to úwietna gra. Wed≥ug umowy, mamy 50% z
+        przychodÛw, z kaødej platformy (oczywiúcie poza PC).
+        A, rozpoczÍliúmy teø produkcjÍ gry action adventure, ktÛrπ chcieliúmy zrobiÊ z
+        Bartkiem przez ca≥e øycie. WiÍcej informacji udzielimy we w≥aúciwym czasie
+        Z powaøaniem,
+        Rafa≥ Sankowski
+        Prezes Zarzπdu
+        SONKA S.A.
+                                                2
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+                                                                                  SPIS TREåCI
+        1.   PISMO PRZEWODNIE ZARZ•DU SP”£KI ....................................................................................................................... 2
+        2.   PODSTAWOWE INFORMACJE ........................................................................................................................................ 4
+        3.   PLAN PREMIER ................................................................................................................................................................... 5
+        4.   KWARTALNE SKR”CONE SPRAWOZDANIE FINANSOWE EMITENTA ..................................................................... 6
+        5.   INFORMACJE O ZASADACH PRZYJ TYCH PRZY SPORZ•DZANIU RAPORTU, W TYM INFORMACJE
+              O ZMIANACH W STOSOWANIU ZASAD (POLITYKI) RACHUNKOWOåCI ............................................................. 13
+        6.   KOMENTARZ EMITENTA NA TEMAT OKOLICZONåCI I ZDARZE— ISTOTNIE WP£YWAJ•CYCH NA
+              DZIA£ALNOå∆ EMITENTA, JEGO SYTUACJ  FINANSOW• I WYNIKI OSI•GNI TE W DANYM KWARTALE .. 15
+        7.   JEØELI EMITENT PRZEKAZYWA£ DO PUBLICZNEJ WIADOMOåCI PROGNOZY WYNIK”W FINANSOWYCH -
+              STANOWISKO ODNOåNIE MOØLIWOåCI ZREALIZOWANIA PUBLIKOWANYCH PROGNOZ WYNIK”W NA
+              DANY ROK W åWIETLE WYNIK”W ZAPREZENTOWANYCH W DANYM RAPORCIE KWARTALNYM ............. 17
+        8.   W PRZYPADKU GDY DOKUMENT INFORMACYJNY EMITENTA ZAWIERA£ INFORMACJE, O KT”RYCH MOWA
+              W ß 10 PKT 13a) ZA£•CZNIKA NR 1 DO REGULAMINU ASO ñ OPIS STANU REALIZACJI DZIA£A— I INWESTYCJI
+              EMITENTA ORAZ HARMONOGRAMU ICH REALIZACJI ........................................................................................... 17
+        9.   JEØELI W OKRESIE OBJ TYM RAPORTEM EMITENT PODEJMOWA£ W OBSZARZE ROZWOJU PROWADZONEJ
+              DZIA£ALNOåCI INICJATYWY NASTAWIONE NA WPROWADZENIE ROZWI•ZA— INNOWACYJNYCH
+              W PRZEDSI BIORSTWIE ñ INFORMACJE NA TEMAT TEJ AKTYWNOåCI ............................................................. 17
+        10.  OPIS ORGANIZACJI GRUPY KAPITA£OWEJ, ZE WSKAZANIEM JEDNOSTEK PODLEGAJACYCH KONSOLIDACJI
+              ORAZ JEDNOSTEK NIEOBJ TYCH KONSOLIDACJ•, Z PODANIEM W STOSUNKU DO KAØDEJ Z NICH CO
+              NAJMNIEJ NAZWY (FIRMY), FORMY PRAWNEJ, SIEDZIBY, PRZEDMIOTU DZIA£ALNOåCI I UDZIA£U
+              EMITENTA W KAPITALE ZAK£ADOWYM I OG”LNEJ LICZBIE G£OS”W .............................................................. 17
+        11.  W PRZYPADKU, GDY EMITENT TWORZY GRUP  KAPITA£OW• I NIE SPORZ•DZA SKONSOLIDOWANYCH
+              SPRAWOZDA— FINANSOWYCH LUB SKONSOLIDOWANE SPRAWOZDANIA FINANSOWE NIE OBEJMUJ•
+              DANYCH WSZYSTKICH JEDNOSTEK ZALEØNYCH ñ WSKAZANIE PRZYCZYN NIESPORZ•DZANIA
+              SPRAWOZDA— SKONSOLIDOWANYCH PRZEZ PODMIOT DOMINUJ•CY LUB PRZYCZYN ZWOLNIENIA Z
+              KONSOLIDACJI W ODNIESIENIU DO KAØDEJ JEDNOSTKI ZALEØNEJ NIEOBJ TEJ KONSOLIDACJ• ................ 17
+        12.  W PRZYPADKU GDY EMITENT TWORZY GRUP  KAPITA£OW• I NIE SPORZ•DZA SKONSOLIDOWANYCH
+              SPRAWOZDA— FINANSOWYCH LUB SKONSOLIDOWANE SPRAWOZDANIA FINANSOWE NIE OBEJMUJ•
+              DANYCH WSZYSTKICH JEDNOSTEK ZALEØNYCH ñWYBRANE DANE FINANSOWE SP”£EK ZALEØNYCH
+              EMITENTA NIEOBJ TYCH KONSOLIDACJ•, ZAWIERAJ•CE PODSTAWOWE POZYCJE KWARTALNEGO
+              SPRAWOZDANIA FINANSOWEGO .............................................................................................................................. 18
+        13.  INFORMACJA O STRUKTURZE AKCJONARIATU EMITENTA, ZE WSKAZANIEM AKCJONARIUSZY
+              POSIADAJ•CYCH, NA DZIE— SPORZ•DZENIA RAPORTU, CO NAJMNIEJ 5% G£OS”W NA WALNYM
+              ZGROMADZENIU ............................................................................................................................................................ 18
+        14.  INFORMACJE DOTYCZ•CE LICZBY OS”B ZATRUDNIONYCH PRZEZ EMITENTA, W PRZELICZENIU NA PE£NE
+              ETATY ................................................................................................................................................................................ 19
+                                                                                                3
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+        2. PODSTAWOWE INFORMACJE
+        SONKA S.A. prowadzi dzia≥alnoúÊ na rynku gier wideo, specjalizujπc siÍ w zakresie portowania
+        (przerabiania gry z jednej platformy na inna) i wydawanie gier na konsole oraz produkcji
+        w≥asnych gier. SpÛ≥ka zosta≥a za≥oøona w sierpniu 2017 r. przez: Pana Rafa≥a Sankowskiego,
+        Pana Bartosza Moniewskiego oraz spÛ≥ki PlayWay S.A., wiodπcego producenta i wydawcÍ gier
+        komputerowych, notowanego na rynku regulowanym Gie≥dy PapierÛw Wartoúciowych w
+        Warszawie S.A., a takøe QubicGames S.A., doúwiadczonego gracza na rynku gamedev,
+        notowanego od 2016 r. na rynku NewConnect.
+        Dzia≥alnoúÊ gospodarcza Emitenta realizowana jest w nastÍpujπcych obszarach:
+        I.    Dzia≥alnoúÊ portowo-wydawnicza
+                 SONKA S.A. wspÛ≥pracujπc z innymi podmiotami portuje (przerabia gry z jednej
+                 platformy na innπ) gry na konsole, a nastÍpnie wydaje je, zapewniajπc produktom
+                 reklamÍ czy pokrycie w mediach. Emitent nie pobiera za takπ us≥ugÍ p≥atnoúci - zamiast
+                 tego pobiera wynagrodzenie prowizyjne w wysokoúci ustalonej stawki procentowej od
+                 przychodÛw z gry.
+        II.   Dzia≥alnoúÊ portowa
+                 SpÛ≥ka realizuje takøe us≥ugÍ portowania gier na zamÛwienie innych podmiotÛw.
+                 Wykonanie us≥ugi odbywa siÍ na podstawie zawartej umowy w zamian za z gÛry
+                 ustalone wynagrodzenie jednorazowe.
+        III. Produkcje w≥asne
+                 Najwaøniejszym produktem w≥asnym SpÛ≥ki sπ gry na licencji Astro Bears. Poza grπ
+                 Astro Bears na Nintendo Switch, SpÛ≥ka przygotowuje produkty na urzπdzenia mobilne
+                 oraz grÍ planszowπ na tej licencji. Dodatkowo SONKA S.A. aktywnie dzia≥a w kwestii
+                 opracowywania pomys≥Ûw i prototypÛw na nowe gry.
+        Podstawowe dane o Emitencie
+                         Firma:                                     SONKA S.A.
+                    Forma prawna:                                 SpÛ≥ka Akcyjna
+                        Siedziba:                                    Warszawa
+                         Adres:                 ul. W≥adys≥awa Niegolewskiego 22, 01-570 Warszawa
+                        Telefon:                                 +48 511 993 330
+             Adres poczty elektronicznej:                    contact@sonkagames.com
+              Adres strony internetowej:                       www.sonkagames.com
+                           NIP:                                     5252728206
+                        REGON:                                       368689060
+                          KRS:                                      0000702054
+        èrÛd≥o: Emitent
+                                                        4
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+        3.   PLAN PREMIER
+        Poniøej przedstawiono tabelÍ zawierajπcπ aktualny plan wydawniczy gier, przy czym ma on
+        charakter orientacyjny i moøe ulec zmianie. PoszczegÛlne terminy wydania gier sπ ustalane po
+        analizie sytuacji rynkowej. Ponadto, Zarzπd SpÛ≥ki informuje, øe z uwagi m. in. na zapisy
+        umowne z podmiotami zewnÍtrznymi nie wszystkie gry planowane do wydania przez Emitenta
+        znajdujπ siÍ w niniejszym planie.
+        Planowane premiery gier
+                                                                                     W≥aúciciel praw
+                                              Planowany termin
+                  Gra            Platforma                            Zakres prac     majπtkowych
+                                                     wydania
+                                                                                           do gry
+                                               III-IV kwarta≥ 2020     port z PC,
+              Unhatched            Switch                                               Filip Loster
+                                                        r.              wydanie
+             Astro Bears                                               produkcja
+                                   Switch       IV kwarta≥ 2020 r.                      SONKA S.A.
+           Non-Bears DLC                                           w≥asna, wydanie
+                                                                       produkcja
+           Astro Bears na
+                                  Switch      IV kwarta≥ 2020 r.        w≥asna,        SONKA S.A.
+          rynku azjatyckim
+                                                                        wydanie
+                                                                     produkcja na
+            Car Mechanic
+                                   Switch             2020 r.          podstawie     Pixel Flipper S.A.
+                Flipper
+                                                                   licencji, wydanie
+                                                                       port z PC,
+            Farm Tycoon           Switch              2020 r.                          SONKA S.A.
+                                                                        wydanie
+                                                                       produkcja
+            Unlucky Seven          Switch             2020 r.                           SONKA S.A.
+                                                                   w≥asna, wydanie
+                                Switch, PS4,
+                                                                       port z PC,          Games
+            112 Operator      Xbox One, PS5,    kwiecieÒ 2021 r.
+                                                                        wydanie      Operators S.A.
+                                Xbox serii X
+                                                                       port z PC,
+              Hard West         Android, iOS          2021 r.                           SONKA S.A.
+                                                                        wydanie
+                                                                       produkcja
+                                Switch, PS4,
+                 Adder                                2021 r.           w≥asna,        SONKA S.A.
+                                 Xbox One
+                                                                        wydanie
+                                Switch, PS4,                           produkcja
+            Astro Bears 2     Xbox One, PS5,          2021 r.           w≥asna,        SONKA S.A.
+                                Xbox serii X                            wydanie
+                                Switch, PS4,
+                                                                       port z PC,
+           Bum Simulator      Xbox One, PS5,          2021 r.                          SONKA S.A.
+                                                                        wydanie
+                                Xbox serii X
+                                                                       port z PC,
+             BE-A Walker       PS4, Xbox One          2021 r.                           SONKA S.A.
+                                                                        wydanie
+                                Switch, PS4,
+                  RLH                                                  produkcja
+                              Xbox One, PS5,          2022 r.                          SONKA S.A.
+          (nazwa robocza)                                               w≥asna
+                                Xbox serii X
+        èrÛd≥o: Emitent
+                                                        5
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+        4.    KWARTALNE SKR”CONE SPRAWOZDANIE FINANSOWE EMITENTA
+        Bilans Emitenta
+                                                        Na dzieÒ 30.06.2020 r.  Na dzieÒ 30.06.2019 r.
+                        WyszczegÛlnienie
+                                                                (w z≥)                  (w z≥)
+         A. Aktywa trwa≥e                                            55 960,13                   9 727,89
+         I. Wartoúci niematerialne i prawne                                0,00                       0,00
+         1. Koszty zakoÒczonych prac rozwojowych                           0,00                       0,00
+         2. WartoúÊ firmy                                                  0,00                       0,00
+         3. Inne wartoúci niematerialne i prawne                           0,00                       0,00
+         4. Zaliczki na wartoúci niematerialne i prawne                    0,00                       0,00
+         II. Rzeczowe aktywa trwa≥e                                  55 960,13                   9 727,89
+         1. årodki trwa≥e                                             55 960,13                   9 727,89
+         2. årodki trwa≥e w budowie                                        0,00                       0,00
+         3. Zaliczki na úrodki trwa≥e w budowie                            0,00                       0,00
+         III. Naleønoúci d≥ugoterminowe                                    0,00                       0,00
+         1. Od jednostek powiπzanych                                       0,00                       0,00
+         2. Od pozosta≥ych jednostek, w ktÛrych
+                                                                           0,00                       0,00
+         jednostka posiada zaangaøowanie w kapitale
+         3. Od pozosta≥ych jednostek                                       0,00                       0,00
+         IV. Inwestycje d≥ugoterminowe                                     0,00                       0,00
+         1. Nieruchomoúci                                                  0,00                       0,00
+         2. Wartoúci niematerialne i prawne                                0,00                       0,00
+         3. D≥ugoterminowe aktywa finansowe                                0,00                       0,00
+         4. Inne inwestycje d≥ugoterminowe                                 0,00                       0,00
+         V. D≥ugoterminowe rozliczenia
+                                                                           0,00                       0,00
+         miÍdzyokresowe
+         1. Aktywa z tytu≥u odroczonego podatku
+                                                                           0,00                       0,00
+         dochodowego
+         2. Inne rozliczenia miÍdzyokresowe                                0,00                       0,00
+         B. Aktywa obrotowe                                      3 825 939,16               3 154 370,86
+         I. Zapasy                                               1 390 947,18               1 077 588,70
+         1. Materia≥y                                                      0,00                       0,00
+         2. PÛ≥produkty i produkty w toku                           865 354,76               1 077 588,70
+         3. Produkty gotowe                                         525 592,42                        0,00
+         4. Towary                                                         0,00                       0,00
+         5. Zaliczki na dostawy i us≥ugi                                   0,00                  0,00
+         II. Naleønoúci krÛtkoterminowe                          1 045 517,08                  329 938,95
+         1. Naleønoúci od jednostek powiπzanych                            0,00                       0,00
+                                                        6
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+         2. Naleønoúci od pozosta≥ych jednostek,
+         w ktÛrych jednostka posiada zaangaøowanie                       0,00                      0,00
+         w kapitale
+         3. Naleønoúci od pozosta≥ych jednostek                  1 045 517,08                329 938,95
+         III. Inwestycje krÛtkoterminowe                        1 187 661,85              1 744 043,21
+         1. KrÛtkoterminowe aktywa finansowe                     1 187 661,85              1 744 043,21
+         2. Inne inwestycje krÛtkoterminowe                              0,00                      0,00
+         IV. KrÛtkoterminowe rozliczenia
+                                                                  201 813,05                  2 800,00
+         miÍdzyokresowe
+         C. Naleøne wp≥aty na kapita≥ (fundusz)
+                                                                         0,00                      0,00
+         podstawowy
+         D. Udzia≥y (akcje) w≥asne                                       0,00                      0,00
+         AKTYWA RAZEM                                           3 881 899,29              3 164 098,75
+                                                       Na dzieÒ 30.06.2020 r. Na dzieÒ 30.06.2019 r.
+                        WyszczegÛlnienie
+                                                               (w z≥)                 (w z≥)
+         A. Kapita≥ (fundusz) w≥asny                            3 649 624,71              3 141 246,25
+         I. Kapita≥ (fundusz) podstawowy                           360 800,00                360 800,00
+         II. Kapita≥ (fundusz) zapasowy, w tym:                  1 884 491,54              1 916 492,08
+         III. Kapita≥ (fundusz) z aktualizacji wyceny,
+                                                                         0,00                      0,00
+         w tym:
+         IV. Pozosta≥e kapita≥y (fundusze)
+                                                                         0,00                      0,00
+         rezerwowe, w tym:
+         V. Zysk (strata) z lat ubieg≥ych                          768 586,79                      0,00
+         VI. Zysk (strata) netto                                   635 746,38                863 954,17
+         VII. Odpisy z zysku netto w ciπgu roku
+                                                                         0,00                      0,00
+         obrotowego (wielkoúÊ ujemna)
+         B. Zobowiπzania i rezerwy
+                                                                  232 274,58                 22 852,50
+         na zobowiπzania
+         I. Rezerwy na zobowiπzania                                      0,00                      0,00
+         1. Rezerwa z tytu≥u odroczonego podatku
+                                                                         0,00                      0,00
+         dochodowego
+         2. Rezerwa na úwiadczenia emerytalne
+                                                                         0,00                      0,00
+         i podobne
+         3. Pozosta≥e rezerwy                                            0,00                      0,00
+         II. Zobowiπzania d≥ugoterminowe                                 0,00                      0,00
+         1. Wobec jednostek powiπzanych                                  0,00                      0,00
+         2. Wobec pozosta≥ych jednostek, w ktÛrych
+                                                                         0,00                      0,00
+         jednostka posiada zaangaøowanie w kapitale
+         3. Wobec pozosta≥ych jednostek                                  0,00                      0,00
+         III. Zobowiπzania krÛtkoterminowe                        232 274,58                 22 852,50
+                                                        7
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+             1. Zobowiπzania wobec jednostek
+                                                                                    0,00                             0,00
+             powiπzanych
+             2. Zobowiπzania wobec pozosta≥ych
+             jednostek, w ktÛrych jednostka posiada                                 0,00                             0,00
+             zaangaøowanie w kapitale
+             3. Zobowiπzania wobec pozosta≥ych
+                                                                            232 274,58                        22 852,50
+             jednostek
+             4. Fundusze specjalne                                                  0,00                             0,00
+             IV. Rozliczenia miÍdzyokresowe                                        0,00                             0,00
+             1. Ujemna wartoúÊ firmy                                                0,00                             0,00
+             2. Inne rozliczenia miÍdzyokresowe                                     0,00                             0,00
+             PASYWA RAZEM                                                3 881 899,29                     3 164 098,75
+            èrÛd≥o: Emitent
+            Rachunek zyskÛw i strat Emitenta
+                                               Za okres od         Za okres od           Za okres od       Za okres od
+                                             01.04.2020 r. do    01.04.2019 r. do      01.01.2020 r. do  01.01.2019 r. do
+                WyszczegÛlnienie
+                                              30.06.2020 r.       30.06.2019 r.         30.06.2020 r.     30.06.2019 r.
+                                                   (w z≥)              (w z≥)                (w z≥)            (w z≥)
+     A. Przychody netto ze sprzedaøy i
+                                                 1 278 223,53        1 083 433,33         2 244 824,35       1 788 251,82
+     zrÛwnane z nimi, w tym:
+     I. Przychody ze sprzedaøy
+                                                 1 166 266,84          688 615,64         2 026 092,65       1 240 036,15
+     produktÛw
+     II. Zmiana stanu produktÛw
+     (zwiÍkszenie ñ wartoúÊ dodatnia,               111 956,69         394 817,69             218 731,70       548 215,67
+     zmniejszenie ñ wartoúÊ ujemna)
+     III. Koszt wytworzenia produktÛw
+                                                          0,00                0,00                  0,00               0,00
+     na w≥asne potrzeby jednostki
+     IV. Przychody netto ze sprzedaøy
+                                                          0,00                0,00                  0,00               0,00
+     towarÛw i materia≥Ûw
+     B. Koszty dzia≥alnoúci operacyjnej             856 217,19          515 699,11         1 570 880,90        866 003,98
+     I. Amortyzacja                                   4 271,19            1 326,52              8 056,81          2 653,05
+     II. Zuøycie materia≥Ûw i energii                22 261,84           11 545,22            45 996,83          45 080,15
+     III. Us≥ugi obce                              583 844,77           88 652,38          1 020 490,66        174 088,36
+     IV. Podatki i op≥aty                               336,00              735,84                818,52          1 458,78
+     V. Wynagrodzenia                              240 597,78          310 067,26            485 435,73        467 616,36
+     VI. Ubezpieczenia spo≥eczne i inne
+                                                      4 905,61                0,00             10 082,35               0,00
+     úwiadczenia
+     VII. Pozosta≥e koszty rodzajowe                      0,00       103 371,89 z≥                  0,00        175 107,28
+     VIII. WartoúÊ sprzedanych towarÛw
+                                                          0,00              0,00 z≥                 0,00               0,00
+     i materia≥Ûw
+     C. Zysk (strata) ze sprzedaøy (A-B)           422 006,34       567 734,22 z≥            673 943,45       922 247,84
+     D. Pozosta≥e przychody operacyjne                    0,85              0,65 z≥                 2,27            948,99
+                                                               8
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+     I. Zysk z tytu≥u rozchodu
+                                                0,00          0,00        0,00        0,00
+     niefinansowych aktywÛw trwa≥ych
+     II. Dotacje                                0,00          0,00        0,00        0,00
+     III. Aktualizacja wartoúci aktywÛw
+                                                0,00          0,00        0,00        0,00
+     niefinansowych
+     IV. Inne przychody operacyjne              0,85          0,65        2,27     948,99
+     E. Pozosta≥e koszty operacyjne       18 375,51       1 182,87   18 731,99    1 281,49
+     I. Strata ze zbycia niefinansowych
+                                                0,00          0,00        0,00        0,00
+     aktywÛw trwa≥ych
+     II. Aktualizacja wartoúci aktywÛw
+                                         18 244,23            0,00  18 244,23         0,00
+     niefinansowych
+     III. Inne koszty operacyjne              131,28      1 182,87      487,76    1 281,49
+     F. Zysk (strata) z dzia≥alnoúci
+                                        403 631,68     566 552,00  655 213,73  921 915,34
+     operacyjnej (C+D-E)
+     G. Przychody finansowe              37 977,15          767,15  50 795,70    4 309,16
+     I. Dywidendy i udzia≥y w zyskach           0,00          0,00        0,00        0,00
+     II. Odsetki                                0,00          0,00    1 358,63        0,00
+     III. Zysk z tytu≥u rozchodu
+                                                0,00          0,00        0,00        0,00
+     aktywÛw finansowych
+     IV. Aktualizacja wartoúci aktywÛw
+                                                0,00          0,00        0,00        0,00
+     finansowych
+     V. Inne                             37 977,15          767,15  49 437,07    4 309,16
+     H. Koszty finansowe                   3 972,49       7 251,22    8 545,05   9 248,33
+     I. Odsetki                                 0,62          0,00        0,62       53,42
+     II. Strata ze tytu≥u rozchodu
+                                                0,00          0,00        0,00        0,00
+     aktywÛw finansowych
+     III. Aktualizacja wartoúci aktywÛw
+                                                0,00          0,00        0,00        0,00
+     finansowych
+     IV. Inne                              3 971,87       7 251,22   8 544,43     9 194,91
+     I. Zysk (strata) brutto (F+G-H)    437 636,34     560 067,93  697 464,38  916 976,17
+     J. Podatek dochodowy                37 793,00       26 951,00   61 718,00  53 022,00
+     K. Pozosta≥e obowiπzkowe
+     zmniejszenia zysku (zwiÍkszenia           0,00           0,00        0,00        0,00
+     straty)
+     L. Zysk (strata) netto (I-J-K)     399 843,34      533 116,93 635 746,38  863 954,17
+            èrÛd≥o: Emitent
+                                                     9
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+            Rachunek przep≥ywÛw pieniÍønych Emitenta
+                                          Za okres od          Za okres od      Za okres od       Za okres od
+                                        01.04.2020 r. do     01.04.2019 r. do 01.01.2020 r. do  01.01.2019 r. do
+               WyszczegÛlnienie
+                                         30.06.2020 r.        30.06.2019 r.    30.06.2020 r.     30.06.2019 r.
+                                              (w z≥)              (w z≥)            (w z≥)           (w z≥)
+     A. Przep≥ywy úrodkÛw pieniÍønych
+     z dzia≥alnoúci operacyjnej
+     I. Zysk (strata) netto                  399 843,34            533 116,93       635 746,38        863 954,17
+     II. Korekty razem                      -475 939,74          -153 005,40      -853 262,22       -108 798,95
+     1. Amortyzacja                              4 271,19            1 326,52          8 056,81         2 653,05
+     2. Zyski (straty) z tytu≥u rÛønic
+                                                     0,00                0,00              0,00             0,00
+     kursowych
+     3. Odsetki i udzia≥y w zyskach
+                                                     0,00                0,00         -1 358,63             0,00
+     (dywidendy)
+     4. Zysk (strata) z dzia≥alnoúci
+                                                     0,00                0,00              0,00             0,00
+     inwestycyjnej
+     5. Zmiana stanu rezerw                          0,00           -1 412,00              0,00       -51 285,00
+     6. Zmiana stanu zapasÛw                   -93 712,46        -183 305,87      -200 487,47       -336 703,85
+     7. Zmiana stanu naleønoúci                -46 932,16           51 049,19      -371 733,30        294 854,11
+     8. Zmiana stanu zobowiπzaÒ
+     krÛtkoterminowych, z wyjπtkiem           -141 568,61           12 919,46       -88 654,58      -344 146,26
+     poøyczek i kredytÛw
+     9. Zmiana stanu rozliczeÒ
+                                             -197 997,70          -33 582,70       -199 085,05       325 829,00
+     miÍdzyokresowych
+     10. Inne korekty                                0,00                0,00              0,00             0,00
+     III. Przep≥ywy pieniÍøne netto
+                                              -76 096,40           380 111,53      -217 515,84        755 155,22
+     z dzia≥alnoúci operacyjnej (I±II)
+     B. Przep≥ywy úrodkÛw pieniÍønych
+     z dzia≥alnoúci inwestycyjnej
+     I. Wp≥ywy                                       0,00                0,00        287 857,81             0,00
+     1. Zbycie wartoúci niematerialnych
+     i prawnych oraz rzeczowych                      0,00                0,00              0,00             0,00
+     aktywÛw trwa≥ych
+     2. Zbycie inwestycji
+     w nieruchomoúci oraz wartoúci                   0,00                0,00              0,00             0,00
+     niematerialne i prawne
+     3. Z aktywÛw finansowych                        0,00                0,00              0,00             0,00
+     4. Inne wp≥ywy inwestycyjne                     0,00                0,00        287 857,81             0,00
+     II. Wydatki                                     0,00                0,00         19 868,35             0,00
+     1. Nabycie wartoúci
+     niematerialnych i prawnych                      0,00                0,00         19 868,35             0,00
+     oraz rzeczowych aktywÛw trwa≥ych
+     2. Inwestycje w nieruchomoúci
+     oraz wartoúci niematerialne                     0,00                0,00              0,00             0,00
+     i prawne
+     3. Na aktywa finansowe, w tym:                  0,00                0,00              0,00             0,00
+     4. Inne wydatki inwestycyjne                    0,00                0,00              0,00             0,00
+                                                          10
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+     III. Przep≥ywy pieniÍøne netto
+                                                      0,00                 0,00       267 989,46               0,00
+     z dzia≥alnoúci inwestycyjnej (I-II)
+     C. Przep≥ywy úrodkÛw pieniÍønych
+     z dzia≥alnoúci finansowej
+     I. Wp≥ywy                                        0,00                 0,00              0,00              0,00
+     1. Wp≥ywy netto z wydania
+     udzia≥Ûw (emisji akcji) i innych
+                                                      0,00                 0,00              0,00              0,00
+     instrumentÛw kapita≥owych
+     oraz dop≥at do kapita≥u
+     2. Kredyty i poøyczki                            0,00                 0,00              0,00              0,00
+     3. Emisja d≥uønych papierÛw
+                                                      0,00                 0,00              0,00              0,00
+     wartoúciowych
+     4. Inne wp≥ywy finansowe                         0,00                 0,00              0,00              0,00
+     II. Wydatki                                      0,00                 0,00              0,00       320 936,00
+     1. Nabycie udzia≥Ûw (akcji)
+                                                      0,00                 0,00              0,00              0,00
+     w≥asnych
+     2. Dywidendy i inne wyp≥aty
+                                                      0,00                 0,00              0,00              0,00
+     na rzecz w≥aúcicieli
+     3. Inne, niø wyp≥aty
+     na rzecz w≥aúcicieli, wydatki                    0,00                 0,00              0,00              0,00
+     z tytu≥u podzia≥u zysku
+     4. Sp≥aty kredytÛw i poøyczek                    0,00                 0,00              0,00              0,00
+     5. Wykup d≥uønych papierÛw
+                                                      0,00                 0,00              0,00              0,00
+     wartoúciowych
+     6. Z tytu≥u innych zobowiπzaÒ
+                                                      0,00                 0,00              0,00              0,00
+     finansowych
+     7. P≥atnoúci zobowiπzaÒ z tytu≥u
+                                                      0,00                 0,00              0,00              0,00
+     umÛw leasingu finansowego
+     8. Odsetki                                       0,00                 0,00              0,00              0,00
+     9. Inne wydatki finansowe                        0,00                 0,00              0,00       320 936,00
+     III. Przep≥ywy pieniÍøne netto
+                                                      0,00                 0,00              0,00      -320 936,00
+     z dzia≥alnoúci finansowej (I-II)
+     D. Przep≥ywy pieniÍøne netto
+                                               -76 096,40            380 111,53         50 473,62       434 219,22
+     razem (A.III±B.III±C.III)
+     E. Bilansowa zmiana stanu
+                                               -76 096,40            380 111,53         50 473,62       434 219,22
+     úrodkÛw pieniÍønych, w tym:
+     F. årodki pieniÍøne na poczπtek
+                                             1 263 758,25         1 363 931,68       1 137 188,23     1 309 823,99
+     okresu
+     G. årodki pieniÍøne na koniec
+                                              1 187 661,85        1 744 043,21       1 187 661,85     1 744 043,21
+     okresu (F±D), w tym:
+            èrÛd≥o: Emitent
+            Zestawienie zmian w kapitale w≥asnym Emitenta
+                                           Za okres od          Za okres od       Za okres od       Za okres od
+                                         01.04.2020 r. do     01.04.2019 r. do  01.01.2020 r. do  01.01.2019 r. do
+                WyszczegÛlnienie
+                                          30.06.2020 r.        30.06.2019 r.     30.06.2020 r.     30.06.2019 r.
+                                               (w z≥)               (w z≥)            (w z≥)            (w z≥)
+     I. Kapita≥ (fundusz) w≥asny
+                                             3 249 781,37         2 608 129,32      3 013 878,33     2 598 228,08
+     na poczπtek okresu (BO)
+                                                           11
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+     I.a. Kapita≥ (fundusz) w≥asny
+     na poczπtek okresu (BO), po           3 249 781,37    2 608 129,32 3 013 878,33  2 598 228,08
+     korektach
+     1. Kapita≥ (fundusz) podstawowy
+                                             360 800,00      360 800,00   360 800,00     315 800,00
+     na poczπtek okresu
+     1.1. Zmiany kapita≥u (funduszu)
+                                                   0,00            0,00         0,00      45 000,00
+     podstawowego
+     1.2. Kapita≥ (fundusz) podstawowy
+                                             360 800,00      360 800,00   360 800,00     360 800,00
+     na koniec okresu
+     2. Kapita≥ (fundusz) zapasowy
+                                           1 884 491,54    1 916 492,08 1 884 491,54      85 320,00
+     na poczπtek okresu
+     2.1. Zmiany kapita≥u (funduszu)
+                                                   0,00            0,00         0,00   1 831 172,08
+     zapasowego
+     2.2. Stan kapita≥u (funduszu)
+                                           1 884 491,54    1 916 492,08 1 884 491,54   1 916 492,08
+     zapasowego na koniec okresu
+     3. Kapita≥ (fundusz) z aktualizacji
+     wyceny na poczπtek okresu -
+                                                   0,00            0,00         0,00           0,00
+     zmiany przyjÍtych zasad (polityki)
+     rachunkowoúci
+     3.1. Zmiany kapita≥u (funduszu)
+                                                   0,00            0,00         0,00           0,00
+     z aktualizacji wyceny
+     3.2. Kapita≥ (fundusz) z aktualizacji
+                                                   0,00            0,00         0,00           0,00
+     wyceny na koniec okresu
+     4. Pozosta≥e kapita≥y (fundusze)
+                                                   0,00            0,00         0,00  2 025 000,00
+     rezerwowe na poczπtek okresu
+     4.1. Zmiany pozosta≥ych kapita≥Ûw
+                                                   0,00            0,00         0,00 -2 025 000,00
+     (funduszy) rezerwowych
+     4.2. Pozosta≥e kapita≥y (fundusze)
+                                                   0,00            0,00         0,00           0,00
+     rezerwowe na koniec okresu
+     5. Zysk (strata) z lat ubieg≥ych
+                                                   0,00            0,00         0,00           0,00
+     na poczπtek okresu
+     5.1. Zysk z lat ubieg≥ych
+                                                   0,00            0,00         0,00           0,00
+     na poczπtek okresu
+     5.2. Zysk z lat ubieg≥ych
+                                                   0,00            0,00         0,00           0,00
+     na poczπtek okresu, po korektach
+     5.3. Zysk z lat ubieg≥ych na koniec
+                                           1 004 489,83      330 837,24   768 586,79           0,00
+     okresu
+     5.4. Strata z lat ubieg≥ych
+                                                   0,00            0,00         0,00           0,00
+     na poczπtek okresu
+                                                        12
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+     5.5. Strata z lat ubieg≥ych
+                                                            0,00               0,00               0,00              0,00
+     na poczπtek okresu, po korektach
+     5.6. Strata z lat ubieg≥ych
+                                                            0,00               0,00               0,00              0,00
+     na koniec okresu
+     5.7. Zysk (strata) z lat ubieg≥ych
+                                                   1 004 489,83         330 837,24          768 586,79              0,00
+     na koniec okresu
+     6. Wynik netto                                  399 843,34          533 116,93         635 746,38        863 954,17
+     II. Kapita≥ (fundusz) w≥asny
+                                                   3 649 624,71        3 141 246,25       3 649 624,71      3 141 246,25
+     na koniec okresu (BZ)
+     III. Kapita≥ (fundusz) w≥asny, po
+     uwzglÍdnieniu proponowanego                   3 649 624,71        3 141 246,25       3 649 624,71      3 141 246,25
+     podzia≥u zysku (pokrycia straty)
+            èrÛd≥o: Emitent
+            5.   INFORMACJE O ZASADACH PRZYJ TYCH PRZY SPORZ•DZANIU RAPORTU, W TYM
+                 INFORMACJE O ZMIANACH W STOSOWANIU ZASAD (POLITYKI) RACHUNKOWOåCI
+               OmÛwienie przyjÍtych zasad (polityki) rachunkowoúci, w tym metod wyceny aktywÛw i pasywÛw
+                  (takøe amortyzacji), pomiaru wyniku finansowego oraz sposobu sporzπdzenia sprawozdania
+                          finansowego w zakresie, w jakim ustawa pozostawia jednostce prawo wyboru.
+                                                    årodki trwa≥e w ciπgu roku wyceniane sπ w cenie nabycia
+                                             z uwzglÍdnieniem dokonywanych odpisÛw amortyzacyjnych. årodki
+                                               trwa≥e amortyzuje siÍ metodπ liniowπ poczπwszy od nastÍpnego
+                                                    miesiπca po przyjÍciu úrodkÛw trwa≥ych do uøywania przy
+                                                 zastosowaniu okresu ekonomicznej uøytecznoúci. Amortyzacja
+                                                 niskocennych úrodkÛw trwa≥ych o wartoúci nie przekraczajπcej
+                 W zakresie ewidencji
+                                              3.500,00 z≥ dokonywana jest jednorazowo w miesiπcu przyjÍcia do
+                   úrodkÛw trwa≥ych
+                                            uøywania. årodki trwa≥e o niewielkiej wartoúci mogπ byÊ odnoszone w
+                                                  koszty SpÛ≥ki bezpoúrednio po oddaniu ich do uøywania. W
+                                               przypadku zmiany technologii, wycofania z uøywania lub innych
+                                             przyczyn powodujπcych trwa≥π utratÍ wartoúci, dokonuje siÍ w ciÍøar
+                                             pozosta≥ych kosztÛw operacyjnych, odpisÛw aktualizujπcych wartoúÊ
+                                                                        úrodka trwa≥ego.
+                                                     Wartoúci niematerialne i prawne podlegajπ umarzaniu i
+                                                    amortyzowaniu metodπ liniowπ przy zastosowaniu okresu
+                                                ekonomicznej uøytecznoúci. Wartoúci niematerialne i prawne o
+                 W zakresie ewidencji
+                                                 wartoúci mniejszej niø 3.500,00 z≥ sπ umarzane jednorazowo w
+              wartoúci niematerialnych i
+                                                     miesiπcu nabycia lub rozpoczÍcia pobierania korzyúci z
+                       prawnych
+                                            wykorzystywania tych praw. W innych kwestiach dotyczπcych wyceny,
+                                                 o ile to moøliwe SpÛ≥ka stosuje zasady okreúlone dla úrodkÛw
+                                                                            trwa≥ych.
+                                                                 13
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+                                      Wartoúci niematerialne i prawne oraz nieruchomoúci zaliczane do
+                                  inwestycji w ciπgu roku oraz na dzieÒ bilansowy wyceniane sπ w cenie
+                                   nabycia z uwzglÍdnieniem dokonywanych odpisÛw amortyzacyjnych.
+                                      Pozosta≥e inwestycje d≥ugoterminowe wyceniane sπ wed≥ug ceny
+                                      rynkowej, inwestycje krÛtkoterminowe wed≥ug ceny rynkowej lub
+                                       wartoúci godziwej. Krajowe úrodki pieniÍøne i kredyty bankowe
+                                  wykazuje siÍ w ksiÍgach rachunkowych w wartoúci nominalnej. årodki
+            W zakresie ewidencji       pieniÍøne i kredyty w walutach obcych wykazuje siÍ w ksiÍgach
+                 inwestycji          rachunkowych w wartoúci nominalnej przeliczonej na z≥ote polskie
+                                      wed≥ug kursu zakupu lub sprzedaøy ustalonego dla danej waluty
+                                   przez bank dewizowy, z ktÛrego us≥ug SpÛ≥ka korzysta≥a. Znajdujπce
+                                  siÍ w kasie úrodki pieniÍøne sπ uzgadniane w drodze spisu z natury na
+                                   ostatni dzieÒ kaødego roku obrotowego, natomiast zgromadzone na
+                                           rachunkach bankowych w drodze uzyskania od bankÛw
+                                         potwierdzenia ich stanu. Ewentualne rÛønice sπ wyjaúniane i
+                                          rozliczane w ksiÍgach roku, za ktÛry sporzπdza siÍ bilans.
+                                       Stan produkcji w toku wyceniana jest wg kosztu jej wytworzenia
+                                       uwzglÍdniajπc art. 28 ust.3 Ustawy o Rachunkowoúci, czyli koszt
+             W zakresie wyceny
+                                   wytworzenia produktu obejmuje koszty pozostajπce w bezpoúrednim
+              produkcji w toku
+                                        zwiπzku z danym produktem oraz uzasadnionπ czÍúÊ kosztÛw
+                                            poúrednio zwiπzanych z wytworzeniem tego produktu.
+                                     Naleønoúci i zobowiπzania wyceniane sπ w ciπgu roku obrotowego
+                                    w wartoúci nominalnej. Nie rzadziej niø na koniec roku obrotowego
+            W zakresie ewidencji      zobowiπzania podlegajπ powiÍkszeniu o naliczone i niezap≥acone
+          naleønoúci i zobowiπzaÒ      odsetki. Naleønoúci sπ wyceniane zgodnie z zasadπ ostroønoúci
+                                    z uwzglÍdnieniem odpisÛw aktualizujπcych dotyczπcych naleønoúci
+                                                                   wπtpliwych.
+                                   Jednostka dokonuje czynnych rozliczeÒ miÍdzyokresowych kosztÛw
+                                  kiedy dotyczπ one przysz≥ych okresÛw sprawozdawczych (art.39 ust. 3
+                                        ustawy o rachunkowoúci). Czynne rozliczenia miÍdzyokresowe
+            W zakresie rozliczeÒ
+                                       kosztÛw obejmujπ te wydatki, ktÛre zosta≥y juø przez jednostkÍ
+            miÍdzyokresowych
+                                           poniesione, ale sπ uznane za koszt w przysz≥ym okresie
+                                     rozliczeniowym, poniewaø dopiero wtedy Jednostka uzyska z nich
+                                                              korzyúci ekonomiczne.
+                                         Materia≥y o niewielkim znaczeniu z punktu widzenia kosztÛw
+                                        dzia≥alnoúci, jak teø wymagaÒ kontroli, nabywane w drobnych
+                                   iloúciach, np. do celÛw gospodarczych i biurowych, sπ przekazywane
+                                         po zakupie bezpoúrednio do zuøycia i odpisywane w koszty
+                                          bezpoúrednio. EwidencjÍ rzeczowych sk≥adnikÛw majπtku
+            W zakresie ewidencji
+                                        obrotowego prowadzi siÍ w postaci ewidencji wartoúciowej w
+           towarÛw i materia≥Ûw
+                                  ksiÍgach rachunkowych SpÛ≥ki oraz ewidencji iloúciowo-wartoúciowej
+                                   w magazynie oraz sπ one objÍte inwentaryzacjπ najpÛüniej na koniec
+                                          roku obrotowego. Przychody sπ wyceniane na podstawie
+                                       dokumentÛw zakupu. Zapasy towarÛw i materia≥Ûw wycenia siÍ
+                                                zgodnie z art 34 ust 2 ustawy o rachunkowoúci.
+                                                        14
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+                                       Przychody bieøπcej dzia≥alnoúci podstawowej obejmujπ: przychody
+                                          netto ze sprzedaøy produktÛw, przychody netto ze sprzedaøy
+                                        towarÛw i materia≥Ûw oraz zmiana stanu produktÛw. W ksiÍgach
+                                      rachunkowych jednostki ujmowane sπ wszystkie osiπgniÍte przez niπ
+                                       przychody oraz wszystkie koszty zwiπzane z ich uzyskaniem w tym
+            W zakresie przychodÛw
+                                      samym okresie obrachunkowym. Poniesienie jakiegoú rodzaju kosztu
+             z bieøπcej dzia≥alnoúci
+                                         powiπzane jest z otrzymaniem przysz≥ego przychodu, ale juø w
+                  podstawowej
+                                            kolejnym okresie. W rachunku zyskÛw i start w wariancie
+                                           porÛwnawczym pozycja zmiany stanu produktÛw umoøliwia
+                                       skorygowanie wartoúci o stan wyrobÛw gotowych, ktÛre jednostka
+                                         wyprodukowa≥a w danym okresie, ponoszπc koszty zwiπzane z
+                                          produkcjπ, ktÛra nie zosta≥a sprzedana w tym samym okresie.
+                 Pomiar stopnia
+             zaawansowania us≥ug
+                                                                   nie dotyczy
+            budowlanych objÍtych
+           umowπ d≥ugoterminowπ.
+                                       Rokiem obrotowym SpÛ≥ki jest okres kolejnych 12 miesiÍcy od dnia
+                      Inne
+                                                            1 stycznia do 31 grudnia.
+        6.    KOMENTARZ EMITENTA NA TEMAT OKOLICZONåCI I ZDARZE— ISTOTNIE
+              WP£YWAJ•CYCH NA DZIA£ALNOå∆ EMITENTA, JEGO SYTUACJ  FINANSOW•
+              I WYNIKI OSI•GNI TE W DANYM KWARTALE
+        W II kw. 2020 r. Emitent wypracowa≥ przychody netto ze sprzedaøy i zrÛwnane z nimi na
+        poziomie 1.278.223,53 z≥, czyli o 17,98% wiÍcej niø w analogicznym okresie
+        poprzedniego roku, gdy wartoúÊ tej pozycji wynios≥a 1.083.433,33 z≥. Analizujπc wy≥πcznie
+        przychody ze sprzedaøy produktÛw uzyskany przez Emitenta wynik prezentuje siÍ jeszcze
+        lepiej. W II kw. 2020 r. pozycja ta wynios≥a 1.166.266,84 z≥, wobec 688.615,54 z≥ w II kw.
+        2019 r., co oznacza wzrost o 69,36%. Zysk netto SpÛ≥ki w II kw. 2020 r. wyniÛs≥ 399.843,34
+        z≥ i by≥ niøszy o 24,99% niø w II kw. 2019 r., gdy wyniÛs≥ 533.116,93 z≥. Znaczπcy wp≥yw na
+        niøszy wynik finansowy mia≥ wzrost wartoúci us≥ug obcych, do ktÛrych zalicza siÍ m. in.
+        wyp≥acone przez SpÛ≥kÍ tantiemy.
+        W ujÍciu narastajπcym, tj. od poczπtku 2020 r., przychody netto ze sprzedaøy i zrÛwnane
+        z nimi SpÛ≥ki wynios≥y 2.244.824,35 z≥, co w porÛwnaniu z 1.788.251,82 z≥ po pierwszej
+        po≥owie 2019 r. oznacza wzrost o 25,53%. Na poziomie wyniku netto SpÛ≥ka wypracowa≥a
+        zysk rÛwny 635.746,38 z≥, czyli o 26,41% niøszy niø w tym samym okresie poprzedniego
+        roku.
+        W II kw. 2020 r. SpÛ≥ka zawar≥a dwie istotne umowy. Pierwsza z nich zosta≥a podpisana
+        z Filipem Losterem. Przedmiotem umowy jest wykonanie przez SpÛ≥kÍ portu oraz wydanie
+        gry o nazwie Unhatched na platformÍ Nintendo Switch. Z tytu≥u realizacji umowy
+                                                        15
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+        Emitentowi przys≥uguje okreúlony w umowie, wiÍkszoúciowy, procent zyskÛw z e
+        sprzedaøy ww. gry, czyli po odliczeniu prowizji pobieranej przez dystrybutorÛw gier.
+        W≥aúcicielem praw majπtkowych do gry jest Filip Loster. Planowany termin premiery gry
+        okreúlony zosta≥ na III kw. 2020 r.
+        Druga umowa zosta≥a zawarta z Games Operators S.A. z siedzibπ w Warszawie.
+        Przedmiotem Umowy jest wykonanie przez Emitenta portu oraz wydanie gry o nazwie 112
+        Operator na platformy Nintendo Switch, Playstation 4, Playstation 5, Xbox One i Xbox
+        Serii X. Z tytu≥u realizacji Umowy Emitentowi przys≥uguje okreúlony procent zyskÛw ze
+        sprzedaøy gry, tj. po odliczeniu prowizji pobieranej przez dystrybutorÛw gier.
+        W≥aúcicielem praw majπtkowych do gry jest Games Operators S.A. Planowany termin
+        premiery gry okreúlony zosta≥ na kwiecieÒ 2021 r.
+        Od poczπtku kwietnia 2020 r. do dnia publikacji niniejszego raportu mia≥o miejsce 5
+        premier gier:
+            1) Dex na konsolÍ Nintendo Switch ñ mia≥a swojπ premierÍ w dniu 24 lipca 2020 r.
+                w Ameryce PÛ≥nocnej, Europie i Australii. Gra zosta≥a wydana przez QubicGames
+                S.A. przy wsparciu finansowym oraz wsparciu przy wydaniu i dystrybucji gry
+                udzielonym przez SpÛ≥kÍ, w zamian za wynagrodzenie stanowiπce udzia≥
+                procentowy w przychodach ze sprzedaøy gry. W planach jest rÛwnieø wydanie gry
+                w limitowanej wersji pude≥kowej.
+            2) Duke Nukem 3D: 20th Anniversary World Tour na platformÍ Nintendo Switch,
+                ktÛrej premiera odby≥a siÍ w dniu 23 czerwca 2020 r. na rynku amerykaÒskim,
+                europejskim, australijskim i japoÒskim. SpÛ≥ka jest portujπcym grÍ na platformÍ
+                Nintendo Switch na zlecenie wydawcy Gearbox Publishing. Za wykonanie portu gry
+                Emitent otrzyma≥ wynagrodzenie.
+            3) Hamster Bob na platformÍ Nintendo Switch ukaza≥a siÍ w dniu 24 lipca 2020 r. na
+                rynku europejskim, amerykaÒskim i australijskim. SpÛ≥ka jest wydawcπ oraz
+                portujπcym grÍ na platformÍ Nintendo Switch. W≥aúcicielem praw autorskich do
+                Gry jest Berrylife Studio Sp. z o.o. z siedzibπ w Krakowie. Koszty zwiπzane
+                z wydaniem i portowaniem Gry zosta≥y pokryte przez SpÛ≥kÍ. Z tytu≥u realizacji
+                Umowy Emitentowi przys≥uguje okreúlony w umowie procent zyskÛw ze sprzedaøy
+                Gry, tj. po odliczeniu prowizji pobieranej przez Nintendo eShop.
+            4) 911 Operator Deluxe Edition na platformÍ Nintendo Switch ñ premiera na rynku
+                amerykaÒskim i europejskim odby≥a siÍ w dniu 1 maja 2020 r. SpÛ≥ka jest wydawcπ
+                oraz portujπcym GrÍ na platformy Nintendo Switch. W≥aúcicielem praw autorskich
+                do gry jest Games Operators S.A. z siedzibπ w Warszawie. Koszty zwiπzane
+                z wydaniem i portowaniem gry zosta≥y pokryte przez SpÛ≥kÍ. Z tytu≥u realizacji
+                                                      16
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+                umowy Emitentowi przys≥uguje okreúlony procent zyskÛw ze sprzedaøy gry, tj. po
+                odliczeniu prowizji pobieranej przez Nintendo eShop.
+            5) Book of Demons na platformy Nintendo Switch, Playstation 4 i Xbox One pojawi≥a
+                siÍ w dniu 30 kwietnia 2020 r. na rynku amerykaÒskim i europejskim. Gra zosta≥a
+                stworzona przez SpÛ≥kÍ dla wydawcy 505 Games.
+        7.   JEØELI EMITENT PRZEKAZYWA£ DO PUBLICZNEJ WIADOMOåCI PROGNOZY
+             WYNIK”W        FINANSOWYCH         -    STANOWISKO        ODNOåNIE      MOØLIWOåCI
+             ZREALIZOWANIA PUBLIKOWANYCH PROGNOZ WYNIK”W NA DANY ROK W
+             åWIETLE WYNIK”W ZAPREZENTOWANYCH W DANYM RAPORCIE KWARTALNYM
+        Emitent nie przekazywa≥ do wiadomoúci publicznej prognoz wynikÛw finansowych za okres
+        objÍty niniejszym raportem.
+        8.   W    PRZYPADKU       GDY     DOKUMENT       INFORMACYJNY      EMITENTA     ZAWIERA£
+             INFORMACJE, O KT”RYCH MOWA W ß 10 PKT 13a) ZA£•CZNIKA NR 1 DO
+             REGULAMINU ASO ñ OPIS STANU REALIZACJI DZIA£A— I INWESTYCJI EMITENTA
+             ORAZ HARMONOGRAMU ICH REALIZACJI
+        Dokument Informacyjny Emitenta nie zawiera≥ informacji, o ktÛrych mowa w ß 10 pkt 13a)
+        Za≥πcznika nr 1 do Regulaminu ASO.
+        9.   JEØELI W OKRESIE OBJ TYM RAPORTEM EMITENT PODEJMOWA£ W OBSZARZE
+             ROZWOJU      PROWADZONEJ         DZIA£ALNOåCI       INICJATYWY    NASTAWIONE       NA
+             WPROWADZENIE         ROZWI•ZA—       INNOWACYJNYCH         W PRZEDSI BIORSTWIE       ñ
+             INFORMACJE NA TEMAT TEJ AKTYWNOåCI
+        Emitent w II kwartale 2020 r. nie wprowadzi≥ rozwiπzaÒ innowacyjnych w przedsiÍbiorstwie.
+        10. OPIS     ORGANIZACJI      GRUPY    KAPITA£OWEJ,       ZE   WSKAZANIEM      JEDNOSTEK
+             PODLEGAJACYCH KONSOLIDACJI ORAZ JEDNOSTEK NIEOBJ TYCH KONSOLIDACJ•,
+             Z PODANIEM W STOSUNKU DO KAØDEJ Z NICH CO NAJMNIEJ NAZWY (FIRMY),
+             FORMY PRAWNEJ, SIEDZIBY, PRZEDMIOTU DZIA£ALNOåCI I UDZIA£U EMITENTA W
+             KAPITALE ZAK£ADOWYM I OG”LNEJ LICZBIE G£OS”W
+        Na dzieÒ 30 czerwca 2020 r. Emitent nie posiada≥ jednostek podlegajπcych konsolidacji.
+        11. W PRZYPADKU, GDY EMITENT TWORZY GRUP  KAPITA£OW• I NIE SPORZ•DZA
+             SKONSOLIDOWANYCH          SPRAWOZDA—        FINANSOWYCH      LUB   SKONSOLIDOWANE
+             SPRAWOZDANIA       FINANSOWE     NIE  OBEJMUJ•     DANYCH    WSZYSTKICH    JEDNOSTEK
+                                                      17
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+              ZALEØNYCH            ñ     WSKAZANIE           PRZYCZYN             NIESPORZ•DZANIA               SPRAWOZDA—
+              SKONSOLIDOWANYCH PRZEZ PODMIOT DOMINUJ•CY LUB PRZYCZYN ZWOLNIENIA Z
+              KONSOLIDACJI           W    ODNIESIENIU        DO      KAØDEJ        JEDNOSTKI        ZALEØNEJ        NIEOBJ TEJ
+              KONSOLIDACJ•
+        Na dzieÒ 30 czerwca 2020 r. Emitent nie posiada≥ jednostek zaleønych, w zwiπzku z czym nie
+        sporzπdza skonsolidowanych sprawozdaÒ finansowych.
+        12. W PRZYPADKU GDY EMITENT TWORZY GRUP  KAPITA£OW• I NIE SPORZ•DZA
+              SKONSOLIDOWANYCH SPRAWOZDA— FINANSOWYCH LUB SKONSOLIDOWANE
+              SPRAWOZDANIA FINANSOWE NIE OBEJMUJ• DANYCH WSZYSTKICH JEDNOSTEK
+              ZALEØNYCH ñWYBRANE DANE FINANSOWE SP”£EK ZALEØNYCH EMITENTA
+              NIEOBJ TYCH             KONSOLIDACJ•,               ZAWIERAJ•CE                PODSTAWOWE                POZYCJE
+              KWARTALNEGO SPRAWOZDANIA FINANSOWEGO
+          Na dzieÒ 30 czerwca 2020 r. Emitent nie posiada≥ jednostek podlegajπcych konsolidacji.
+        13. INFORMACJA O STRUKTURZE AKCJONARIATU EMITENTA, ZE WSKAZANIEM
+              AKCJONARIUSZY POSIADAJ•CYCH, NA DZIE— SPORZ•DZENIA RAPORTU, CO
+              NAJMNIEJ 5% G£OS”W NA WALNYM ZGROMADZENIU
+        WyszczegÛlnienie akcjonariuszy posiadajπcych co najmniej 5% udzia≥u w kapitale zak≥adowym oraz
+        w g≥osach na walnym zgromadzeniu
+                                                                     Udzia≥ w                                       Udzia≥ w
+               Akcjonariusz                 Liczba akcji         ogÛlnej liczbie          Liczba g≥osÛw         ogÛlnej liczbie
+                                                                     akcji (%)                                     g≥osÛw (%)
+              PlayWay S.A.                   1 419 886                39,35%                  1 419 886               39,35%
+           Qubic Games S.A.                   473 700                 13,13%                   473 700                13,13%
+             Rafa≥ Sankowski                  300 000                  8,31%                   300 000                 8,31%
+           Bartosz Moniewski                  300 000                  8,31%                   300 000                 8,31%
+                 Pozostali*                   1 114 414               30,89%                  1 114 414               30,89%
+                   Suma                      3 608 000               100,00%                 3 608 000               100,00%
+        * w tym podmiot pe≥niπcy funkcjÍ Animatora Rynku, w wyniku realizacji obowiπzku, o ktÛrym mowa w ß7 ust. 4 Regulaminu ASO
+        èrÛd≥o: Emitent
+                                                                    18
+
+Skorygowany raport okresowy SONKA S.A. za II kwarta≥ 2020 r.
+122120192019 r. roku
+        Struktura w≥asnoúciowa Emitenta (udzia≥ w kapitale zak≥adowym i g≥osach na WZ)
+                            Pozostali* 30.89%
+                                                                                                 PlayWay S.A.
+                                                                                                    39.35%
+                             Bartosz Moniewski
+                                   8.31%
+                                             Rafa≥ Sankowski                Qubic Games S.A.
+                                                  8.31%                          13.13%
+        * w tym podmiot pe≥niπcy funkcjÍ Animatora Rynku, w wyniku realizacji obowiπzku, o ktÛrym mowa w ß7 ust. 4 Regulaminu ASO
+        èrÛd≥o: Emitent
+        14. INFORMACJE DOTYCZ•CE LICZBY OS”B ZATRUDNIONYCH PRZEZ EMITENTA,
+              W PRZELICZENIU NA PE£NE ETATY
+        Na dzieÒ 30 czerwca 2020 r. w sk≥ad zespo≥u SpÛ≥ki wchodzi 12 osÛb, tj.: 2 osoby z zarzπdu
+        zatrudnione z tyt. powo≥ania oraz 10 osÛb zatrudnionych na umowach cywilno-prawnych.
+                                                                    19
+

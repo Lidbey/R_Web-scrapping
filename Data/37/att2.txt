@@ -1,0 +1,2158 @@
+                                        2020
+   SPRAWOZDANIE ZARZ•DU
+Z DZIA£ALNOåCI ALUMETAL S.A.
+         ZA ROK 2020
+          KÍty, dnia 22 marca 2021 roku
+
+                                                           ALUMETAL S.A.
+                              Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Spis treúci
+I. Podstawowe informacje o Emitencie i Grupie Kapita≥owej ..................................................... 5
+1.   Opis ALUMETAL S.A. .................................................................................................................. 5
+A.   Podstawowe informacje o Emitencie ........................................................................................ 5
+B.   SpÛ≥ki zaleøne ............................................................................................................................. 6
+2.   Zmiany w organizacji przedsiÍbiorstwa ALUMETAL S.A. .......................................................... 8
+3.   Organizacyjne i kapita≥owe powiπzania ALUMETAL S.A. ......................................................... 8
+II.  Oúwiadczenie o stosowaniu ≥adu korporacyjnego ................................................................... 9
+1.   Zasady zarzπdzania Emitentem i jego Grupπ Kapita≥owπ. ........................................................ 9
+2.   Opis zasad zmiany Statutu ALUMETAL S.A. .............................................................................. 9
+3.   Organy ALUMETAL S.A. .............................................................................................................. 9
+A.   Walne Zgromadzenie ................................................................................................................. 9
+B.   Rada Nadzorcza ....................................................................................................................... 11
+C.   Komitet Audytu ........................................................................................................................ 13
+D.   Zarzπd SpÛ≥ki ............................................................................................................................ 17
+4.   Struktura akcjonariatu ............................................................................................................. 18
+A.   Akcjonariusze ALUMETAL S.A. posiadajπcy znaczne pakiety akcji ........................................ 18
+B.   Informacja o nabyciu i emisji akcji w≥asnych .......................................................................... 20
+C.   Specjalne uprawnienia i ograniczenia w tym dotyczπce przenoszenia prawa w≥asnoúci
+     papierÛw wartoúciowych ALUMETAL S.A. oraz wykonywania prawa g≥osu ......................... 21
+D.   Umowy w wyniku ktÛrych mogπ w przysz≥oúci nastπpiÊ zmiany w proporcjach
+     posiadanych akcji przez akcjonariuszy i obligatariuszy .......................................................... 21
+5.   Pakiety akcji w posiadaniu osÛb zarzπdzajπcych i nadzorujπcych ......................................... 22
+6.   Wynagrodzenia osÛb zarzπdzajπcych i nadzorujπcych ........................................................... 23
+7.   Programy motywacyjne ........................................................................................................... 24
+A.   Program Motywacyjny III na lata 2018-2020 ......................................................................... 24
+B.   Program Motywacyjny IV na lata 2021-2023 ......................................................................... 26
+8.   Informacja dotyczπca polityki rÛønorodnoúci ......................................................................... 27
+9.   Zbiory zasad dobrych praktyk i ≥adu korporacyjnego ............................................................. 27
+A.   Dobre praktyki i ≥ad korporacyjny ........................................................................................... 27
+B.   Informacja o braku polityki w zakresie dzia≥alnoúci sponsoringowej .................................... 28
+C.   System kontroli wewnÍtrznej i zarzπdzanie ryzykiem ............................................................ 28
+D.   Wdroøenie systemu compliance w Grupie ALUMETAL ........................................................... 30
+III. Oúwiadczenie na temat informacji niefinansowych ............................................................... 30
+IV. Informacje o przedmiocie dzia≥alnoúci ALUMETAL S.A. ......................................................... 30
+V.   Ocena sytuacji ALUMETAL S.A. ................................................................................................ 31
+                                                                                                                                                    2
+
+                                                          ALUMETAL S.A.
+                             Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+1.   Zasady sporzπdzenia sprawozdania finansowego i informacja o podmiocie uprawnionym
+     do jego badania ........................................................................................................................ 31
+2.   èrÛd≥a przychodÛw ALUMETAL S.A. ........................................................................................ 31
+A.   Przychody z dzia≥alnoúci holdingowej ALUMETAL S.A. ........................................................... 31
+B.   Przychody finansowe ............................................................................................................... 33
+C.   Przychody jednorazowe ........................................................................................................... 33
+3.   Koszty dzia≥alnoúci ALUMETAL S.A. ......................................................................................... 33
+4.   Wyniki, wskaüniki, struktura bilansu i sytuacja finansowa ALUMETAL S.A. .......................... 34
+5.   Transakcje Emitenta w ramach Grupy Kapita≥owej ALUMETAL S.A. ..................................... 36
+6.   Istotne i nietypowe zdarzenia, umowy znaczπce dla dzia≥alnoúci oraz czynniki majπce
+     wp≥yw na osiπgniÍte wyniki w 2020 roku ............................................................................... 36
+A.   Przystπpienie ALUMETAL S.A. do programu PPK .................................................................... 36
+B.   Pojawienie siÍ i rozwÛj pandemii koronawirusa w Polsce i w Europie .................................. 36
+C.   Zawieszenie polityki dywidendowej ........................................................................................ 37
+D.   Przyznanie dofinansowania dla ALUMETAL S.A. ze úrodkÛw Funduszu Gwarantowanych
+     åwiadczeÒ Pracowniczych ........................................................................................................ 38
+E.   Rezygnacja Cz≥onka Rady Nadzorczej ..................................................................................... 38
+F.   ZwiÍkszenie kapita≥u w≥asnego spÛ≥ki zaleønej ...................................................................... 39
+G.   Powo≥anie Cz≥onka Rady Nadzorczej....................................................................................... 39
+H.   Uchwalenie Programu Motywacyjnego IV oraz warunkowego podwyøszenia kapita≥u
+     przez Nadzwyczajne Walne Zgromadzenie SpÛ≥ki .................................................................. 39
+I.   Umowy zawarte pomiÍdzy akcjonariuszami .......................................................................... 39
+7.   Istotne i nietypowe zdarzenia, umowy znaczπce dla dzia≥alnoúci oraz czynniki majπce
+     wp≥yw na wyniki zaistnia≥e po dniu bilansowym ................................................................... 39
+A.   Rejestracja warunkowego podwyøszenia kapita≥u zak≥adowego i zmiany Statutu.............. 39
+B.   ObjÍcie akcji serii G w ramach Programu Motywacyjnego III................................................ 40
+C.   Udzielenie poøyczki krÛtkoterminowej spÛ≥ce zaleønej .......................................................... 41
+D.   Informacja o przewidywanych ponadprzeciÍtnych skonsolidowanych wynikach w I
+     kwartale 2021 roku .................................................................................................................. 42
+VI. Realizowane inwestycje i prace rozwojowe ........................................................................... 42
+1.   Informacje o waøniejszych osiπgniÍciach w dziedzinie badaÒ i rozwoju ............................... 42
+2.   Strategia i kierunki rozwoju ALUMETAL S.A. .......................................................................... 43
+3.   Finansowanie rozwoju ALUMETAL S.A. i spÛ≥ek zaleønych .................................................... 43
+VII. Zarzπdzanie kadrami ................................................................................................................ 44
+1.   Polityka rekrutacji .................................................................................................................... 44
+2.   Struktura zatrudnienia ............................................................................................................. 44
+3.   Komunikacja ............................................................................................................................. 44
+                                                                                                                                                  3
+
+                                                           ALUMETAL S.A.
+                              Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+4.    RozwÛj i szkolenia .................................................................................................................... 45
+VIII. JakoúÊ, ochrona úrodowiska i BHP........................................................................................... 45
+IX. Kredyty, poøyczki oraz inne umowy finansowe ...................................................................... 46
+1.    Otrzymane kredyty i poøyczki.................................................................................................. 46
+2.    Udzielone poøyczki ................................................................................................................... 47
+3.    Zarzπdzanie zasobami finansowymi i zdolnoúÊ do regulowania zobowiπzaÒ ....................... 47
+X.    Zobowiπzania oraz aktywa warunkowe, porÍczenia i zobowiπzania pozabilansowe .......... 47
+1.    Istotne postÍpowania toczπce siÍ przed sπdem, organem w≥aúciwym dla postÍpowania
+      arbitraøowego lub organem administracji publicznej ............................................................ 47
+2.    PorÍczenia kredytu lub poøyczki, udzielenie gwarancji.......................................................... 47
+3.    Zobowiπzania warunkowe ....................................................................................................... 47
+XI. Cele i zasady zarzπdzania ryzykiem finansowym .................................................................... 48
+1.    Ryzyko zmian stopy procentowej ............................................................................................ 48
+2.    Ryzyko walutowe ..................................................................................................................... 48
+3.    Ryzyko cen towarÛw ................................................................................................................ 49
+4.    Ryzyko kredytowe .................................................................................................................... 49
+5.    Ryzyko zwiπzane z p≥ynnoúciπ ................................................................................................. 50
+XII. Czynniki ryzyka mogπce wp≥ynπÊ na wyniki ALUMETAL S.A. ................................................. 50
+1.    Sytuacja geopolityczna i makroekonomiczna w Europie ....................................................... 50
+2.    Sytuacja w przemyúle motoryzacyjnym .................................................................................. 51
+3.    Relacja pomiÍdzy cenami zakupu z≥omowych aluminiowych i innych g≥Ûwnych surowcÛw
+      uøywanych do produkcji, a cenami sprzedaøy wtÛrnych aluminiowych stopÛw
+      odlewniczych ............................................................................................................................ 51
+4.    Ograniczenie dostÍpnoúci surowcÛw z≥omowych w Europie ................................................. 52
+5.    Potencjalne ograniczenia w dostawach mediÛw do zak≥adÛw Grupy Alumetal oraz wzrost
+      kosztÛw ich nabycia ................................................................................................................. 52
+6.    Wzrost walki konkurencyjnej na rynku aluminium wtÛrnego ............................................... 52
+7.    Ryzyko koniecznoúci zwrotu ca≥oúci lub czÍúci pomocy publicznej ........................................ 52
+8.    Ryzyko utrzymywania siÍ pandemii koronawirusa ................................................................ 53
+9.    Inne, nieprzewidziane, niekorzystne zdarzenia jednorazowe................................................ 53
+XIII. Stanowisko Zarzπdu odnoúnie prognoz wynikÛw finansowych ALUMETAL S.A. .................. 53
+                                                                                                                                                   4
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+I.     Podstawowe informacje o Emitencie i Grupie Kapita≥owej
+1. Opis ALUMETAL S.A.
+ALUMETAL S.A. to spÛ≥ka holdingowa, ktÛra úwiadczy dla pozosta≥ych spÛ≥ek Grupy Kapita≥owej
+ALUMETAL S.A. (dalej: ÑGrupa Alumetalî, ÑGrupaî) us≥ugi zarzπdzania (w tym us≥ugi rozwojowe
+i inwestycyjne, wsparcia operacyjnego oraz kontrolingowe), us≥ugi handlowe i marketingowe, us≥ugi
+informatyczne, us≥ugi kadrowo-p≥acowe oraz us≥ugi finansowo-ksiÍgowe.
+A. Podstawowe informacje o Emitencie
+Firma i forma prawna:             ALUMETAL SpÛ≥ka Akcyjna
+Siedziba i adres:                 ul. Tadeusza Koúciuszki 111, 32-650 KÍty
+Numer telefonu:                   +48 (33) 47 07 100
+Numer faksu:                      +48 (33) 47 07 101
+Strona internetowa:               www.alumetal.pl
+Adres poczty elektronicznej:      alumetal@alumetal.pl
+KRS:                              0000177577
+REGON:                            357081298
+NIP:                              5492040001
+ALUMETAL S.A. (dalej: ÑSpÛ≥kaî, ÑEmitentî), utworzona w 1999 roku, zosta≥a wpisana do rejestru
+przedsiÍbiorcÛw w dniu 19 paüdziernika 2001 roku jako spÛ≥ka z ograniczonπ odpowiedzialnoúciπ,
+dzia≥ajπca pod firmπ ÑAlumetalî sp. z o.o. NastÍpnie, na podstawie uchwa≥y Zgromadzenia WspÛlnikÛw
+ÑAlumetalî sp. z o.o. podjÍtej w dniu 5 wrzeúnia 2003 roku, SpÛ≥ka zosta≥a przekszta≥cona w spÛ≥kÍ
+akcyjnπ ALUMETAL S.A. Przekszta≥cenie zosta≥o zarejestrowane przez w≥aúciwy sπd rejestrowy w dniu
+28 paüdziernika 2003 roku.
+ALUMETAL SpÛ≥ka Akcyjna jest zarejestrowana w rejestrze przedsiÍbiorcÛw prowadzonym
+przez Sπd Rejonowy dla Krakowa- årÛdmieúcia w Krakowie, XII Wydzia≥ Gospodarczy Krajowego
+Rejestru Sπdowego pod numerem KRS 0000177577. SpÛ≥ka zosta≥a utworzona na czas nieokreúlony.
+SpÛ≥ka dzia≥a na podstawie przepisÛw Kodeksu SpÛ≥ek Handlowych i innych przepisÛw prawa
+dotyczπcych spÛ≥ek prawa handlowego, a takøe postanowieÒ Statutu i innych regulacji wewnÍtrznych.
+Przedmiot dzia≥alnoúci SpÛ≥ki jest okreúlony w ß 4 Statutu i obejmuje w szczegÛlnoúci:
+    ï    dzia≥alnoúÊ firm centralnych (headoffice) i holdingÛw z wy≥πczeniem holdingÛw finansowych
+         (PKD 70.10.Z).
+Kapita≥ zak≥adowy SpÛ≥ki wynosi 1 547 949,30 z≥ (s≥ownie: jeden milion piÍÊset czterdzieúci siedem
+tysiÍcy dziewiÍÊset czterdzieúci dziewiÍÊ z≥otych trzydzieúci groszy) i dzieli siÍ na 15 479 493 akcji
+zwyk≥ych na okaziciela o wartoúci nominalnej 0,10 z≥ kaøda, w tym:
+    ï 9 800 570 akcji zwyk≥ych na okaziciela serii A;
+    ï 1 507 440 akcji zwyk≥ych na okaziciela serii B;
+    ï 3 769 430 akcji zwyk≥ych na okaziciela serii C;
+                                                                                                    5
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+     ï   150 770 akcji zwyk≥ych na okaziciela serii D;
+     ï   150 770 akcji zwyk≥ych na okaziciela serii E;
+     ï   100 513 akcji zwyk≥ych na okaziciela serii F.
+Akcje powyøsze nie sπ uprzywilejowane w zakresie prawa g≥osu, prawa do dywidendy ani podzia≥u
+majπtku w przypadku likwidacji SpÛ≥ki.
+Akcje serii D, E i F zosta≥y wyemitowane w wyniku realizacji Programu Motywacyjnego II przyjÍtego
+uchwa≥π nr 5 Nadzwyczajnego Walnego Zgromadzenia SpÛ≥ki z dnia 28 maja 2014 roku. Zarzπd Gie≥dy
+PapierÛw Wartoúciowych w Warszawie S.A. (ÑGPWî) podjπ≥ w dniu 11 lipca 2014 roku uchwa≥Í
+802/2014 w sprawie dopuszczenia do obrotu gie≥dowego na rynku podstawowym GPW akcji serii
+A, B i C spÛ≥ki ALUMETAL S.A. NastÍpnie Zarzπd Gie≥dy PapierÛw Wartoúciowych w Warszawie S.A. na
+podstawie Uchwa≥y nr 811/2014 z dnia 16 lipca 2014 roku postanowi≥ wprowadziÊ z dniem 17 lipca
+2014 roku w trybie zwyk≥ym do obrotu gie≥dowego akcje zwyk≥e na okaziciela spÛ≥ki ALUMETAL S.A.
+i w tym dniu odby≥o siÍ pierwsze notowanie akcji SpÛ≥ki.
+NastÍpnie do obrotu gie≥dowego wprowadzone zosta≥y akcje serii D, E i F wed≥ug poniøszego
+harmonogramu:
+     ï   w dniu 1 czerwca 2015 roku 150.770 akcji zwyk≥ych na okaziciela serii D;
+     ï   w dniu 20 lipca 2016 roku 150.770 akcji zwyk≥ych na okaziciela serii E;
+     ï   w dniu 21 lipca 2017 roku 100.513 akcji zwyk≥ych na okaziciela serii F.
+W wyniku realizacji Programu Motywacyjnego III, w dniu 19 lutego 2021 roku zosta≥y objÍte przez
+uprawnionych akcje serii G w iloúci 97 180 sztuk. Stosownie do postanowieÒ Programu
+Motywacyjnego III, SpÛ≥ka wystπpi≥a z wnioskami do Krajowego Depozytu PapierÛw Wartoúciowych
+S.A. oraz Gie≥dy PapierÛw Wartoúciowych w Warszawie S.A. o rejestracjÍ Akcji Motywacyjnych oraz ich
+wprowadzenie do obrotu na rynku regulowanym, co opisano szerzej w punkcie V.7.B.
+Do dnia publikacji niniejszego raportu przedmiotowe akcje nie zosta≥y jeszcze wprowadzone do obrotu
+gie≥dowego.
+B. SpÛ≥ki zaleøne
+Poniøej przedstawiono podstawowe informacje na temat spÛ≥ek zaleønych, bÍdπcych podmiotami
+bezpoúrednio zaleønymi od SpÛ≥ki.
+ALUMETAL Poland sp. z o.o.
+SpÛ≥ka posiada 100% udzia≥Ûw w kapitale zak≥adowym ALUMETAL Poland sp. z o.o., co uprawnia
+do wykonywania 100% g≥osÛw na zgromadzeniu wspÛlnikÛw.
+Informacje podstawowe:
+Firma i forma prawna:                        Alumetal Poland spÛ≥ka z ograniczonπ odpowiedzialnoúciπ
+Siedziba i adres:                            ul. Przemys≥owa 8, 67-100 Nowa SÛl
+Kapita≥ zak≥adowy:                           164 981 300 z≥
+Podstawowy przedmiot dzia≥alnoúci:           produkcja aluminiowych stopÛw odlewniczych, stopÛw
+                                             wstÍpnych (zapraw) i odtleniaczy stali dla hut
+                                                                                                     6
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+T+S sp. z o.o.
+SpÛ≥ka posiada 100% udzia≥Ûw w kapitale zak≥adowym T+S sp. z o.o., co uprawnia do wykonywania
+100% g≥osÛw na zgromadzeniu wspÛlnikÛw.
+Informacje podstawowe:
+Firma i forma prawna:                        T+S spÛ≥ka z ograniczonπ odpowiedzialnoúciπ
+Siedziba i adres:                            ul. Tadeusza Koúciuszki 111, 32-650 KÍty
+Kapita≥ zak≥adowy:                           350 000 z≥
+Podstawowy przedmiot dzia≥alnoúci:           produkcja topnikÛw oraz soli, stanowiπcych materia≥y
+                                             pomocnicze wykorzystywane w przemyúle odlewniczym
+ALUMETAL Group Hungary Kft.
+SpÛ≥ka posiada 100% udzia≥Ûw w kapitale zak≥adowym ALUMETAL Group Hungary Kft., co uprawnia do
+wykonywania 100% g≥osÛw na zgromadzeniu wspÛlnikÛw.
+Informacje podstawowe:
+Firma i forma prawna:                        ALUMETAL Group Hungary Kft.
+Siedziba i adres:                            2903 Kom·rom, Irinyi Janos u. 10., WÍgry
+Kapita≥ zak≥adowy:                           5 500 000 000 HUF
+Podstawowy przedmiot dzia≥alnoúci:           odlewnictwo metali lekkich
+Na dzieÒ 31 grudnia 2020 roku schemat organizacyjny Grupy Alumetal przedstawia≥ siÍ nastÍpujπco:
+                                                  ALUMETAL S.A.
+                  100%                                            100%                                           100%
+        ALUMETAL                                    T+S sp. z o.o.                                    ALUMETAL
+    Poland sp. z o.o.                                                                            Group Hungary Kft.
+                                                                                  Procentowy udzia≥ ALUMETAL S.A.
+                                                                                       w kapitale zak≥adowym
+                                                                              31 grudnia 2020 r.     31 grudnia 2019 r.
+                                     Nowa SÛl,
+ ALUMETAL Poland sp. z o.o.                                  Produkcja               100%                  100%
+                                        Polska
+ T + S sp. z o.o.                   KÍty, Polska             Produkcja               100%                  100%
+                                     Komarom,
+ ALUMETAL Group Hungary Kft.                                 Produkcja               100%                  100%
+                                        WÍgry
+                                                                                                                      7
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+ALUMETAL S.A. to spÛ≥ka holdingowa, ktÛra úwiadczy dla pozosta≥ych spÛ≥ek Grupy Kapita≥owej
+ALUMETAL S.A. (dalej: ÑGrupa Alumetalî, ÑGrupaî) us≥ugi zarzπdzania (w tym us≥ugi rozwojowe
+i inwestycyjne, wsparcia operacyjnego oraz us≥ugi kontrolingowe), handlowe, finansowe,
+informatyczne, kadrowo-p≥acowe oraz us≥ugi ksiÍgowe.
+ALUMETAL Poland sp. z o.o. to g≥Ûwna spÛ≥ka produkcyjna Grupy w Polsce, wytwarzajπca wtÛrne
+i pierwotne aluminiowe stopy odlewnicze oraz stopy wstÍpne. Do ALUMETAL Poland sp. z o.o. naleøπ
+wszystkie trzy polskie zak≥ady produkcyjne Grupy, zlokalizowane w KÍtach (woj. ma≥opolskie), Nowej
+Soli (woj. lubuskie) i Gorzycach (woj. podkarpackie).
+T+S sp. z o.o. zajmuje siÍ dzia≥alnoúciπ pomocniczπ polegajπcπ na produkcji topnikÛw oraz soli,
+wykorzystywanych g≥Ûwnie na potrzeby Grupy Alumetal, a takøe sprzedawanych do klientÛw
+zewnÍtrznych w przemyúle odlewniczym i hutniczym.
+ALUMETAL Group Hungary Kft. to spÛ≥ka produkcyjna prawa wÍgierskiego wytwarzajπca wtÛrne
+aluminiowe stopy odlewnicze w zak≥adzie w Komarom.
+Øadna ze spÛ≥ek wchodzπcych w sk≥ad Grupy Alumetal nie posiada≥a w okresie sprawozdawczym
+oddzia≥Ûw w rozumieniu art. 5 pkt 4 Ustawy o swobodzie dzia≥alnoúci gospodarczej.
+Na dzieÒ 31 grudnia 2020 roku konsolidacjπ by≥y objÍte nastÍpujπce spÛ≥ki:
+         ï ALUMETAL S.A.,
+         ï ALUMETAL Poland sp. z o.o.,
+         ï T+S sp. z o.o.,
+         ï ALUMETAL Group Hungary Kft.
+2. Zmiany w organizacji przedsiÍbiorstwa ALUMETAL S.A.
+Struktura SpÛ≥ki zarÛwno w roku 2020 roku, jak i na dzieÒ publikacji niniejszego sprawozdania nie
+uleg≥a istotnym zmianom.
+3. Organizacyjne i kapita≥owe powiπzania ALUMETAL S.A.
+Emitent jest powiπzany organizacyjnie i kapita≥owo ze spÛ≥kami zaleønymi wchodzπcymi w sk≥ad Grupy
+Alumetal w sposÛb okreúlony powyøej, z zachowaniem zasady sprawowania mandatÛw cz≥onkÛw
+zarzπdÛw wszystkich spÛ≥ek wchodzπcych w sk≥ad Grupy przez osoby wchodzπce w sk≥ad Zarzπdu
+ALUMETAL S.A. Wyjπtkiem od tej zasady jest ALUMETAL Group Hungary Kft., co zosta≥o opisane poniøej
+w punkcie II.1.
+Emitent jest rÛwnieø powiπzany kapita≥owo z podmiotem kontrolowanym przez Pana Grzegorza
+Stulgisa - Przewodniczπcego Rady Nadzorczej - IPO UNIPESSOAL LDA, ktÛry na dzieÒ 31 grudnia 2020
+roku posiada≥ ≥πcznie 5 108 221 akcji ALUMETAL S.A. co dawa≥o udzia≥ w kapitale zak≥adowym SpÛ≥ki
+na poziomie 32,99%.
+                                                                                                 8
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+II.     Oúwiadczenie o stosowaniu ≥adu korporacyjnego
+1. Zasady zarzπdzania Emitentem i jego Grupπ Kapita≥owπ.
+ALUMETAL S.A. dzia≥a na podstawie prawa polskiego oraz Statutu. Grupa Alumetal od wielu lat
+zarzπdzana jest z poziomu spÛ≥ki dominujπcej ALUMETAL S.A., ktÛra zajmuje siÍ wy≥πcznie dzia≥alnoúciπ
+holdingowπ.
+Przejawem w/w zasady zarzπdzania jest obowiπzujπca w Grupie Kapita≥owej ALUMETAL S.A.
+zasada sprawowania funkcji cz≥onkÛw zarzπdÛw spÛ≥ek zaleønych przez osoby wchodzπce w sk≥ad
+Zarzπdu ALUMETAL S.A. i ewentualnego powo≥ywania do sk≥adu zarzπdÛw spÛ≥ek zaleønych
+dodatkowych osÛb w miarÍ potrzeb wynikajπcych z realizowanych przez te spÛ≥ki zadaÒ.
+W ramach realizacji powyøszej zasady, do dnia 4 stycznia 2021 roku mandat Cz≥onka Zarzπdu
+ALUMETAL Poland sp. z o.o. oraz T+S sp. z o.o. sprawowa≥ Pan Tomasz Kliú, a od tego samego dnia
+piastuje je Pan Rafa≥ Karolczyk.
+Wyjπtkiem jest wchodzπca w sk≥ad Grupy Alumetal, spÛ≥ka prawa wÍgierskiego ALUMETAL Group
+Hungary Kft., ktÛra nie posiada zarzπdu w rozumieniu polskich regulacji, a osobami uprawnionymi do
+zarzπdzania i reprezentacji na dzieÒ sporzπdzenia niniejszego sprawozdania sπ Pan Andrzej S≥upski oraz
+Pan Zoltan Marai. Wyjπtek ten jest efektem wymogÛw wÍgierskich przepisÛw.
+SpÛ≥ki zaleøne w Grupie Alumetal nie posiadajπ w≥asnych organÛw nadzorujπcych. Jedynym organem
+tego typu jest Rada Nadzorcza funkcjonujπca w ALUMETAL S.A.
+Opis dzia≥ania oraz informacje o organach Emitenta zosta≥y przedstawione poniøej w punkcie II. 3.
+W okresie od dnia 31 grudnia 2019 roku do dnia 31 grudnia 2020 roku, jak rÛwnieø na dzieÒ
+sporzπdzenia niniejszego sprawozdania, zasady zarzπdzania Emitentem i Grupπ Alumetal nie uleg≥y
+zmianie.
+2. Opis zasad zmiany Statutu ALUMETAL S.A.
+Zgodnie z ß 11 ust. 2 pkt 6 Statutu ALUMETAL S.A. wszelkie zmiany Statutu SpÛ≥ki naleøπ wy≥πcznie do
+kompetencji Walnego Zgromadzenia. Wszelkie kwestie zwiπzane ze sposobem zmian Statutu regulujπ
+wy≥πcznie i bezwzglÍdnie obowiπzujπce przepisy Kodeksu spÛ≥ek handlowych. Statut SpÛ≥ki nie zawiera
+w tym zakresie øadnych szczegÛlnych zapisÛw.
+3. Organy ALUMETAL S.A.
+A. Walne Zgromadzenie
+Walne Zgromadzenie dzia≥a na podstawie Statutu SpÛ≥ki oraz zgodnie z postanowieniami Regulaminu
+Walnych ZgromadzeÒ ALUMETAL S.A.
+TreúÊ Regulaminu Walnego Zgromadzenia znajduje siÍ na stronie internetowej SpÛ≥ki w zak≥adce:
+Relacje Inwestorskie/Walne Zgromadzenia.
+Zgodnie z treúciπ Statutu SpÛ≥ki Walne zgromadzenie moøe byÊ zwyczajne i nadzwyczajne. Uchwa≥y
+Walnego Zgromadzenia zapadajπ bezwzglÍdnπ wiÍkszoúciπ g≥osÛw, chyba øe przepisy prawa lub
+                                                                                                     9
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+postanowienia Statutu przewidujπ surowsze wymogi dla powziÍcia danej uchwa≥y. Kaøda akcja daje
+prawo do jednego g≥osu na Walnym Zgromadzeniu. Uchwa≥y Walnego Zgromadzenia wymagajπ
+sprawy zastrzeøone przepisami Kodeksu spÛ≥ek handlowych, innych ustaw lub postanowieniami
+Statutu.
+Do kompetencji Walnego Zgromadzenia, oprÛcz innych spraw zastrzeøonych przepisami Kodeksu
+spÛ≥ek handlowych, innych ustaw lub Statutu, naleøy:
+    1) tworzenie i znoszenie wszelkiego rodzaju kapita≥Ûw oraz funduszy, w tym kapita≥Ûw i funduszy
+         celowych,
+    2) likwidacja SpÛ≥ki,
+    3) nabycie przez SpÛ≥kÍ akcji w≥asnych w celu umorzenia, umorzenie oraz obniøenie kapita≥u
+         zak≥adowego SpÛ≥ki,
+    4) zbycie i wydzierøawienie przedsiÍbiorstwa SpÛ≥ki lub jego zorganizowanej czÍúci oraz
+         ustanowienie na nich ograniczonego prawa rzeczowego, zbycie udzia≥Ûw lub akcji w spÛ≥kach
+         zaleønych,
+    5) po≥πczenie SpÛ≥ki z innπ spÛ≥kπ,
+    6) zmiana Statutu SpÛ≥ki,
+    7) przyjmowanie Regulaminu Walnego Zgromadzenia.
+Nabycie i zbycie nieruchomoúci, uøytkowania wieczystego lub udzia≥u w nieruchomoúci nie wymagajπ
+uchwa≥y Walnego Zgromadzenia.
+W dniu 28 sierpnia 2020 roku odby≥o siÍ Zwyczajne Walne Zgromadzenie, ktÛre podjÍ≥o uchwa≥y
+w nastÍpujπcych sprawach:
+    ï wyboru Przewodniczπcego Zwyczajnego Walnego Zgromadzenia,
+    ï przyjÍcia porzπdku obrad,
+    ï zatwierdzenia Sprawozdania Zarzπdu z dzia≥alnoúci ALUMETAL S.A. za rok 2019,
+    ï zatwierdzenia Sprawozdania finansowego ALUMETAL S.A. za rok zakoÒczony dnia 31 grudnia
+         2019 roku,
+    ï zatwierdzenia Sprawozdania Zarzπdu z dzia≥alnoúci Grupy Kapita≥owej ALUMETAL S.A. za rok
+         2019,
+    ï zatwierdzenia Skonsolidowanego sprawozdania finansowego Grupy Kapita≥owej ALUMETAL
+         S.A. za rok zakoÒczony dnia 31 grudnia 2019 roku,
+    ï zatwierdzenia Sprawozdania Rady Nadzorczej z oceny sprawozdaÒ z dzia≥alnoúci i finansowych
+         za rok obrotowy 2019,
+    ï zatwierdzenia Sprawozdania z dzia≥alnoúci Rady Nadzorczej w roku 2019,
+    ï zatwierdzenia sporzπdzonej przez RadÍ Nadzorczπ ALUMETAL S.A. oceny sytuacji Grupy
+         Kapita≥owej SpÛ≥ki, a takøe innych ocen i informacji dotyczπcych okreúlonych aspektÛw
+         funkcjonowania SpÛ≥ki wskazanych w Dobrych Praktykach SpÛ≥ek Notowanych na GPW 2016,
+    ï podzia≥u zysku za rok 2019,
+    ï udzielenia absolutorium cz≥onkom Zarzπdu z wykonania obowiπzkÛw w roku 2019,
+    ï udzielenia cz≥onkom Rady Nadzorczej absolutorium z wykonania obowiπzkÛw w roku 2019,
+    ï zmian w sk≥adzie Rady Nadzorczej SpÛ≥ki,
+    ï przyjÍcia Polityki WynagrodzeÒ Cz≥onkÛw Zarzπdu i Cz≥onkÛw Rady Nadzorczej ALUMETAL S.A.,
+    ï upowaønienia Zarzπdu ALUMETAL S.A. do nabywania akcji w≥asnych ALUMETAL S.A. w celu ich
+         umorzenia.
+                                                                                                 10
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+SpÛ≥ka poda≥a do wiadomoúci publicznej pe≥nπ treúÊ uchwa≥ podjÍtych przez Zwyczajne Walne
+Zgromadzenie raportem bieøπcym nr 16/2020 z dnia 28 sierpnia 2020 roku.
+W dniu 12 listopada 2020 roku odby≥o siÍ Nadzwyczajne Walne Zgromadzenie SpÛ≥ki, na ktÛrym zosta≥y
+podjÍte uchwa≥y, o ktÛrych mowa poniøej:
+    ï   wyboru Przewodniczπcego Zwyczajnego Walnego Zgromadzenia,
+    ï   przyjÍcia porzπdku obrad,
+    ï   w sprawie ustanowienia Programu Motywacyjnego IV, warunkowego podwyøszenia kapita≥u
+        zak≥adowego SpÛ≥ki oraz emisji warrantÛw subskrypcyjnych z wy≥πczeniem w ca≥oúci prawa
+        poboru akcjonariuszy w odniesieniu do warrantÛw subskrypcyjnych i akcji emitowanych
+        w ramach kapita≥u warunkowego oraz zmiany Statutu;
+    ï przyjÍcia tekstu jednolitego Statutu.
+SpÛ≥ka poinformowa≥a rynek o treúci podjÍtych uchwa≥ oraz wynikach g≥osowania na Nadzwyczajnym
+Walnym Zgromadzeniu raportem bieøπcym nr 23/2020 z dnia 12 listopada 2020 roku.
+B. Rada Nadzorcza
+W okresie sprawozdawczym nastπpi≥a zmiana w sk≥adzie Rady Nadzorczej ALUMETAL S.A.
+W dniu 31 lipca 2020 roku do SpÛ≥ki wp≥ynÍ≥a pisemna rezygnacja Pana Fransa Bijlhouwera z funkcji
+Cz≥onka oraz cz≥onkostwa w Radzie Nadzorczej SpÛ≥ki ze skutkiem na dzieÒ odbycia najbliøszego
+Walnego Zgromadzenia SpÛ≥ki. W dniu 28 sierpnia 2020 roku Zwyczajne Walne Zgromadzenie SpÛ≥ki
+powo≥a≥o w sk≥ad Rady Nadzorczej ALUMETAL S.A. Pana Michaela Rohde Pedersena na wspÛlnπ
+trzyletniπ kadencjÍ. Na powyøszπ okolicznoúÊ SpÛ≥ka opublikowa≥a raport bieøπcy nr 17/2020 w dniu
+28 sierpnia 2020 roku.
+Na dzieÒ 31 grudnia 2020 roku sk≥ad Rady Nadzorczej przedstawia≥ siÍ nastÍpujπco:
+     ï   Pan Grzegorz Stulgis ñ Przewodniczπcy Rady Nadzorczej,
+     ï   Pan Michael Rohde Pedersen ñ Cz≥onek Rady Nadzorczej,
+     ï   Pan Szymon Adamczyk ñ Cz≥onek Rady Nadzorczej,
+     ï   Pan Pawe≥ Ma≥yska ñ Cz≥onek Rady Nadzorczej,
+     ï Pan Micha≥ Wnorowskiñ Cz≥onek Rady Nadzorczej.
+Do dnia opublikowania niniejszego sprawozdania nie by≥o zmian w sk≥adzie Rady Nadzorczej SpÛ≥ki.
+Rada Nadzorcza sprawuje sta≥y nadzÛr nad dzia≥alnoúciπ SpÛ≥ki we wszystkich dziedzinach
+jej dzia≥alnoúci. Cz≥onkÛw Rady Nadzorczej powo≥uje i odwo≥uje Walne Zgromadzenie. Rada Nadzorcza
+moøe liczyÊ od 5 (piÍciu) do 7 (siedmiu) cz≥onkÛw wybieranych na okres wspÛlnej kadencji, ktÛra
+wynosi 3 (trzy) lata. Przynajmniej 2 (dwÛch) cz≥onkÛw Rady Nadzorczej powinno spe≥niaÊ kryteria
+niezaleønoúci od SpÛ≥ki i podmiotÛw majπcych znaczπce powiπzania ze SpÛ≥kπ.
+Rada Nadzorcza dzia≥a na podstawie Regulaminu Pracy Rady Nadzorczej przyjÍtego przez RadÍ
+Nadzorczπ i zatwierdzanego przez Walne Zgromadzenie, ktÛrego aktualna treúÊ jest dostÍpna
+na stronie internetowej SpÛ≥ki w zak≥adce: Relacje Inwestorskie/Dokumenty SpÛ≥ki.
+Rada Nadzorcza odbywa posiedzenia co najmniej raz na kwarta≥.
+Uchwa≥y Rady Nadzorczej zapadajπ bezwzglÍdnπ wiÍkszoúciπ g≥osÛw. W wypadku rÛwnej liczby g≥osÛw
+Ñzaî i Ñprzeciwî decyduje g≥os Przewodniczπcego Rady Nadzorczej.
+                                                                                               11
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Do kompetencji Rady Nadzorczej w szczegÛlnoúci naleøy:
+    1) zatwierdzanie Regulaminu Pracy Zarzπdu;
+    2) zatwierdzanie przedk≥adanych przez Zarzπd rocznych planÛw rzeczowo-finansowych, budøetu
+        oraz planÛw strategicznych SpÛ≥ki;
+    3) wyraøanie zgody na tworzenie oddzia≥Ûw, zak≥adÛw, przedstawicielstw, przedsiÍbiorstw
+        i innych placÛwek w kraju i za granicπ, w strefach wolnoc≥owych, przystÍpowanie do juø
+        istniejπcych spÛ≥ek z kapita≥em polskim i zagranicznym, jak rÛwnieø na uczestnictwo SpÛ≥ki
+        w organizacjach gospodarczych na terenie kraju i za granicπ, a takøe na nabywanie udzia≥Ûw
+        i akcji w innych spÛ≥kach prawa handlowego oraz tworzenie nowych SpÛ≥ek;
+    4) wybÛr lub zmiana podmiotu uprawnionego do badania sprawozdaÒ finansowych SpÛ≥ki oraz
+        do przeprowadzenia czynnoúci rewizji finansowej SpÛ≥ki;
+    5) zawarcie przez SpÛ≥kÍ lub jej spÛ≥ki zaleøne umowy poza zakresem zwyk≥ej dzia≥alnoúci SpÛ≥ki
+        (w tym umowy poøyczki, kredytu oraz umÛw w zakresie realizacji nowych inwestycji oraz lub
+        udzielania porÍczenia, gwarancji lub innego zabezpieczenia za zobowiπzania osÛb trzecich,
+        z wy≥πczeniem spÛ≥ek zaleønych w zakresie ich zwyk≥ej Dzia≥alnoúci) w celu nabycia lub zbycia
+        sk≥adnika lub sk≥adnikÛw majπtku, zaciπgniÍcia zobowiπzania, lub rozporzπdzenia prawem
+        o wartoúci przekraczajπcej kwotÍ 1 000 000,00 z≥ (jeden milion z≥otych) lub jej rÛwnowartoúci
+        w walutach obcych, w ramach jednej transakcji lub serii powiπzanych transakcji;
+    6) wyraøanie zgody na zawarcie przez SpÛ≥kÍ istotnej umowy z podmiotem powiπzanym
+        w rozumieniu Rozporzπdzenia Ministra FinansÛw, z wy≥πczeniem transakcji typowych,
+        zawieranych na warunkach rynkowych w ramach prowadzonej dzia≥alnoúci operacyjnej przez
+        SpÛ≥kÍ z podmiotem zaleønym, w ktÛrym SpÛ≥ka posiada wiÍkszoúciowy udzia≥ kapita≥owy;
+    7) zbycie i wydzierøawienie przedsiÍbiorstwa spÛ≥ki zaleønej lub jego zorganizowanej czÍúci oraz
+        ustanowienie na nich ograniczonego prawa rzeczowego; zbycie udzia≥Ûw lub akcji w spÛ≥kach
+        zaleønych;
+    8) powo≥anie, odwo≥anie lub zawieszenie w czynnoúciach poszczegÛlnych lub wszystkich
+        cz≥onkÛw Zarzπdu oraz delegowanie cz≥onkÛw Rady Nadzorczej do czasowego wykonywania
+        czynnoúci cz≥onkÛw Zarzπdu, jak rÛwnieø ustalanie liczby cz≥onkÛw Zarzπdu;
+    9) sporzπdzanie i przedstawianie zwyczajnemu Walnemu Zgromadzeniu zwiÍz≥ej oceny sytuacji
+        SpÛ≥ki, z uwzglÍdnieniem oceny systemu kontroli wewnÍtrznej i systemu zarzπdzania ryzkiem
+        istotnym dla SpÛ≥ki;
+    10) rozpatrywanie i opiniowanie spraw majπcych byÊ przedmiotem uchwa≥ Walnego
+        Zgromadzenia;
+    11) przyjmowanie polityk, procedur, regulaminÛw opracowywanych przez komitety funkcjonujπce
+        w SpÛ≥ce.
+Zgodnie z regulacjπ pt. ÑDobre Praktyki SpÛ≥ek Notowanych na GPW 2016î wprowadzonπ Uchwa≥π nr
+26/1413/2015 Rady Gie≥dy PapierÛw Wartoúciowych w Warszawie z dnia 13 paüdziernika 2015 roku
+oraz kodeksem spÛ≥ek handlowych, Rada Nadzorcza ALUMETAL S.A. na posiedzeniu w dniu 15 kwietnia
+2020 roku podjÍ≥a uchwa≥y w poniøszych sprawach:
+    ï   Oceny Sprawozdania Zarzπdu z dzia≥alnoúci ALUMETAL S.A. za rok 2019 oraz Sprawozdania
+        finansowego ALUMETAL S.A. za rok zakoÒczony dnia 31 grudnia 2019 roku, jak rÛwnieø ocena
+        wniosku Zarzπdu ALUMETAL S.A. co do podzia≥u zysku SpÛ≥ki za rok 2019, Sprawozdania
+        Zarzπdu z dzia≥alnoúci Grupy Kapita≥owej ALUMETAL S.A. za rok 2019 oraz Skonsolidowanego
+                                                                                                  12
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+        sprawozdania finansowego Grupy Kapita≥owej ALUMETAL S.A. za rok zakoÒczony dnia
+        31 grudnia 2019 roku;
+    ï   PrzyjÍcia sprawozdania Rady Nadzorczej ALUMETAL S.A. z oceny Sprawozdania Zarzπdu
+        z dzia≥alnoúci ALUMETAL S.A. za rok 2019 oraz sprawozdania finansowego ALUMETAL S.A. za
+        rok zakoÒczony dnia 31 grudnia 2019 roku, jak rÛwnieø oceny wniosku Zarzπdu ALUMETAL S.A.
+        co do podzia≥u zysku SpÛ≥ki za rok 2019 oraz Sprawozdania Zarzπdu z dzia≥alnoúci Grupy
+        Kapita≥owej ALUMETAL S.A. za rok 2019 oraz Skonsolidowanego sprawozdania finansowego
+        Grupy Kapita≥owej ALUMETAL S.A. za rok zakoÒczony dnia 31 grudnia 2019 roku;
+    ï   Oceny potrzeby wyodrÍbnienia funkcji audytu wewnÍtrznego;
+    ï   PrzyjÍcia Sprawozdania Zarzπdu ALUMETAL S.A. z oceny systemu kontroli wewnÍtrznej
+        i systemu zarzπdzania ryzkiem;
+    ï   Sporzπdzenia i przedstawienia ZWZ ALUMETAL S.A. oceny sytuacji Grupy Kapita≥owej
+        ALUMETAL S.A. w roku 2019;
+    ï   Sporzπdzenia i przedstawienia ZWZ ALUMETAL S.A. sprawozdania z dzia≥alnoúci Rady
+        Nadzorczej w roku 2019;
+    ï   Sporzπdzenia i przedstawienia ZWZ ALUMETAL S.A. oceny sposobu wype≥niania przez SpÛ≥kÍ
+        obowiπzkÛw informacyjnych dotyczπcych stosowania zasad ≥adu korporacyjnego;
+    ï   Sporzπdzenia i przedstawienia ZWZ ALUMETAL S.A. informacji o braku polityki dotyczπcej
+        dzia≥alnoúci sponsoringowej, charytatywnej lub innej o zbliøonym charakterze.
+C. Komitet Audytu
+W ramach Rady Nadzorczej SpÛ≥ki dzia≥a Komitet Audytu powo≥any zgodnie z treúciπ przepisÛw Ustawy
+z dnia 11 maja 2017 roku o bieg≥ych rewidentach, firmach audytorskich oraz nadzorze publicznym.
+Zasadniczym celem Komitetu Audytu jest wspieranie Rady Nadzorczej jako statutowego organu SpÛ≥ki,
+w wykonywaniu jej obowiπzkÛw kontrolnych i nadzorczych.
+Zgodnie z treúciπ Regulaminu Komitetu Audytu ALUMETAL S.A. Komitet Audytu sk≥ada siÍ
+z przynajmniej trzech cz≥onkÛw, w tym Przewodniczπcego Komitetu Audytu, powo≥ywanych
+i odwo≥ywanych przez RadÍ Nadzorczπ spoúrÛd cz≥onkÛw Rady Nadzorczej. Kadencja cz≥onkÛw
+Komitetu Audytu pokrywa siÍ z kadencjπ cz≥onkÛw Rady Nadzorczej.
+Do zadaÒ Komitetu Audytu naleøy w szczegÛlnoúci:
+1. Monitorowanie:
+        a. procesu sprawozdawczoúci finansowej spÛ≥ki;
+        b. skutecznoúci systemÛw kontroli wewnÍtrznej i systemÛw zarzπdzania ryzykiem oraz
+             audytu wewnÍtrznego i systemu compliance jeúli funkcjonujπ w SpÛ≥ce;
+        c. wykonywania czynnoúci rewizji finansowej, w szczegÛlnoúci przeprowadzania przez firmÍ
+             audytorskπ badania, z uwzglÍdnieniem wszelkich wnioskÛw i ustaleÒ Komisji Nadzoru
+             Audytowego wynikajπcych z kontroli przeprowadzonej w firmie audytorskiej;
+2. Kontrolowanie i monitorowanie niezaleønoúci bieg≥ego rewidenta i firmy audytorskiej,
+    w szczegÛlnoúci w przypadku, gdy na rzecz SpÛ≥ki úwiadczone sπ przez firmÍ audytorskπ inne us≥ugi
+    niø badanie;
+                                                                                                  13
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+3. Informowanie Rady Nadzorczej o wynikach badania oraz wyjaúnianie w jaki sposÛb badanie to
+     przyczyni≥o siÍ do rzetelnoúci sprawozdawczoúci finansowej w SpÛ≥ce, a takøe jaka by≥a rola
+     Komitetu Audytu w procesie badania;
+4. Dokonywanie oceny niezaleønoúci bieg≥ego rewidenta oraz wyraøanie w zgody na úwiadczenie
+     przez niego na rzecz SpÛ≥ki dozwolonych us≥ug niebÍdπcych badaniem;
+5. Opracowywanie polityki wyboru firmy audytorskiej do przeprowadzania badania;
+6. Opracowywanie polityki úwiadczenia przez firmÍ audytorskπ oraz przez cz≥onka sieci firmy
+     audytorskiej dozwolonych us≥ug niebÍdπcych badaniem;
+7. Okreúlanie procedury wyboru firmy audytorskiej przez SpÛ≥kÍ;
+8. Przedstawianie Radzie Nadzorczej rekomendacji, o ktÛrej mowa w art. 16 ust. Rozporzπdzenia
+     nr 537/2014, zgodnie z politykami, o ktÛrych mowa w pkt 5 i 6 powyøej;
+9. Przedk≥adanie zaleceÒ majπcych na celu zapewnienie rzetelnoúci procesu sprawozdawczoúci
+     finansowej w SpÛ≥ce;
+10. Przedstawianie Radzie Nadzorczej w procesie wyboru firmy audytorskiej przeprowadzajπcej
+     badanie ustawowe SpÛ≥ki rekomendacji, o ktÛrej mowa w art. 130 ust. 2 i 3 Ustawy.
+W okresie sprawozdawczym sk≥ad Komitetu Audytu ALUMETAL S.A. nie uleg≥ zmianie i przedstawia≥ siÍ
+nastÍpujπco:
+    ï    Pan Pawe≥ Ma≥yska - Przewodniczπcy Komitetu Audytu,
+    ï    Pan Micha≥ Wnorowski - Cz≥onek Komitetu Audytu,
+    ï    Pan Grzegorz Stulgis - Cz≥onek Komitetu Audytu.
+Ustawowe kryteria niezaleønoúci spe≥nia dwÛch cz≥onkÛw Komitetu Audytu tj. Pan Pawe≥ Ma≥yska oraz
+Pan Micha≥ Wnorowski.
+Pan Pawe≥ Ma≥yska ze wzglÍdu na posiadany stopieÒ doktora nauk ekonomicznych uzyskany
+w Kolegium Zarzπdzania i FinansÛw Szko≥y G≥Ûwnej Handlowej w Warszawie oraz wieloletnie
+doúwiadczenie zawodowe w zakresie analityki finansowej oraz zarzπdzania portfelami inwestycyjnymi,
+a takøe z uwagi na doúwiadczenie zdobyte w trakcie sprawowania funkcji cz≥onka Rady Nadzorczej
+i cz≥onka Komitetu Audytu w wielu spÛ≥kach notowanych na Gie≥dzie PapierÛw Wartoúciowych
+w Warszawie, legitymuje siÍ wiedzπ i umiejÍtnoúciami w zakresie rachunkowoúci lub badania
+sprawozdaÒ finansowych.
+Pan Micha≥ Wnorowski ze wzglÍdu na posiadane wykszta≥cenie: ukoÒczone studia wyøsze w Szkole
+G≥Ûwnej Handlowej w Warszawie oraz Akademii Ekonomicznej w Krakowie oraz doúwiadczenie
+zawodowe w zakresie zarzπdzania projektami inwestycyjnymi, analizy rynkowej i finansowej, analizy
+przedsiÍbiorstw i wyceny ich wartoúci oraz zarzπdzania portfelami inwestycyjnymi, a takøe z uwagi na
+doúwiadczenie zdobyte w trakcie sprawowania funkcji cz≥onka Rady Nadzorczej i cz≥onka Komitetu
+Audytu w wielu spÛ≥kach notowanych na Gie≥dzie PapierÛw Wartoúciowych w Warszawie, legitymuje
+siÍ wiedzπ i umiejÍtnoúciami w zakresie rachunkowoúci lub badania sprawozdaÒ finansowych.
+Pan Grzegorz Stulgis ze wzglÍdu na posiadane wykszta≥cenie: ukoÒczone studia wyøsze na Akademii
+Ekonomicznej w Poznaniu oraz licencjÍ doradcy inwestycyjnego, doúwiadczenie zawodowe w zakresie
+analityki finansowej, zarzπdzania portfelami inwestycyjnymi, wyceny i analizy przedsiÍbiorstw,
+zaangaøowanie kapita≥owe i pe≥nienie funkcji w Radzie Nadzorczej SpÛ≥ki od 18 lat, jak rÛwnieø
+cz≥onkostwo w radzie Izby Gospodarczej Metali Nieøelaznych i Recyklingu, legitymuje siÍ wiedzπ
+                                                                                                  14
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+i umiejÍtnoúciami w zakresie rachunkowoúci lub badania sprawozdaÒ finansowych oraz branøy,
+w ktÛrej dzia≥a SpÛ≥ka.
+W okresie sprawozdawczym na rzecz SpÛ≥ki nie by≥y úwiadczone przez firmÍ audytorskπ badajπcπ
+sprawozdanie finansowe dozwolone us≥ugi niebÍdπce badaniem, za wyjπtkiem úwiadczenia na rzecz
+ALUMETAL S.A. us≥ugi przeglπdu úrÛdrocznego skrÛconego JSF oraz SSF za okres 6 miesiÍcy zakoÒczony
+30 czerwca 2020 roku.
+W SpÛ≥ce obowiπzuje ÑPolityka wyboru podmiotu uprawnionego do badania ustawowego sprawozdaÒ
+finansowych SpÛ≥ki i Grupy Kapita≥owejî przyjÍta uchwa≥π Rady Nadzorczej w dniu 10 paüdziernika
+2017 roku oraz ÑPolityka úwiadczenia przez firmÍ audytorskπ przeprowadzajπcπ badanie SpÛ≥ki i Grupy
+Kapita≥owej przez podmioty powiπzane z tπ firmπ audytorskπ lub przez cz≥onka sieci firmy audytorskiej
+dozwolonych us≥ug niebÍdπcych badaniemî, przyjÍta uchwa≥π Rady Nadzorczej w dniu 10 paüdziernika
+2017 roku, a nastÍpnie zmodyfikowana w dniu 6 lutego 2020 roku.
+G≥Ûwne za≥oøenia Polityki wyboru podmiotu uprawnionego do badania ustawowego sprawozdaÒ
+finansowych SpÛ≥ki i Grupy Kapita≥owej obejmujπ proces wyboru podmiotu uprawnionego do badania
+ustawowych sprawozdaÒ finansowych SpÛ≥ki i Grupy Kapita≥owej przez RadÍ Nadzorczπ po uzyskaniu
+rekomendacji Komitetu Audytu z uwzglÍdnieniem:
+     ï   Zachowania niezaleønoúci firmy audytorskiej i bieg≥ego rewidenta;
+     ï   Zasady rotacji firmy audytorskiej i bieg≥ego rewidenta w taki sposÛb, aby maksymalny czas
+         nieprzerwanego trwania zleceÒ badaÒ ustawowych przeprowadzanych przez tÍ samπ firmÍ
+         audytorskπ lub firmÍ audytorskπ powiπzanπ z tπ firmπ audytorskπ lub jakiegokolwiek cz≥onka
+         sieci dzia≥ajπcej w paÒstwach Unii Europejskiej do ktÛrej naleøπ te firmy audytorskie nie
+         przekracza≥ 5 lat, zaú kluczowy bieg≥y rewident nie przeprowadza≥ badania ustawowego przez
+         okres d≥uøszy niø 5 lat (w takim przypadku kluczowy bieg≥y rewident moøe ponownie
+         przeprowadzaÊ badanie ustawowe w SpÛ≥ce po up≥ywie 3 lat od zakoÒczenia ostatniego
+         badania ustawowego);
+     ï UstaleÒ lub wnioskÛw zawartych w sprawozdaniu rocznym Komisji Nadzoru Audytowego,
+         ktÛre mogπ wp≥ynπÊ na wybÛr firmy audytorskiej;
+     ï Wynagrodzenia za przeprowadzenie badania przez firmÍ audytorskπ oraz podwykonawcÛw
+         dzia≥ajπcych w jej imieniu i na jej rzecz, ktÛre powinno odzwierciedlaÊ pracoch≥onnoúÊ oraz
+         stopieÒ z≥oøonoúci prac i wymagane kwalifikacje, jak rÛwnieø nie moøe byÊ:
+             - uzaleønione od øadnych warunkÛw, w tym od wyniku badania;
+             - kszta≥towane lub uzaleønione od úwiadczenia na rzecz SpÛ≥ki lub jednostek z niπ
+                  powiπzanych dodatkowych us≥ug niebÍdπcych badaniem przez firmÍ audytorskπ lub
+                  jakikolwiek podmiot powiπzany z firmπ audytorskπ lub naleøπcy do sieci.
+G≥Ûwne za≥oøenia ÑPolityki úwiadczenia przez firmÍ audytorskπ przeprowadzajπcπ badanie SpÛ≥ki
+i Grupy Kapita≥owej przez podmioty powiπzane z tπ firmπ audytorskπ lub przez cz≥onka sieci firmy
+audytorskiej dozwolonych us≥ug niebÍdπcych badaniemî obejmujπ w szczegÛlnoúci:
+    ï   Zakaz úwiadczenia bezpoúrednio lub poúrednio przez bieg≥ego rewidenta lub firmÍ audytorskπ
+        przeprowadzajπcπ badanie ustawowe sprawozdania finansowego SpÛ≥ki lub Grupy
+        Kapita≥owej, podmiot powiπzany tej firmy audytorskiej lub podmiot wchodzπcy w sk≥ad sieci
+        firmy audytorskiej na rzecz SpÛ≥ki, jej jednostek dominujπcych ani jednostek przez niπ
+                                                                                                  15
+
+                                            ALUMETAL S.A.
+                      Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+   kontrolowanych w ramach UE zabronionych us≥ug niebÍdπcych badaniem sprawozdaÒ
+   finansowych w nastÍpujπcych okresach:
+        - w okresie od rozpoczÍcia badanego okresu do wydania sprawozdania z badania; oraz
+        - w roku obrotowym bezpoúrednio poprzedzajπcym okres, o ktÛrym mowa powyøej
+           w odniesieniu do us≥ug prawnych obejmujπcych:
+                i.   udzielanie ogÛlnych porad prawnych,
+               ii.   negocjowanie w imieniu badanej jednostki,
+              iii.   wystÍpowanie w charakterze rzecznika w ramach rozstrzygania sporu;
+ï Zabronione us≥ugi niebÍdπce badaniem sprawozdaÒ finansowych oznaczajπ:
+ a) Us≥ugi podatkowe dotyczπce:
+        - przygotowywania formularzy podatkowych,
+        - podatkÛw od wynagrodzeÒ,
+        - zobowiπzaÒ celnych,
+        - identyfikacji dotacji publicznych i zachÍt podatkowych, chyba øe wsparcie bieg≥ego
+           rewidenta lub firmy audytorskiej w odniesieniu do takich us≥ug jest wymagane
+           prawem,
+        - wsparcia dotyczπcego kontroli podatkowych prowadzonych przez organy podatkowe,
+           chyba øe wsparcie bieg≥ego rewidenta lub firmy audytorskiej w odniesieniu do takich
+           kontroli jest wymagane prawem,
+        - obliczania podatku bezpoúredniego i poúredniego oraz odroczonego podatku
+           dochodowego,
+        - úwiadczenia doradztwa podatkowego;
+ b) Us≥ugi obejmujπce jakikolwiek udzia≥ w zarzπdzaniu lub w procesie decyzyjnym badanej
+      jednostki, w tym w szczegÛlnoúci us≥ugi zarzπdzania kapita≥em obrotowym, udzielania
+      informacji finansowej, optymalizacji procesÛw operacyjnych, zarzπdzania úrodkami
+      pieniÍønymi, ustalania cen transferowych, zwiÍkszania efektywnoúci ≥aÒcucha dostaw itp.
+ c) Prowadzenie ksiÍgowoúci oraz sporzπdzanie dokumentacji ksiÍgowej i sprawozdaÒ
+      finansowych;
+ d) Us≥ugi w zakresie wynagrodzeÒ;
+ e) Opracowywanie i wdraøanie procedur kontroli wewnÍtrznej lub procedur zarzπdzania
+      ryzykiem zwiπzanych z przygotowywaniem lub kontrolowaniem informacji finansowych lub
+      opracowywanie i wdraøanie technologicznych systemÛw dotyczπcych informacji
+      finansowej;
+ f) Us≥ugi w zakresie wyceny, w tym wyceny dokonywane w zwiπzku z us≥ugami aktuarialnymi
+      lub us≥ugami wsparcia w zakresie rozwiπzywania sporÛw prawnych;
+ g) Us≥ugi prawne obejmujπce: udzielanie ogÛlnych porad prawnych, negocjowanie w imieniu
+      badanej jednostki, wystÍpowanie w charakterze rzecznika w ramach rozstrzygania sporu;
+ h) Us≥ugi zwiπzane z funkcjπ audytu wewnÍtrznego badanej jednostki;
+ i) Us≥ugi zwiπzane z finansowaniem, strukturπ kapita≥owπ i alokacjπ kapita≥u oraz strategiπ
+      inwestycyjnπ klienta, na rzecz ktÛrego wykonywane jest badanie, z wyjπtkiem úwiadczenia
+      us≥ug atestacyjnych w zwiπzku ze sprawozdaniami finansowymi, takich jak wydawanie
+      listÛw poúwiadczajπcych w zwiπzku z prospektami emisyjnymi badanej jednostki;
+                                                                                            16
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+      j)    Prowadzenie dzia≥aÒ promocyjnych i prowadzenie obrotu akcjami lub udzia≥ami badanej
+            jednostki na rachunek w≥asny lub gwarantowanie emisji akcji lub udzia≥Ûw badanej
+            jednostki;
+      k) Us≥ugi w zakresie zasobÛw ludzkich w odniesieniu do:
+                 - Kadry kierowniczej mogπcej wywieraÊ znaczπcy wp≥yw na przygotowywanie
+                      dokumentacji rachunkowej lub sprawozdaÒ finansowych podlegajπcych badaniu
+                      ustawowemu, jeøeli takie us≥ugi obejmujπ:
+                           <U+25AA> Poszukiwanie lub dobÛr kandydatÛw na takie stanowiska, lub
+                           <U+25AA> Przeprowadzanie kontroli referencji kandydatÛw na takie stanowiska,
+                 - Opracowywania struktury organizacyjnej; oraz
+                 - Kontroli kosztÛw.
+      l) Inne us≥ugi niebÍdπce czynnoúciami rewizji finansowej.
+W 2020 roku odby≥o siÍ 7 posiedzeÒ Komitetu Audytu, tj. w dniu 21 stycznia 2020 roku, 18 marca 2020
+roku, 23 marca 2020 roku, 7 maja 2020 roku, 11 sierpnia 2020 roku, 2 paüdziernika 2020 roku, 14
+grudnia 2020 roku. Komitet Audytu procedowa≥ rÛwnieø poza posiedzeniem z wykorzystaniem poczty
+elektronicznej odpowiednio 3 lutego 2020 roku, 12 lutego 2020 roku, 21 marca 2020 roku, 23 czerwca
+2020 roku, 29 grudnia 2020 roku.
+D. Zarzπd SpÛ≥ki
+W okresie sprawozdawczym nie nastπpi≥a øadna zmiana w sk≥adzie Zarzπdu ALUMETAL S.A., ktÛry
+prezentowa≥ siÍ nastÍpujπco:
+    ï    Pani Agnieszka Drzyødøyk ñ Prezes Zarzπdu,
+    ï    Pan Krzysztof B≥asiak ñ Wiceprezes Zarzπdu,
+    ï    Pan Przemys≥aw Grzybek ñ Cz≥onek Zarzπdu.
+Do dnia opublikowania niniejszego sprawozdania nie by≥o zmian w sk≥adzie Zarzπdu SpÛ≥ki.
+Zgodnie z ß 12 ust. 5 Statutu SpÛ≥ki jej Zarzπd jest powo≥ywany na wspÛlnπ, trzyletniπ kadencjÍ,
+przez RadÍ Nadzorczπ, ktÛra ustala liczbÍ cz≥onkÛw Zarzπdu od jednej do piÍciu osÛb oraz wybiera
+Prezesa i Wiceprezesa Zarzπdu, a takøe moøe delegowaÊ swoich cz≥onkÛw do czasowego wykonywania
+czynnoúci cz≥onkÛw Zarzπdu. Odwo≥ywanie Cz≥onkÛw Zarzπdu odbywa siÍ natomiast zgodnie
+z regu≥ami Kodeksu spÛ≥ek handlowych.
+Do kompetencji Zarzπdu naleøy w szczegÛlnoúci:
+    a) terminowe zwo≥ywanie Walnych ZgromadzeÒ;
+    b) powo≥ywanie prokurentÛw, udzielanie i odwo≥ywanie prokury, sporzπdzanie sprawozdaÒ
+         finansowych i innych dokumentÛw finansowych SpÛ≥ki;
+    c) sk≥adanie Walnemu Zgromadzeniu i Radzie Nadzorczej corocznego sprawozdania z dzia≥alnoúci
+         SpÛ≥ki za ubieg≥y rok obrotowy;
+    d) przedstawianie Walnemu Zgromadzeniu i Radzie Nadzorczej wnioskÛw co do podzia≥u zysku
+         i pokrycia strat;
+    e) opracowywanie i przedstawianie Radzie Nadzorczej strategii i d≥ugookresowych planÛw SpÛ≥ki
+         oraz zapewnienie wdroøenia strategii i d≥ugookresowych planÛw SpÛ≥ki;
+    f) sporzπdzanie rocznych i okresowych planÛw finansowych SpÛ≥ki i strategicznych planÛw
+         gospodarczych SpÛ≥ki oraz zapewnienie ich wdroøenia;
+                                                                                                 17
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+     g) uchwalenie Regulaminu Pracy Zarzπdu SpÛ≥ki i wystÍpowanie do Rady Nadzorczej o jego
+         zatwierdzenie;
+     h) ustalanie regulaminu organizacyjnego i struktury organizacyjnej SpÛ≥ki, w tym tworzenie
+         i likwidacja dzia≥Ûw, wydzia≥Ûw, zak≥adÛw i innych wyodrÍbnionych jednostek organizacyjnych
+         SpÛ≥ki;
+     i) uchwalanie regulaminu pracy oraz innych zasad, regulaminÛw i instrukcji regulujπcych
+         funkcjonowanie przedsiÍbiorstwa SpÛ≥ki.
+Posiedzenia Zarzπdu odbywajπ siÍ nie rzadziej niø 1 raz w miesiπcu w siedzibie SpÛ≥ki lub jeøeli wszyscy
+cz≥onkowie Zarzπdu wyraøπ zgodÍ w innym miejscu na terenie Polski.
+Uchwa≥y Zarzπdu zapadajπ bezwzglÍdnπ wiÍkszoúciπ g≥osÛw. W wypadku rÛwnej liczby g≥osÛw Ñzaî
+i Ñprzeciwî decyduje g≥os Prezesa Zarzπdu. Uchwa≥y Zarzπdu mogπ byÊ podejmowane w trybie
+pisemnym lub przy wykorzystaniu úrodkÛw bezpoúredniego porozumiewania siÍ na odleg≥oúÊ.
+Zarzπd jest upowaøniony do wyp≥aty zaliczki na poczet przewidywanej dywidendy na koniec roku
+obrotowego, jeøeli SpÛ≥ka posiada wystarczajπce úrodki na takπ wyp≥atÍ. Wyp≥ata zaliczki wymaga
+zgody Rady Nadzorczej.
+Zarzπd SpÛ≥ki nie jest uprawniony do podejmowania decyzji o emisji i wykupie akcji.
+Zakres praw i obowiπzkÛw Zarzπdu, a takøe tryb jego dzia≥ania, okreúla Regulamin Pracy Zarzπdu.
+Aktualna treúÊ Regulaminu Pracy Zarzπdu jest dostÍpna na stronie internetowej ALUMETAL S.A.
+w zak≥adce: Relacje inwestorskie/Dokumenty SpÛ≥ki.
+4. Struktura akcjonariatu
+A. Akcjonariusze ALUMETAL S.A. posiadajπcy znaczne pakiety akcji
+W dniu 10 czerwca 2020 roku SpÛ≥ka otrzyma≥a zawiadomienie od Aviva Powszechnego Towarzystwa
+Emerytalnego Aviva Santander S.A. (PTE Aviva) wystÍpujπcego w imieniu Aviva Otwartego Funduszu
+Emerytalnego Aviva Santander (OFE Aviva), øe w zwiπzku z przeprowadzonπ w dniu 3 czerwca 2020
+roku transakcjπ zbycia akcji SpÛ≥ki, nastÍpnie rozliczonπ w dniu 5 czerwca 2020 roku, dotychczas
+posiadany udzia≥ OFE Aviva w ogÛlnej liczbie g≥osÛw w SpÛ≥ce zmniejszy≥ siÍ poniøej 10% i wynosi 9,83%
+ogÛlnej liczby g≥osÛw. W wyniku powyøszej transakcji, OFE Aviva kontrolowa≥a 1 521 413 akcji SpÛ≥ki
+dajπcych 1 521 413 g≥osÛw na walnym zgromadzeniu SpÛ≥ki i odpowiadajπcych 9,83% udzia≥u w ogÛlnej
+liczbie g≥osÛw na walnym zgromadzeniu ALUMETAL S.A. Zawiadomienie o powyøszym zdarzeniu
+zosta≥o opublikowane raportem bieøπcym nr 9/2020 w dniu 10 czerwca 2020 roku.
+NastÍpnie w dniu 6 listopada 2020 roku SpÛ≥ka otrzyma≥a kolejne zawiadomienie od Aviva
+Powszechnego Towarzystwa Emerytalnego Aviva Santander S.A. (PTE Aviva) wystÍpujπcego w imieniu
+Aviva Otwartego Funduszu Emerytalnego Aviva Santander (OFE Aviva), øe w zwiπzku
+z przeprowadzonymi w dniu 29 paüdziernika 2020 roku transakcjami nabycia akcji SpÛ≥ki, nastÍpnie
+rozliczonymi w dniu 2 listopada 2020 roku, dotychczas posiadany udzia≥ OFE Aviva w ogÛlnej liczbie
+g≥osÛw w SpÛ≥ce zwiÍkszy≥ siÍ powyøej 10% i wynosi 10,04% ogÛlnej liczby g≥osÛw. W wyniku powyøszej
+transakcji OFE Aviva posiada 1 554 860 akcji SpÛ≥ki dajπcych 1 554 860 g≥osÛw na walnym
+zgromadzeniu SpÛ≥ki i odpowiadajπcych 10,04% udzia≥u w ogÛlnej liczbie g≥osÛw na walnym
+                                                                                                      18
+
+                                                      ALUMETAL S.A.
+                                Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+zgromadzeniu ALUMETAL S.A. Zawiadomienie o powyøszym zdarzeniu zosta≥o opublikowane raportem
+bieøπcym nr 22/2020 w dniu 6 listopada 2020 roku.
+Na dzieÒ 31 grudnia 2020 roku SpÛ≥ka posiada≥a nastÍpujπce informacje (zgodnie z treúciπ
+zawiadomieÒ na podstawie Ustawy z dnia 29 lipca 2005 roku o ofercie publicznej i warunkach
+wprowadzania instrumentÛw finansowych do zorganizowanego systemu obrotu oraz o spÛ≥kach
+publicznych) o akcjonariuszach posiadajπcych bezpoúrednio i poúrednio przez podmioty zaleøne co
+najmniej 5% ogÛlnej liczby g≥osÛw na Walnym Zgromadzeniu ALUMETAL S.A.
+    Akcjonariusze posiadajπcy bezpoúrednio lub poúrednio przez podmioty zaleøne co najmniej 5% ogÛlnej
+               liczby g≥osÛw na Walnym Zgromadzeniu ALUMETAL S.A. na dzieÒ 31 grudnia 2020 r.
+                                                               % udzia≥ w kapitale
+ Akcjonariusz                                  Liczba akcji                            Liczba g≥osÛw % g≥osÛw na WZ
+                                                                   zak≥adowym
+ IPO UNIPESSOAL LDA*                            5 108 221             32,99               5 108 221           32,99
+ Aviva Otwarty Fundusz Emerytalny
+                                                1 554 860             10,04               1 554 860           10,04
+ Aviva Santander
+ Nationale-Nederlanden
+                                                1 140 650              7,37               1 140 650            7,37
+ Otwarty Fundusz Emerytalny
+ AEGON Otwarty Fundusz Emerytalny                956 216               6,18                956 216             6,18
+ Otwarty        Fundusz       Emerytalny
+                                                 925 305               5,98                925 305             5,98
+ PZU ÑZ≥ota JesieÒî
+ Pozostali                                      5 794 241             37,44               5 794 241           37,44
+ Razem                                         15 479 493             100,00             15 479 493           100,00
+*podmiot kontrolowany przez Pana Grzegorza Stulgisa
+                               Struktura akcjonariatu na dzieÒ 31 grudnia 2020 r.
+                                                                                                IPO UNIPESSOAL LDA
+         POZOSTALI 37,44%                                                                             32,99%
+                                                                                         Aviva Otwarty Fundusz Emerytalny
+                                                                                              Aviva Santander 10,04%
+            OFE PZU "Z≥ota JesieÒ"
+                     5,98%
+                                                                            Nationale-Nederlanden Otwarty Fundusz
+                               AEGON OFE 6,18%                                         Emerytalny 7,37%
+                                                                                                                        19
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Wed≥ug stanu wiedzy wynikajπcej z treúci zawiadomieÒ przekazanych SpÛ≥ce, na dzieÒ 22 marca 2021
+roku, akcjonariat ALUMETAL S.A. objÍty obowiπzkami dotyczπcymi ujawniania znacznych pakietÛw
+akcji nie uleg≥ zmianie.
+B. Informacja o nabyciu i emisji akcji w≥asnych
+SzczegÛ≥owe informacje w zakresie realizacji Programu Motywacyjnego III skutkujπcego emisjπ akcji
+SpÛ≥ki oraz Programu Motywacyjnego IV znajdujπ siÍ w pkt 7. Programy Motywacyjne.
+W dniu 28 sierpnia 2020 roku Zwyczajne Walne Zgromadzenie podjÍ≥o uchwa≥Í nr 22 w sprawie
+upowaønienia Zarzπdu ALUMETAL S.A. do nabywania akcji w≥asnych ALUMETAL S.A. w celu ich
+umorzenia, ktÛra zak≥ada nabycie akcji w≥asnych ALUMETAL S.A. na poniøszych warunkach
+zdefiniowanych w punkcie 2 tej uchwa≥y:
+    a) Zarzπd jest upowaøniony do nabycia w imieniu i na rzecz SpÛ≥ki akcji w≥asnych w ≥πcznej liczbie
+         nie wiÍkszej niø 2 321 923 akcji (dwa miliony trzysta dwadzieúcia jeden tysiÍcy dziewiÍÊset
+         dwadzieúcia trzy), to jest 15% (piÍtnaúcie procent) kapita≥u zak≥adowego SpÛ≥ki posiadanego
+         przez niπ w dniu powziÍcia przez Walne Zgromadzenie uchwa≥y w sprawie upowaønienia
+         Zarzπdu do nabywania akcji w≥asnych SpÛ≥ki w celu ich umorzenia; przedmiotem nabycia mogπ
+         byÊ Akcje w pe≥ni pokryte,
+    b) wynagrodzenie (cena nabycia) Akcji nie bÍdzie niøsza niø 25,00 z≥ (dwadzieúcia piÍÊ z≥otych), za
+         jednπ AkcjÍ oraz nie wyøsza niø 45,00 z≥ (czterdzieúci piÍÊ z≥otych) za jednπ AkcjÍ,
+    c) ≥πczna minimalna wysokoúÊ wynagrodzenia za nabywane Akcje bÍdzie nie niøsza niø 25,00 z≥
+         (dwadzieúcia piÍÊ z≥otych) zaú ≥πczna maksymalna wysokoúÊ wynagrodzenia za nabywane
+         Akcje bÍdzie nie wyøsza niø 104 486 535,00 z≥ (sto cztery miliony czterysta osiemdziesiπt szeúÊ
+         tysiÍcy piÍÊset trzydzieúci piÍÊ z≥otych),
+    d) úrodki przeznaczone na zap≥atÍ wynagrodzenia za nabywane Akcje bÍdπ pochodzi≥y wy≥πcznie
+         ze úrodkÛw w≥asnych SpÛ≥ki i bÍdπ pochodzi≥y wy≥πcznie z kwot, ktÛre zgodnie z art. 348 ß 1
+         Kodeksu spÛ≥ek handlowych mogπ byÊ przeznaczone do podzia≥u,
+    e) Akcje mogπ byÊ nabywane poza rynkiem regulowanym ñ w ramach jednego lub wiÍcej
+         zaproszeÒ do sk≥adania ofert zbycia akcji na rzecz SpÛ≥ki w celu ich umorzenia, ktÛre to
+         zaproszenia, bÍdπ skierowane do wszystkich akcjonariuszy SpÛ≥ki posiadajπcych akcje na
+         okaziciela, przy czym:
+             i.   nabycie Akcji moøe nastπpiÊ za cenÍ ustalonπ przez Zarzπd, z uwzglÍdnieniem limitÛw
+                  okreúlonych w ust. 2 lit. b), a cena ta bÍdzie jednakowa dla wszystkich Akcji
+                  nabywanych w ramach danego zaproszenia do sk≥adania ofert zbycia akcji,
+            ii.   Zarzπd okreúli liczbÍ akcji nabywanych w ramach danego zaproszenia do sk≥adania
+                  ofert zbycia akcji, z uwzglÍdnieniem limitÛw okreúlonych w ust. 2 lit a),
+           iii.   W przypadku, gdy otrzymane oferty sprzedaøy akcji bÍdπ przekraczaÊ liczbÍ akcji
+                  objÍtπ zaproszeniem do sk≥adania ofert, Zarzπd lub firma inwestycyjna w imieniu
+                  SpÛ≥ki dokona korekty liczby akcji jakπ SpÛ≥kπ odkupi w ramach danego zaproszenia do
+                  sk≥adania ofert od kaødego z akcjonariuszy, ktÛrzy z≥oøπ ofertÍ zbycia akcji, stosujπc
+                  mechanizm proporcjonalnej redukcji,
+                                                                                                      20
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+     f)  upowaønienie Zarzπdu do nabywania Akcji obejmuje okres od dnia 1 paüdziernika 2020 r. do
+         dnia 30 wrzeúnia 2024 r, nie d≥uøej jednak niø do wyczerpania úrodkÛw przeznaczonych na ich
+         nabycie,
+     g) termin rozpoczÍcia i zakoÒczenia nabywania Akcji Zarzπd SpÛ≥ki poda do publicznej
+         wiadomoúci, zgodnie z art. 56 ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach
+         wprowadzania instrumentÛw finansowych do zorganizowanego systemu obrotu oraz
+         o spÛ≥kach publicznych (dalej ÑUstawa o Ofercie Publicznejî), przy czym termin nabywania
+         Akcji zostanie podany przed rozpoczÍciem realizacji nabycia,
+     h) nie wyklucza siÍ nabywania Akcji w ramach publicznego wezwania na akcje SpÛ≥ki.
+O powyøszym SpÛ≥ka poinformowa≥a rynek publikujπc raport bieøπcy nr 16/2020 z dnia 28 sierpnia
+2020 roku.
+SpÛ≥ka informuje ponadto, iø papiery wartoúciowe dajπce specjalne uprawnienia kontrolne
+nie funkcjonujπ w ALUMETAL S.A.
+C. Specjalne uprawnienia i ograniczenia w tym dotyczπce przenoszenia prawa
+      w≥asnoúci papierÛw wartoúciowych ALUMETAL S.A. oraz wykonywania prawa
+      g≥osu
+W okresie sprawozdawczym SpÛ≥ka nie uzyska≥a informacji o istnieniu uprawnieÒ lub ograniczeÒ
+dotyczπcych przenoszenia prawa w≥asnoúci papierÛw wartoúciowych ALUMETAL S.A. oraz
+wykonywania prawa g≥osu.
+D. Umowy w wyniku ktÛrych mogπ w przysz≥oúci nastπpiÊ                                         zmiany
+      w proporcjach posiadanych akcji przez akcjonariuszy i obligatariuszy
+W okresie sprawozdawczym, a takøe do dnia sporzπdzenia niniejszego sprawozdania SpÛ≥ka nie
+uzyska≥a informacji o umowach, ktÛre mogπ w przysz≥oúci oddzia≥ywaÊ na zmiany w proporcjach
+posiadanych akcji przez dotychczasowych akcjonariuszy.
+                                                                                                    21
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+5. Pakiety akcji w posiadaniu osÛb zarzπdzajπcych i nadzorujπcych
+                 Stan posiadania akcji ALUMETAL S.A. przez osoby zarzπdzajπce i nadzorujπce
+                                           na dzieÒ 31 grudnia 2020 r.
+                                                    % udzia≥ w                                    £πczna wartoúÊ
+                                    Liczba                              Liczba        % g≥osÛw na
+ Akcjonariusz                                        kapitale                                     nominalna akcji
+                                     akcji                             g≥osÛw              WZ
+                                                  zak≥adowym                                            w z≥
+ Grzegorz Stulgis poúrednio
+                                  5 108 221            32,99          5 108 221           32,99     510 822,10
+ poprzez IPO UNIPESSOAL LDA
+ Krzysztof B≥asiak                 407 033              2,63           407 033            2,63       40 703,30
+ Szymon Adamczyk                   279 233              1,80           279 233            1,80       27 923,30
+ Przemys≥aw Grzybek                167 386              1,08           167 386            1,08       16 738,60
+ Agnieszka Drzyødøyk                8 473               0,05            8 473             0,05        847,30
+ Michael Rohde Pedersen                0                  0                0                0            0
+ Micha≥ Wnorowski                      0                  0                0                0            0
+ Pawe≥ Ma≥yska                         0                  0                0                0            0
+W dniu 19 lutego 2021 roku Pani Agnieszka Drzyødøyk, Pan Krzysztof B≥asiak, Pan Przemys≥aw Grzybek
+oraz Pan Szymon Adamczyk objÍli w ramach Programu Motywacyjnego III akcje serii G wyemitowane
+w zamian za imienne, niezbywalne warranty subskrypcyjne serii D. W konsekwencji w dniu 22 lutego
+2021 roku SpÛ≥ka otrzyma≥a powiadomienia w trybie art. 19 ust. 3 MAR od ww. osÛb, ktÛre dotyczy≥y
+odpowiednio:
+    - objÍcia akcji serii G w iloúci 7 955 sztuk przez Paniπ AgnieszkÍ Drzyødøyk;
+    - objÍcia akcji serii G w iloúci 15 178 sztuk przez Pana Krzysztofa B≥asiaka;
+    - objÍcia akcji serii G w iloúci 12 599 sztuk przez Pana Przemys≥awa Grzybka;
+    - objÍcia akcji serii G w iloúci 15 866 sztuk przez Pana Szymona Adamczyka.
+Na dzieÒ sporzπdzenia niniejszego sprawozdania, akcje serii G nie zosta≥y wprowadzone do
+zorganizowanego obrotu na Gie≥dzie PapierÛw Wartoúciowych w Warszawie S.A.
+                                                                                                               22
+
+                                                        ALUMETAL S.A.
+                               Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+6. Wynagrodzenia osÛb zarzπdzajπcych i nadzorujπcych
+                                                                                          Rok zakoÒczony
+              Wynagrodzenia osÛb nadzorujπcych
+                                                                                        31 grudnia 2020 r.
+                                                  Przewodniczπcy Rady
+              Grzegorz Stulgis*                                                              --------------
+                                                  Nadzorczej
+              Frans Bijlhouwer**                  Cz≥onek Rady Nadzorczej                      27 tys. z≥
+              Michael Pedersen***                 Cz≥onek Rady Nadzorczej                       9 tys. z≥
+              Micha≥ Wnorowski                    Cz≥onek Rady Nadzorczej                      60 tys. z≥
+              Pawe≥ Ma≥yska                       Cz≥onek Rady Nadzorczej                      72 tys. z≥
+              Szymon Adamczyk                     Cz≥onek Rady Nadzorczej                      36 tys. z≥
+              Wynagrodzenie wyp≥acone ogÛ≥em                                                  204 tys. z≥
+             *Pan Grzegorz Stulgis nie pobiera wynagrodzenia od dnia 1 sierpnia 2016 roku z tytu≥u przewodniczenia
+             Radzie Nadzorczej
+             ** Pan Frans Bijlhouwer pe≥ni≥ funkcjÍ cz≥onka Rady Nadzorczej SpÛ≥ki do dnia 28 sierpnia 2020 roku
+             *** Pan Michael Pedersen pe≥ni funkcjÍ cz≥onka Rady Nadzorczej SpÛ≥ki od dnia 28 sierpnia 2020 roku
+Cz≥onkowie Rady Nadzorczej nie otrzymywali wynagrodzenia z tytu≥u pe≥nienia funkcji we w≥adzach
+pozosta≥ych spÛ≥ek Grupy.
+Na mocy podpisanej w 2018 roku umowy na zakup us≥ug doradczych z firmπ Szymon Adamczyk
+Doradztwo, SpÛ≥ka otrzyma≥a w 2020 roku faktury na ≥πcznπ kwotÍ 552 tys. z≥.
+              Wynagrodzenia osÛb zarzπdzajπcych Emitenta                                  Rok zakoÒczony
+              w jednostce dominujπcej i w spÛ≥kach zaleønych                            31 grudnia 2020 r.
+                                                  Prezes Zarzπdu
+              Agnieszka Drzyødøyk                                                             850 tys. z≥
+                                                  Dyrektor Zarzπdzajπcy
+                                                  Wiceprezes Zarzπdu
+              Krzysztof B≥asiak                   Dyrektor Waste                             1 386 tys. z≥
+                                                  i Metal Management
+                                                  Cz≥onek Zarzπdu
+              Przemys≥aw Grzybek                                                              684 tys. z≥
+                                                  Dyrektor Finansowy
+              KrÛtkoterminowe úwiadczenia pracownicze
+                                                                                            2 920 tys. z≥
+              (wynagrodzenia i narzuty) ogÛ≥em
+W okresie sprawozdawczym nie zosta≥y zawarte umowy miÍdzy SpÛ≥kπ, a osobami zarzπdzajπcymi
+majπce za przedmiot rekompensatÍ w przypadku ich rezygnacji lub zwolnienia z zajmowanego
+stanowiska bez waønej przyczyny lub gdy ich odwo≥anie lub zwolnienie nastÍpuje z powodu po≥πczenia
+SpÛ≥ki przez przejÍcie.
+                                                                                                                   23
+
+                                                    ALUMETAL S.A.
+                              Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Cz≥onkowie Zarzπdu byli takøe i sπ objÍci Programem Motywacyjnym III i Programem Motywacyjnym
+IV opisanymi w punkcie 7 poniøej.
+W 2020 roku w Grupie Alumetal nie funkcjonowa≥y øadne programy emerytalne lub podobne
+dotyczπce wy≥πcznie osÛb zarzπdzajπcych lub nadzorujπcych, poza programem PPK, w ktÛrym mogπ
+uczestniczyÊ wszyscy pracownicy polskich spÛ≥ek Grupy Alumetal.
+7. Programy motywacyjne
+A. Program Motywacyjny III na lata 2018-2020
+W dniu 7 listopada 2017 roku odby≥o siÍ Nadzwyczajne Walne Zgromadzenie SpÛ≥ki, ktÛre podjÍ≥o
+uchwa≥y w sprawie warunkowego podwyøszenia kapita≥u zak≥adowego SpÛ≥ki oraz emisji warrantÛw
+subskrypcyjnych z wy≥πczeniem w ca≥oúci prawa poboru akcjonariuszy w odniesieniu do warrantÛw
+subskrypcyjnych i akcji emitowanych w ramach kapita≥u warunkowego oraz zmiany Statutu SpÛ≥ki.
+Warunkowo podwyøszony kapita≥ zak≥adowy SpÛ≥ki przyjÍty uchwa≥π nr 3 Nadzwyczajnego Walnego
+Zgromadzenia ALUMETAL S.A. ma nie przekroczyÊ kwoty 46 438,20 z≥ (s≥ownie: czterdzieúci szeúÊ
+tysiÍcy czterysta trzydzieúci osiem z≥otych dwadzieúcia groszy) poprzez emisjÍ nie wiÍcej niø:
+     ï   154 794 (s≥ownie: sto piÍÊdziesiπt cztery tysiπce siedemset dziewiÍÊdziesiπt cztery) akcji
+         zwyk≥ych na okaziciela serii G o wartoúci nominalnej 0,10 z≥ (s≥ownie: dziesiÍÊ groszy) kaøda
+         (ÑAkcje Serii Gî);
+     ï   154 794 (s≥ownie: sto piÍÊdziesiπt cztery tysiπce siedemset dziewiÍÊdziesiπt cztery) akcji
+         zwyk≥ych na okaziciela serii H o wartoúci nominalnej 0,10 z≥ (s≥ownie: dziesiÍÊ groszy) kaøda
+         (ÑAkcje Serii Hî);
+     ï   154 794 (s≥ownie: sto piÍÊdziesiπt cztery tysiπce siedemset dziewiÍÊdziesiπt cztery) akcji
+         zwyk≥ych na okaziciela serii I o wartoúci nominalnej 0,10 z≥ (s≥ownie: dziesiÍÊ groszy) kaøda
+         (ÑAkcje Serii Iî, a ≥πcznie z Akcjami Serii G i Akcjami Serii H zwane sπ ÑAkcjami Motywacyjnymi
+         3î).
+Zgodnie z w/w uchwa≥π Nadzwyczajnego Walnego Zgromadzenia SpÛ≥ki cena emisyjna Akcji
+Motywacyjnych 3 wynosi≥a 48,60 z≥ (s≥ownie: czterdzieúci osiem z≥otych szeúÊdziesiπt groszy). PrzyjÍcie
+warunkowego podwyøszenia kapita≥u zak≥adowego SpÛ≥ki jest rÛwnoznaczne z przyjÍciem nowego
+Programu Motywacyjnego (ÑProgram Motywacyjny IIIî). Prawo do objÍcia Akcji serii G, H oraz I bÍdzie
+przys≥ugiwaÊ wy≥πcznie posiadaczom warrantÛw subskrypcyjnych serii (odpowiednio) D, E oraz
+F
+i bÍdzie mog≥o byÊ wykonane nie pÛüniej niø do dnia 31 grudnia 2022 roku, na zasadach okreúlonych
+w w/w uchwale oraz w regulaminie programu motywacyjnego, ktÛry zosta≥ przyjÍty przez RadÍ
+Nadzorczπ SpÛ≥ki (ÑRegulamin Programu Motywacyjnego IIIî) uchwa≥π nr 2 w dniu 14 grudnia 2017
+roku. Emisja Akcji Motywacyjnych 3 bÍdzie odbywaÊ siÍ z wy≥πczeniem w ca≥oúci prawa poboru
+przys≥ugujπcego dotychczasowym akcjonariuszom SpÛ≥ki. SzczegÛ≥owe informacje wraz
+z uzasadnieniem wy≥πczenia prawa poboru SpÛ≥ka przekaza≥a raportem bieøπcym nr 48/2017.
+SpÛ≥ka z≥oøy≥a wniosek o rejestracjÍ warunkowego podwyøszenia kapita≥u zak≥adowego w dniu
+9 listopada 2017 roku, a kapita≥ zosta≥ zarejestrowany przez Sπd w dniu 23 listopada 2017 roku, o czym
+spÛ≥ka poinformowa≥a raportem bieøπcym nr 52/2017 z dnia 7 grudnia 2017 roku.
+                                                                                                      24
+
+                                                   ALUMETAL S.A.
+                             Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+W dniu 3 listopada 2018 roku Nadzwyczajne Walne Zgromadzenie SpÛ≥ki podjÍ≥o decyzjÍ
+o modyfikacji zasady ustalania ceny emisyjnej w Programie Motywacyjnym III. Uchwalono, iø
+jednostkowa cena emisyjna akcji objÍtych bÍdzie wynosiÊ 48,60 z≥, ktÛra to kwota bÍdzie
+pomniejszona o sumÍ úwiadczeÒ wyp≥aconych przez SpÛ≥kÍ w przeliczeniu na jednπ akcjÍ SpÛ≥ki na
+rzecz jej akcjonariuszy, w szczegÛlnoúci o wyp≥acone przez SpÛ≥kÍ dywidendy w nastÍpujπcy sposÛb:
+     ï   dla kaødej z akcji serii G jej cena emisyjna wynosi 48,60 z≥, ktÛra to kwota pomniejszona bÍdzie
+         o wyp≥aconπ dywidendÍ brutto (w przeliczeniu na jednπ akcjÍ SpÛ≥ki) za rok obrotowy 2017 (tj.
+         kwotÍ 2,92 z≥), za rok obrotowy 2018 oraz o wyp≥aconπ lub uchwalonπ dywidendÍ za rok
+         obrotowy 2019;
+     ï   dla kaødej z akcji serii H, jej cena emisyjna wynosi 48,60, ktÛra to kwota pomniejszona bÍdzie
+         o wyp≥aconπ dywidendÍ brutto (w przeliczeniu na jednπ akcjÍ SpÛ≥ki) za rok obrotowy 2017 (tj.
+         kwotÍ 2,92 z≥), za rok obrotowy 2018 i za rok obrotowy 2019 oraz o wyp≥aconπ lub uchwalonπ
+         dywidendÍ za rok obrotowy 2020;
+     ï   dla kaødej z akcji serii I jej cena emisyjna wynosi 48,60 z≥, ktÛra to kwota pomniejszona bÍdzie
+         o wyp≥aconπ dywidendÍ brutto (w przeliczeniu na jednπ akcjÍ SpÛ≥ki) za rok obrotowy 2017 (tj.
+         kwotÍ 2,92 z≥), za rok obrotowy 2018, za rok obrotowy 2019 i za rok obrotowy 2020 oraz
+         o wyp≥aconπ lub uchwalonπ dywidendÍ za rok obrotowy 2021.
+Kwota wyp≥aconych dywidend obejmuje ca≥oúÊ wyp≥aconych dywidend brutto za okresy, o ktÛrych
+mowa powyøej niezaleønie czy wyp≥ata dywidendy jest finansowana z zysku za dany rok obrotowy czy
+z innych kapita≥Ûw SpÛ≥ki, ktÛrymi moøe ona dysponowaÊ w celu wyp≥aty dywidendy.
+Powyøsze zasady zosta≥y rÛwnieø uwzglÍdnione w Regulaminie Programu Motywacyjnego
+III zmodyfikowanym odpowiednio przez RadÍ Nadzorczπ w dniu 3 paüdziernika 2018 roku.
+W roku 2018 SpÛ≥ka wype≥ni≥a warunki zwiπzane z osiπgniÍciem odpowiedniego poziomu
+skonsolidowanej EBITDA oraz osiπgniÍciem odpowiedniego poziomu znormalizowanego
+skonsolidowanego zysku netto. Nie zosta≥ natomiast spe≥niony warunek osiπgniÍcia odpowiedniego
+wskaünika zwrotu z akcji SpÛ≥ki w stosunku do dynamiki zmian indeksu WIG, co oznacza, iø SpÛ≥ka
+wyemitowa≥a jedynie 103 196 warranty subskrypcyjne serii D. Wszystkie te warranty zosta≥y objÍte
+przez Uprawnionych w IV kwartale 2019 roku. Uprawnienie do objÍcia Akcji Motywacyjnych serii G,
+wynikajπce z posiadania przez Uprawnionych warrantÛw subskrypcyjnych serii D zosta≥o zrealizowane
+w dniu 19 lutego 2021 roku poprzez objÍcie 97 180 akcji serii G. Pozosta≥e 6 016 akcji serii G moøe
+zostaÊ objÍtych przez Uprawnionych w nastÍpnym terminie wyznaczonym na ich objÍcie, ktÛry
+zostanie og≥oszony zgodnie z zasadami Programu Motywacyjnego III przez Zarzπd SpÛ≥ki nie pÛüniej niø
+do dnia 31 grudnia 2022 roku.
+W 2019 roku zarÛwno parametry nierynkowe jak i parametr rynkowy nie zosta≥y spe≥nione, wiÍc øaden
+ze 154 794 warrantÛw subskrypcyjnych serii E, ktÛre mog≥yby ich posiadaczy uprawiaÊ do objÍcia do
+154 794 akcji serii H SpÛ≥ki nie zostanie Uprawnionym przyznany.
+W zwiπzku z prawdopodobnym niespe≥nieniem w 2020 roku warunkÛw nierynkowych dla warrantÛw
+subskrypcyjnych serii F juø w po≥owie 2020 roku przeszacowano wartoúÊ Programu Motywacyjnego
+III wyksiÍgowujπc koszt zwiπzany z tymi warrantami. Jak stwierdzono w grudniu 2020 roku spe≥niony
+zosta≥ natomiast warunek rynkowy dla warrantÛw subskrypcyjnych serii F i w konsekwencji finalnie
+                                                                                                      25
+
+                                                   ALUMETAL S.A.
+                             Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+51 598 warrantÛw subskrypcyjnych tej serii, ktÛre mogπ ich posiadaczy uprawiaÊ do objÍcia do
+51 598 akcji serii H SpÛ≥ki, zostanie Uprawnionym przyznanych.
+SpÛ≥ka dokona≥a wyceny Programu Motywacyjnego III i wyliczy≥a go na zasadach okreúlonych w MSSF
+2 P≥atnoúci na bazie akcji.
+Poniøej zaprezentowano koszt Programu Motywacyjnego III oraz wartoúÊ kapita≥u z tytu≥u tego
+programu na kolejne daty bilansowe.
+          WartoúÊ kapita≥u i koszt                        Rok zakoÒczony               Rok zakoÒczony
+          programÛw motywacyjnych
+                                                         31 grudnia 2020 r.           31 grudnia 2019 r.
+          Kapita≥ z tytu≥u
+                                                             1 475 tys. z≥                1 562 tys. z≥
+          Programu Motywacyjnego III
+          Koszt Programu Motywacyjnego III                    - 87 tys. z≥                 645 tys. z≥
+W SpÛ≥ce w okresie sprawozdawczym nie funkcjonowa≥y programy akcji pracowniczych, wobec czego
+nie funkcjonowa≥y rÛwnieø systemy kontroli w tym zakresie.
+B. Program Motywacyjny IV na lata 2021-2023
+W dniu 12 listopada 2020 roku odby≥o siÍ Nadzwyczajne Walne Zgromadzenie SpÛ≥ki, ktÛre podjÍ≥o
+uchwa≥Í w sprawie ustanowienia Programu Motywacyjnego IV, warunkowego podwyøszenia kapita≥u
+zak≥adowego SpÛ≥ki oraz emisji warrantÛw subskrypcyjnych z wy≥πczeniem w ca≥oúci prawa poboru
+akcjonariuszy w odniesieniu do warrantÛw subskrypcyjnych i akcji emitowanych w ramach kapita≥u
+warunkowego oraz zmiany Statutu.
+Warunkowo podwyøszony kapita≥ zak≥adowy SpÛ≥ki przyjÍty uchwa≥π nr 3 Nadzwyczajnego Walnego
+Zgromadzenia ALUMETAL S.A. ma nie przekroczyÊ kwoty 46 438,20 z≥ (s≥ownie: czterdzieúci szeúÊ
+tysiÍcy czterysta trzydzieúci osiem z≥otych dwadzieúcia groszy) poprzez emisjÍ nie wiÍcej niø:
+     ï   154 794 (s≥ownie: sto piÍÊdziesiπt cztery tysiπce siedemset dziewiÍÊdziesiπt cztery) akcji
+         zwyk≥ych na okaziciela serii J o wartoúci nominalnej 0,10 z≥ (s≥ownie: dziesiÍÊ groszy) kaøda
+         (ÑAkcje Serii Jî);
+     ï   154 794 (s≥ownie: sto piÍÊdziesiπt cztery tysiπce siedemset dziewiÍÊdziesiπt cztery) akcji
+         zwyk≥ych na okaziciela serii K o wartoúci nominalnej 0,10 z≥ (s≥ownie: dziesiÍÊ groszy) kaøda
+         (ÑAkcje Serii Kî);
+     ï   154 794 (s≥ownie: sto piÍÊdziesiπt cztery tysiπce siedemset dziewiÍÊdziesiπt cztery) akcji
+         zwyk≥ych na okaziciela serii L o wartoúci nominalnej 0,10 z≥ (s≥ownie: dziesiÍÊ groszy) kaøda
+         (ÑAkcje Serii Lî, a ≥πcznie z Akcjami Serii J i Akcjami Serii K, zwane sπ ÑAkcjami Motywacyjnymi
+         4î).
+Zgodnie z w/w uchwa≥π Nadzwyczajnego Walnego Zgromadzenia SpÛ≥ki cena emisyjna Akcji
+Motywacyjnych 4 bÍdzie wynosiÊ 36,40 z≥ (s≥ownie: trzydzieúci szeúÊ z≥otych czterdzieúci groszy), ktÛra
+to kwota bÍdzie pomniejszona o sumÍ úwiadczeÒ wyp≥aconych przez SpÛ≥kÍ w przeliczeniu na jednπ
+                                                                                                         26
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+akcjÍ SpÛ≥ki na rzecz jej akcjonariuszy, w szczegÛlnoúci o wyp≥acone przez SpÛ≥kÍ dywidendy
+w nastÍpujπcy sposÛb:
+     ï   dla kaødej z Akcji Serii J Cena Emisyjna pomniejszona bÍdzie o wyp≥aconπ dywidendÍ brutto (w
+         przeliczeniu na jednπ akcjÍ SpÛ≥ki) za rok obrotowy 2020, 2021 oraz o wyp≥aconπ lub
+         uchwalonπ dywidendÍ za rok obrotowy 2022;
+     ï   dla kaødej Akcji Serii K, jej Cena Emisyjna pomniejszona bÍdzie o wyp≥aconπ dywidendÍ brutto
+         (w przeliczeniu na jednπ akcjÍ SpÛ≥ki) za rok obrotowy 2020, 2021 2022 oraz o wyp≥aconπ lub
+         uchwalonπ dywidendÍ za rok obrotowy 2023;
+     ï   dla kaødej z Akcji Serii L jej Cena Emisyjna pomniejszona bÍdzie o wyp≥aconπ dywidendÍ brutto
+         (w przeliczeniu na jednπ akcjÍ SpÛ≥ki) za rok obrotowy 2020, 2021, 2022, 2023 oraz
+         o wyp≥aconπ lub uchwalonπ dywidendÍ za rok obrotowy 2024.
+Kwota wyp≥aconych dywidend obejmuje ca≥oúÊ wyp≥aconych dywidend brutto za okresy, o ktÛrych
+mowa powyøej niezaleønie czy wyp≥ata dywidendy jest finansowana z zysku za dany rok obrotowy czy
+z innych kapita≥Ûw SpÛ≥ki, ktÛrymi moøe ona dysponowaÊ w celu wyp≥aty dywidendy
+Powyøsze zasady zosta≥y rÛwnieø uwzglÍdnione w Regulaminie Programu Motywacyjnego IV przyjÍtym
+przez RadÍ Nadzorczπ w dniu 19 stycznia 2021 roku.
+SpÛ≥ka dokona≥a wyceny Programu Motywacyjnego IV i wyliczy≥a go na zasadach okreúlonych w MSSF
+2 P≥atnoúci na bazie akcji. Przeprowadzona wycena Programu Motywacyjnego IV wykaza≥a jego koszt
+na poziomie 8 895 tys. z≥, ktÛry bÍdzie ujmowany w kosztach Grupy w okresie I kwarta≥ 2021 ñ
+III kwarta≥ 2025, a na rok 2021 przypadnie 2 607 tys. z≥ tego kosztu.
+8. Informacja dotyczπca polityki rÛønorodnoúci
+Emitent nie opracowa≥ polityki rÛønorodnoúci w odniesieniu do cz≥onkÛw jego organÛw zarzπdzajπcych
+i nadzorujπcych z uwagi na stabilny sk≥ad organÛw i niewielkπ liczbÍ kluczowych stanowisk
+menedøerskich.
+Pomimo braku sformalizowanej polityki, ALUMETAL S.A. stara siÍ stosowaÊ zasady dotyczπce
+rÛønorodnoúci czego przyk≥adem jest zrÛønicowanie osÛb pe≥niπcych funkcje w Zarzπdzie i Radzie
+Nadzorczej SpÛ≥ki pod wzglÍdem wieku, wykszta≥cenia, doúwiadczenia zawodowego oraz p≥ci.
+9. Zbiory zasad dobrych praktyk i ≥adu korporacyjnego
+A. Dobre praktyki i ≥ad korporacyjny
+W okresie sprawozdawczym obowiπzywa≥ zbiÛr zasad ≥adu korporacyjnego pod nazwπ ÑDobre Praktyki
+SpÛ≥ek Notowanych na GPW 2016î (ÑDobre Praktyki 2016î), stanowiπcy za≥πcznik do Uchwa≥y nr
+26/1413/2015 Rady Nadzorczej Gie≥dy PapierÛw Wartoúciowych w Warszawie S.A. z dnia
+13 paüdziernika 2015 roku.
+Zgodnie z opublikowanπ na stronie internetowej SpÛ≥ki w dniu 15 lutego 2021 roku Informacjπ na
+temat stanu stosowania przez spÛ≥kÍ rekomendacji i zasad zawartych w Zbiorze Dobre Praktyki SpÛ≥ek
+Notowanych na GPW 2016, SpÛ≥ka nie stosuje nastÍpujπcej zasady Dobrych Praktyk 2016:
+I.Z.1.20. zapis przebiegu obrad walnego zgromadzenia, w formie audio lub wideo.
+                                                                                                    27
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Zarzπd ALUMETAL S.A. odstπpi≥ od stosowania powyøszej zasady ze wzglÍdÛw ekonomicznych.
+W ocenie Zarzπdu SpÛ≥ki koszty zwiπzane z technicznπ obs≥ugπ rejestracji przebiegu posiedzeÒ walnego
+zgromadzenia w formie audio i wideo, nie znajdujπ uzasadnienia ze wzglÍdu na obecnπ strukturÍ
+akcjonariatu SpÛ≥ki oraz mogπ okazaÊ siÍ niewspÛ≥mierne do ewentualnych korzyúci. Ponadto wed≥ug
+Zarzπdu SpÛ≥ki nie istniejπ zagroøenia p≥ynπce z niestosowania powyøszej zasady z uwagi na fakt, øe
+SpÛ≥ka przekazuje do publicznej wiadomoúci w formie raportÛw bieøπcych oraz zamieszcza na swojej
+stronie internetowej wszystkie prawem przewidziane informacje i dokumenty ñ umoøliwiajπc
+inwestorom i analitykom zapoznanie siÍ ze sprawami bÍdπcymi w przedmiocie obrad walnego
+zgromadzenia.
+B. Informacja o braku polityki w zakresie dzia≥alnoúci sponsoringowej
+W odniesieniu do rekomendacji I.R.2. Dobrych Praktyk 2016, ktÛra stanowi, øe jeøeli spÛ≥ka prowadzi
+dzia≥alnoúÊ sponsoringowπ, charytatywnπ lub innπ o zbliøonym charakterze, zamieszcza w rocznym
+sprawozdaniu z dzia≥alnoúci informacjÍ na temat prowadzonej polityki w tym zakresie, Zarzπd SpÛ≥ki
+przedstawia poniøsze podsumowanie.
+SpÛ≥ka wspÛ≥pracuje ze spo≥ecznoúciami lokalnymi w miejscowoúciach, w ktÛrych znajdujπ siÍ siedziba
+ALUMETAL S.A., zak≥ady ALUMETAL Poland sp. z o.o. oraz ALUMETAL Group Hungary Kft., jak
+i bezpoúrednio z jednostkami samorzπdu terytorialnego. SpÛ≥ka od wielu lat angaøuje siÍ
+w liczne projekty pomocowe na poziomie lokalnym, w g≥Ûwnej mierze poprzez pomoc finansowπ, ktÛra
+kierowana jest do placÛwek dydaktyczno ñ wychowawczych, jak rÛwnieø niezaleønych stowarzyszeÒ
+i organizacji spo≥ecznych, instytucji kulturalnych, klubÛw sportowych oraz bezpoúrednio na organizacjÍ
+imprez kulturalnych.
+ALUMETAL S.A. wspiera finansowo lokalne przedszkola, szko≥y, wspomaga budowy placÛw zabaw,
+obiektÛw sportowych (g≥Ûwnie dla dzieci i m≥odzieøy).
+W przypadku jakichkolwiek klÍsk øywio≥owych i szczegÛlnych zdarzeÒ losowych, ALUMETAL S.A.
+organizuje pomoc materialnπ poszkodowanym pracownikom i ich rodzinom.
+ALUMETAL S.A. nie posiada polityki dzia≥alnoúci sponsoringowej. O udzieleniu pomocy decyduje
+Zarzπd, rozpatrujπc indywidualnie kaødπ udzielonπ formÍ pomocy.
+W 2020 roku decyzjπ Zarzπdu Emitenta zosta≥o udzielone wsparcie funduszu interwencyjnego Wielkiej
+Orkiestry åwiπtecznej Pomocy kwotπ 250 tys. z≥ na cel zwiπzany z walkπ z pandemiπ koronawirusa.
+C. System kontroli wewnÍtrznej i zarzπdzanie ryzykiem
+Zarzπd SpÛ≥ki dominujπcej ponosi odpowiedzialnoúÊ za system kontroli wewnÍtrznej ca≥ej Grupy
+i jego efektywnoúÊ podczas procesu sporzπdzania raportÛw okresowych oraz jednostkowych
+i skonsolidowanych sprawozdaÒ finansowych opracowywanych i publikowanych zgodnie
+z Rozporzπdzeniem z dnia 29 marca 2018 roku w sprawie informacji bieøπcych i okresowych
+przekazywanych przez emitentÛw papierÛw wartoúciowych oraz warunkÛw uznawania
+za rÛwnowaøne informacji wymaganych przepisami prawa paÒstwa niebÍdπcego paÒstwem
+cz≥onkowskim.
+                                                                                                   28
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+NadzÛr nad procesem sporzπdzania sprawozdaÒ finansowych i raportÛw okresowych realizowanym
+g≥Ûwnie przez pion finansowy sprawuje Dyrektor Finansowy ñ Cz≥onek Zarzπdu ALUMETAL S.A.
+G≥Ûwnym sposobem na zapewnienie efektywnego systemu kontroli wewnÍtrznej i zarzπdzania
+ryzykiem w odniesieniu do procesu sporzπdzania jednostkowych i skonsolidowanych sprawozdaÒ
+finansowych Grupy jest dbanie o adekwatnoúÊ, rzetelnoúÊ oraz poprawnoúÊ informacji finansowych
+ujÍtych w raportach okresowych i sprawozdaniach finansowych, a takøe bezpieczeÒstwo informacji
+poufnych.
+Dzia≥ajπcy system kontroli wewnÍtrzne zarzπdzania ryzykiem SpÛ≥ki i Grupy w procesie
+sprawozdawczoúci finansowej stworzony zosta≥ g≥Ûwnie poprzez:
+    ï funkcjonowanie w ca≥ej Grupie ustalonej i zatwierdzonej jednorodnej polityki rachunkowoúci;
+    ï sprecyzowany za pomocπ procedur, instrukcji i regulaminÛw jasny podzia≥ obowiπzkÛw
+        oraz organizacji i kontroli pracy w ramach procesÛw raportowania finansowego zawarty
+        m.in. w:
+    - Instrukcji magazynowej,
+    - Instrukcji zamykania okresu sprawozdawczego,
+    - Instrukcji rejestracji danych w zintegrowanym informatycznym systemie zarzπdzania,
+    - Instrukcji inwentaryzacyjnej,
+    - Regulaminie organizacyjnym,
+    - Procedurze opisywania i potwierdzania faktur zakupowych w Grupie Kapita≥owej,
+    - Procedurze dot. przyjÍcia, rejestracji, skanowania i archiwizacji faktur zakupu,
+    - Regulaminie obiegu informacji poufnych,
+    - Procedurach sporzπdzania raportÛw okresowych,
+    - WewnÍtrznym regulaminie ESPI;
+    ï zastosowanie zintegrowanego informatycznego systemu zarzπdzania wydatnie
+        ograniczajπcego ryzyko niespÛjnoúci i nieprawid≥owoúci zastosowanych danych (minimalizacja
+        ryzyka o charakterze technicznym);
+    ï analizÍ wynikÛw i raportÛw kontrolnych realizowanπ przez wewnÍtrznych specjalistÛw Grupy
+        na poszczegÛlnych etapach sporzπdzania raportÛw i wynikÛw finansowych (minimalizacja
+        ryzyka o charakterze merytorycznym);
+    ï analizÍ osiπganych rezultatÛw i wskaünikÛw na kaødym szczeblu prowadzonej dzia≥alnoúci
+        poprzez komÛrki kontrolne, zarÛwno na poziomie jednostki zaleønej jak i z poziomu spÛ≥ki
+        dominujπcej Grupy;
+    ï sta≥π wspÛ≥pracÍ z doradcami finansowo-ksiÍgowymi, podatkowymi i prawnymi pozwalajπcπ
+        na prawid≥owe (zgodne z zasadami ksiÍgowymi i przepisami prawa) ujÍcie w sprawozdaniach
+        i raportach poszczegÛlnych operacji i zdarzeÒ gospodarczych;
+    ï weryfikacjÍ sprawozdaÒ finansowych przez bieg≥ego rewidenta.
+Organem dokonujπcym wyboru firmy audytorskiej SpÛ≥ki jest Rada Nadzorcza zgodnie
+z postanowieniami ÑPolityki wyboru podmiotu uprawnionego do badania ustawowego sprawozdaÒ
+finansowych SpÛ≥ki i Grupy Kapita≥owejî z dnia 10 paüdziernika 2017 roku oraz Procedury wyboru
+podmiotu uprawnionego do badania ustawowego sprawozdaÒ finansowych SpÛ≥ki i Grupy Kapita≥owej
+z dnia 10 paüdziernika 2017 roku, ktÛra bierze pod uwagÍ rekomendacjÍ Komitetu Audytu w tym
+zakresie.
+                                                                                               29
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+ D. Wdroøenie systemu compliance w Grupie ALUMETAL
+ Od dnia 2 stycznia 2020 roku funkcjonuje w Grupie ALUMETAL system compliance obejmujπcy swoim
+ zakresem wszystkie spÛ≥ki Grupy. Zasady funkcjonowania systemu compliance zosta≥y oparte na
+ wytycznych i rekomendacjach Komisji Nadzoru Finansowego, Gie≥dy PapierÛw Wartoúciowych oraz izb
+ i stowarzyszeÒ, czyli podmiotÛw specjalizujπcych siÍ w obszarze nadzoru zgodnoúci dzia≥alnoúci
+ z prawem.
+III.     Oúwiadczenie na temat informacji niefinansowych
+ W zwiπzku z faktem, øe SpÛ≥ka nie spe≥nia przes≥anek okreúlonych w art. 49b ust.1 Ustawy z dnia
+ 29 wrzeúnia 1994 roku o rachunkowoúci, oúwiadczenie na temat informacji niefinansowych
+ dotyczπcych Grupy Alumetal znajduje siÍ w Sprawozdaniu Zarzπdu z dzia≥alnoúci Grupy Kapita≥owej
+ ALUMETAL S.A. za rok 2020.
+ Zgodnie bowiem z art. 49b ust 11 tej ustawy jednostka bÍdπca jednostkπ zaleønπ, w tym jednostkπ
+ dominujπcπ niøszego szczebla, moøe nie sporzπdzaÊ oúwiadczenia na temat informacji niefinansowych
+ albo sprawozdania na temat informacji niefinansowych, jeøeli jej jednostka dominujπca wyøszego
+ szczebla majπca siedzibÍ lub miejsce sprawowania zarzπdu na terytorium Europejskiego Obszaru
+ Gospodarczego sporzπdza oúwiadczenie grupy kapita≥owej na temat informacji niefinansowych albo
+ sprawozdanie grupy kapita≥owej na temat informacji niefinansowych zgodnie z przepisami prawa
+ paÒstwa Europejskiego Obszaru Gospodarczego, ktÛremu podlega, ktÛrym obejmie tÍ jednostkÍ i jej
+ jednostki zaleøne kaødego szczebla. W takim przypadku jednostka ujawnia w sprawozdaniu
+ z dzia≥alnoúci nazwÍ i siedzibÍ jej jednostki dominujπcej wyøszego szczebla sporzπdzajπcej
+ oúwiadczenie albo sprawozdanie grupy kapita≥owej na temat informacji niefinansowych, ktÛre obejmie
+ tÍ jednostkÍ i jej jednostki zaleøne kaødego szczebla.
+IV.      Informacje o przedmiocie dzia≥alnoúci ALUMETAL S.A.
+ Przedmiot dzia≥alnoúci SpÛ≥ki jest okreúlony w ß 4 Statutu i obejmuje w szczegÛlnoúci dzia≥ania
+ w zakresie dzia≥alnoúci firm centralnych (headoffice) i holdingÛw z wy≥πczeniem holdingÛw
+ finansowych (PKD 70.10.Z).
+ ALUMETAL S.A. to spÛ≥ka holdingowa, ktÛra úwiadczy dla pozosta≥ych spÛ≥ek Grupy Alumetal us≥ugi:
+      ï      zarzπdzania (w tym rozwojowe i inwestycyjne, wsparcia operacyjnego oraz kontrolingowe)
+      ï      handlowe,
+      ï      finansowe,
+      ï      ksiÍgowe,
+      ï      kadrowo-p≥acowe,
+      ï      informatyczne.
+ Wyjπtkiem od powyøszego jest ALUMETAL Group Hungary Kft., ktÛra w zakresie
+ podatkowym oraz kadrowo-p≥acowym obs≥ugiwana by≥a w 2020 roku przez podmioty z kraju
+ macierzystego.
+ Us≥ugi powyøsze sπ realizowane na podstawie umÛw o ich úwiadczenie zawieranych pomiÍdzy
+ ALUMETAL S.A. oraz ALUMETAL Poland sp. z o.o., T+S sp. z o.o. i ALUMETAL Group Hungary Kft.
+ åwiadczenie powyøszych us≥ug jednoczeúnie s≥uøy wspieraniu moøliwoúci generowania úrodkÛw
+                                                                                                 30
+
+                                                     ALUMETAL S.A.
+                               Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+finansowych przez spÛ≥ki zaleøne i wyp≥acaniu regularnych dywidend na rzecz ALUMETAL S.A., co jest
+g≥Ûwnym ürÛd≥em przychodÛw SpÛ≥ki.
+V.        Ocena sytuacji ALUMETAL S.A.
+1. Zasady sporzπdzenia sprawozdania finansowego                                                    i     informacja
+     o podmiocie uprawnionym do jego badania
+Sprawozdanie finansowe za 2020 rok, a takøe dane porÛwnywalne za rok poprzedni, zosta≥y
+sporzπdzone zgodnie z MiÍdzynarodowymi Standardami Sprawozdawczoúci Finansowej,
+MiÍdzynarodowymi Standardami Rachunkowoúci oraz zwiπzanymi z nimi interpretacjami og≥oszonymi
+w formie rozporzπdzeÒ Komisji Europejskiej.
+Podmiotem uprawnionym do badania sprawozdania finansowego jest PricewaterhouseCoopers Polska
+spÛ≥ka z ograniczonπ odpowiedzialnoúciπ Audyt spÛ≥ka komandytowa z siedzibπ w Warszawie przy ul.
+Polnej 11, na podstawie umowy z dnia 8 czerwca 2020 roku.
+W dniu 13 grudnia 2019 roku Rada Nadzorcza dokona≥a wyboru PricewaterhouseCoopers Polska
+spÛ≥ka z ograniczonπ odpowiedzialnoúciπ Audyt spÛ≥ka komandytowa z siedzibπ w Warszawie przy ul.
+Polnej 11, do przeprowadzenia badania sprawozdania finansowego SpÛ≥ki w latach obrotowych 2020
+i 2021.
+Poniøsza tabela przedstawia wynagrodzenie podmiotu uprawnionego do badania sprawozdaÒ
+finansowych wyp≥acone lub naleøne za rok zakoÒczony dnia 31 grudnia 2020 roku i 31 grudnia 2019
+roku w podziale na rodzaje us≥ug:
+                                                                                      w tys. PLN
+         Rodzaj us≥ugi
+                                                                       Rok zakoÒczony         Rok zakoÒczony
+                                                                      31 grudnia 2020*       31 grudnia 2019**
+         Obowiπzkowe badanie skonsolidowanego oraz
+         jednostkowych sprawozdaÒ finansowych                                165                    100
+         Przeglπd úrÛdrocznych sprawozdaÒ finansowych                         60                     50
+         Razem                                                               225                    150
+       * Odnosi siÍ do PricewaterhouseCoopers Polska spÛ≥ka z ograniczonπ odpowiedzialnoúciπ Audyt sp.k.
+       ** Odnosi siÍ do Ernst & Young Audyt Polska spÛ≥ka z ograniczonπ odpowiedzialnoúciπ sp.k
+2. èrÛd≥a przychodÛw ALUMETAL S.A.
+A. Przychody z dzia≥alnoúci holdingowej ALUMETAL S.A.
+èrÛd≥em przychodÛw ALUMETAL S.A. w okresie sprawozdawczym, jako spÛ≥ki holdingowej, by≥y
+dywidendy otrzymywane od spÛ≥ek zaleønych oraz úwiadczone wy≥πcznie na rzecz spÛ≥ek zaleønych
+us≥ugi: zarzπdzania (w tym rozwojowe i inwestycyjne, wsparcia operacyjnego oraz kontrolingowe),
+handlowe, kadrowo-p≥acowe, finansowe, ksiÍgowe oraz informatyczne.
+SpÛ≥ka nie prowadzi dzia≥alnoúci wytwÛrczej, ktÛra odbywa siÍ w ca≥oúci w jednostkach zaleønych.
+                                                                                                                 31
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Poniøej w tabeli zaprezentowano przychody ALUMETAL S.A.:
+                                                                                       w tys. PLN
+  Struktura przychodÛw ALUMETAL S.A.
+                                                                      Rok zakoÒczony            Rok zakoÒczony
+                                                                      31 grudnia 2020           31 grudnia 2019
+  Przychody z tytu≥u dywidend                                                     33 000                   64 769
+  Przychody z umÛw z klientami                                                     9 566                   10 505
+  Przychody z dzia≥alnoúci ogÛ≥em                                                 42 566                   75 274
+Istotnym ürÛd≥em przychodÛw ALUMETAL S.A. sπ dywidendy zaprezentowane w poniøszej tabeli.
+                                                                                       w tys. PLN
+  Otrzymane dywidendy przez ALUMETAL S.A.
+  w tym od:                                                           Rok zakoÒczony            Rok zakoÒczony
+                                                                      31 grudnia 2020           31 grudnia 2019
+  Alumetal Poland sp. z o.o.                                                      33 000                    63 500
+  T+S sp. z o.o.                                                                        ñ                    1 269
+  Razem                                                                           33 000                    64 769
+Poziom dywidend wyp≥acanych przez spÛ≥ki zaleøne jest uzaleøniony od potrzeb finansowych
+ALUMETAL S.A. oraz wynikÛw osiπganych przez te spÛ≥ki.
+Zarzπd ALUMETAL S.A. w dniu 16 marca 2020 roku, biorπc pod uwagÍ rosnπce zagroøenie
+epidemiologiczne chorobπ COVID-19, majπce negatywny wp≥yw na sytuacjÍ gospodarczπ kraju
+i Europy, podjπ≥ uchwa≥Í o zamiarze przed≥oøenia Radzie Nadzorczej i Zwyczajnemu Walnemu
+Zgromadzeniu ALUMETAL S.A. wniosku Zarzπdu o podziale zysku netto Alumetal S.A zawierajπcego
+rekomendacjÍ niewyp≥acania dywidendy za rok 2019, lecz utworzenie kapita≥u rezerwowego
+w wysokoúci 70% znormalizowanego skonsolidowanego zysku netto Grupy Alumetal osiπgniÍtego
+w roku 2019 przeznaczonego na wyp≥atÍ dywidendy przysz≥oúci, w tym dywidendy zaliczkowej. Zarzπd
+planowa≥ jednoczeúnie zarekomendowanie we wniosku pozostawienie tych úrodkÛw w SpÛ≥ce
+w przypadku kontynuacji niekorzystnego rozwoju wydarzeÒ w najbliøszych miesiπcach, co w takim
+przypadku oznacza≥oby jednorazowe odstπpienie od polityki dywidendowej. Powyøsze dzia≥anie mia≥o
+na celu zabezpieczenie sytuacji finansowej Grupy zwiπzanej z ewentualnymi negatywnymi skutkami
+dalszego rozprzestrzeniania siÍ zagroøenia epidemiologicznego. SpÛ≥ka poinformowa≥a o tym zamiarze
+Zarzπdu w raporcie bieøπcym nr 3/2020 w dniu 16 marca 2020 roku.
+                                                                                                                  32
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+NastÍpnie w dniu 23 marca 2020 roku, Zarzπd ALUMETAL S.A. podjπ≥ uchwa≥Í w przedmiocie
+wystπpienia do Rady Nadzorczej, a nastÍpnie do Zwyczajnego Walnego Zgromadzenia z wnioskiem
+w sprawie podzia≥u zysku netto ALUMETAL S.A. za rok 2019 w oparciu o wyøej opisane zasady.
+Majπc na uwadze powyøsze, Zarzπd SpÛ≥ki wniÛs≥ o dokonanie podzia≥u zysku netto SpÛ≥ki za rok
+obrotowy 2019 w kwocie 63 720 898,73 z≥ (s≥ownie: szeúÊdziesiπt trzy miliony siedemset dwadzieúcia
+tysiÍcy osiemset dziewiÍÊdziesiπt osiem z≥otych siedemdziesiπt trzy grosze) w nastÍpujπcy sposÛb:
+    a) kwotÍ 43 806 965,19 z≥ (s≥ownie: czterdzieúci trzy miliony osiemset szeúÊ tysiÍcy dziewiÍÊset
+        szeúÊdziesiπt piÍÊ z≥otych dziewiÍtnaúcie groszy) na utworzenie kapita≥u rezerwowego
+        przeznaczonego na wyp≥atÍ dywidendy, w tym dywidendy zaliczkowej, w przysz≥oúci,
+    b) kwotÍ 38 500,00 z≥ (s≥ownie: trzydzieúci osiem tysiÍcy piÍÊset z≥otych zero groszy) na zasilenie
+        Zak≥adowego Funduszu åwiadczeÒ Socjalnych SpÛ≥ki,
+    c) kwotÍ 19 875 433,54 z≥ (s≥ownie: dziewiÍtnaúcie milionÛw osiemset siedemdziesiπt piÍÊ tysiÍcy
+        czterysta trzydzieúci trzy z≥ote piÍÊdziesiπt cztery grosze) na kapita≥ zapasowy.
+O wniosku Zarzπdu SpÛ≥ki w sprawie podzia≥u zysku za 2019 rok, SpÛ≥ka informowa≥a w raporcie
+bieøπcym nr 5/2020 z dnia 23 marca 2020 roku.
+Rada Nadzorcza pozytywnie zaopiniowa≥a wniosek Zarzπdu SpÛ≥ki dotyczπcy podzia≥u zysku netto za
+rok obrotowy 2019 i zarekomendowa≥a Zwyczajnemu Walnemu Zgromadzeniu podjÍcie uchwa≥y
+o rozporzπdzeniu zyskiem netto za rok 2019 zgodnie z wnioskiem Zarzπdu. O opinii Rady Nadzorczej
+Emitent poinformowa≥ raportem bieøπcym nr 7/2020 z dnia 15 kwietnia 2020 roku.
+W dniu 28 sierpnia 2020 roku Zwyczajne Walne Zgromadzenie podjÍ≥o uchwa≥Í o podziale zysku SpÛ≥ki
+za rok obrotowy od 1 stycznia do 31 grudnia 2019 roku, przeznaczajπc m.in. na kapita≥ rezerwowy
+kwotÍ 43 807 tys. z≥ na wyp≥atÍ dywidendy, w tym dywidendy zaliczkowej, w przysz≥oúci, o czym
+Emitent poinformowa≥ raportem bieøπcy nr 16/2020 z dnia 28 sierpnia 2020 roku.
+B. Przychody finansowe
+èrÛd≥em przychodÛw finansowych ALUMETAL S.A. sπ otrzymane odsetki, g≥Ûwnie od udzielonej
+ALUMETAL Group Hungary Kft. poøyczki d≥ugoterminowej.
+C. Przychody jednorazowe
+W 2020 roku nie wystπpi≥y istotne przychody jednorazowe, poza dofinansowaniem do kosztÛw
+wynagrodzeÒ w efekcie tarczy antykryzysowej 4.0 w zwiπzku z COVID-19 otrzymanym w III kwartale
+2020 roku w kwocie 345 tys. z≥, o czy mowa szerzej w punkcie V.6.D niniejszego sprawozdania.
+3. Koszty dzia≥alnoúci ALUMETAL S.A.
+Uzyskiwane przychody ze sprzedaøy us≥ug jednostkom powiπzanym pokrywajπ koszt w≥asny us≥ug
+úwiadczonych przez ALUMETAL S.A.
+Niemniej jednak ALUMETAL S.A. jako spÛ≥ka holdingowa ponosi koszty realizacji w≥asnych zadaÒ. Jako
+najbardziej znaczπce koszty w tym obszarze naleøy wymieniÊ: us≥ugi doradcze, audytorskie, prawne,
+                                                                                                    33
+
+                                                   ALUMETAL S.A.
+                             Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+koszty zwiπzane z dzia≥alnoúciπ organÛw ALUMETAL S.A. oraz statusem spÛ≥ki publicznej, koszty
+wyceny programu motywacyjnego, a takøe wynagrodzenia wraz z narzutami.
+4. Wyniki, wskaüniki, struktura bilansu i sytuacja finansowa ALUMETAL S.A.
+Dane zestawione w poniøszej tabeli syntetycznie prezentujπ wyniki ALUMETAL S.A. w 2020 roku
+w porÛwnaniu do roku poprzedniego:
+    POZYCJE SPRAWOZDANIA Z CA£KOWITYCH                              w tys. PLN                    w tys. EUR
+      DOCHOD”W ORAZ SPRAWOZDANIA Z                       12 miesiÍcy 12 miesiÍcy         12 miesiÍcy 12 miesiÍcy
+            PRZEP£W”W PIENI ØNYCH                             2020            2019           2020            2019
+ Przychody z dzia≥alnoúci holdingowej                        42 566          75 274          9 514          17 498
+ Zysk z dzia≥alnoúci operacyjnej                             32 166          63 733          7 189          14 815
+ EBITDA                                                      33 066          64 540          7 390          15 003
+ Zysk przed opodatkowaniem                                   32 615          63 750          7 290          14 819
+ Zysk netto                                                  32 707          63 721          7 310          14 813
+ Przep≥ywy pieniÍøne netto z dzia≥alnoúci
+                                                             32 142          65 134          7 184          15 141
+ operacyjnej
+ Przep≥ywy pieniÍøne netto z dzia≥alnoúci
+                                                            -20 658           7 751         -4 617          1 802
+ inwestycyjnej
+ Przep≥ywy pieniÍøne netto z dzia≥alnoúci
+                                                             -9 112         -72 011         -2 037         -16 740
+ finansowej
+ Przep≥ywy pieniÍøne netto razem                              2 372            874            530             203
+ Podstawowy zysk netto akcjonariuszy jednostki
+                                                              2,11            4,12           0,47            0,96
+ dominujπcej na jednπ akcjÍ (w PLN i EUR)
+ Rozwodniony zysk netto akcjonariuszy jednostki
+                                                              2,11            4,12           0,47            0,96
+ dominujπcej na jednπ akcjÍ (w PLN i EUR)
+                 POZYCJE BILANSU                          31.12.2020      31.12.2019      31.12.2020      31.12.2019
+ Aktywa razem                                               310 300         284 967         67 240          66 917
+ Aktywa trwa≥e                                              288 873         274 282         62 597          64 408
+ Aktywa obrotowe                                             14 596          10 685          3 163           2 509
+ Kapita≥ w≥asny                                             291 002         258 382         63 058          60 675
+ Kapita≥ akcyjny                                              1 548           1 548           335             363
+ Zobowiπzania d≥ugoterminowe                                   849           16 508           184            3 877
+ Zobowiπzania krÛtkoterminowe                                18 449          10 077          3 998           2 366
+ Liczba akcji                                             15 479 493      15 479 493      15 479 493      15 479 493
+ WartoúÊ ksiÍgowa na jednπ akcjÍ (w PLN i EUR)               18,80           16,69           4,07            3,92
+                                                                                                                   34
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+ Rozwodniona wartoúÊ ksiÍgowa na jednπ akcjÍ
+                                                           18,80         16,69           4,07         3,92
+ (w PLN i EUR)
+ Planowana lub wyp≥acona dywidenda na jednπ
+                                                           2,92*          0,00           0,63*        0,00
+ akcjÍ (w PLN i EUR)
+* dywidenda planowana
+Powyøsze dane finansowe za lata 2020 i 2019 roku zosta≥y przeliczone na EUR wed≥ug nastÍpujπcych
+zasad:
+- pozycje aktywÛw i pasywÛw - wed≥ug úredniego kursu okreúlonego przez Narodowy Bank Polski na
+dzieÒ 31.12.2020 - 4,6148 EUR/PLN oraz na dzieÒ 31.12.2019 - 4,2585 EUR/PLN,
+- pozycje sprawozdania z ca≥kowitych dochodÛw oraz sprawozdania z przep≥ywÛw pieniÍønych -
+wed≥ug kursu stanowiπcego úredniπ arytmetycznπ kursÛw okreúlonych przez Narodowy Bank Polski na
+ostatnie dni miesiπca: 12 miesiÍcy 2020 - 4,4742 EUR/PLN oraz 12 miesiÍcy 2019 - 4,3018 EUR/PLN.
+Zysk netto za ca≥y 2020 rok wyniÛs≥ 32 707 tys. z≥, natomiast w 2019 roku wyniÛs≥ 63 721 tys. z≥.
+Poniøsza tabela prezentuje zestawienie najwaøniejszych wskaünikÛw finansowych pozwalajπcych
+w kompleksowy sposÛb oceniÊ rentownoúÊ, p≥ynnoúÊ oraz stopieÒ zad≥uøenia ALUMETAL S.A.
+ Wskaünik finansowy     Opis wskaünika                  2020      2019   2018      2017    2016 2015     2014
+ rentownoúÊ majπtku (%) Zysk netto/Aktywa ogÛ≥em       10,5%     22,4%  15,0%     13,3%   25,3% 24,7%    0,8%
+ rentownoúÊ kapita≥u    Zysk netto/Kapita≥ w≥asny
+                                                       12,7%     24,8%  17,1%     15,5%   35,9% 30,8%    0,8%
+ w≥asnego (%)           na poczπtek okresu
+                        Aktywa obrotowe ogÛ≥em/
+ p≥ynnoúÊ ñ wskaünik
+                        Zobowiπzania                     0,8       1,1    1,0       1,0     1,3   0,6     0,8
+ p≥ynnoúci I
+                        krÛtkoterminowe
+ wskaünik               Aktywa trwa≥e ogÛ≥em/
+                                                        19,8      25,7   25,4      24,6    59,4  45,0     60,6
+ unieruchomienia        Aktywa obrotowe ogÛ≥em
+ majπtku (krotnoúÊ)
+                        (Kapita≥ w≥asny +
+ trwa≥oúÊ struktury
+                        zobowiπzania d≥ugoterm.)/      94,1%     96,5%  96,1%     96,0%   98,7% 96,2%    98,1%
+ finansowania (%)
+                        Pasywa ogÛ≥em
+ obciπøenie majπtku     (Suma pasywÛw-kapita≥           6,2%      9,3%  12,3%     14,7%   15,4% 5,4%     2,2%
+ zobowiπzaniami (%)     w≥asny)/Aktywa ogÛ≥em
+Sytuacja finansowa ALUMETAL S.A. jest úciúle zwiπzana z sytuacjπ ca≥ej Grupy, poniewaø polityka
+finansowa oraz zarzπdzanie ryzykiem realizowane jest na poziomie skonsolidowanym.
+Uzyskiwane marøe w biznesie zarzπdzanym przez ALUMETAL S.A. charakteryzujπ siÍ duøπ stabilnoúciπ,
+zad≥uøenie odsetkowe jest niskie, obrotowoúÊ majπtku wysoka, a p≥ynnoúÊ finansowa dobra, co
+powoduje, øe perspektywa wywiπzywania siÍ przez ALUMETAL S.A. ze zobowiπzaÒ jest bezpieczna.
+                                                                                                              35
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+5. Transakcje Emitenta w ramach Grupy Kapita≥owej ALUMETAL S.A.
+W okresie sprawozdawczym Emitent nie dokonywa≥ istotnych transakcji ze swoimi podmiotami
+powiπzanymi na innych warunkach niø rynkowe.
+6. Istotne i nietypowe zdarzenia, umowy znaczπce dla dzia≥alnoúci oraz
+      czynniki majπce wp≥yw na osiπgniÍte wyniki w 2020 roku
+A. Przystπpienie ALUMETAL S.A. do programu PPK
+ALUMETAL S.A. przystπpi≥a do programu PPK podpisujπc umowÍ o zarzπdzanie PPK oraz umowÍ
+o prowadzenie PPK w dniu 18 marca 2020 roku. Pierwsze sk≥adki zosta≥y odprowadzone w listopadzie
+2020 roku.
+B. Pojawienie siÍ i rozwÛj pandemii koronawirusa w Polsce i w Europie
+Na wyniki ALUMETAL S.A. jak rÛwnieø ca≥ej gospodarki, w tym przemys≥u motoryzacyjnego w Europie
+i na úwiecie istotnie negatywny wp≥yw mia≥ úwiatowy rozwÛj pandemii koronawirusa i choroby COVID-
+19. Skala oddzia≥ywania tego zjawiska by≥a duøa, a potencjalne skutki d≥ugofalowe trudne do
+skwantyfikowania. Na moment publikacji niniejszego sprawozdania w ocenie Zarzπdu pandemia
+wywar≥a duøy wp≥yw na wyniki finansowe w 2020 roku, zw≥aszcza na wyniki II i III kwarta≥u 2020 roku.
+Aktualnie jednak nie wywiera bardzo silnego wp≥ywu na bieøπcπ dzia≥alnoúÊ Emitenta, gdyø popyt na
+wyroby Grupy jest bardzo wysoki. Naleøy jednak mieÊ na uwadze, øe obecna niezwykle dynamicznie
+zmieniajπca siÍ sytuacja, w tym moøliwe zmiany w otoczeniu prawno-regulacyjnym powodujπ, iø
+pomimo najdalej posuniÍtej starannoúci i podejmowania dzia≥aÒ zapobiegawczych, Zarzπd nie jest
+w stanie przewidzieÊ dalszego rozwoju wydarzeÒ, a w konsekwencji wp≥ywu pandemii na
+skonsolidowane wyniki finansowe SpÛ≥ki w 2021 roku i perspektywy jej rozwoju.
+Wp≥yw COVID -19 jest widoczny w wynikach 2020 roku przede wszystkim w postaci g≥Íbokiego spadku
+przychodÛw SpÛ≥ki i Grupy.
+W obliczu zaistnia≥ej sytuacji SpÛ≥ka i Grupa ALUMETAL podjÍ≥y szereg dzia≥aÒ w zakresie:
+     a) bezpieczeÒstwa ñ wdroøenie procedur i rozwiπzaÒ antypandemicznych (úrodki higieny
+         i ochronne, rotacja zespo≥Ûw, ograniczenie kontaktÛw zewnÍtrznych i wewnÍtrznych, praca
+         zdalna) w celu zabezpieczenia pracownikÛw przed zakaøeniem i zapewnienia ciπg≥oúci
+         procesÛw,
+     b) spo≥ecznym - wsparcie funduszu interwencyjnego Wielkiej Orkiestry åwiπtecznej Pomocy
+         kwotπ 250 tys. z≥,
+     c) operacyjnym (w zakresie oszczÍdnoúciowym i organizacji pracy):
+         ï   ograniczenie kosztÛw operacyjnych,
+         ï   renegocjacja duøej czÍúci umÛw sta≥ych,
+         ï   rezygnacja z ponoszenia czÍúci zabudøetowanych kosztÛw,
+         ï   dostosowanie poziomu zatrudnienia,
+     d) p≥ynnoúciowym:
+                                                                                                 36
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+        ï    23 marca 2020 roku rekomendacja Zarzπdu, 15 kwietnia 2020 roku pozytywna opinia Rady
+             Nadzorczej odnoúnie podzia≥u zysku za 2019 rok oraz decyzja Zwyczajnego Walnego
+             Zgromadzenia ALUMETAL S.A. z dnia 28 sierpnia 2020 roku ñ przeznaczenie 70%
+             znormalizowanego skonsolidowanego zysku netto na kapita≥ rezerwowy na wyp≥atÍ
+             dywidendy w przysz≥oúci lub trwa≥e zachowanie tych úrodkÛw w SpÛ≥ce,
+        ï    wdroøenie dodatkowych rozwiπzaÒ zwiπzanych z zarzπdzaniem majπtkiem obrotowym
+             netto,
+        ï    przesuniÍcie nieznacznej czÍúci planowanych wydatkÛw inwestycyjnych z 2020 roku na
+             2021 rok,
+        ï    odnowienie umÛw kredytowych na kolejny rok z dotychczasowymi bankami,
+        ï    wystπpienie do WojewÛdzkiego UrzÍdu Pracy o dofinansowanie wynagrodzeÒ
+             pracownikÛw nieobjÍtych przestojem/obniøonym wymiarem czasu pracy (o czym mowa
+             szerzej poniøej w punktach VI.4. G oraz H).
+Aktualnie ALUMETAL S.A. i Grupa ma bardzo dobrπ kondycjÍ finansowπ (silny bilans, relatywnie niski
+d≥ug netto) i nie przewiduje problemÛw z p≥ynnoúciπ finansowπ, a gwa≥towne zmiany na rynku
+walutowym, stÛp procentowych i surowcÛw nie sπ dla niej istotnym zagroøeniem. ALUMETAL S.A. i jej
+spÛ≥ki zaleøne odnowi≥a umowy kredytowe z bankami dotychczas finansujπcymi dzia≥alnoúÊ Grupy.
+Mimo tego, øe SpÛ≥ka podjÍ≥a szereg dzia≥aÒ w celu ograniczenia skutkÛw pandemii na swojπ
+dzia≥alnoúÊ, to jednak moøliwoúci wp≥ywu na pewne zjawiska i ryzyka wystÍpujπce w tym zakresie sπ
+mocno ograniczone. Postoje w przemyúle motoryzacyjnym, spadek popytu i sprzedaøy samochodÛw
+niewπtpliwie wp≥ynÍ≥y negatywnie na wyniki Grupy w 2020 roku i mogπ rÛwnieø wp≥ynπÊ negatywnie
+na jej wyniki w kolejnych okresach. W ostatnich miesiπcach zanotowano jednak poprawÍ koniunktury
+w przemyúle motoryzacyjnym i zdecydowane zwiÍkszenie zainteresowania klientÛw zamawianiem
+wyrobÛw Grupy Alumetal. O wp≥ywie pandemii na wielkoúÊ sprzedaøy i wyniki finansowe Zarzπd
+ALUMETAL S.A. informowa≥ w opublikowanych raportach bieøπcych: nr 4/2020 z dnia 18 marca 2020
+roku, nr 6/2020 z dnia 9 kwietnia 2020 roku oraz nr 8/2020 z dnia 15 maja 2020 roku.
+G≥Ûwnym celem SpÛ≥ki w tym pandemicznym okresie jest optymalne przeprowadzenie Grupy przez ten
+wymagajπcy okres, wzmocnienie przewag konkurencyjnych i pozycji rynkowej w d≥uøszej perspektywie
+czasowej.
+C. Zawieszenie polityki dywidendowej
+Zarzπd ALUMETAL S.A. w dniu 16 marca 2020 roku, biorπc pod uwagÍ rosnπce zagroøenie
+epidemiologiczne chorobπ COVID-19, majπce negatywny wp≥yw na sytuacjÍ gospodarczπ kraju
+i Europy, podjπ≥ uchwa≥Í o zamiarze przed≥oøenia Radzie Nadzorczej i Zwyczajnemu Walnemu
+Zgromadzeniu ALUMETAL S.A. wniosku Zarzπdu o podziale zysku netto Alumetal S.A zawierajπcego
+rekomendacjÍ niewyp≥acania dywidendy za rok 2019, lecz utworzenie kapita≥u rezerwowego
+w wysokoúci 70% znormalizowanego skonsolidowanego zysku netto Grupy Alumetal osiπgniÍtego
+w roku 2019 przeznaczonego na wyp≥atÍ dywidendy przysz≥oúci, w tym dywidendy zaliczkowej. Zarzπd
+planowa≥ jednoczeúnie zarekomendowanie we wniosku pozostawienie tych úrodkÛw w SpÛ≥ce
+w przypadku kontynuacji niekorzystnego rozwoju wydarzeÒ w najbliøszych miesiπcach, co w takim
+przypadku oznacza≥oby jednorazowe odstπpienie od polityki dywidendowej. Powyøsze dzia≥anie mia≥o
+na celu zabezpieczenie sytuacji finansowej Grupy zwiπzanej z ewentualnymi negatywnymi skutkami
+                                                                                               37
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+dalszego rozprzestrzeniania siÍ zagroøenia epidemiologicznego. SpÛ≥ka poinformowa≥a o tym zamiarze
+Zarzπdu w raporcie bieøπcym nr 3/2020 w dniu 16 marca 2020 roku.
+NastÍpnie w dniu 23 marca 2020 roku, Zarzπd ALUMETAL S.A. podjπ≥ uchwa≥Í w przedmiocie
+wystπpienia do Rady Nadzorczej, a nastÍpnie do Zwyczajnego Walnego Zgromadzenia z wnioskiem
+w sprawie podzia≥u zysku netto ALUMETAL S.A. za rok 2019 w oparciu o wyøej opisane zasady.
+Majπc na uwadze powyøsze, Zarzπd SpÛ≥ki wniÛs≥ o dokonanie podzia≥u zysku netto SpÛ≥ki za rok
+obrotowy 2019 w kwocie 63 720 898,73 z≥ (s≥ownie: szeúÊdziesiπt trzy miliony siedemset dwadzieúcia
+tysiÍcy osiemset dziewiÍÊdziesiπt osiem z≥otych siedemdziesiπt trzy grosze) w nastÍpujπcy sposÛb:
+    d) kwotÍ 43 806 965,19 z≥ (s≥ownie: czterdzieúci trzy miliony osiemset szeúÊ tysiÍcy dziewiÍÊset
+         szeúÊdziesiπt piÍÊ z≥otych dziewiÍtnaúcie groszy) na utworzenie kapita≥u rezerwowego
+         przeznaczonego na wyp≥atÍ dywidendy, w tym dywidendy zaliczkowej, w przysz≥oúci,
+    e) kwotÍ 38 500,00 z≥ (s≥ownie: trzydzieúci osiem tysiÍcy piÍÊset z≥otych zero groszy) na zasilenie
+         Zak≥adowego Funduszu åwiadczeÒ Socjalnych SpÛ≥ki,
+    f)   kwotÍ 19 875 433,54 z≥ (s≥ownie: dziewiÍtnaúcie milionÛw osiemset siedemdziesiπt piÍÊ tysiÍcy
+         czterysta trzydzieúci trzy z≥ote piÍÊdziesiπt cztery grosze) na kapita≥ zapasowy.
+O wniosku Zarzπdu SpÛ≥ki w sprawie podzia≥u zysku za 2019 rok, SpÛ≥ka informowa≥a w raporcie
+bieøπcym nr 5/2020 z dnia 23 marca 2020 roku.
+Rada Nadzorcza pozytywnie zaopiniowa≥a wniosek Zarzπdu SpÛ≥ki dotyczπcy podzia≥u zysku netto za
+rok obrotowy 2019 i zarekomendowa≥a Zwyczajnemu Walnemu Zgromadzeniu podjÍcie uchwa≥y
+o rozporzπdzeniu zyskiem netto za rok 2019 zgodnie z wnioskiem Zarzπdu. O opinii Rady Nadzorczej
+Emitent poinformowa≥ raportem bieøπcym nr 7/2020 z dnia 15 kwietnia 2020 roku.
+W dniu 28 sierpnia 2020 roku Zwyczajne Walne Zgromadzenie podjÍ≥o uchwa≥Í o podziale zysku SpÛ≥ki
+za rok obrotowy od 1 stycznia do 31 grudnia 2019 roku, przeznaczajπc m.in. na kapita≥ rezerwowy
+kwotÍ 43 807 tys. z≥ na wyp≥atÍ dywidendy, w tym dywidendy zaliczkowej, w przysz≥oúci, o czym
+Emitent poinformowa≥ raportem bieøπcy nr 16/2020 z dnia 28 sierpnia 2020 roku.
+D. Przyznanie dofinansowania dla ALUMETAL S.A. ze úrodkÛw Funduszu
+     Gwarantowanych åwiadczeÒ Pracowniczych
+W zwiπzku z wejúciem w øycie tarczy antykryzysowej 4.0, ALUMETAL S.A. z≥oøy≥a w dniu 7 lipca 2020
+roku wniosek do WojewÛdzkiego UrzÍdu Pracy o dofinansowanie wynagrodzeÒ pracownikÛw
+nieobjÍtych przestojem/obniøonym wymiarem czasu pracy (art. 15gg Ustawy z dnia 19 czerwca 2020
+roku o dop≥atach do oprocentowania kredytÛw bankowych udzielanych przedsiÍbiorcom dotkniÍtym
+skutkami COVID-19 oraz o uproszczonym postÍpowaniu o zatwierdzenie uk≥adu w zwiπzku
+z wystπpieniem COVID-19). W dniu 4 sierpnia 2020 roku wniosek zosta≥ pozytywnie rozpatrzony,
+a kwota przyznanego wsparcia wynios≥a 345 tys. z≥.
+E. Rezygnacja Cz≥onka Rady Nadzorczej
+W dniu 31 lipca 2020 roku do SpÛ≥ki wp≥ynÍ≥a pisemna rezygnacja Pana Fransa Bijlhouwera z funkcji
+cz≥onka Rady Nadzorczej SpÛ≥ki ze skutkiem na dzieÒ odbycia najbliøszego Walnego Zgromadzenia
+SpÛ≥ki. Powodem z≥oøenia rezygnacji przez Pana Fransa Bijlhouwera by≥o przejúcie na emeryturÍ. Na
+powyøszπ okolicznoúÊ SpÛ≥ka opublikowa≥a raport bieøπcy nr 11/2020 z dnia 31 lipca 2020 roku.
+                                                                                                    38
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+F. ZwiÍkszenie kapita≥u w≥asnego spÛ≥ki zaleønej
+W dniu 31 lipca 2020 Rada Nadzorcza SpÛ≥ki wyrazi≥a zgodÍ na podniesienie przez ALUMETAL S.A.
+kapita≥u w≥asnego w spÛ≥ce zaleønej Alumetal Group Hungary Kft. z siedzibπ w Komarom na WÍgrzech
+w postaci tzw. wp≥aty dodatkowej do kapita≥u w wysokoúci 1 850 mln HUF (rÛwnowartoúÊ oko≥o
+23,5 mln z≥). ZwiÍkszenie kapita≥u w≥asnego zosta≥o zrealizowane stopniowo w transzach w sierpniu
+i wrzeúniu 2020 roku. Celem podniesienia kapita≥u w≥asnego Alumetal Group Hungary Kft. jest
+wzmocnienie bilansu tej spÛ≥ki oraz optymalizacja struktury finansowania w Grupie Alumetal.
+W rezultacie tej operacji koszty finansowe Grupy Alumetal ulegnπ obniøeniu oraz zmniejszy siÍ wp≥yw
+rÛønic kursowych na jej wyniki finansowe. Na powyøszπ okolicznoúÊ SpÛ≥ka opublikowa≥a raport
+bieøπcy nr 12/2020 z dnia 31 lipca 2020 roku.
+G. Powo≥anie Cz≥onka Rady Nadzorczej
+W dniu 28 sierpnia 2020 roku Zwyczajne Walne Zgromadzenie SpÛ≥ki powo≥a≥o w sk≥ad Rady
+Nadzorczej ALUMETAL S.A. Pana Michaela Rohde Pedersena na wspÛlnπ trzyletniπ kadencjÍ. Na
+powyøszπ okolicznoúÊ SpÛ≥ka opublikowa≥a raport bieøπcy nr 17/2020 w dniu 28 sierpnia 2020 roku.
+H. Uchwalenie Programu Motywacyjnego IV oraz warunkowego podwyøszenia
+     kapita≥u przez Nadzwyczajne Walne Zgromadzenie SpÛ≥ki
+W dniu 12 listopada 2020 roku odby≥o siÍ Nadzwyczajne Walne Zgromadzenie SpÛ≥ki, na ktÛrym zosta≥y
+podjÍte uchwa≥y, o ktÛrych mowa poniøej:
+    -   w sprawie ustanowienia Programu Motywacyjnego IV, warunkowego podwyøszenia kapita≥u
+        zak≥adowego SpÛ≥ki oraz emisji warrantÛw subskrypcyjnych z wy≥πczeniem w ca≥oúci prawa
+        poboru akcjonariuszy w odniesieniu do warrantÛw subskrypcyjnych i akcji emitowanych
+        w ramach kapita≥u warunkowego oraz zmiany Statutu,
+    -   przyjÍcia tekstu jednolitego Statutu.
+SpÛ≥ka poinformowa≥a rynek o treúci podjÍtych uchwa≥ oraz wynikach g≥osowania na Nadzwyczajnym
+Walnym Zgromadzeniu raportem bieøπcym nr 23/2020 z dnia 12 listopada 2020 roku.
+I.   Umowy zawarte pomiÍdzy akcjonariuszami
+SpÛ≥ka w okresie sprawozdawczym nie otrzyma≥a informacji o umowach znaczπcych dla swojej
+dzia≥alnoúci, zawartych pomiÍdzy akcjonariuszami.
+7. Istotne i nietypowe zdarzenia, umowy znaczπce dla dzia≥alnoúci oraz
+     czynniki majπce wp≥yw na wyniki zaistnia≥e po dniu bilansowym
+A. Rejestracja warunkowego podwyøszenia kapita≥u zak≥adowego i zmiany Statutu
+W dniu 8 stycznia 2021 roku Zarzπd powziπ≥ informacjÍ, iø dnia 14 grudnia 2020 roku Sπd Rejonowy dla
+Krakowa-årÛdmieúcia w Krakowie, XII Wydzia≥ Gospodarczy Krajowego Rejestru Sπdowego dokona≥
+rejestracji:
+    - podwyøszenia wartoúci nominalnej warunkowego kapita≥u zak≥adowego zwiπzanego
+        z podjÍciem w dniu 12 listopada 2020 roku uchwa≥y nr 3 Nadzwyczajnego Walnego
+        Zgromadzenia SpÛ≥ki (ÑNWZî) w sprawie ustanowienia Programu Motywacyjnego IV,
+        warunkowego podwyøszenia kapita≥u zak≥adowego SpÛ≥ki oraz emisji warrantÛw
+                                                                                                 39
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+          subskrypcyjnych z wy≥πczeniem w ca≥oúci prawa poboru akcjonariuszy w odniesieniu do
+          warrantÛw subskrypcyjnych i akcji emitowanych w ramach kapita≥u warunkowego oraz zmiany
+          Statutu,
+     - zmiany w Statucie SpÛ≥ki przyjÍtej uchwa≥π nr 3 NWZ polegajπcej na zmianie treúci ß 5a.
+Nowa nominalna wartoúÊ warunkowego kapita≥u zak≥adowego wynosi obecnie 96.876,40 z≥ (s≥ownie:
+dziewiÍÊdziesiπt szeúÊ tysiÍcy osiemset siedemdziesiπt szeúÊ z≥otych czterdzieúci groszy).
+Celem warunkowego podwyøszenia kapita≥u zak≥adowego SpÛ≥ki jest przyznanie praw do objÍcia Akcji
+Motywacyjnych IV posiadaczom warrantÛw subskrypcyjnych wyemitowanych na podstawie uchwa≥y
+nr 3 Nadzwyczajnego Walnego Zgromadzenia z dnia 12 listopada 2020 r.
+Sπd postanowi≥ o do≥πczeniu do akt rejestrowych SpÛ≥ki tekstu jednolitego Statutu, ktÛry zosta≥
+przyjÍty w dniu 12 listopada 2020 roku uchwa≥π Nadzwyczajnego Walnego Zgromadzenia SpÛ≥ki.
+O powyøszych zmianach i uchwa≥ach podjÍtych w dniu 12 listopada 2020 roku na posiedzeniu
+Nadzwyczajnego Walnego Zgromadzenia ALUMETAL S.A., SpÛ≥ka poinformowa≥a dnia 12 listopada
+2020 roku raportem bieøπcym nr 23/2020 (Informacja o uchwa≥ach podjÍtych przez Nadzwyczajne
+Walne Zgromadzenie ALUMETAL S.A.).
+SpÛ≥ka poinformowa≥a rynek o rejestracji warunkowego podwyøszenia kapita≥u zak≥adowego i zmiany
+Statutu publikujπc raport bieøπcy nr 1/2021 z dnia 8 stycznia 2021 roku.
+B. ObjÍcie akcji serii G w ramach Programu Motywacyjnego III
+W dniu 19 lutego 2021 roku SpÛ≥ka otrzyma≥a oúwiadczenia o objÍciu akcji wyemitowanych w ramach
+Programu Motywacyjnego III na lata 2018 ñ 2020, realizowanego w ramach warunkowego
+podwyøszenia kapita≥u okreúlonego uchwa≥π nr 3 Nadzwyczajnego Walnego Zgromadzenia SpÛ≥ki
+z dnia 7 listopada 2017 roku, zmienionego nastÍpnie uchwa≥π nr 5 Nadzwyczajnego Walnego
+Zgromadzenia SpÛ≥ki z dnia 3 paüdziernika 2018 roku (ÑProgram Motywacyjny IIIî), o ktÛrym SpÛ≥ka
+informowa≥a w raportach bieøπcych nr 48/2017 z dnia 7 listopada 2017 roku oraz nr 25/2018 z dnia
+3 paüdziernika 2018 roku, jak rÛwnieø w raportach okresowych.
+Zgodnie z otrzymanymi oúwiadczeniami, osoby uprawnione (ÑUprawnieniî) w ramach Programu
+Motywacyjnego III objÍ≥y ≥πcznie 97 180 akcji serii G wyemitowanych w zamian za 97 180 imiennych,
+niezbywalnych warrantÛw subskrypcyjnych serii D (ÑAkcje Motywacyjneî). Wszystkie Akcje
+Motywacyjne sπ akcjami zwyk≥ymi na okaziciela o wartoúci nominalnej 0,10 z≥ (s≥ownie: dziesiÍÊ
+groszy), a ich emisja odbywaÊ siÍ bÍdzie w formie zdematerializowanej w oparciu o art. 7 ustawy
+o obrocie instrumentami finansowymi, tj. prawa p≥ynπce z Akcji Motywacyjnych powstanπ w chwili
+zapisania ich po raz pierwszy na rachunku papierÛw wartoúciowych.
+Cena emisyjna jednej akcji wynios≥a 41,60 z≥, co oznacza, øe z tytu≥u wp≥at za objÍcie Akcji
+Motywacyjnych przez Uprawnionych wp≥ynÍ≥o do SpÛ≥ki 4 042 688,00 z≥ powodujπc wzrost kapita≥Ûw
+w≥asnych Emitenta.
+W zwiπzku z powyøszym, objÍtych zosta≥o 94,17% akcji serii G w wyniku realizacji praw z 97 180
+warrantÛw subskrypcyjnych serii D z ≥πcznie 103 196 warrantÛw tej serii przyznanych przez RadÍ
+Nadzorczπ Uprawnionym, o czym SpÛ≥ka informowa≥a w raporcie bieøπcym 15/2019. Pozosta≥e 5,83%
+czyli 6 016 sztuk akcji serii G, moøe zostaÊ objÍtych przez Uprawnionych w nastÍpnym terminie
+wyznaczonym na ich objÍcie, ktÛry zostanie og≥oszony zgodnie z zasadami Programu Motywacyjnego
+III przez Zarzπd SpÛ≥ki nie pÛüniej niø do dnia 31 grudnia 2022 roku.
+                                                                                               40
+
+                                                  ALUMETAL S.A.
+                            Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+W momencie zapisania Akcji Motywacyjnych na rachunkach papierÛw wartoúciowych Uprawnionych
+zmianie ulegnie wysokoúÊ kapita≥u zak≥adowego SpÛ≥ki, ktÛry wynosiÊ bÍdzie 1 557 667,30 z≥ (s≥ownie:
+jeden milion, piÍÊset piÍÊdziesiπt siedem tysiÍcy szeúÊset szeúÊdziesiπt siedem z≥otych trzydzieúci
+groszy) i dzieliÊ siÍ bÍdzie na 15 576 673 akcje zwyk≥e na okaziciela w tym:
+    -   9 800 570 akcji zwyk≥ych na okaziciela serii A;
+    -   1 507 440 akcji zwyk≥ych na okaziciela serii B;
+    -   3 769 430 akcji zwyk≥ych na okaziciela serii C;
+    -   150 770 akcji zwyk≥ych na okaziciela serii D;
+    -   150 770 akcji zwyk≥ych na okaziciela serii E;
+    -   100 513 akcji zwyk≥ych na okaziciela serii F;
+    -   97 180 akcji zwyk≥ych na okaziciela serii G.
+Wobec powyøszego zmianie ulegnie rÛwnieø iloúÊ g≥osÛw na Walnym Zgromadzeniu SpÛ≥ki
+z 15 479 493 na 15 576 673.
+Stosownie do postanowieÒ Programu Motywacyjnego III, SpÛ≥ka wystπpi≥a z wnioskami do Krajowego
+Depozytu PapierÛw Wartoúciowych S.A. oraz Gie≥dy PapierÛw Wartoúciowych w Warszawie S.A.
+o rejestracjÍ Akcji Motywacyjnych oraz ich wprowadzenie do obrotu na rynku regulowanym.
+Na powyøszπ okolicznoúÊ SpÛ≥ka opublikowa≥a raport bieøπcy nr 4/2021 w dniu 19 lutego 2021 roku.
+W dniu 16 marca 2021 roku zosta≥o wydane Oúwiadczenie Krajowego Depozytu PapierÛw
+Wartoúciowych S.A. (ÑKDPWî) nr 449/2021, zgodnie z ktÛrym postanowiono zarejestrowaÊ w KDPW
+97.180 (dziewiÍÊdziesiπt siedem tysiÍcy sto osiemdziesiπt) akcji zwyk≥ych na okaziciela serii G spÛ≥ki
+ALUMETAL S.A. o wartoúci nominalnej 0,10 z≥ (dziesiÍÊ groszy) kaøda (ÑAkcje Motywacyjneî),
+emitowanych w ramach warunkowego podwyøszenia kapita≥u zak≥adowego na podstawie Uchwa≥y nr
+3 Nadzwyczajnego Walnego Zgromadzenia SpÛ≥ki z dnia 7 listopada 2017 roku nastÍpnie zmienionej
+Uchwa≥π nr 5 Nadzwyczajnego Walnego Zgromadzenia SpÛ≥ki z dnia 3 paüdziernika 2018 roku, oraz
+oznaczyÊ je kodem PLALMTL00023, pod warunkiem podjÍcia przez spÛ≥kÍ prowadzπcπ rynek
+regulowany - GPW decyzji o wprowadzeniu tych akcji do obrotu na tym samym rynku regulowanym,
+na ktÛry wprowadzone zosta≥y inne akcje SpÛ≥ki oznaczone kodem PLALMTL00023. Zarejestrowanie
+Akcji Motywacyjnych w depozycie papierÛw wartoúciowych nastπpi w terminie trzech dni od dnia
+otrzymania przez KDPW w/w decyzji GPW, nie wczeúniej jednak niø w dniu wskazanym w tej decyzji
+jako dzieÒ wprowadzenia tych akcji do obrotu na tym rynku regulowanym. O powyøszym SpÛ≥ka
+poinformowa≥a rynek publikujπc raport bieøπcy nr 7/2021 w dniu 18 marca 2021 roku.
+Do dnia publikacji niniejszego raportu przedmiotowe akcje nie zosta≥y jeszcze wprowadzone do obrotu
+gie≥dowego.
+C. Udzielenie poøyczki krÛtkoterminowej spÛ≥ce zaleønej
+W dniu 22 stycznia 2021 roku ALUMETAL S.A. podpisa≥a ze spÛ≥kπ zaleønπ ALUMETAL Poland sp. z o.o.
+umowÍ poøyczki krÛtkoterminowej z przeznaczeniem na finansowanie bieøπcej dzia≥alnoúci. W úwietle
+brzmienia zapisÛw tej umowy SpÛ≥ka poøyczy Alumetal Poland sp. z o.o. w transzach nie pÛüniej niø do
+dnia 30 czerwca 2021 roku kwotÍ nie wiÍkszπ niø 15 mln z≥, ktÛra zostanie sp≥acona w transzach lub
+jednorazowo nie pÛüniej niø do 31 grudnia 2021 roku. Na dzieÒ sporzπdzenia niniejszego sprawozdania
+poøyczka zosta≥a udzielona w pe≥nej wysokoúci 15 mln z≥.
+                                                                                                   41
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+D. Informacja o przewidywanych ponadprzeciÍtnych skonsolidowanych wynikach
+     w I kwartale 2021 roku
+W dniu 25 lutego 2021 roku SpÛ≥ka poinformowa≥a w ramach publikacji raportu bieøπcego nr 6/2021,
+øe po przeprowadzeniu wewnÍtrznych analiz zwiπzanych z szacowaniem bieøπcych wynikÛw
+finansowych Grupy Kapita≥owej ALUMETAL S.A. (ÑGrupa Alumetalî) przewiduje osiπgniÍcie
+w I kwartale 2021 roku ponadprzeciÍtnych skonsolidowanych wynikÛw finansowych:
+    a) iloúci sprzedaøy na poziomie oko≥o 60 tys. ton, co oznacza wzrost o oko≥o 30% w stosunku do
+        I kwarta≥u 2020 roku,
+    b) przychodÛw ze sprzedaøy o oko≥o 60% wiÍkszych rok do roku,
+    c) zysku EBITDA ponad dwukrotnie wiÍkszego oraz raportowanego i znormalizowanego zysku
+        netto oko≥o trzykrotnie wiÍkszego niø w I kwartale 2020 roku.
+W ocenie Zarzπdu, pozytywny wp≥yw na skonsolidowane wyniki finansowe Grupy Alumetal
+w I kwartale 2021 roku majπ przede wszystkim nastÍpujπce czynniki:
+    -   wzrost zapotrzebowania na produkty Grupy Alumetal i w konsekwencji zwiÍkszenie udzia≥u
+        w rynku europejskim,
+    -   wzrost stopnia wykorzystania przez GrupÍ Alumetal posiadanych zdolnoúci produkcyjnych do
+        oko≥o 90% i oddanie do eksploatacji w ostatnich miesiπcach nowej, efektywnej kosztowo linii
+        produkcyjnej w zak≥adzie w KÍtach,
+    -   ukszta≥towanie siÍ na rynku europejskim w ostatnich miesiπcach korzystnej relacji pomiÍdzy
+        cenami sprzedaøy stopÛw aluminiowych a cenami zakupu aluminiowych surowcÛw
+        z≥omowych.
+Jednoczeúnie Zarzπd poinformowa≥, øe powyøsze szacunki zosta≥y dokonane w oparciu o najlepszπ
+wiedzÍ SpÛ≥ki na dzieÒ sporzπdzenia niniejszego raportu. Ostateczne wyniki finansowe zostanπ podane
+w raporcie okresowym SpÛ≥ki za I kwarta≥ 2021 roku, ktÛrego publikacja jest planowana na 17 maja
+2021 roku.
+VI.     Realizowane inwestycje i prace rozwojowe
+1. Informacje o waøniejszych osiπgniÍciach w dziedzinie badaÒ i rozwoju
+Najwaøniejszym osiπgnieciem ALUMETAL S.A. w 2020 roku w zakresie rozwoju by≥a poprawa
+efektywnoúci dzia≥ania ALUMETAL Group Hungary Kft. - pierwszej zagranicznej spÛ≥ki zaleønej Grupy,
+ktÛra systematycznie zwiÍksza swojπ skalÍ dzia≥ania, co skutkuje rÛwnieø rozwojem pracownikÛw
+ALUMETAL S.A. biorπcych udzia≥ w zarzπdzaniu i nadzorze nad wÍgierskπ spÛ≥kπ. Istotne znaczenie ma
+rÛwnieø rozwÛj handlowy i operacyjny projektu Rozbudowa Zak≥adu StopÛw WstÍpnych
+w Gorzycach, gdzie zainwestowano w nowe dla Grupy technologie i rozwija siÍ produkcjÍ najbardziej
+zaawansowanych technologicznie gatunkÛw stopÛw, a takøe skuteczna realizacja procesÛw
+inwestycyjnych zwiπzanych z przedsiÍwziÍciem Modernizacja Zak≥adu w KÍtach.
+Nowym wyzwaniem w zakresie rozwoju by≥a rÛwnieø inwestycja spÛ≥ki zaleønej T+S Sp. z o.o. w ktÛrym
+biorπ udzia≥ rÛwnieø pracownicy Alumetal S.A. Celem projektu, ktÛry ma byÊ realizowany w latach
+                                                                                                 42
+
+                                               ALUMETAL S.A.
+                         Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+2020-2022, jest opracowanie technologii przetworzenia odpadÛw poprodukcyjnych powsta≥ych
+w procesie produkcji aluminiowych stopÛw odlewniczych.
+2. Strategia i kierunki rozwoju ALUMETAL S.A.
+Przewiduje siÍ, øe w najbliøszym czasie ALUMETAL S.A. bÍdzie w dalszym ciπgu realizowaÊ zadania
+spÛ≥ki holdingowej polegajπce na úwiadczeniu us≥ug zarzπdzania (w tym rozwojowych
+i inwestycyjnych, wsparcia operacyjnego oraz kontrolingowych), handlowych, finansowych,
+ksiÍgowych, kadrowo-p≥acowych i informatycznych na rzecz spÛ≥ek zaleønych. Wykonywanie tych
+zadaÒ przyczyni siÍ do realizacji planÛw rozwojowych i osiπgniÍcia celÛw strategicznych Grupy
+Alumetal, ktÛrymi sπ przede wszystkim budowanie wartoúci spÛ≥ki dla akcjonariuszy m.in. poprzez
+zwiÍkszenie wolumenu sprzedaøy produktÛw Grupy oraz maksymalizacjÍ rentownoúci jej dzia≥alnoúci
+przy jednoczesnym utrzymaniu zdolnoúci dywidendowej SpÛ≥ki.
+3. Finansowanie rozwoju ALUMETAL S.A. i spÛ≥ek zaleønych
+Finansowanie ALUMETAL S.A. jest úciúle powiπzane z sytuacjπ finansowπ ca≥ej Grupy Alumetal.
+Wysokie przep≥ywy operacyjne pozwalajπ Grupie Alumetal finansowaÊ rozwÛj z w≥asnych zasobÛw
+finansowych przy jednoczesnym realizowaniu przyjÍtej polityki dywidendowej. Dobra, stabilna
+rentownoúÊ dzia≥ania Grupy, zadowalajπca p≥ynnoúÊ finansowa oraz niskie zad≥uøenie powodujπ,
+iø Grupa ma bardzo dobry standing finansowy. Wskaünik d≥ug netto/EBITDA, najistotniejszy z punktu
+widzenia umÛw kredytowych wynosi≥ na koniec 2020 roku 0,8. Biorπc pod uwagÍ fakt, iø kowenant
+ten w umowach kredytowych kszta≥tuje siÍ na poziomie 3,0 moøna ≥atwo zauwaøyÊ, øe Grupa ma duøy
+potencja≥ do finansowania dalszego rozwoju i jednoczeúnie realizowania za≥oøonej polityki
+dywidendowej.
+Stosowane i planowane ürÛd≥a finansowania rozwoju Grupy to g≥Ûwnie zatrzymane czÍúciowo zyski
+netto, kredyty inwestycyjne oraz pomoc publiczna dostÍpna dla spÛ≥ek Grupy zarÛwno w przypadku
+projektu wÍgierskiego jak i w przypadku inwestowania na terenie polskich zak≥adÛw zlokalizowanych
+w specjalnych strefach ekonomicznych w ramach juø uzyskanych pozwoleÒ strefowych.
+èrÛd≥em finansowania kapita≥u obrotowego pozostanπ: bieøπca nadwyøka finansowa,
+krÛtkoterminowe umowy kredytowe oraz umowy faktoringowe.
+SpÛ≥ka zawar≥a szereg umÛw majπcych na celu zapewnienie finansowania projektu Budowa Zak≥adu
+na WÍgrzech, w nastÍpujπcym porzπdku:
+    ï   umowa o kredyt inwestycyjny z dnia 15 paüdziernika 2015 roku pomiÍdzy ALUMETAL S.A.
+        a ING Bank ålπski S.A. z przeznaczeniem na udzielenie poøyczki dla spÛ≥ki zaleønej
+        ALUMETAL Group Hungary Kft., w celu czÍúciowego sfinansowania budowy zak≥adu
+        produkcyjnego na WÍgrzech w wysokoúci 10 mln EUR z terminem sp≥aty
+        14 paüdziernika 2022 roku, koÒcem roku 2017 rozpoczÍ≥a siÍ sp≥ata tego kredytu w trybie
+        60-ciu miesiÍcznych rat;
+    ï   umowa z dnia 21 paüdziernika 2015 roku na dotacjÍ gotÛwkowπ pomiÍdzy ALUMETAL Group
+        Hungary Kft. a wÍgierskim Ministerstwem Spraw Zagranicznych i Handlu;
+    ï   umowa z dnia 26 paüdziernika 2015 roku o poøyczkÍ d≥ugoterminowπ pomiÍdzy ALUMETAL
+        S.A. ze spÛ≥kπ zaleønπ ALUMETAL Group Hungary Kft., w celu czÍúciowego sfinansowania
+        budowy zak≥adu produkcyjnego na WÍgrzech w wysokoúci 10 mln EUR z terminem sp≥aty
+                                                                                               43
+
+                                                    ALUMETAL S.A.
+                              Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+         14 paüdziernika 2022 roku, koÒcem roku 2017 rozpoczÍ≥a siÍ sp≥ata tej poøyczki w trybie
+         60-ciu miesiÍcznych rat;
+    ï    w II i III kwartale 2020 roku Grupa Alumetal przed≥uøy≥a umowy z bankami ING Bank ålπski S.A.,
+         DNB Bank Polska S.A. i Bankiem Handlowym w Warszawie S.A. na krÛtkoterminowe kredyty
+         bankowe na kolejny rok podobnie jak ALUMETAL Group Hungary Kft., ktÛra w III kwartale 2020
+         roku przed≥uøy≥a o kolejny rok umowÍ z Citibank Europe pls Hungarian Branch Office na
+         krÛtkoterminowy kredyt bankowy o rÛwnowartoúci 1,85 mln EUR co spowodowa≥o, iø ≥πczny
+         limit kredytÛw krÛtkoterminowych dla Grupy Alumetal nieco siÍ zmniejszy≥ i wynosi
+         rÛwnowartoúÊ 124 mln z≥ (w umowie z Bankiem Handlowym w Warszawie S.A. zmniejszono
+         w 2020 roku kwotÍ limitu kredytowego z 54 mln z≥ do 40 mln z≥).
+Zasoby finansowe SpÛ≥ki i Grupy Alumetal pozwalajπ w pe≥ni wywiπzywaÊ siÍ z zaciπgniÍtych
+zobowiπzaÒ bieøπcych i przysz≥ych zwiπzanych z istniejπcymi planami rozwojowymi.
+VII. Zarzπdzanie kadrami
+1. Polityka rekrutacji
+Rekrutacja w SpÛ≥ce jest uzaleøniona od bieøπcych potrzeb kadrowych. Dzia≥ania SpÛ≥ki
+w zakresie polityki zatrudnienia koncentrujπ siÍ na zapewnieniu optymalnego poziomu zatrudnienia
+do realizacji celÛw SpÛ≥ki i Grupy Alumetal oraz sπ oparte na dwÛch kluczowych aspektach: rekrutacji
+wewnÍtrznej oraz rekrutacji zewnÍtrznej.
+W aspekcie rekrutacji wewnÍtrznej kontynuowana jest zasada polegajπca na awansie pionowym lub
+poziomym pracownikÛw. Awans pionowy polega na awansowaniu pracownikÛw w gÛrÍ hierarchii
+stanowisk, rozszerzaniu zakresu ich dzia≥ania i odpowiedzialnoúci oraz powierzaniu coraz wiÍkszego
+zespo≥u podlegajπcych im pracownikÛw. Awans poziomy zaú polega na rozszerzaniu zadaÒ, rozwijaniu
+kwalifikacji, doúwiadczenia i wiedzy pracownikÛw w wybranej dziedzinie.
+Rekrutacja zewnÍtrzna ukierunkowana jest na pozyskanie ukszta≥towanych juø wysokiej klasy
+specjalistÛw, ktÛrych wiedza oraz kompetencje w po≥πczeniu z doúwiadczeniem obecnych
+pracownikÛw zapewniπ rozwÛj, ciπg≥oúÊ oraz najwyøszy poziom realizowanych przez ALUMETAL S.A.
+procesÛw biznesowych.
+2. Struktura zatrudnienia
+Stan zatrudnienia na dzieÒ 31 grudnia 2020 roku wyniÛs≥ 54 osoby i zmniejszy≥ siÍ w stosunku do roku
+poprzedniego o 1 osobÍ.
+       ALUMETAL S.A.                                        31 grudzieÒ 2020 roku        31 grudzieÒ 2019 roku
+       Pracownicy umys≥owi                                            54                           55
+3. Komunikacja
+ALUMETAL S.A. k≥adzie duøy nacisk na rozwijanie umiejÍtnoúci w obszarze komunikacji.
+Wewnπtrz i na zewnπtrz organizacji zapewniono jasnπ, adekwatnπ i przejrzystπ komunikacjÍ,
+podkreúlajπc znaczenie takich wartoúci jak: zaufanie, otwartoúÊ, wspÛ≥praca i lojalnoúÊ.
+                                                                                                               44
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+W celu sformalizowania obowiπzujπcych w Grupie regu≥ i zwyczajÛw wprowadzono Kodeks Etyki Grupy
+ALUMETAL w úwietle ktÛrego pracownicy powinni byÊ traktowani w jednakowy sposÛb bez wzglÍdu
+na ich rasÍ, narodowoúÊ, wyznawanπ religiÍ, p≥eÊ, wiek, orientacjÍ seksualnπ, stopieÒ sprawnoúci czy
+poglπdy polityczne.
+4. RozwÛj i szkolenia
+W ALUMETAL S.A. polityka szkoleniowa realizowana jest w sposÛb planowy. Szkolenia odbywajπ siÍ na
+podstawie corocznego planu szkoleÒ z uwzglÍdnieniem potrzeb bieøπcych i rozwojowych.
+Pracownicy ALUMETAL S.A. biorπ udzia≥ w:
+    ï   szkoleniu adaptacyjnym - czÍúciπ programu jest jednodniowe szkolenie adaptacyjne, podczas
+        ktÛrego starsi staøem pracownicy dzielπ siÍ wiedzπ na tematy zwiπzane z funkcjonowaniem
+        i pracπ w ALUMETAL S.A. Pracownik otrzymuje istotne informacje dotyczπce spraw
+        pracowniczych, poznaje obowiπzujπce zasady i regulaminy, stosowane systemy oraz podstawy
+        technologii;
+    ï   projektach ogÛlnofirmowych ñ w postaci np. szkoleÒ dotyczπcych komunikacji i obs≥ugi klienta
+        czy umiejÍtnoúci zarzπdzania;
+    ï   indywidualnych szkoleniach specjalistycznych ñ w postaci np. szkoleÒ dotyczπcych zarzπdzania
+        projektami, finansÛw oraz zagadnieÒ wynikajπcych z wymogÛw prawa np. prawa pracy;
+    ï   szkoleniach komputerowych ñ w postaci szkoleÒ dotyczπcych aplikacji niezbÍdnych do pracy
+        w okreúlonych dzia≥ach;
+    ï   szkoleniach jÍzykowych.
+VIII. JakoúÊ, ochrona úrodowiska i BHP
+ALUMETAL S.A. w ramach us≥ug úwiadczonych na rzecz spÛ≥ek zaleønych kszta≥towa≥a rÛwnieø politykÍ
+w zakresie ochrony úrodowiska, jakoúci i bezpieczeÒstwa i higieny pracy.
+Prowadzenie polityki wysokiej jakoúci produktÛw jest konsekwencjπ strategii rozwoju oraz dπøeÒ
+sformu≥owanych w celach strategicznych Grupy Alumetal. Podobnie ochrona úrodowiska i zasady
+bezpieczeÒstwa pracy wpisane sπ w politykÍ Grupy. Rezultatem stosowania tych polityk jest
+zaangaøowanie pracownikÛw i Kierownictwa w dzia≥ania zapewniajπce poprawÍ oddzia≥ywaÒ na
+úrodowisko naturalne oraz podejmowanie aktywnoúci pozwalajπcych stale podnosiÊ poziom
+bezpieczeÒstwa i higieny pracy w ramach procesu ciπg≥ego doskonalenia.
+                                                                                                  45
+
+                                                                                                 ALUMETAL S.A.
+                                                                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+IX.          Kredyty, poøyczki oraz inne umowy finansowe
+ 1. Otrzymane kredyty i poøyczki
+                                                                                                                                                         31 grudnia 2020      31 grudnia 2019
+                                                                                                   UdostÍpniony                           Termin        Wykorzystany limit   Wykorzystany limit
+                                                                                                                     Waluta limitu*
+                                                                                                       limit***                         zapadalnoúci       w tys. z≥otych      w tys. z≥otych
+  Kredyty w rachunku bieøπcym:
+  Limit ≥πczny dla kilku spÛ≥ek grupy w banku ING Bank ålπski S.A. oprocentowany wg LIBOR 1M
+                                                                                                             36 000             PLN*      19.09.2021                      17                    50
+   (USD) + marøa, WIBOR 1M (PLN) + marøa, EURIBOR 1M (EUR) + marøa
+  Limit ≥πczny dla kilku spÛ≥ek grupy w DNB Bank Polska S.A. oprocentowany WIBOR 1M (PLN) +
+                                                                                                             40 000             PLN*      30.06.2021                       ñ                     ñ
+  marøa, EURIBOR 1M (EUR) + marøa, BUBOR 1M (HUF) + marøa LIBOR 1M (USD) + marøa
+  Limit dla kilku spÛ≥ek grupy w Banku Handlowym w Warszawie S.A. oprocentowany wg LIBOR
+  1M (USD) + marøa, WIBOR 1M (PLN) + marøa, LIBOR 1M (EUR) + marøa, BUBOR 1M (HUF) +                         40 000             PLN*      06.08.2021                       1                    50
+  marøa
+  CzÍúÊ krÛtkoterminowa kredytu inwestycyjnego w wysokoúci 10 mln EUR udzielonego Alumetal
+  S.A. przez bank ING Bank ålπski S.A. oprocentowanego wg stopy EURIBOR 1M + marøa                        10 000**               EUR      14.10.2022                  16 862                 8 534
+  przeznaczonego na finansowanie inwestycji budowy zak≥adu produkcyjnego na WÍgrzech**
+  Razem czÍúÊ krÛtkoterminowa                                                                                                                                         16 880                 8 634
+  CzÍúÊ d≥ugoterminowa kredytu inwestycyjnego w wysokoúci 10 mln EUR udzielonego przez bank
+  ING Bank ålπski S.A. oprocentowanego wg stopy EURIBOR 1M + marøa przeznaczonego na                      10 000**               EUR      14.10.2022                       ñ               15 561
+  finansowanie inwestycji budowy zak≥adu produkcyjnego na WÍgrzech**
+  Razem                                                                                                                                                               16 880               24 195
+ * Waluta oznacza wy≥πcznie walutÍ limitu, moøe zatem rÛøniÊ siÍ od waluty kredytu
+ ** £πczny limit dla czÍúci krÛtko i d≥ugoterminowej kredytu inwestycyjnego wynosi 10 mln EUR (kredyt sp≥acany w ratach miesiÍcznych w wysokoúci 167 tys. EUR)
+ *** W ramach udostÍpnionych limitÛw Alumetal S.A. ma prawo uruchamiaÊ akredytywy i gwarancje na rzecz dostawcÛw i innych beneficjentÛw co automatycznie zmniejsza o analogiczne kwoty moøliwoúÊ
+ zaciπgniÍcia kredytu w rachunku bieøπcym; gwarancje wystawione przez bank w ramach dostÍpnych limitÛw kredytowych na rzecz kontrahentÛw oraz innych instytucji niefinansowych w kwocie 13,8 mln z≥
+ (31 grudnia 2020) oraz 4,3 mln z≥ (31 grudnia 2019) w ramach dzia≥alnoúci spÛ≥ek zaleønych Jednostki Dominujπcej
+                                                                                                                                                                                                    46
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+2. Udzielone poøyczki
+W 2020 roku w ALUMETAL S.A. funkcjonowa≥a jedna poøyczka udzielona przez ALUMETAL S.A. lub
+jednostkÍ od niej zaleønπ:
+     ï   udzielona w dniu 26 paüdziernika 2015 roku poøyczka d≥ugoterminowa pomiÍdzy ALUMETAL
+         S.A. a spÛ≥kπ zaleønπ ALUMETAL Group Hungary Kft. w celu czÍúciowego sfinansowania
+         budowy zak≥adu produkcyjnego na WÍgrzech w wysokoúci 10 mln EUR z terminem sp≥aty
+         14 paüdziernika 2022 roku. WartoúÊ uruchomionej na dzieÒ 31 grudnia 2020 roku poøyczki
+         wynosi≥a 3,654 mln EUR.
+3. Zarzπdzanie zasobami finansowymi i zdolnoúÊ do regulowania zobowiπzaÒ
+SpÛ≥ka samodzielnie zarzπdza swoimi zasobami finansowymi i zewnÍtrznymi ürÛd≥ami finansowania
+dzia≥alnoúci. Na dzieÒ sporzπdzenia niniejszego sprawozdania nie stwierdza siÍ istnienia okolicznoúci
+wskazujπcych na zagroøenie kontynuowania dzia≥alnoúci przez SpÛ≥kÍ. ALUMETAL S.A. korzysta z si≥y
+finansowej ca≥ej Grupy Alumetal (m.in. polityka dywidendowa i kredytowa) i dostÍpnoúci linii
+kredytowych w kwocie o rÛwnowartoúci kilkudziesiÍciu milionÛw z≥otych. SpÛ≥ka sp≥aca swoje
+zobowiπzania terminowo i aktualnie nie ma zagroøenia dla jej zdolnoúci do regulowania zobowiπzaÒ
+finansowych ani kontynuacji dzia≥alnoúci.
+X. Zobowiπzania oraz aktywa warunkowe, porÍczenia
+       i zobowiπzania pozabilansowe
+1. Istotne postÍpowania toczπce siÍ przed sπdem, organem w≥aúciwym dla
+      postÍpowania arbitraøowego lub organem administracji publicznej
+SpÛ≥ka na dzieÒ 31 grudnia 2020 roku nie uczestniczy≥a w istotnych postÍpowaniach toczπcych siÍ
+przed sπdem, organem w≥aúciwym dla postÍpowania arbitraøowego lub organem administracji
+publicznej.
+2. PorÍczenia kredytu lub poøyczki, udzielenie gwarancji
+ALUMETAL S.A. w 2020 roku udzieli≥a porÍczeÒ zobowiπzaÒ handlowych ALUMETAL Group
+Hungary Kft. na rzecz dostawcÛw wÍgierskiej spÛ≥ki. £πczna wartoúÊ tych porÍczeÒ wynios≥a na dzieÒ
+31 grudnia 2020 roku rÛwnowartoúÊ 800 tys. z≥.
+W okresie bilansowym ALUMETAL S.A. nie otrzyma≥a porÍczeÒ ani gwarancji o istotnym znaczeniu.
+3. Zobowiπzania warunkowe
+W celu zabezpieczenia kredytu krÛtkoterminowego w postaci wspÛlnej linii wielowalutowej w ING
+Bank ålπski SA o rÛwnowartoúci 36 mln z≥ kaødy z kredytobiorcÛw (ALUMETAL S.A., ALUMETAL Poland
+sp. z o.o., ALUMETAL Group Hungary Kft.) wystawi≥ w dniu 5 lutego 2018 roku weksel in blanco wraz
+z deklaracjπ wekslowπ.
+                                                                                                  47
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+XI.      Cele i zasady zarzπdzania ryzykiem finansowym
+G≥Ûwnym przedmiotem dzia≥alnoúci SpÛ≥ki jest prowadzenie dzia≥alnoúci holdingowej. W ramach
+tej dzia≥alnoúci SpÛ≥ka zarzπdza ryzykiem finansowym spÛ≥ek naleøπcych do Grupy Alumetal. Sytuacja
+finansowa ALUMETAL S.A. jest úciúle zwiπzana z sytuacjπ jej spÛ≥ek zaleønych co oznacza, iø ryzyka tych
+spÛ≥ek sπ jednoczeúnie ryzykami Emitenta.
+G≥Ûwnymi ryzykami szeroko opisanymi w skonsolidowanym sprawozdaniu finansowym Grupy
+Kapita≥owej ALUMETAL S.A. sporzπdzonym za rok zakoÒczony 31 grudnia 2020 roku sπ nastÍpujπce
+obszary:
+     ï   ryzyko zmian stopy procentowej,
+     ï   ryzyko walutowe,
+     ï   ryzyko cen towarÛw,
+     ï   ryzyko kredytowe,
+     ï   ryzyko zwiπzane z p≥ynnoúciπ.
+Cele i zasady zarzπdzania ryzykiem finansowym nie uleg≥y zmianie w stosunku do stanu na 31 grudnia
+2019 roku.
+SpÛ≥ka poprzez swojπ dzia≥alnoúci holdingowπ zarzπdza takøe kapita≥em spÛ≥ek wchodzπcych w sk≥ad
+Grupy Kapita≥owej ALUMETAL S.A.
+Cele i zasady zarzπdzania ryzykiem finansowym obejmujπ obszary ryzyka opisane poniøej:
+1. Ryzyko zmian stopy procentowej
+SpÛ≥ka jest naraøona na ryzyko stopy procentowej w efekcie korzystania z instrumentÛw finansowych
+s≥uøπcych do finansowania dzia≥alnoúci operacyjnej oraz inwestycyjnej tj. kredytÛw krÛtko
+i d≥ugoterminowych, us≥ug factoringowych na naleønoúciach w≥asnych oraz lokat krÛtkoterminowych.
+Powyøsze instrumenty finansowe sπ oparte o zmiennπ stopÍ procentowπ bazujπcπ na stawce WIBOR
+(PLN), EURIBOR (ewentualnie LIBOR EUR) oraz niewielkim zakresie BUBOR (HUF) i LIBOR USD.
+SpÛ≥ka nie dokonuje transakcji zabezpieczajπcych ryzyko stopy procentowej, poniewaø instrumenty
+z ktÛrych korzysta w zdecydowanej wiÍkszoúci majπ charakter krÛtkoterminowy. Natomiast
+w przypadku kredytÛw d≥ugoterminowych, instrumenty zabezpieczajπce ryzyko stopy procentowej
+opierajπ siÍ w duøej mierze na oczekiwaniach i prognozach, co w przypadku konkretnej sytuacji
+rynkowej w analizowanym okresie nie sk≥ania≥o do korzystania z tych instrumentÛw, dlatego rÛwnieø
+w tym obszarze nie by≥y one stosowane.
+2. Ryzyko walutowe
+SpÛ≥ka naraøona jest na ryzyko walutowe z tytu≥u zawieranych transakcji zwiπzanych z bieøπcπ
+dzia≥alnoúciπ. Ryzyko takie powstaje w wyniku dokonywania przez spÛ≥ki Grupy sprzedaøy i zakupÛw
+w walutach innych niø jej waluta wyceny. W Grupie Alumetal wystÍpuje w szerokim zakresie zjawisko
+hedgingu naturalnego, gdyø transakcje sprzedaøowe w walutach obcych w duøej mierze
+zrÛwnowaøone sπ transakcjami zakupowymi. Niemniej jednak w efekcie nierÛwnowagi pomiÍdzy tymi
+zjawiskami generuje siÍ pewna ekspozycja na ryzyko walutowe.
+                                                                                                     48
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Grupa stale monitoruje w≥asnπ pozycjÍ walutowπ w EUR/PLN, USD/PLN oraz EUR/HUF i dokonuje
+systematycznie, zgodnie z uzgodnionπ wewnÍtrznie politykπ, transakcji zabezpieczajπcych za pomocπ
+zaakceptowanych typÛw instrumentÛw pochodnych. W praktyce wykorzystywane sπ prawie wy≥πcznie
+transakcje typu forward, a jedynie w przypadkach okresÛw bardzo duøej zmiennoúci kursÛw
+walutowych Grupa korzysta ze strategii opcyjnych, jako narzÍdzia bardziej elastycznego niø
+podstawowe transakcje forward.
+Realizowana strategia zabezpieczeÒ uwzglÍdnia rÛwnieø dodatkowe elementy z kategorii hedgingu
+naturalnego tzn. fakt, iø Grupa wykorzystuje d≥ugo i krÛtkoterminowe kredyty walutowe oraz fakt,
+iø duøa czÍúÊ zakupÛw i sprzedaøy w PLN pozostaje pod poúrednim wp≥ywem notowaÒ kursu EUR/PLN.
+Wszystko to powoduje, iø ryzyko walutowe w Grupie Alumetal, zw≥aszcza w úrednim
+i d≥ugim okresie, jest mocno ograniczone.
+Podstawowπ zasadπ Grupy stosowanπ przy korzystaniu z instrumentÛw pochodnych jest
+niedokonywanie transakcji spekulacyjnych. Zawierane transakcje pochodne s≥uøπ tylko i wy≥πcznie
+ograniczeniu ryzyka wynikajπcego z dzia≥alnoúci operacyjnej oraz stabilizowaniu wynikÛw finansowych.
+3. Ryzyko cen towarÛw
+Ceny sprzedaøy wyrobÛw w sposÛb bezpoúredni lub poúredni skorelowane sπ z notowaniami metali na
+LondyÒskiej Gie≥dzie Metali. Notowaniami, ktÛre majπ zdecydowanie najwiÍkszy wp≥yw sπ notowania
+aluminium czystego (LME HG) i stopÛw aluminium (LME AA), natomiast kilka innych metali jak np. nikiel
+czy miedü majπ juø znacznie mniejsze znaczenie. Korelacja tych notowaÒ z cenami wyrobÛw Grupy
+Alumetal, mimo tego, øe stosunkowo silna, nie jest jednak pe≥na, zw≥aszcza
+w krÛtkim okresie. Ponadto wystÍpuje w tym obszarze zjawisko hedgingu naturalnego, gdyø ceny
+zakupu surowcÛw ktÛre stanowiπ 85-90% kosztÛw wytworzenia, rÛwnieø skorelowane sπ
+z notowaniami na LME, zw≥aszcza w d≥ugim okresie. Powoduje to, iø ryzyko zmiany notowaÒ na
+LondyÒskiej Gie≥dzie Metali stanowi ograniczone zagroøenie dla wynikÛw finansowych. Z powyøszych
+powodÛw Grupa nie stosuje instrumentÛw zabezpieczajπcych notowania surowcÛw na LME.
+4. Ryzyko kredytowe
+Ryzyko kredytowe Grupy Alumetal zwiπzane jest z zawieranymi kontraktami handlowymi
+i ewentualnym wystπpieniem negatywnych zjawisk wynik≥ych z niewyp≥acalnoúci kontrahentÛw,
+czÍúciowego braku zap≥aty czy teø opÛünienia w p≥atnoúciach.
+Polityka Grupy w tym zakresie do 2015 roku polega≥a na bieøπcej weryfikacji sytuacji finansowej
+kontrahentÛw (na podstawie udostÍpnionych przez kontrahentÛw danych finansowych
+oraz informacji uzyskanych z wywiadowni gospodarczych, monitoringu tego standingu, sta≥ej analizie
+terminowoúci sp≥ywu naleønoúci opartej o duøπ aktywnoúÊ komÛrki windykacyjnej, dzia≥ajπcej zgodnie
+z funkcjonujπcπ w Grupie procedurπ).
+W zwiπzku z dalszπ ekspansjπ handlowπ SpÛ≥ka podjÍ≥a decyzjÍ o zmianie podejúcia to zarzπdzania
+ryzykiem handlowym i w I pÛ≥roczu 2016 roku zdecydowa≥a o podpisaniu umowy ubezpieczenia
+naleønoúci. Weryfikacjπ zosta≥a objÍta ca≥a sprzedaø do jednostek niepowiπzanych z wyjπtkiem
+sprzedaøy do trzech najwiÍkszych klientÛw Grupy Alumetal, a ubezpieczenie obowiπzuje od
+1 kwietnia 2016 roku. W II kwartale roku 2017, 2018, 2019 i 2020 podjÍto decyzje o kontynuacji polityki
+ubezpieczania naleønoúci, co dodatkowo poprawi≥o stopieÒ pokrycia potrzeb Grupy
+w zakresie przyznawanych limitÛw ubezpieczeniowych i w konsekwencji ryzyko kredytowe SpÛ≥ki
+                                                                                                    49
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+zosta≥o mocno ograniczone (Grupa planuje w dalszym ciπgu ubezpieczaÊ naleønoúci
+w kolejnych latach). Naleøy jednak podkreúliÊ, iø zgodnie z zasadami panujπcymi w tego typu umowach
+czÍúÊ kwoty naleønoúci dla kaødego z klientÛw nie podlega ubezpieczeniu ze wzglÍdu na tzw. udzia≥
+w≥asny ubezpieczajπcego, a ponadto Zarzπd SpÛ≥ki, w úwietle brzmienia umowy ubezpieczenia, ma
+prawo podjπÊ decyzjÍ o sprzedaøy powodujπcej wystÍpowanie naleønoúci od klientÛw w kwocie
+wyøszej niø wysokoúÊ przyznanego przez ubezpieczyciela limitu, nawet jeúli limit ubezpieczeniowy
+wynosi zero.
+Powyøsze podejúcie umoøliwia intensywny rozwÛj iloúciowy i geograficzny sprzedaøy Grupy
+bez istotnego zwiÍkszania ryzyka kredytowego. Fakt ubezpieczania wiÍkszoúci naleønoúci oraz
+stosunkowo szeroka i rozdrobniona paleta klientÛw powodujπ, iø ryzyko kredytowe jest ograniczone.
+5. Ryzyko zwiπzane z p≥ynnoúciπ
+Grupa naraøona jest na ryzyko ewentualnych trudnoúci p≥ynnoúciowych g≥Ûwnie w przypadku
+opÛünienia w sp≥ywie istotnych kwot naleønoúci lub ich ewentualnej utraty. Istotne jest rÛwnieø
+zapewnienie finansowania rozwoju, czyli wydatkÛw inwestycyjnych oraz wzrostu zapotrzebowania
+na kapita≥ obrotowy bÍdπcego skutkiem rosnπcej w d≥ugim okresie sprzedaøy. Takøe wyraüny wzrost
+cen w krÛtkim okresie moøe spowodowaÊ istotnie wiÍksze zapotrzebowanie na kapita≥ obrotowy.
+W powiπzaniu jednoczeúnie z wystπpieniem istotnie gorszych bieøπcych wynikÛw finansowych
+mog≥oby to skutkowaÊ trudnoúciami uzyskania odpowiednio wysokiego finansowania zewnÍtrznego.
+Od lat jednak Grupa dysponuje liniami wielowalutowymi w rachunkach bieøπcych w pe≥ni
+zabezpieczajπcymi potrzeby w zakresie zapewnienia p≥ynnoúci finansowej. Grupa korzysta z us≥ug kilku
+bankÛw, w ktÛrych zaciπga kredyty krÛtko jak i d≥ugoterminowe oraz korzysta z us≥ug factoringowych.
+Instrumenty te, w po≥πczeniu z dobrymi wynikami Grupy powodujπ, iø mimo intensywnego rozwoju
+Grupy (skutkujπcego wysokimi nak≥adami inwestycyjnymi oraz najczÍúciej rosnπcym
+zapotrzebowaniem na finansowanie kapita≥u obrotowego) ryzyko utraty p≥ynnoúci finansowej przez
+GrupÍ Kapita≥owπ nie wystÍpuje.
+XII. Czynniki ryzyka mogπce wp≥ynπÊ na wyniki ALUMETAL S.A.
+Wyniki ALUMETAL S.A. sπ powiπzane, zw≥aszcza w úrednio i d≥ugookresowym horyzoncie czasowym
+z wynikami spÛ≥ek zaleønych.
+W opinii Zarzπdu ALUMETAL S.A. najwaøniejszymi czynnikami, ktÛre mogπ wp≥ywaÊ na wyniki
+finansowe SpÛ≥ki i Grupy sπ:
+1. Sytuacja geopolityczna i makroekonomiczna w Europie
+Na dzia≥alnoúÊ SpÛ≥ki i Grupy majπ wp≥yw czynniki makroekonomiczne dotyczπce polskiej, niemieckiej,
+úrodkowoeuropejskiej oraz europejskiej gospodarki, polityka gospodarcza rzπdÛw, systemy
+podatkowe, PKB, stopy bezrobocia, wysokoúÊ stÛp procentowych, kurs wymiany walut, stopieÒ inflacji,
+poziom wydatkÛw konsumpcyjnych i inwestycyjnych oraz wielkoúÊ deficytÛw budøetowych. Zmiany
+cen rynkowych aluminium wtÛrnego majπ bezpoúredni wp≥yw na ceny produktÛw Grupy
+oraz w ograniczonym zakresie, na uzyskiwane przez niπ marøe. Ceny rynkowe aluminium wtÛrnego sπ
+uzaleønione od podaøy i popytu oraz od szeregu czynnikÛw, na ktÛre Grupa nie ma wp≥ywu wcale
+lub w nieznacznym stopniu, takie jak ogÛlne warunki makroekonomiczne, sytuacja w branøach
+bÍdπcych kluczowymi odbiorcami aluminium wtÛrnego, ceny aluminium pierwotnego
+                                                                                                  50
+
+                                                ALUMETAL S.A.
+                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+oraz ceny z≥omu aluminiowego. Pogorszenie siÍ ogÛlnej sytuacji gospodarczej Europie,
+w szczegÛlnoúci w Polsce, Niemczech, na WÍgrzech lub w Europie årodkowo-Wschodniej moøe mieÊ
+niekorzystny wp≥yw na dzia≥alnoúÊ, sytuacjÍ finansowπ, wyniki lub perspektywy Grupy Alumetal
+do koÒca 2021 roku. Sytuacja geopolityczna takøe moøe mieÊ poúredni wp≥yw na wyniki Emitenta.
+2. Sytuacja w przemyúle motoryzacyjnym
+Struktura odbiorcÛw wtÛrnych aluminiowych stopÛw odlewniczych jest silnie skoncentrowana
+na przemyúle motoryzacyjnym. W konsekwencji dzia≥alnoúÊ SpÛ≥ki i Grupy jest wraøliwa na zmiany
+trendÛw w tym przemyúle. Sytuacja w przemyúle motoryzacyjnym jest uzaleøniona od ogÛlnych
+warunkÛw gospodarczych, w tym od poziomu wydatkÛw konsumentÛw na samochody.
+Podczas recesji lub okresÛw niskiego wzrostu gospodarczego przemys≥ motoryzacyjny dotyka
+zazwyczaj obniøenie skali dzia≥alnoúci. W okresie od 2005 do po≥owy 2013 roku wystÍpowa≥ trend
+spadkowy w produkcji i sprzedaøy samochodÛw w UE. Od po≥owy 2013 roku nastπpi≥a znaczna
+poprawa koniunktury. W II po≥owie 2018 roku nastπpi≥o odwrÛcenie tej tendencji, co wp≥ynÍ≥o
+negatywnie na wielkoúÊ popytu oraz poziom marø producentÛw wtÛrnych aluminiowych stopÛw
+odlewniczych. Na dzia≥alnoúÊ Grupy moøe wp≥ynπÊ potencjalne zmniejszenie siÍ eksportu przemys≥u
+motoryzacyjnego poza EuropÍ (np. do Azji lub Ameryki P≥n.) oraz ograniczenie produkcji samochodÛw
+w UE spowodowane m.in. Brexitem. Dodatkowo na wyniki finansowe producentÛw wtÛrnych
+aluminiowych stopÛw odlewniczych, w tym teø Grupy Alumetal, moøe wp≥ynπÊ sytuacja
+w poszczegÛlnych koncernach motoryzacyjnych oraz zaostrzajπce siÍ regulacje dotyczπce emisji CO2.
+Nowym zagroøeniem dla przemys≥u motoryzacyjnego jest trwajπca pandemia koronawirusa
+i wynikajπcy z niej istotny spadek popytu na pojazdy samochodowe w 2020 roku i 2021 roku oraz
+zaburzenia w ≥aÒcuchach dostaw surowcÛw i komponentÛw.
+3. Relacja pomiÍdzy cenami zakupu z≥omowych aluminiowych i innych
+     g≥Ûwnych surowcÛw uøywanych do produkcji, a cenami sprzedaøy
+     wtÛrnych aluminiowych stopÛw odlewniczych
+Co do zasady ceny wtÛrnych aluminiowych stopÛw odlewniczych, bÍdπcych kluczowym produktem
+Grupy, sπ silnie powiπzane w d≥ugim okresie z kursem aluminium (LME HG) oraz stopÛw aluminiowych
+(LME AA) na LondyÒskiej Gie≥dzie Metali (London Metal Exchange). Jednakøe powyøsza korelacja w
+krÛtkim okresie moøe podlegaÊ wahaniom i nie odzwierciedlaÊ w pe≥ni d≥ugookresowych trendÛw.
+Kluczowym kosztem operacyjnym Grupy jest koszt pozyskiwania surowcÛw. Podstawowym surowcem
+wykorzystywanym w procesie produkcji Grupy jest z≥om aluminiowy. Ponadto Grupa wykorzystuje
+surowce czyste, w tym aluminium niestopowe do przetapiania w gπskach, krzem metaliczny, nikiel
+katodowy, mangan, tytan oraz magnez. Surowce z≥omowe i czyste stanowiπ najwiÍkszπ sk≥adowπ
+kosztÛw produkcji (85-90%).
+Ceny wtÛrnych aluminiowych stopÛw odlewniczych, z≥omu aluminiowego oraz innych surowcÛw
+wykorzystywanych w procesie produkcji przez GrupÍ podlegajπ znacznym fluktuacjom oraz sπ
+uzaleønione od szeregu czynnikÛw pozostajπcych poza kontrolπ Grupy Alumetal, w tym od panujπcych
+ogÛlnych warunkÛw gospodarczych, podaøy i popytu na metale jako surowiec
+i pÛ≥produkty z tych metali na rynkach europejskich czy úwiatowych. Wzrostowi cen z≥omÛw
+aluminiowych moøe nie towarzyszyÊ odpowiedni wzrost cen stopÛw produkowanych przez GrupÍ
+                                                                                               51
+
+                                                 ALUMETAL S.A.
+                           Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+Alumetal, co z kolei moøe prze≥oøyÊ siÍ na spadek marø na sprzedawanych produktach i pogorszenie
+wynikÛw finansowych Grupy w niedalekiej przysz≥oúci. Podobne ryzyko moøe mieÊ miejsce
+w przypadku spadku cen stopÛw, ktÛremu nie towarzyszy odpowiedni spadek cen z≥omÛw
+aluminiowych.
+4. Ograniczenie dostÍpnoúci surowcÛw z≥omowych w Europie
+Podstawowym surowcem wykorzystywanym w procesie produkcji Grupy jest z≥om aluminiowy. Grupa
+pozyskuje z≥om aluminiowy g≥Ûwnie u podmiotÛw prowadzπcych obrÛt z≥omem aluminiowym,
+poúrednikÛw oraz producentÛw produktÛw z aluminium (jako odpad poprodukcyjny).
+Pomimo, øe Grupa korzysta ze zdywersyfikowanej bazy zewnÍtrznych dostawcÛw z≥omu
+aluminiowego, nie moøna ca≥kowicie wykluczyÊ ograniczenia dostÍpnoúci tego surowca w niedalekiej
+przysz≥oúci. DostÍpnoúÊ i ceny z≥omu aluminiowego sπ uzaleønione od szeregu czynnikÛw
+pozostajπcych poza kontrolπ Grupy Alumetal, w tym od iloúci z≥omÛw dostÍpnych na rynku,
+zapotrzebowania na z≥om ze strony producentÛw aluminium wtÛrnego, poziomu eksportu z≥omÛw
+z Europy na inne kontynenty, szczegÛlnie do Azji, rÛønicy w cenach pomiÍdzy Europπ i pozosta≥ymi
+kontynentami czy warunkami pogodowymi ograniczajπcymi zbiÛrkÍ z≥omÛw. Zmniejszona dostÍpnoúÊ
+z≥omÛw na rynku europejskim, zwiÍkszenie poziomu eksportu z≥omÛw z Europy na inne kontynenty
+lub zwiÍkszone zapotrzebowanie regionalne moøe spowodowaÊ spadek dostÍpnoúci lub wzrost cen
+z≥omu aluminiowego.
+Najnowszym zagroøeniem dla poziomu podaøy surowcÛw z≥omowych w Polsce, Europie i na úwiecie
+jest rozprzestrzeniajπca siÍ pandemia koronawirusa utrudniajπca sp≥yw z≥omu poamortyzacyjnego do
+lokalnych punktÛw skupu. Dodatkowo podaø poprodukcyjnych surowcÛw z≥omowych jest skorelowana
+z poziomem wielkoúci produkcji przemys≥owej.
+5. Potencjalne ograniczenia w dostawach mediÛw do zak≥adÛw Grupy
+      Alumetal oraz wzrost kosztÛw ich nabycia
+Na wyniki Grupy Alumetal istotny, negatywny wp≥yw mogπ mieÊ ograniczenia w dostawach mediÛw
+(energii elektrycznej lub paliw gazowych), jeøeli bÍdπ mia≥y charakter úrednio lub d≥ugoterminowy.
+6. Wzrost walki konkurencyjnej na rynku aluminium wtÛrnego
+Pojawienie siÍ nowych podmiotÛw lub umocnienie pozycji istniejπcych podmiotÛw prowadzπcych
+dzia≥alnoúÊ konkurencyjnπ w zakresie produkcji aluminium wtÛrnego, a takøe ewentualne zwiÍkszenie
+mocy produkcyjnych czy plany rozbudowy ze strony krajowych i miÍdzynarodowych konkurentÛw
+Grupy Alumetal mogπ powodowaÊ nasilenie siÍ konkurencji. Nie ma pewnoúci, øe
+w przysz≥oúci podmioty konkurujπce z Grupπ Alumetal nie podejmπ dalszych wysi≥kÛw zmierzajπcych
+do intensyfikacji rozwoju oraz nie bÍdπ prowadziÊ agresywnej polityki cenowej i produktowej
+wzglÍdem obecnych oraz potencjalnych dostawcÛw i klientÛw Grupy Alumetal.
+7. Ryzyko koniecznoúci zwrotu ca≥oúci lub czÍúci pomocy publicznej
+Ryzykiem dla wynikÛw finansowych SpÛ≥ki i Grupy Kapita≥owej ALUMETAL S.A. moøe byÊ teø fakt, iø
+ALUMETAL Group Hungary Kft. otrzymuje dotacjÍ gotÛwkowπ, a ALUMETAL Poland sp. z o.o. korzysta
+z ulgi w podatku dochodowym. W przypadku, gdyby okaza≥o siÍ w przysz≥oúci, iø spÛ≥ki te nie wywiπzujπ
+siÍ ze swoich zobowiπzaÒ wynikajπcych z uzyskanej pomocy publicznej, moøe siÍ to wiπzaÊ z
+                                                                                                   52
+
+                                                                ALUMETAL S.A.
+                                          Sprawozdanie Zarzπdu z dzia≥alnoúci ALUMETAL S.A. w roku 2020
+   koniecznoúciπ zwrotu tej pomocy publicznej w czÍúci lub w ca≥oúci, co z kolei moøe byÊ istotnym
+   obciπøeniem i zagroøeniem dla wynikÛw jak i p≥ynnoúci Grupy. Wieloletnie doúwiadczenie Grupy
+   Alumetal w korzystaniu z pomocy publicznej istotnie ogranicza jednak to ryzyko.
+   8. Ryzyko utrzymywania siÍ pandemii koronawirusa
+   Trwajπca wciπø na úwiecie pandemia koronawirusa wp≥ywa istotnie na sytuacjÍ gospodarczπ, popyt ze
+   strony przemys≥u motoryzacyjnego i w konsekwencji na wyniki finansowe Grupy Kapita≥owej
+   ALUMETAL S.A.
+   WúrÛd najwaøniejszych ryzyk jakie zidentyfikowano w efekcie analizy sytuacji zwiπzanej z utrzymujπcπ
+   siÍ pandemiπ naleøy wymieniÊ:
+        -  ryzyko przestojÛw produkcyjnych wúrÛd klientÛw zw≥aszcza w przemyúle motoryzacyjnym
+           i ich wp≥yw na popyt na wyroby Grupy,
+        -  ryzyko zakaøenia pracownikÛw wirusem COVID-19,
+        -  ryzyko powrotu barier logistycznych lub administracyjnych w Europie w sferze zaopatrzenia
+           w surowce z≥omowe i/lub sprzedaøy stopÛw aluminiowych,
+        -  ryzyko okresowego zmniejszenia dostÍpnoúci surowcÛw z≥omowych,
+        -  ryzyko dostÍpnoúci limitÛw ubezpieczeniowych naleønoúci dla klientÛw Grupy oraz ryzyko
+           kredytowe (potencjalne problemy klientÛw z regulacjπ zobowiπzaÒ).
+   Aktualnie sytuacja jest na tyle dynamiczna, øe nie sposÛb przewidzieÊ dalszego rozwoju wydarzeÒ i
+   skwantyfikowaÊ precyzyjnie jego wp≥ywu na sytuacjÍ i wyniki finansowe SpÛ≥ki oraz Grupy Alumetal w
+   ca≥ym 2021 roku i latach nastÍpnych.
+   9. Inne, nieprzewidziane, niekorzystne zdarzenia jednorazowe
+   Na wyniki ALUMETAL S.A. jak rÛwnieø Grupy Alumetal istotny, negatywny wp≥yw mogπ mieÊ teø
+   ewentualnie inne, nieprzewidziane i niespodziewane zdarzenia jednorazowe.
+  XIII. Stanowisko Zarzπdu odnoúnie prognoz wynikÛw finansowych
+           ALUMETAL S.A.
+   Zarzπd SpÛ≥ki zdecydowa≥ o niepublikowaniu prognoz wynikÛw SpÛ≥ki.
+                                                                                                      Przemys≥aw Elektronicznie
+                                                   Krzysztof
+                                                                                                                                 podpisany
+Agnieszka       Elektronicznie podpisany
+                przez Agnieszka Maria
+                                                                          Elektronicznie podpisany                 przez Przemys≥aw Pawe≥
+Maria           Drzyødøyk
+                                                                          przez Krzysztof B≥asiak     Pawe≥        Grzybek
+                                                   B≥asiak
+                                                                          Data: 2021.03.22 10:07:53                Data: 2021.03.22
+Drzyødøyk
+                Data: 2021.03.22 09:57:38
+                +01'00'
+                                                                          +01'00'                     Grzybek      09:41:40 +01'00'
+   _______________                                         _________________                              _________________
+   Agnieszka Drzyødøyk                                     Krzysztof B≥asiak                              Przemys≥aw Grzybek
+   Prezes Zarzπdu                                          Wiceprezes Zarzπdu                             Cz≥onek Zarzπdu
+                                                                                                                                    53
+

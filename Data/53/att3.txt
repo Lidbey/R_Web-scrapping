@@ -1,0 +1,1317 @@
+Jednostkowy raport roczny
+    Merlin Group S.A.
+           za okres
+  01.01.2020 – 31.12.2020
+   Warszawa, dnia 22 marca 2021 r
+
+Spis treœci
+I.      WYBRANE DANE FINANSOWE .................................................................................... 4
+   1     Wybrane dane finansowe .............................................................................................................. 4
+II.     ROCZNE SPRAWOZDANIE FINANSOWE MERLIN GROUP S.A. .............................. 5
+   1     Oœwiadczenie Zarz¹du .................................................................................................................. 5
+   2     Wprowadzenie do sprawozdania finansowego .............................................................................. 6
+      2.1      Informacje podstawowe........................................................................................................ 6
+      2.2      Informacje podstawowe o spó³kach wchodz¹cych w sk³ad Grupy Kapita³owej .................... 8
+      2.3      Prezentacja sprawozdañ, za³o¿enie kontynuacji dzia³alnoœci ............................................... 11
+      2.4      Stosowane metody i zasady rachunkowoœci......................................................................... 11
+         2.4.1    Rachunek zysków i strat .................................................................................................. 12
+         2.4.2    Bilans.............................................................................................................................. 13
+   3     Bilans.......................................................................................................................................... 17
+   4     Rachunek zysków i strat.............................................................................................................. 19
+   5     Sprawozdanie z przep³ywów œrodków pieniê¿nych ..................................................................... 20
+   6     Zestawienie zmian w kapitale w³asnym ....................................................................................... 21
+   7     Informacja dodatkowa ................................................................................................................ 22
+                                                                                    Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                                                           2
+
+Szanowni Pañstwo,
+W imieniu Merlin Group S.A. prezentujemy wszystkim Interesariuszom Spó³ki jednostkowy raport za 2020 rok,
+zawieraj¹cy najistotniejsze informacje dotycz¹ce dzia³alnoœci Spó³ki w tym okresie. Przedstawione podsumowanie
+rocznej aktywnoœci biznesowej oraz dzia³añ´ na rynku kapita³owym rzetelnie oddaje obraz aktualnej sytuacji Merlin
+Group S.A., który pragniemy uzupe³niæ´ komentarzem, wskazuj¹cym nie tylko na osi¹gniêcia, ale przede wszystkim
+nakreœlaj¹cym obszar dalszego rozwoju Grupy.
+Rok 2020 by³ bardzo intensywnym pod k¹tem dzia³alnoœci operacyjnej, w ca³ej Grupie uda³o siê zrewidowaæ koszty
+oraz dokonaæ niezbêdnych optymalizacji, szczególnie w obszarze kosztów powierzchni biurowej, co prze³o¿y siê na
+poprawê wyniku finansowego Spó³ki w najbli¿szych latach.
+Zgodnie z publikowanymi komunikatami, Zarz¹d Spó³ki w 2020 roku pozyska³ inwestora strategicznego, który
+umo¿liwi zapewnienie dalszego Spó³ki oraz jej Grupy oraz stabilizacjê. W grudniu 2020 r. w wyniku przejêcia
+znacz¹cego pakietu akcji przez nowego inwestora strategicznego, jego obecnoœæ w akcjonariacie i wsparcie
+merytoryczne Spó³ki w zakresie prowadzonych dzia³añ sta³y siê faktem.
+Analizuj¹c plany i strategiczne za³o¿enia biznesowe Merlin Group S.A., bez w¹tpienia mo¿emy powiedzieæ, ¿e
+rozpoczêliœmy kolejny rok pe³en wyzwañ w obszarze rozwoju oraz stabilizacji procesów.
+W 2021 roku po przerwie, Merlin Group S.A. powróci³a do dzia³añ reklamowych o szerokim zasiêgu, w celu
+odœwie¿enia wizerunku marek oraz dotarcia do nowych klientów. Planowane dzia³ania wizerunkowe s¹
+potwierdzeniem wiary zarz¹dzaj¹cych oraz Inwestora Strategicznego w jakoœæ oferowanych us³ug.
+Jedoczeœnie, poza intensywnymi dzia³aniami optymalizacyjnymi oraz marketingowymi, w sposób ci¹g³y analizujemy
+umowy z partnerami handlowymi, staraj¹c siê osi¹gn¹æ jak najwiêcej efektów synergii w dzia³aniach.
+Z wyrazami szacunku,
+Zarz¹d Merlin Group S.A.
+                                                               Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                     3
+
+I.        WYBRANE DANE FINANSOWE
+   1     Wybrane dane finansowe
+                                                                           w tys. PLN                      w tys. EUR
+                            Wybrane dane finansowe
+                                                                  01.01.2020 -      01.01.2019 -  01.01.2020 -     01.01.2019 -
+                                                                   31.12.2020        31.12.2019    31.12.2020       31.12.2019
+     Przychody netto ze sprzeda¿y produktów, towarów i materia³ów          1 033            1 725           231               401
+     Zysk (strata) ze sprzeda¿y                                             -882             -860          -197              -200
+     Zysk (strata) z dzia³alnoœci operacyjnej                               -829           -1 328          -185              -309
+     Zysk (strata) brutto                                                 -2 408          -18 094          -538            -4 206
+     Zysk (strata) netto                                                  -2 398          -18 151          -536            -4 219
+     Przep³ywy pieniê¿ne netto z dzia³alnoœci operacyjnej                   -574             -494          -128              -115
+     Przep³ywy pieniê¿ne netto z dzia³alnoœci inwestycyjnej                   16           -9 923              4           -2 307
+     Przep³ywy pieniê¿ne netto z dzia³alnoœci finansowej                     584            9 280           131             2 157
+     Przep³ywy pieniê¿ne netto razem                                          26           -1 137              6             -264
+                                                                           w tys. PLN                      w tys. EUR
+                                                                      31.12.2020       31.12.2019    31.12.2020       31.12.2019
+     Aktywa razem                                                         84 207           84 349        18 247           19 807
+     Zobowi¹zania i rezerwy na zobowi¹zania                                1 463           43 332           317           10 175
+     Zobowi¹zania d³ugoterminowe                                              55            4 624            12             1 086
+     Zobowi¹zania krótkoterminowe                                          1 169           38 468           253             9 033
+     Kapita³ w³asny                                                       82 744           41 017        17 930             9 632
+     Kapita³ zak³adowy                                                    16 456           17 579         3 566             4 128
+   Dla celów przeliczenia prezentowanych danych na EUR zastosowano nastêpuj¹ce kursy:
+         •     Dla pozycji rachunku zysków i strat i przep³ywów pieniê¿nych:
+                    4,4742 kurs wyliczony jako œrednia z kursów NBP obowi¹zuj¹cych na ostatni dzieñ ka¿dego
+                                miesi¹ca w 2020 roku.
+                    4,3018 kurs wyliczony jako œrednia z kursów NBP obowi¹zuj¹cych na ostatni dzieñ ka¿dego
+                                miesi¹ca w 2019 roku.
+         •     Dla pozycji bilansowych:
+                    4,6148 kurs NBP z dnia 31 grudnia 2020 roku,
+                    4,2585 kurs NBP z dnia 31 grudnia 2019 roku.
+   Merlin Group S.A. pe³ni rolê holdingow¹ skupiaj¹c¹ funkcje pomocnicze Grupy. Odpowiedzialna jest
+   miêdzy innymi za pozyskiwanie finansowania dla Grupy i administracyjne wspieranie jej dzia³alnoœci
+   operacyjnej. Istotny wp³yw na wysokoœæ straty mia³y koszty finansowe które wynios³y 1,6 mln, dotycz¹ce
+   obligacji, które w czerwcu 2020 roku zosta³y wykupione. Zarz¹d Merlin Group S.A planuje w dalszej czêœci
+   optymalizacjê kosztów dotycz¹cych bie¿¹cej dzia³alnoœci operacyjnej Spó³ki, aby poprawiæ jednostkowy
+   wynik finansowy Spó³ki, w tym celu z pocz¹tkiem lutego 2021 roku, Zarz¹d dokona³ zmniejszenia
+   powierzchni biurowej o ponad 65%. Kolejnym z istotnych kosztów Spó³ki s¹ op³aty gie³dowe oraz prawne.
+                                                                       Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                                4
+
+II.       ROCZNE SPRAWOZDANIE FINANSOWE MERLIN GROUP S.A.
+    1    Oœwiadczenie Zarz¹du
+    Stosownie do artyku³u 52 ustawy o rachunkowoœci z dnia 29 wrzeœnia 1994 roku z póŸniejszymi zmianami,
+    Zarz¹d Spó³ki Merlin Group S.A. przedstawia sprawozdanie finansowe za rok koñcz¹cy siê 31.12.2020 roku,
+    na które sk³ada siê:
+         •   Bilans sporz¹dzony na dzieñ 31.12.2020 rok wskazuj¹cy po stronie aktywów i pasywów kwotê
+             84 207 226,26 z³
+         •   Rachunek zysków i strat za okres 01.01.2020 – 31.12.2020 rok, wskazuj¹cy stratê netto w wysokoœci
+             2 397 801,08 z³,
+         •   Zestawienie zmian w kapitale w³asnym,
+         •   Rachunek przep³ywów pieniê¿nych,
+         •   Informacjê dodatkow¹, obejmuj¹c¹ wprowadzenie do sprawozdania finansowego oraz dodatkowe
+             informacje i objaœnienia.
+    Zarz¹d Spó³ki oœwiadcza, ¿e wedle swojej najlepszej wiedzy, niniejsze sprawozdanie finansowe i dane
+    porównywalne sporz¹dzone zosta³y zgodnie z obowi¹zuj¹cym zasadami rachunkowoœci oraz ¿e
+    odzwierciedlaj¹ w sposób prawdziwy, rzetelny i jasny sytuacjê maj¹tkow¹ i finansow¹ Spó³ki Merlin Group
+    S.A. wynik finansowy, oraz ¿e sprawozdanie z dzia³alnoœci emitenta zawiera prawdziwy obraz emitenta
+    w tym opis podstawowych zagro¿eñ i ryzyk.
+    Zarz¹d oœwiadcza, ¿e firma audytorska uprawniona do badania sprawozdañ finansowych, zosta³a wybrana
+    zgodnie z przepisami prawa oraz ¿e podmiot ten i biegli rewidenci, dokonuj¹cy tego badania, spe³niali
+    warunki do wydania bezstronnej i niezale¿nej opinii z badania, zgodnie z obowi¹zuj¹cymi przepisami i
+    standardami zawodowymi.
+    Bieg³y rewident zosta³ wybrany przez Radê Nadzorcz¹ uchwa³¹ z 28 stycznia 2020 roku w sprawie wyboru
+    bieg³ego rewidenta. Wybrana zosta³a Spó³ka PTA Audyt Sp. z o.o. z siedzib¹ w Katowicach, wpisana na
+    listê podmiotów uprawnionych do badania sprawozdañ finansowych pod numerem 4202. Rada Nadzorcza
+    dokona³a powy¿szego wyboru, maj¹c na uwadze zagwarantowanie pe³nej niezale¿noœci i obiektywizmu
+    samego wyboru, jak i realizacji zadañ przez bieg³ego rewidenta.
+    Warszawa, 22 marca 2021 r.
+                                                              Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                    5
+
+2    Wprowadzenie do sprawozdania finansowego
+2.1 Informacje podstawowe
+Nazwa                                           Merlin Group S.A.
+Adres                               Aleje Jerozolimskie 134, 02-305 Warszawa
+Regon                                               141697724
+NIP                                               107 001 37 12
+KRS                                                0000403289
+                                   S¹d Rejonowy m.st. Warszawy w Warszawie,
+S¹d rejestrowy
+                             XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego
+Internet                                       www.merlingroup.pl
+Sprawozdanie finansowe Merlin Group S.A. zosta³o sporz¹dzone zgodnie z ustaw¹ z dnia 29 wrzeœnia 1994
+roku o rachunkowoœci (z póŸn. zm.) oraz Kodeksem Spó³ek Handlowych.
+Przedmiotem dzia³alnoœci Spó³ki jest:
+     •   Dzia³alnoœæ firm centralnych i holdingów, z wy³¹czeniem holdingów finansowych PKD 70.10.Z
+Dzia³alnoœæ drugorzêdna:
+     •   Dzia³alnoœæ rachunkowo-ksiêgowa, doradztwo podatkowe - PKD 69.20.Z
+Spó³ka Merlin Group S.A. (dawniej AdMassive Group S.A.) powsta³a w drodze przekszta³cenia AdMassive
+Sp. z o.o. W dniu 07.10.2011 roku Wspólnicy prawid³owo wezwani na zebranie wspólników podjêli uchwa³ê
+w formie Aktu Notarialnego (rep. A nr 14321/2011) o przekszta³ceniu Spó³ki AdMassive Spó³ka z
+ograniczon¹ odpowiedzialnoœci¹ w Spó³kê AdMassive Spó³ka Akcyjna.
+Spó³ka zosta³a zarejestrowana w dniu 28.11.2011 roku przez S¹d Rejonowy dla m.st. Warszawy, XIII
+Wydzia³ Gospodarczy w Krajowym Rejestrze S¹dowym pod numerem KRS 0000403289. Czas trwania
+Spó³ki zgodnie ze statutem jest nieograniczony.
+Przedmiotem dzia³alnoœci Merlin Group S.A jest dzia³alnoœæ holdingowa, polegaj¹ca na œwiadczeniu na
+rzecz spó³ek wchodz¹cych w sk³ad Grupy Kapita³owej szeregu us³ug maj¹cych charakter wsparcia
+prowadzonej przez nie dzia³alnoœci operacyjnej, w tym miêdzy innymi, najem biur, us³ug z zakresu obs³ugi
+prawnej i compliance, doradztwa strategicznego, controllingu i finansów oraz public relations.
+Zarz¹d
+     •   Przemys³aw ¯bikowski, Prezes Zarz¹du
+     •   Marek Belniak, Cz³onek Zarz¹du
+W okresie objêtym niniejszym raportem mia³y miejsce nastêpuj¹ce zmiany w sk³adzie Zarz¹du:
+     •   W dniu 28 stycznia 2020 r. Rada Nadzorcza Spó³ki podjê³a uchwa³ê w sprawie powo³ania do
+         Zarz¹du Spó³ki Pani Agnieszki Wójcik, powierzaj¹c jej pe³nienie funkcji Cz³onka Zarz¹du Spó³ki,
+     •   W dniu 5 paŸdziernika 2020 r. Rada Nadzorcza Spó³ki podjê³a uchwa³ê w sprawie powo³ania do
+         Zarz¹du Spó³ki Pana Marka Belniaka, powierzaj¹c mu pe³nienie funkcji Cz³onka Zarz¹du Spó³ki,
+                                                          Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                6
+
+   •   W dniu 30 paŸdziernika 2020 r. Pani Anna Prymakowska z³o¿y³a rezygnacjê z cz³onkostwa w
+       Zarz¹dzie Spó³ki ze skutkiem na dzieñ 30 paŸdziernika 2020 r,
+   •   W dniu 3 listopada 2020 r. Rada Nadzorcza Spó³ki podjê³a uchwa³ê w sprawie powo³ania do
+       Zarz¹du Spó³ki Pana Przemys³awa ¯bikowskiego, powierzaj¹c mu pe³nienie funkcji Prezesa
+       Zarz¹du Spó³ki.
+Zmiany w sk³adzie Zarz¹du Spó³ki, jakie mia³y miejsce po 31 grudnia 2020 r.:
+   •   W dniu 3 marca 2021 r. Pani Agnieszka Wójcik - Cz³onek Zarz¹du z³o¿y³a rezygnacjê z
+       cz³onkostwa w Zarz¹dzie Spó³ki ze skutkiem na dzieñ 3 marca 2021 r.
+Rada Nadzorcza
+W sk³ad Rady Nadzorczej Spó³ki Merlin Group S.A na dzieñ 22 marca 2021 roku wchodz¹:
+   •   Mariusz Minasiewicz– Przewodnicz¹cy Rady Nadzorczej
+   •   Aniela Hejnowska - Cz³onek Rady Nadzorczej,
+   •   Marcin Fryda - Cz³onek Rady Nadzorczej,
+   •   Grzegorz Kostrzewa - Cz³onek Rady Nadzorczej,
+   •   Henryk Dyjas - Cz³onek Rady Nadzorczej,
+   •   Justyna Romanczuk - Cz³onek Rady Nadzorczej,
+   •   Leszek Ortyñski - Cz³onek Rady Nadzorczej,
+W okresie objêtym niniejszym raportem mia³y miejsca nastêpuj¹ca zmiana w sk³adzie rady nadzorczej:
+   •   W dniu 15 czerwca 2020 r. do Spó³ki wp³ynê³a rezygnacja Pana Marka Loose - Cz³onka Rady
+       Nadzorczej Emitenta ze skutkiem na dzieñ 15 czerwca 2020 r.,
+   •   W dniu 17 czerwca 2020 r z³o¿y³ rezygnacjê Pan Przemys³aw Czichon z funkcji Przewodnicz¹cego
+       Rady Nadzorczej ze skutkiem na dzieñ 17 czerwca 2020 r.
+   •   W dniu 17 czerwca 2020 r Walne Zgromadzenie Emitenta powo³a³o Pana Tomasza Ciska na
+       Cz³onka Rady Nadzorczej oraz Pana Dominika Batorskiego na Cz³onka Rady Nadzorczej.
+   •   W dniu 7 grudnia 2020 r. z³o¿y³ rezygnacjê Pan Dominik Batorski z funkcji Cz³onka Rady
+       Nadzorczej ze skutkiem na dzieñ 7 grudnia 2020 r.
+   •   W dniu 7 grudnia 2020 r. z³o¿y³ rezygnacjê Pan Tomasz Cisek z funkcji Cz³onka Rady Nadzorczej
+       ze skutkiem na dzieñ 7 grudnia 2020 r.
+   •   W dniu 8 grudnia 2020 r. Walne Zgromadzenie Emitenta powo³a³o Pani¹ Justynê Romañczuk
+       na Cz³onka Rady Nadzorczej Emitenta, Pana Leszka Ortyñskiego na Cz³onka Rady Nadzorczej
+       Emitenta, Pana Mariusza Minasiewicza na Cz³onka Rady Nadzorczej oraz Pana Henryka Dyjasa na
+       Cz³onka Rady Nadzorczej.
+                                                         Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                               7
+
+2.2 Informacje podstawowe o spó³kach wchodz¹cych w sk³ad Grupy Kapita³owej
+W sk³ad Grupy Kapita³owej Emitenta na dzieñ 31.12.2020 r. wchodz¹ (graf obejmuje wy³¹cznie jednostki
+zale¿ne objête konsolidacj¹):
+W dniu 4 grudnia 2020 r., S¹d Rejonowy dla m. st. Warszawy w Warszawie, XII Wydzia³ Gospodarczy
+Krajowego Rejestru S¹dowego, dokona³ wpisu po³¹czenia spó³ek tj. spó³ki Profit M sp. z o. o. z siedzib¹ w
+Warszawie („Spó³ka Przejmuj¹ca”), Merlin Business Services sp. z o. o. z siedzib¹ w Warszawie („Spó³ka
+Przejmowana 1”) oraz Merlin Publishing sp. z o.o. z siedzib¹ w Warszawie („Spó³ka Przejmowana 2”),
+(³¹cznie: „Spó³ki Przejmowane”).
+Po³¹czenie nast¹pi³o w trybie art. 492 § 1 pkt 1 k.s.h., w drodze przejêcia Spó³ki Przejmowanej 1 i Spó³ki
+Przejmowanej 2 przez Spó³kê Przejmuj¹c¹ (sukcesja uniwersalna) poprzez przeniesienie ca³ego maj¹tku
+Spó³ek Przejmowanych na Spó³kê Przejmuj¹c¹ w zamian za ustanowione w tym celu nowe udzia³y. Merlin
+Group z chwil¹ wpisu po³¹czenia, objê³a 3.300 udzia³ów w podwy¿szonym kapitale zak³adowym Spó³ki
+Przejmuj¹cej o wartoœci nominalnej 50 z³otych ka¿dy. W wyniku powy¿szego Merlin Group aktualnie
+posiada 8.300 udzia³ów w Spó³ce Przejmuj¹cej, o ³¹cznej wartoœci nominalnej 415.000,00 z³, co stanowi
+100% udzia³u w kapitale zak³adowym Spó³ki Przejmuj¹cej.
+Rejestracja po³¹czenia spó³ek zale¿nych, o którym mowa wy¿ej, wp³ynie na optymalizacjê prowadzonej
+dzia³alnoœci gospodarczej Grupy kapita³owej Emitenta na rynku internetowym, poprzez wzmocnienie
+g³ównego profilu dzia³alnoœci Spó³ki Przejmuj¹cej, w wyniku czego stanie siê ona podmiotem kumuluj¹cym
+kluczowe aktywa i funkcje zwi¹zane z prowadzeniem dzia³alnoœci na rynku internetowym oraz
+zarz¹dzaj¹cym procesami biznesowymi skierowanymi na rozwój sprzeda¿y internetowej. Dokonane
+po³¹czenie wp³ynie w sposób pozytywny na uproszczenie procesów oraz usprawni prowadzenie dzia³alnoœci
+gospodarczej Grupy kapita³owej Emitenta. Przeprowadzona konsolidacja Spó³ek Przejmowanych pozwoli
+równie¿ na zwiêkszenie przejrzystoœci struktury Grupy kapita³owej Merlin Group.
+Poni¿ej opisano zakres dzia³alnoœci poszczególnych spó³ek podlegaj¹cych konsolidacji w 2020 r.
+ Nazwa i forma prawna                               Merlin Commerce Sp. z o.o.
+ Adres siedziby                              Aleje Jerozolimskie 134, 02-305 Warszawa
+ Regon                                                         142799272
+ NIP                                                         527 264 77 06
+ KRS                                                          0000377830
+                                            S¹d Rejonowy m.st. Warszawy w Warszawie,
+ S¹d rejestrowy
+                                     XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego
+ Internet                                                    www.merlin.pl
+                                                            Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                  8
+
+                                     Emitent posiada 42.200 udzia³ów w spó³ce, daj¹cych prawo
+ Udzia³ Emitenta w kapitale
+                                          do 42.200 g³osów na Zgromadzeniu Wspólników, co
+ zak³adowym i ogólnej liczbie
+                                    stanowi 100% udzia³u w kapitale zak³adowym spó³ki i 100%
+ g³osów
+                                                 g³osów na Zgromadzeniu Wspólników
+                                           Sprzeda¿ prowadzona za poœrednictwem sklepów
+ Przedmiot dzia³alnoœci
+                                                   internetowych tj. merlin.pl , cdp.pl
+W Polsce Merlin Commerce od marca 2016 roku prowadzi sklep merlin.pl. Zgodnie z umow¹ o
+d³ugoterminowej wspó³pracy handlowej zawart¹ 27 listopada 2015 roku ze spó³k¹ Magus S.A. w upad³oœci
+uk³adowej (dawniej Merlin.pl S.A.), spó³ka Merlin Commerce wydzier¿awi³a znak towarowy oraz domenê
+internetow¹ merlin.pl.
+Merlin Commerce Sp. z o.o. uzyska³a na podstawie umowy nie tylko prawo do korzystania ze znaku
+towarowego merlin.pl, ale równie¿ wszelkie prawa autorskich do utworów zwi¹zanych z mark¹ merlin.pl
+oraz pozosta³ych aktywów w sposób dowolnie przez siebie wybrany o ile nie pozostawa³y one sprzeczne z
+postanowieniami umowy, dodatkowo spó³ka zale¿na naby³a prawo do prowadzenia we w³asnym imieniu i
+na w³asny rachunek osobiœcie lub za poœrednictwem osób trzecich dzia³aj¹cych w jego imieniu w³asn¹
+sprzeda¿ internetow¹.
+Zarz¹d Merlin Commerce sp. z o. o. , po przyjêtej ofercie przez syndyka z dnia 20.10.2020 r. podejmuje
+odpowiednie kroki maj¹ce na celu jak najszybsze zawarcie stosownej umowy nabycia praw do powy¿szego
+sk³adnika masy upad³oœci.
+Nabycie praw do znaku towarowego „merlin.pl” ma na celu zabezpieczenie interesów grupy kapita³owej
+Merlin Group m. in. przez zachowanie prawa do korzystania ze znaku towarowego oraz domeny
+internetowej „merlin.pl”, dzier¿awionych przez Merlin Commerce sp. z o. o.
+Spó³ka pod swoimi skrzyd³ami posiada równie¿ sklep cdp.pl, który do tej pory by³ jednym z najwiêkszych
+krajowych e-sklepów w kategorii gier wideo. Tym samym grono klientów, do których dociera nasza oferta,
+powiêkszy³a siê o m³odsz¹ mêsk¹ czêœæ konsumentów.
+ Nazwa i forma prawna                                     Profit M Sp. z o.o.
+ Adres siedziby                               Aleje Jerozolimskie 134, 02-305 Warszawa
+ Regon                                                          015227002
+ NIP                                                          525 224 5459
+ KRS                                                           0000756053
+                                             S¹d Rejonowy m.st. Warszawy w Warszawie,
+ S¹d rejestrowy
+                                     XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego
+ Internet                                                www.merlingroup.pl
+                                   Emitent posiada 8.300 udzia³ów w spó³ce, daj¹cych prawo do
+ Udzia³ Emitenta w kapitale
+                                  8.300 g³osów na Zgromadzeniu Wspólników, co stanowi 100%
+ zak³adowym i ogólnej liczbie
+                                     udzia³u w kapitale zak³adowym spó³ki i 100% g³osów na
+ g³osów
+                                                      Zgromadzeniu Wspólników
+                                 Sprzeda¿ prowadzona za poœrednictwem sklepów internetowych
+ Przedmiot dzia³alnoœci               tj. niePrzeczytane.pl, Profit24.pl, smarkacz.pl, Mestro.pl,
+                                                           biznesikultura.pl
+Spó³ka Profit M Sp. z o.o. powsta³a poprzez przekszta³cenie Profit M sp. z o.o. sp.j numer KRS
+0000127896. Podstaw¹ powstania Profit M Sp. z o.o. jest uchwa³a o przekszta³ceniu podjêta przez
+                                                             Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                   9
+
+Wspólników Spó³ki Profit M sp. z o.o. sp.j w dniu 24-09-2018 roku, zawarta w Akcie Notarialnym rep. A
+nr 15136/2018
+Profit M sp. z o.o. zajmuje siê sprzeda¿¹ ksi¹¿ek oraz zabawek przez Internet za poœrednictwem sklepów
+internetowych nieprzeczytane.pl, profit24.pl, mestro.pl i smarkacz.pl.
+     •   niePrzeczytane.pl – ksiêgarnia internetowa, która oferuje czytelnikom bogat¹ ofertê wydawnicz¹
+         zarówno ksi¹¿kowych nowoœci, jak i pozycji trudno dostêpnych;
+     •   Profit24.pl – ksiêgarnia internetowa, dostarczaj¹ca od ponad 18 lat szeroki wybór opracowañ
+         naukowych, podrêczników akademickich i ksi¹¿ek z ró¿norodnych dziedzin wiedzy,
+         przeznaczonych dla lekarzy, prawników, pracowników naukowych, pracowników instytucji
+         i studentów, poszukuj¹cych najlepszych opracowañ akademickich;
+     •   smarkacz.pl – sklep internetowy oferuj¹cy wiele kreatywnych zabawek, w tym gier dla dzieci,
+         m³odzie¿y i doros³ych;
+     •   Mestro – sklep internetowy uruchomiony w 2016, stale poszerzaj¹cy asortyment, odpowiadaj¹c
+         na zapotrzebowanie klientów, oferuj¹cy m. in. ksi¹¿ki, zabawki, artyku³y szkolne i biurowe.
+     •   Biznes i Kultura – platforma zakupowa dla segmentu B2B.
+Magus S.A. w upad³oœci likwidacyjnej, (nie podlegaj¹ca konsolidacji)
+ Nazwa i forma prawna                           Magus S.A. w upad³oœci likwidacyjnej
+ Adres siedziby                                    ul. Garncarska, nr 9, 61-817 Poznañ
+ Regon                                                           12845024
+ NIP                                                          521 269 47 83
+ KRS                                                           0000253009
+                                      S¹d Rejonowy Poznañ – Nowe Miasto I Wilda w Poznaniu,
+ S¹d rejestrowy
+                                      VIII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego
+ Internet                                                     www.merlin.pl
+                                       Emitent posiada 18.577 akcji w spó³ce, daj¹cych prawo do
+                                     33.966 g³osów na Walnym Zgromadzeniu, co stanowi 100%
+ Udzia³ Emitenta w kapitale
+                                        udzia³u w kapitale zak³adowym spó³ki i 100% g³osów na
+ zak³adowym i ogólnej liczbie
+                                                          Walnym Zgromadzeniu
+ g³osów
+                                    z zastrze¿eniem wy³¹czenia praw przys³uguj¹cych Emitentowi
+                                      z tytu³u realizacji uprawnieñ jako akcjonariusza Magus S.A.
+ Przedmiot dzia³alnoœci                                      handel detaliczny
+Od 1999 roku Spó³ka prowadzi³a sklep internetowy merlin.pl, który przez 18 lat funkcjonowania sta³ siê
+rozpoznawaln¹ mark¹ na rynku e-commerce. Wysokie koszty zwi¹zane z otwarciem punktów odbioru
+przyczyni³y siê do pog³êbiania strat Spó³ki, która 28 grudnia 2015 roku z³o¿y³a w S¹dzie Rejonowym Poznañ
+wniosek o og³oszenie upad³oœci z mo¿liwoœci¹ zawarcia uk³adu. Podstaw¹ z³o¿enia wniosku by³ fakt
+zaprzestania przez Spó³kê wykonywania zobowi¹zañ finansowych.
+Spó³ka kontynuowa³a dzia³alnoœæ gospodarcz¹ w oparciu o nowy model biznesowy, tj. umowê wspó³pracy
+ze spó³k¹ Merlin Commerce Sp. z o.o., której przedmiotem jest odp³atne udzielenie przez Spó³kê licencji
+na korzystanie m.in. z baz danych, domen i znaków graficznych Spó³ki.
+W dniu 4 lipca 2019 roku zosta³o wydane postanowienia S¹du Rejonowego Poznañ Stare – Miasto
+w Poznaniu, Wydzia³ XI Gospodarczy do Spraw Upad³oœciowych i Restrukturyzacyjnych o zmianie
+sposobu prowadzenia postêpowania z udzia³em Magus S.A. z postêpowania z mo¿liwoœci¹ zawarcia uk³adu
+                                                              Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                   10
+
+na postêpowanie w celu likwidacji maj¹tku Magus S.A. Syndykiem masy upad³oœci spó³ki Magus S.A. zosta³
+ustanowiony Arkadiusz Sawala.
+Jednoczeœnie syndyk dzia³aj¹c na podstawie art. 75 prawa upad³oœciowego dokona³ przejêcia zarz¹dzania
+ca³ym maj¹tkiem spó³ki, z jednoczesnym wy³¹czeniem praw przys³uguj¹cych Emitentowi z tytu³u realizacji
+uprawnieñ jako akcjonariusza Magus S.A. Zgodnie z art. 75 utrata uprawnieñ do zarz¹dzania maj¹tkiem
+dotyczy wszelkich organów osób prawnych i innych jednostek organizacyjnych, je¿eli s¹ one wyposa¿one w
+organy zarz¹dzaj¹cych, nadzorczych, stanowi¹cych. Organy stanowi¹ce upad³ego nie maj¹ ¿adnych
+uprawnieñ kontrolnych w stosunku do syndyka. Por. np. C. Zalewski, Spó³ka gie³dowa w upad³oœci, s. 5 i n.
+W zwi¹zku z powy¿szym Zarz¹d Emitenta postanowi³ o dokonaniu odpisu z tytu³u posiadanych akcji
+w spó³ce Magus w upad³oœci likwidacyjnej S.A. na kwotê 13 mln. z³ w 2019 roku.
+W konsekwencji czego Emitent wy³¹czy³ od konsolidacji wyniki finansowe Magus w upad³oœci likwidacyjnej
+S.A. Emitent nie posiada kontroli nad Magus S.A. w upad³oœci.
+Z uwagi na utratê kontroli nad Magus S.A. w upad³oœci w rozumieniu art. 3 ust. 1 pkt 37 i 39 ustawy
+o rachunkowoœci, w tym braku jakiegokolwiek wp³ywu Emitenta na procedurê sporz¹dzania danych
+finansowych przez syndyka na potrzeby postêpowania upad³oœciowego, Emitent nie ma mo¿liwoœci
+zaprezentowania wybranych danych finansowych Spó³ki Magus S.A. w upad³oœci.
+W dniu 20 paŸdziernika 2020 roku, Syndyk spó³ki Magus S.A w upad³oœci likwidacyjnej przyj¹³ z³o¿on¹
+ofertê przez Merlin Commerce Sp. z o.o. (dzier¿yciela praw do znaku towarowego na podstawie umowy z
+dnia 27 listopada 2015 roku) na zakup sk³adnika masy upad³oœci w postaci wartoœci niematerialnych i
+prawnych (domeny, znaki towarowe), opisanych przez rzeczoznawcê maj¹tkowego w raporcie z wyceny
+maj¹tku Magus S.A. z dnia 16 wrzeœnia 2019 r. na kwotê 1.616.200,00 z³.
+2.3 Prezentacja sprawozdañ, za³o¿enie kontynuacji dzia³alnoœci
+Spó³ka prezentuje sprawozdanie finansowe za okres od 01.01.2020r. do 31.12.2020r. oraz dane
+porównywalne za rok obrotowy zakoñczony 31 grudnia 2019 roku. Lata obrotowe s¹ to¿same z rokiem
+kalendarzowym. W sk³ad Spó³ki nie wchodz¹ wewnêtrze jednostki organizacyjne sporz¹dzaj¹ce
+samodzielnie sprawozdania finansowe.
+Sprawozdanie finansowe zosta³o sporz¹dzone przy za³o¿eniu kontynuowania dzia³alnoœci gospodarczej
+przez Spó³kê w daj¹cej siê przewidzieæ przysz³oœci, obejmuj¹cej okres nie krótszy ni¿ jeden rok od dnia
+bilansowego, w nie zmniejszonym istotnie zakresie.
+W celu zabezpieczenia kontynuacji dzia³alnoœci Spó³ka dokona³a sp³aty obligacji w 2020 r oraz dokona³a
+emisji i zarejestrowania akcji serii £
+2.4 Stosowane metody i zasady rachunkowoœci
+Sprawozdanie finansowe zosta³o przygotowane zgodnie z wymogami Ustawy z dnia 29 wrzeœnia 1994 roku
+o rachunkowoœci (z póŸn. zm.) obowi¹zuj¹cymi jednostki kontynuuj¹ce dzia³alnoœæ oraz rozporz¹dzenia
+Ministra Finansów z dnia 12 grudnia 2001 r. w sprawie szczegó³owych zasad uznawania, metod wyceny,
+zakresu ujawniania i sposobu prezentacji instrumentów finansowych.
+Walut¹ funkcjonaln¹ Spó³ki oraz walut¹ prezentacji niniejszego sprawozdania finansowego jest z³oty polski
+(PLN).
+Spó³ka sporz¹dza rachunek zysków i strat w uk³adzie porównawczym. W sprawozdaniu finansowym Spó³ka
+wykazuje zdarzenia gospodarcze zgodnie z ich treœci¹ ekonomiczn¹.
+Spó³ka sporz¹dza rachunek przep³ywów pieniê¿nych metod¹ poœredni¹.
+                                                          Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                               11
+
+Wynik finansowy Spó³ki za dany rok obrotowy obejmuje wszystkie osi¹gniête i przypadaj¹ce na jej rzecz
+przychody oraz zwi¹zane z tymi koszty zgodnie z zasadami memoria³u, wspó³miernoœci przychodów i
+kosztów oraz ostro¿nej wyceny.
+2.4.1   Rachunek zysków i strat
+Przychody i koszty
+Przychody i koszty s¹ ujmowane zgodnie z zasad¹ memoria³u, tj. w roku obrotowym, którego dotycz¹,
+niezale¿nie od terminu otrzymania lub dokonania p³atnoœci.
+Grupa Kapita³owa sporz¹dza rachunek zysków i strat w wariancie porównawczym.
+Przychody ze sprzeda¿y
+Przychody ze sprzeda¿y produktów, towarów i materia³ów ujmuje siê w rachunku zysków i strat, gdy Grupa
+Kapita³owa przekaza³a nabywcy znacz¹ce korzyœci wynikaj¹ce z praw w³asnoœci do tych aktywów oraz
+przesta³a byæ trwale zaanga¿owana w zarz¹dzanie przekazanymi aktywami, ani te¿ nie sprawuje nad nimi
+efektywnej kontroli.
+Przychody z wykonania us³ug o okresie realizacji do 6 miesiêcy ujmowane s¹ w momencie wykonania us³ugi.
+Przychody odsetkowe
+Przychody odsetkowe s¹ ujmowane przy zastosowaniu efektywnej stopy procentowej.
+Przychody z tytu³u dywidend
+Przychody z tytu³u dywidend zalicza siê do przychodów finansowych na dzieñ powziêcia przez
+Zgromadzenie Wspólników spó³ki, w któr¹ jednostka zainwestowa³a, uchwa³y o podziale zysku, chyba ¿e
+w uchwale okreœlono inny dzieñ prawa do dywidendy.
+Koszty
+Przez koszty i straty jednostka rozumie uprawdopodobnione zmniejszenia w okresie sprawozdawczym
+korzyœci ekonomicznych, o wiarygodnie okreœlonej wartoœci, w formie zmniejszenia wartoœci aktywów, albo
+zwiêkszenia wartoœci zobowi¹zañ i rezerw, które doprowadz¹ do zmniejszenia kapita³u w³asnego lub
+zwiêkszenia jego niedoboru w sposób inny, ni¿ wycofanie œrodków przez udzia³owców lub w³aœcicieli.
+Koszty s¹ rozpoznawane wed³ug zasady memoria³owej, tj. w okresach, których dotycz¹, niezale¿nie od daty
+otrzymania lub dokonania p³atnoœci.
+Spó³ka sporz¹dza porównawczy wariant rachunku zysków i strat.
+Podatek dochodowy
+Podatek dochodowy wykazany w rachunku zysków i strat obejmuje czêœæ bie¿¹c¹ i czêœæ odroczon¹.
+Bie¿¹ce zobowi¹zanie z tytu³u podatku dochodowego jest naliczane zgodnie z przepisami podatkowymi.
+Wykazywana w rachunku zysków i strat czêœæ odroczona stanowi ró¿nicê pomiêdzy stanem rezerw i
+aktywów z tytu³u podatku odroczonego na koniec i na pocz¹tek okresu sprawozdawczego.
+Rezerwy i aktywa z tytu³u odroczonego podatku dochodowego, dotycz¹ce operacji rozliczanych z kapita³em
+w³asnym, odnosi siê na kapita³ w³asny.
+                                                           Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                12
+
+Aktywa z tytu³u odroczonego podatku dochodowego ustala siê w wysokoœci kwoty przewidzianej w
+przysz³oœci do odliczenia od podatku dochodowego, w zwi¹zku z ujemnymi ró¿nicami przejœciowymi oraz
+straty podatkowej mo¿liwej do odliczenia, ustalonej przy uwzglêdnieniu zasady ostro¿noœci.
+Rezerwê z tytu³u odroczonego podatku dochodowego tworzy siê w wysokoœci kwoty podatku
+dochodowego, wymagaj¹cej w przysz³oœci zap³aty, w zwi¹zku z wystêpowaniem dodatnich ró¿nic
+przejœciowych, to jest ró¿nic, które spowoduj¹ zwiêkszenie podstawy obliczenia podatku dochodowego w
+przysz³oœci.
+Wysokoœæ rezerwy i aktywów z tytu³u odroczonego podatku dochodowego ustala siê przy uwzglêdnieniu
+stawek podatku dochodowego obowi¹zuj¹cych w roku powstania obowi¹zku podatkowego, przy
+uwzglêdnieniu przepisów podatkowych obowi¹zuj¹cych na dzieñ bilansowy.
+Rezerwa i aktywa z tytu³u odroczonego podatku dochodowego nie s¹ kompensowane dla potrzeb
+prezentacji w sprawozdaniu finansowym
+2.4.2    Bilans
+Wartoœci niematerialne i prawne
+Wartoœci niematerialne i prawne ujmuje siê w ksiêgach wed³ug cen ich nabycia lub kosztów poniesionych
+na ich wytworzenie, pomniejszonych o odpisy amortyzacyjne a tak¿e opisy z tytu³u trwa³ej utraty wartoœci.
+Wartoœci niematerialne i prawne amortyzowane s¹ metod¹ liniow¹ w okresie przewidywanej ekonomicznej
+u¿ytecznoœci. Wartoœci niematerialne i prawne o wartoœci pocz¹tkowej poni¿ej 3.500,00 z³, ujmowane s¹ w
+ewidencji wartoœci niematerialnych i prawnych i amortyzowane jednorazowo w miesi¹cu przekazania do
+u¿ytkowania.
+Œrodki trwa³e
+Œrodki trwa³e wykazuje siê w ksiêgach wed³ug ceny nabycia lub kosztu wytworzenia (wartoœæ pocz¹tkowa),
+pomniejszonych o odpisy amortyzacyjne, a tak¿e o odpisy z tytu³u trwa³ej utraty ich wartoœci.
+Wartoœæ pocz¹tkow¹ œrodka trwa³ego powiêkszaj¹ koszty jego ulepszenia, polegaj¹cego na przebudowie,
+rozbudowie, modernizacji lub rekonstrukcji, powoduj¹cego, ¿e wartoœæ u¿ytkowa tego œrodka po
+zakoñczeniu ulepszenia przewy¿sza posiadan¹ przy przyjêciu do u¿ywania wartoœæ u¿ytkow¹.
+Sk³adniki maj¹tku o przewidywanym okresie u¿ytkowania nie przekraczaj¹cym jednego roku oraz wartoœci
+pocz¹tkowej nie przekraczaj¹cej 3.500 z³ s¹ jednorazowo odpisywane w ciê¿ar kosztów w momencie
+przekazania do u¿ytkowania.
+Œrodki trwa³e umarzane s¹ wed³ug metody liniowej pocz¹wszy od miesi¹ca nastêpnego po miesi¹cu przyjêcia
+do eksploatacji w okresie odpowiadaj¹cym szacowanemu okresowi ich ekonomicznej u¿ytecznoœci.
+D³ugoterminowe aktywa finansowe / zobowi¹zania finansowe
+Udzielone po¿yczki d³ugoterminowe wykazywane s¹ w wartoœci nominalnej, zgodnie z zawart¹ umow¹.
+Po¿yczki d³ugoterminowe w walucie obcej podlegaj¹ wycenie na koniec roku obrotowego wed³ug œredniego
+kursu danej waluty, który zosta³ ustalony przez NBP. Powsta³e z tej wyceny ró¿nice kursowe, gdy s¹
+dodatnie odnosz¹ siê do przychodów przysz³ych okresów, a gdy s¹ ujemne – w koszty finansowe.
+Udzia³y w jednostkach zale¿nych
+Udzia³y w jednostkach zale¿nych wyceniane s¹ w cenie nabycia pomniejszonej o ewentualne odpisy z tytu³u
+utraty trwa³ej wartoœci.
+                                                          Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                               13
+
+Nale¿noœci
+Nale¿noœci wykazuje siê w kwocie wymaganej zap³aty, z zachowaniem zasady ostro¿nej wyceny. Wartoœæ
+nale¿noœci aktualizuje siê uwzglêdniaj¹c stopieñ prawdopodobieñstwa ich zap³aty poprzez dokonanie
+odpisu aktualizuj¹cego, zaliczanego odpowiednio do pozosta³ych kosztów operacyjnych lub do kosztów
+finansowych - zale¿nie od rodzaju nale¿noœci, której dotyczy odpis aktualizuj¹cy.
+Nale¿noœci wyra¿one w walutach obcych wykazuje siê na moment ich powstania wed³ug œredniego kursu
+Narodowego Banku Polskiego og³oszonego dla danej waluty z dnia poprzedzaj¹cego ten dzieñ.
+Na dzieñ bilansowy nale¿noœci wyra¿one w walutach obcych wycenia siê po obowi¹zuj¹cym na ten dzieñ
+œrednim kursie og³oszonym dla danej waluty przez Narodowy Bank Polski.
+Inwestycje krótkoterminowe
+Inwestycje obejmuj¹ aktywa posiadane w celu osi¹gniêcia korzyœci ekonomicznych wynikaj¹cych z przyrostu
+wartoœci tych aktywów, uzyskania z nich przychodów w formie odsetek, dywidend (udzia³ów w zyskach)
+lub innych po¿ytków, w tym równie¿ z transakcji handlowej, a w szczególnoœci aktywa finansowe oraz te
+nieruchomoœci i wartoœci niematerialne i prawne, które nie s¹ u¿ytkowane przez jednostkê, lecz s¹ posiadane
+w celu osi¹gniêcia tych korzyœci.
+Rozliczenia miêdzyokresowe kosztów czynne
+Czynne rozliczenia miêdzyokresowe kosztów dokonywane s¹ w odniesieniu do poniesionych kosztów
+dotycz¹cych przysz³ych okresów sprawozdawczych. W szczególnoœci, obejmuje to zap³acone z góry koszty
+czynszu, ubezpieczeñ, prenumeraty, abonamentów, itp.
+Czas i sposób rozliczenia jest uzasadniony charakterem rozliczanych kosztów, z zachowaniem zasady
+ostro¿nej wyceny.
+Rozliczenia miêdzyokresowe czynne obejmuj¹ rozliczenia:
+    •   d³ugoterminowe, które dotycz¹ przysz³ych okresów sprawozdawczych i trwaj¹ d³u¿ej, ni¿ 12
+        miesiêcy od dnia bilansowego,
+    •   krótkoterminowe, które dotycz¹ przysz³ych okresów sprawozdawczych i trwaj¹ nie d³u¿ej, ni¿ 12
+        miesiêcy od dnia bilansowego.
+Kapita³ podstawowy
+Wykazuje siê w wysokoœci okreœlonej aktem za³o¿ycielskim Spó³ki i wpisanej w rejestrze s¹dowym. Kapita³
+zak³adowy stanowi nominalna wartoœæ akcji objêtych przez akcjonariuszy.
+Kapita³ zapasowy – tworzy siê z corocznych odpisów wykazywanego w sprawozdaniu finansowym zysku
+rocznego spó³ki
+Kapita³ rezerwowy – tworzy siê z zysku rocznego, niezale¿nie od kapita³u zapasowego, z przeznaczeniem
+na pokrycie strat Spó³ki lub inne cele.
+O u¿yciu kapita³u zapasowego rezerwowego rozstrzyga walne zgromadzenie, jednak¿e czêœci kapita³u
+zapasowego w wysokoœci jednej trzeciej kapita³u zak³adowego ,mo¿na u¿yæ jedynie na pokrycie straty
+wykazanej w sprawozdaniu finansowym.
+Zobowi¹zania
+Wycenia siê na dzieñ bilansowy w kwocie wymagaj¹cej zap³aty.
+                                                           Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                14
+
+Zobowi¹zania wyra¿one w walutach obcych wykazuje siê na moment ich powstania wed³ug œredniego kursu
+Narodowego Banku Polskiego og³oszonego dla danej waluty z dnia poprzedzaj¹cego ten dzieñ.
+Na dzieñ bilansowy zobowi¹zania wyra¿one w walutach obcych wycenia siê po obowi¹zuj¹cym na ten dzieñ
+œrednim kursie og³oszonym dla danej waluty przez Narodowy Bank Polski.
+Rozliczenia miêdzyokresowe kosztów bierne
+Bierne rozliczenia miêdzyokresowe kosztów dokonywane s¹ w wysokoœci prawdopodobnych zobowi¹zañ
+przypadaj¹cych na bie¿¹cy okres sprawozdawczy, wynikaj¹cych w szczególnoœci ze œwiadczeñ wykonanych
+na rzecz jednostki przez kontrahentów jednostki, gdy kwotê zobowi¹zania mo¿na oszacowaæ w sposób
+wiarygodny.
+Odpisy biernych rozliczeñ miêdzyokresowych kosztów nastêpuj¹ stosownie do up³ywu czasu lub wielkoœci
+œwiadczeñ. Czas i sposób rozliczenia jest uzasadniony charakterem rozliczanych kosztów, z zachowaniem
+zasady ostro¿noœci.
+Wycena transakcji w walutach obcych
+Ró¿nice kursowe wynikaj¹ce z wyceny na dzieñ bilansowy aktywów i pasywów wyra¿onych w walutach
+obcych z wyj¹tkiem inwestycji d³ugoterminowych oraz powsta³e w zwi¹zku z zap³at¹ nale¿noœci i
+zobowi¹zañ w walutach obcych, jak równie¿ przy sprzeda¿y walut, zalicza siê odpowiednio do przychodów
+lub kosztów finansowych, a w uzasadnionych przypadkach - do kosztu wytworzenia produktów lub ceny
+nabycia towarów, a tak¿e ceny nabycia lub kosztu wytworzenia œrodków trwa³ych, œrodków trwa³ych w
+budowie lub wartoœci niematerialnych i prawnych.
+Wyra¿one w walutach obcych operacje gospodarcze ujmuje siê w ksiêgach rachunkowych na dzieñ ich
+przeprowadzenia odpowiednio po kursie:
+    •   Œrednim ustalonym dla danej waluty przez NBP w dniu roboczym, poprzedzaj¹cym dzieñ zakupu
+        lub sprzeda¿y, chyba ¿e w zg³oszeniu celnym lub innym wi¹¿¹cym jednostkê dokumencie ustalony
+        zosta³ kurs – w przypadku pozosta³ych operacji
+Na dzieñ bilansowy wycenia siê wyra¿one w walutach obcych:
+    •   Sk³adniki aktywów – po kursie œrednim ustalonym dla danej waluty przez NBP na ten dzieñ
+    •   Sk³adniki pasywów – po kursie œrednim ustalonym dla danej waluty przez NBP na ten dzieñ
+    •   Ró¿nice kursowe dotycz¹ce aktywów i pasywów wyra¿onych w walutach obcych, powsta³e na dzieñ
+        ich wyceny oraz przy zap³acie nale¿noœci i zobowi¹zañ w walutach obcych zalicza siê odpowiednio
+        do przychodów i kosztów finansowych.
+Aktywa finansowe / Zobowi¹zania finansowe
+Aktywa finansowe / zobowi¹zania finansowe w momencie wprowadzania do ksi¹g rachunkowych s¹
+wyceniane wed³ug kosztu (ceny nabycia), stanowi¹cego wartoœæ godziw¹ uiszczonej zap³aty. Koszty
+transakcji s¹ ujmowane w wartoœci pocz¹tkowej tych instrumentów finansowych. Aktywa finansowe s¹
+wprowadzone do ksi¹g rachunkowych pod dat¹ transakcji.
+Po pocz¹tkowym ujêciu aktywa finansowe / zobowi¹zania finansowe s¹ zaliczane do jednej z kategorii i
+wyceniane w nastêpuj¹cy sposób:
+    •   Aktywa finansowe / zobowi¹zania finansowe utrzymywane do terminu wymagalnoœci – wed³ug
+        skorygowanej ceny nabycia (zamortyzowanego kosztu) ustalonej przy zastosowaniu efektywnej
+        stopy procentowej;
+                                                         Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                              15
+
+     •   Po¿yczki udzielone i nale¿noœci w³asne – wed³ug skorygowanej ceny nabycia (zamortyzowanego
+         kosztu) ustalanej przy zastosowaniu efektywnej stopy procentowej. Nale¿noœci o krótkim terminie
+         p³atnoœci, dla których nie okreœlono stopy procentowej, wyceniane s¹ w kwocie wymaganej zap³aty;
+     •   Aktywa finansowe / zobowi¹zania finansowe przeznaczone do obrotu – wed³ug wartoœci godziwej,
+         a zyski/straty z tytu³u aktualizacji wyceny s¹ ujmowane w rachunku zysków i strat;
+     •   Aktywa finansowe / zobowi¹zania finansowe dostêpne do sprzeda¿y - wed³ug wartoœci godziwej,
+         a zyski/straty z tytu³u aktualizacji wyceny s¹ ujmowane w rachunku zysków i strat.
+Wartoœæ godziwa zobowi¹zañ finansowych nie ró¿ni siê od ich wartoœci ksiêgowej, definiowana jest jako
+kwota, za jak¹ na warunkach rynkowych dany sk³adnik aktywów móg³by zostaæ wymieniony, a zobowi¹zanie
+wykonane, pomiêdzy dobrze poinformowanymi, zainteresowanymi i niepowi¹zanymi stronami. W
+przypadku instrumentów finansowych, dla których istnieje aktywny rynek, ich wartoœæ godziw¹ ustala siê
+na podstawie parametrów pochodz¹cych z aktywnego rynku (ceny sprzeda¿y i zakupu). W przypadku
+instrumentów finansowych, dla których nie istnieje aktywny rynek, wartoœæ godziwa ustalana jest na
+podstawie technik wyceny, w tym szacunków Zarz¹du.
+Trwa³a utrata wartoœci aktywów finansowych / zobowi¹zañ finansowych
+Na ka¿dy dzieñ bilansowy Spó³ka ocenia, czy istniej¹ obiektywne dowody wskazuj¹ce na trwa³¹ utratê
+wartoœci sk³adnika b¹dŸ grupy aktywów finansowych. Jeœli dowody takie istniej¹, Spó³ka ustala szacowan¹
+mo¿liw¹ do odzyskania wartoœæ sk³adnika aktywów i dokonuje odpisu aktualizuj¹cego tytu³u utraty
+wartoœci, w kwocie równej ró¿nicy miêdzy wartoœci¹ mo¿liw¹ do odzyskania i wartoœci¹ bilansow¹.
+Odpisy aktualizuj¹ce wartoœæ sk³adnika aktywów finansowych / zobowi¹zañ finansowych ustala siê:
+       1) W przypadku aktywów finansowych / zobowi¹zañ finansowych wycenionych w wysokoœci
+            skorygowanej ceny nabycia – jako ró¿nicê miêdzy wartoœci¹ tych aktywów wynikaj¹c¹ z ksi¹g
+            rachunkowych na dzieñ wyceny i mo¿liw¹ do odzyskania kwot¹. Kwotê mo¿liw¹ do odzyskania
+            kwot¹. Kwotê mo¿liw¹ do odzyskania stanowi bie¿¹ca wartoœæ przysz³ych przep³ywów
+            pieniê¿nych oczekiwanych przez jednostkê, zdyskontowan¹ za pomoc¹ efektywnej stopy
+            procentowej, któr¹ jednostka stosowa³a dotychczas, wyceniaj¹c przeszacowany sk³adnik
+            aktywów finansowych lub portfel podobnych sk³adników finansowych;
+       2) W przypadku aktywów finansowych / zobowi¹zañ finansowych wycenionych w wartoœci
+            godziwej – jako ró¿nicê miêdzy cen¹ nabycia sk³adnika aktywów i jego wartoœci¹ godziw¹
+            ustalon¹ na dzieñ wyceny, z tym ¿e przez wartoœæ godziw¹ d³u¿nych instrumentów finansowych
+            na dzieñ wyceny rozumie siê bie¿¹c¹ wartoœæ przysz³ych przep³ywów pieniê¿nych oczekiwanych
+            przez jednostkê zdyskontowan¹ za pomoc¹ bie¿¹cej rynkowej stopy procentowej stosowanej do
+            podobnych instrumentów finansowych. Stratê skumulowan¹ do tego dnia ujêt¹ w kapitale
+            (funduszu) z aktualizacji wyceny zalicza siê do kosztów finansowych w kwocie nie mniejszej ni¿
+            wynosi odpis, pomniejszony o czêœæ bezpoœrednio zaliczon¹ do kosztów finansowych.
+       3) W przypadku pozosta³ych aktywów finansowych / zobowi¹zañ finansowych – jako ró¿nicê
+            miêdzy wartoœci¹ sk³adnika aktywów wynikaj¹c¹ z ksi¹g rachunkowych i bie¿¹c¹ wartoœci¹
+            przysz³ych przep³ywów pieniê¿nych oczekiwanych przez jednostkê, zdyskontowan¹ za pomoc¹
+            bie¿¹cej rynkowej stopy procentowej stosowanej do podobnych instrumentów finansowych.
+                                                             Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                  16
+
+3     Bilans
+                                                            31.12.2020                  31.12.2019
+  Aktywa trwa³e                                          83 617 804,57              81 800 688,15
+  Wartoœci niematerialne i prawne                             1 229,17                   34 531,17
+  Inne wartoœci niematerialne i prawne                        1 229,17                   34 531,17
+  Rzeczowe aktywa trwa³e                                     13 146,67                   17 786,67
+  Œrodki trwa³e                                              13 146,67                   17 786,67
+          Inne œrodki trwa³e                                 13 146,67                   17 786,67
+  Nale¿noœci d³ugoterminowe                                  28 912,78                  182 803,66
+  Od pozosta³ych jednostek                                   28 912,78                  182 803,66
+  Inwestycje d³ugoterminowe                              83 560 481,95              81 560 481,95
+  D³ugoterminowe aktywa finansowe                        83 560 481,95              81 560 481,95
+          w jednostkach powi¹zanych                      83 560 481,95              81 560 481,95
+            - udzia³y lub akcje                          83 560 481,95              81 560 481,95
+  D³ugoterminowe rozliczenia miêdzyokresowe                  14 034,00                    5 084,70
+  Aktywa z tytu³u odroczonego podatku dochodowego            14 034,00                    5 084,70
+  Aktywa obrotowe                                           589 421,69                2 548 187,18
+  Zapasy                                                     10 438,00                        0,00
+  Zaliczki na dostawy i us³ugi                               10 438,00                        0,00
+  Nale¿noœci krótkoterminowe                                 63 924,38                2 061 418,41
+  Nale¿noœci od jednostek powi¹zanych                              0,00              2 010 767,75
+          Z tytu³u dostaw i us³ug, o okresie sp³aty:               0,00                  10 767,75
+            - do 12 miesiêcy                                       0,00                  10 767,75
+          Inne                                                     0,00              2 000 000,00
+  Nale¿noœci od pozosta³ych jednostek                        63 924,38                   50 650,66
+          Z tytu³u dostaw i us³ug, o okresie sp³aty:               0,00                   1 677,54
+            - do 12 miesiêcy                                       0,00                   1 677,54
+          Z tytu³u podatków, dotacji, ce³, ubezpieczeñ
+       spo³ecznych i zdrowotnych oraz innych tytu³ów         16 316,29                      878,12
+  publicznoprawnych
+          Inne                                                     0,00                   4 014,55
+          Dochodzone na drodze s¹dowej                       47 608,09                   44 080,45
+  Inwestycje krótkoterminowe                                508 366,99                 486 596,75
+  Krótkoterminowe aktywa finansowe                          508 366,99                  486 596,75
+          W jednostkach powi¹zanych                         473 730,19                  477 661,37
+            - udzielone po¿yczki                            473 730,19                  477 661,37
+          Œrodki pieniê¿ne i inne aktywa pieniê¿ne           34 636,80                    8 935,38
+            - œrodki pieniê¿ne w kasie i na rachunkach       34 636,80                    8 935,38
+  Krótkoterminowe rozliczenia miêdzyokresowe                  6 692,32                      172,02
+  Aktywa razem                                           84 207 226,26              84 348 875,33
+                                                       Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                            17
+
+                                                                    31.12.2020              31.12.2019
+                                                                             z³                     z³
+PASYWA
+Kapita³ w³asny                                                   82 744 244,51           41 016 808,83
+Kapita³ podstawowy                                               16 456 490,72           17 578 608,50
+Kapita³ zapasowy, w tym:                                         68 685 554,87           49 261 605,81
+          - nadwy¿ka wartoœci sprzeda¿y (wartoœci emisyjnej)
+                                                                 68 685 554,87           31 846 581,28
+           nad wartoœci¹ nominaln¹ udzia³ów (akcji)
+Pozosta³e kapita³y rezerwowe.                                             0,00            3 000 000,00
+Zysk (strata) z lat ubieg³ych                                             0,00          -10 672 454,50
+Zysk (strata) netto                                              -2 397 801,08          -18 150 950,98
+Zobowi¹zania i rezerwy na zobowi¹zania                            1 462 981,75           43 332 066,50
+Rezerwy na zobowi¹zania                                             239 336,00              240 590,00
+Rezerwa z tytu³u odroczonego podatku dochodowego                        336,00                1 590,00
+Pozosta³e rezerwy                                                   239 000,00              239 000,00
+          - krótkoterminowe                                         239 000,00              239 000,00
+Zobowi¹zania d³ugoterminowe                                          54 571,96            4 623 791,78
+Wobec pozosta³ych jednostek                                          54 571,96            4 623 791,78
+          - Kredyty i po¿yczki                                       54 571,96            4 623 791,78
+Zobowi¹zania krótkoterminowe                                      1 169 073,79           38 467 684,72
+Wobec pozosta³ych jednostek                                       1 169 073,79           38 467 684,72
+       Kredyty i po¿yczki                                           699 568,40               15 287,69
+       Z tytu³u emisji d³u¿nych papierów wartoœciowych                     0,00          38 059 241,42
+       Z tytu³u dostaw i us³ug, o okresie wymagalnoœci:             300 121,96              241 003,11
+       - do 12 miesiêcy                                             300 121,96              241 003,11
+       Z tytu³u podatków, ce³, ubezpieczeñ spo³ecznych
+    i zdrowotnych oraz innych tytu³ów                               123 342,56              109 435,25
+    publicznoprawnych
+       Z tytu³u wynagrodzeñ                                          46 040,87               42 654,79
+       Inne                                                                0,00                  62,46
+Pasywa razem                                                     84 207 226,26           84 348 875,33
+                                                             Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                  18
+
+4      Rachunek zysków i strat
+                                                                 01.01.2020 - 31.12.2020     01.01.2019 - 31.12.2019
+                                                                                        z³                        z³
+  A.     Przychody netto ze sprzeda¿y i zrównane z nimi, w tym:             1 033 052,69               1 724 767,61
+                    - od jednostek powi¹zanych                                999 468,75               1 629 325,60
+  I.     Przychody netto ze sprzeda¿y produktów                             1 033 052,69               1 724 767,61
+  B.     Koszty dzia³alnoœci operacyjnej                                   -1 915 296,80              -2 584 442,02
+  I.     Amortyzacja                                                           -37 942,00                 -36 712,83
+  II.    Zu¿ycie materia³ów i energii                                          -20 475,01                 -38 168,51
+  III.   Us³ugi obce                                                      -1 043 379,15               -1 536 552,14
+  IV.    Podatki i op³aty                                                        -5 747,00                -34 728,04
+  V.     Wynagrodzenia                                                      -721 905,56                -799 658,13
+  VI.    Ubezpieczenia spo³eczne i inne œwiadczenia, w tym:                   -82 056,89               -127 298,00
+  VII.   Pozosta³e koszty rodzajowe                                             -3 791,19                -11 324,37
+  C.     Zysk (Strata) ze sprzeda¿y                                          -882 244,11                -859 674,41
+  D.     Pozosta³e przychody operacyjne                                         86 328,14                   1 727,89
+  I.     Zysk ze zbycia niefinansowych aktywów trwa³ych                               0,00                  1 200,00
+  II.    Dotacje                                                                44 383,02                       0,00
+  III.   Aktualizacja wartoœci aktywów niefinansowych                             3 527,64                      0,00
+  IV.    Inne przychody operacyjne                                              38 417,48                     527,89
+  E.     Pozosta³e koszty operacyjne                                           -32 658,38               -470 146,94
+  II.    Aktualizacja wartoœci aktywów niefinansowych                                 0,00              -223 527,64
+  III.   Inne koszty operacyjne                                                -32 658,38               -246 619,30
+  F.     Zysk (Strata) z dzia³alnoœci operacyjnej                            -828 574,35              -1 328 093,46
+  G.     Przychody finansowe                                                     11 992,20               635 576,54
+  II.    Odsetki, w tym:                                                        11 992,20                635 576,54
+                    - od jednostek powi¹zanych                                  11 776,73                635 576,54
+  H.     Koszty finansowe                                                  -1 591 422,23             -17 401 572,76
+  I.     Odsetki, w tym:                                                  -1 591 422,23               -3 333 902,13
+                    - dla jednostek powi¹zanych                                    -887,66                      0,00
+  III.   Aktualizacja wartoœci aktywów finansowych                                    0,00           -14 067 522,28
+  IV.    Inne                                                                         0,00                   -148,35
+  I.     Zysk (Strata) brutto                                             -2 408 004,38              -18 094 089,68
+  J.     Podatek dochodowy                                                      10 203,30                 -56 861,30
+  L.     Zysk (Strata) netto                                              -2 397 801,08              -18 150 950,98
+                                                                Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                     19
+
+5      Sprawozdanie z przep³ywów œrodków pieniê¿nych
+                                                                                   01.01.2020 -             01.01.2019 -
+                                                                                    31.12.2020               31.12.2019
+                                                                                             z³                       z³
+        Przep³ywy œrodków pieniê¿nych z dzia³alnoœci
+  A.
+        operacyjnej
+  I.    Zysk (strata) netto                                                      -2 397 801,08          -18 150 950,98
+  II.   Korekty razem                                                             1 823 423,46           17 656 639,18
+  1.    Amortyzacja                                                                  37 942,00                36 712,83
+  3.    Odsetki i udzia³y w zyskach (dywidendy)                                   1 573 703,66             2 695 634,39
+        Zysk (strata) z dzia³alnoœci inwestycyjnej                                         0,00          14 067 522,28
+  5.    Zmiana stanu rezerw                                                           -1 254,00              180 718,00
+        Zmiana stanu zapasów                                                        -10 438,00                      0,00
+  7.    Zmiana stanu nale¿noœci                                                     162 589,62               787 316,18
+        Zmiana stanu zobowi¹zañ krótkoterminowych, z wyj¹tkiem
+  8.                                                                                 76 349,78              -176 634,52
+        po¿yczek i kredytów
+  9.    Zmiana stanu rozliczeñ miêdzyokresowych                                     -15 469,60                65 370,02
+        Przep³ywy pieniê¿ne netto z dzia³alnoœci operacyjnej,
+  III.                                                                             -574 377,62              -494 311,80
+        razem
+  I.    Wp³ywy                                                                      725 707,91               938 692,27
+  3.    Z aktywów finansowych, w tym:                                               725 707,91               938 692,27
+  a)            w jednostkach powi¹zanych                                           725 707,91               938 692,27
+  II.   Wydatki                                                                    -710 000,00          -10 862 000,00
+  3.    Na aktywa finansowe, w tym:                                                -710 000,00          -10 862 000,00
+  a)            w jednostkach powi¹zanych                                          -710 000,00          -10 862 000,00
+        Przep³ywy pieniê¿ne netto z dzia³alnoœci inwestycyjnej,
+  III.                                                                                15 707,91          -9 923 307,73
+        razem
+  I.    Wp³ywy                                                                   45 389 169,76           15 104 906,52
+        Wp³ywy netto z wydania udzia³ów i innych instrumentów
+  1.                                                                             44 125 236,76           10 604 906,43
+        kapita³owych oraz dop³at do kapita³u
+  2.    Kredyty i po¿yczki                                                        1 263 933,00             4 500 000,09
+  II.   Wydatki                                                                -44 804 798,63            -5 824 764,01
+  4.    Sp³aty kredytów i po¿yczek                                               -5 010 000,00                     -0,07
+  5.    Wykup d³u¿nych papierów wartoœciowych                                   -35 040 000,00           -4 700 000,00
+  8.    Odsetki                                                                  -4 754 798,63           -1 124 763,94
+        Przep³ywy pieniê¿ne netto z dzia³alnoœci finansowej,
+  III.                                                                              584 371,13             9 280 142,51
+        razem
+  D.    Przep³ywy pieniê¿ne netto razem                                              25 701,42            -1 137 477,02
+  E.    Bilansowa zmiana stanu œrodków pieniê¿nych,                                  25 701,42            -1 137 477,02
+  F.    Œrodki pieniê¿ne na pocz¹tek okresu                                            8 935,38            1 146 412,40
+  G.    Œrodki pieniê¿ne na koniec okresu, w tym:                                    34 636,80                 8 935,38
+                                                                Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                       20
+
+6      Zestawienie zmian w kapitale w³asnym
+                                                                                                31.12.2020           31.12.2019
+                                                                                                        z³                   z³
+  I.    Kapita³ w³asny na pocz¹tek okresu (BO)                                               41 016 808,83        42 965 759,81
+        Kapita³ w³asny na pocz¹tek okresu (BO), po korektach                                 41 016 808,83        42 965 759,81
+  1.    Kapita³ podstawowy na pocz¹tek okresu                                                17 578 608,50         8 977 608,50
+  1.1.  Zmiany kapita³u podstawowego                                                         -1 122 117,78         8 601 000,00
+                zwiêkszenie z tytu³u:                                                         9 425 047,32         8 601 000,00
+                    - emisji akcji                                                            9 425 047,32         8 601 000,00
+                zmniejszenie z tytu³u:                                                      -10 547 165,10
+                    - obni¿enie wartoœci nominalnej akcji                                   -10 547 165,10
+  1.2.  Kapita³ podstawowy na koniec okresu                                                  16 456 490,72        17 578 608,50
+  2.    Kapita³ zapasowy na pocz¹tek okresu                                                  49 261 605,81        42 660 605,81
+  2.1.  Zmiany kapita³u zapasowego                                                           19 423 949,06         6 601 000,00
+  a)            zwiêkszenie z tytu³u:                                                        37 700 189,44         6 601 000,00
+                    - emisji akcji powy¿ej wartoœci nominalnej                               37 700 189,44         6 601 000,00
+  b)            zmniejszenie z tytu³u:                                                      -18 276 240,38                 0,00
+                    - pokrycia straty                                                       -18 276 240,38                 0,00
+  2.2.  Kapita³ zapasowy na koniec okresu                                                    68 685 554,87        49 261 605,81
+  4.    Pozosta³e kapita³y rezerwowe na pocz¹tek okresu                                       3 000 000,00         2 000 000,00
+  4.1.  Zmiany pozosta³ych kapita³ów rezerwowych                                             -3 000 000,00         1 000 000,00
+  a)            zwiêkszenie z tytu³u:                                                        44 125 236,76        16 202 000,00
+                    - wp³aty na podwy¿szenie kapita³u akcyjnego                              44 125 236,76        16 202 000,00
+  b0            zmniejszenie z tytu³u:                                                      -47 125 236,76      -15 202 000,00
+                    - podwy¿szenie kapita³u - wpis do KRS                                   -47 125 236,76      -15 202 000,00
+  4.2.  Pozosta³e kapita³y rezerwowe na koniec okresu                                                 0,00         3 000 000,00
+  5.    Zysk (strata) z lat ubieg³ych na pocz¹tek okresu                                    -10 672 454,50        -7 264 507,51
+  5.4.  Strata z lat ubieg³ych na pocz¹tek okresu                                           -10 672 454,50        -7 264 507,51
+  5.5.  Strata z lat ubieg³ych na pocz¹tek okresu, po korektach                             -10 672 454,50        -7 264 507,51
+  a)            zwiêkszenie z tytu³u:                                                       -18 150 950,98        -3 407 946,99
+                    - przeniesienia straty z lat ubieg³ych do pokrycia                      -18 150 950,98        -3 407 946,99
+  b)            zmniejszenie z tytu³u:                                                       28 823 405,48                 0,00
+                    - rozliczenie straty z kapita³em zapasowym                               18 276 240,38                 0,00
+                    - rozliczenie straty przez obni¿enie kapita³u zak³adowego                10 547 165,10
+  5.6.  Strata z lat ubieg³ych na koniec okresu                                                       0,00      -10 672 454,50
+  5.7.  Zysk (strata) z lat ubieg³ych na koniec okresu                                                0,00      -10 672 454,50
+  6.    Wynik netto                                                                          -2 397 801,08       -18 150 950,98
+  b)            strata netto                                                                 -2 397 801,08      -18 150 950,98
+  II.   Kapita³ w³asny na koniec okresu                                                      82 744 244,51        41 016 808,83
+        Kapita³ w³asny, po uwzglêdnieniu proponowanego podzia³u zysku
+  III.                                                                                       82 744 244,51        41 016 808,83
+        (pokrycia straty)
+                                                                              Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                                   21
+
+7     Informacja dodatkowa
+       Nota 1 – Zmiany stanu wartoœci niematerialnych i prawnych
+                                            Inne wartoœci                Razem
+                                           niematerialne
+                                                 i prawne
+                                                         z³                   z³
+Wartoœæ brutto na 01.01.2020                    66 604,00              66 604,00
+Zwiêkszenia:                                           0,00                 0,00
+Zmniejszenia                                           0,00                 0,00
+Wartoœæ brutto na 31.12.2020                    66 604,00              66 604,00
+Umorzenie na 01.01.2020                         32 072,83              32 072,83
+Zwiêkszenia                                     33 302,00              33 302,00
+-     amortyzacja                               33 302,00              33 302,00
+Zmniejszenia:                                          0,00                 0,00
+Umorzenie na 31.12.2020                         65 374,83              65 374,83
+Wartoœæ netto
+Stan na 01.01.2020                               34 531,17             34 531,17
+Stan na 31.12.2020                                 1 229,17             1 229,17
+       Nota 2a – Zmiany stanu œrodków trwa³ych
+                                 Budynki,             Urz¹dzenia              Œrodki       Inne œrodki            Razem
+                                    lokale i          techniczne          transportu             trwa³e
+                                    obiekty            i maszyny
+                                 in¿ynierii
+                                   l¹dowej
+                                  i wodnej
+                                         z³                     z³                 z³                 z³               z³
+    Wartoœæ brutto na 01.01.2020       0,00               8 924,39               0,00         23 200,00         32 124,39
+    Zwiêkszenia:                       0,00                   0,00               0,00               0,00             0,00
+    Zmniejszenia:                      0,00                   0,00               0,00               0,00             0,00
+    Wartoœæ brutto na 31.12.2020       0,00               8 924,39               0,00         23 200,00         32 124,39
+    Umorzenie na 01.01.2020            0,00               8 924,39               0,00          5 413,33         14 337,72
+    Zwiêkszenia:                       0,00                   0,00               0,00          4 640,00          4 640,00
+    -    amortyzacja                   0,00                   0,00               0,00          4 640,00          4 640,00
+    Zmniejszenia:                      0,00                   0,00               0,00               0,00             0,00
+    Umorzenie na 31.12.2020            0,00               8 924,39               0,00         10 053,33         18 977,72
+    Wartoœæ netto
+    Stan na 01.01.2020                 0,00                   0,00               0,00         17 786,67         17 786,67
+    Stan na 31.12.2020                 0,00                   0,00               0,00         13 146,67         13 146,67
+                                                                   Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                        22
+
+       Nota 2b – Grunty w u¿ytkowaniu wieczystym
+Pozycja nie wystêpuje.
+       Nota 2c – Œrodki u¿ytkowane nie wykazane w sprawozdaniu finansowym
+                                                                         31.12.2020              31.12.2019
+                                                                                  z³                     z³
+ Œrodki trwa³e w³asne                                                     13 146,67               17 786,67
+ Œrodki trwa³e u¿ywane na podstawie umowy leasingu
+                                                                                0,00                   0,00
+ finansowego
+ Razem œrodki trwa³e w ewidencji bilansowej                               13 146,67               17 786,67
+ Wartoœæ nie amortyzowanych lub nie umarzanych
+ przez jednostkê œrodków trwa³ych, u¿ywanych na
+                                                                                0,00                   0,00
+ podstawie umów najmu, dzier¿awy i innych umów,
+ w tym z tytu³u umów leasingu operacyjnego
+       Nota 3 – Inwestycje d³ugoterminowe
+                                      D³ugoterminowe                 Razem
+                                     aktywa finansowe
+                                                     z³                    z³
+ Stan na 01.01.2020                       81 560 481,95        81 560 481,95
+ Zwiêkszenia                               2 000 000,00         2 000 000,00
+    - nabycie                              2 000 000,00         2 000 000,00
+ Zmniejszenia                                      0,00                  0,00
+ Stan na 31.12.2020                       83 560 481,95        83 560 481,95
+                                                   Wartoœæ                              wartoœæ
+                                                                       iloœæ                     % posiadanego
+ Nazwa spó³ki                                    bilansowa                           nominalna
+                                                                  udzia³ów                       zaanga¿owania
+                                                  udzia³ów                        udzia³u/akcji
+ Merlin Commerce Spó³ka z o.o.                58 037 177,51          42 200                  50             100%
+ Profit M Sp. z o.o.                          25 523 304,44           8 300                  50             100%
+ Razem                                        83 560 481,95
+ Posiadane udzia³y w spó³kach, na które dokonano odpisu aktualizuj¹cego
+                                                     Wartoœæ                             wartoœæ
+                                                                                                   % posiadanego
+ Nazwa spó³ki                                     bilansowa  iloœæ udzia³ów           nominalna
+                                                                                                  zaanga¿owania
+                                                   udzia³ów                        udzia³u/akcji
+ Magus SA w upad³oœci uk³adowej                14 067 522,28          18 577                 100             100%
+ Razem                                         14 067 522,28
+                                                                     Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                          23
+
+W dniu 4 grudnia 2020 r. S¹d Rejonowy dla m. st. Warszawy w Warszawie, XII Wydzia³ Gospodarczy
+Krajowego Rejestru S¹dowego dokona³ wpisu po³¹czenia spó³ek zale¿nych Merlin Group S.A.
+Po³¹czenie nast¹pi³o w trybie art. 492 § 1 pkt 1 k.s.h., w drodze przejêcia Merlin Business sp. z o.o. oraz
+Merlin Publishing Sp. z o.o. przez Profit M Sp. z o.o. (sukcesja uniwersalna) poprzez przeniesienie ca³ego
+maj¹tku spó³ek przejêtych na spó³kê przejmuj¹c¹ w zamian za ustanowione w tym celu nowe udzia³y.
+W wyniku po³¹czenia, zgodnie z treœci¹ art. 494 § 1 k.s.h. Spó³ka przejmuj¹ca wst¹pi³a we wszystkie prawa
+i obowi¹zki spó³ek przejmowanych
+Spó³ka sporz¹dza skonsolidowane sprawozdanie finansowe jako spó³ka dominuj¹ca na najwy¿szym
+szczeblu. Wszystkie spó³ki zale¿ne konsolidowane s¹ metod¹ pe³n¹.
+Na dzieñ publikacji raportu g³ównym aktywem Merlin Group S.A jest posiadanie 100 proc. udzia³ów w
+spó³kach zale¿nych, tj.:
+      •    Merlin Commerce sp. z o.o. z siedzib¹ w Warszawie za poœrednictwem, której prowadzi sklepy
+           internetowe tj. merlin.pl , cdp.pl;
+      •    Profit M sp. z o. o. z siedzib¹ w Warszawie, od listopada 2018 roku,
+      •    Magus S.A. w upad³oœci likwidacyjnej– w³aœciciela marki merlin.pl, od lipca 2017 roku (aktualnie
+           Merlin Group S.A. nie ma kontroli nad spó³k¹ );
+       Nota 4 – Odpisy aktualizuj¹ce wartoœæ nale¿noœci
+                                                                  2020                     2019
+                                                                     z³                       z³
+  Stan na pocz¹tek okresu                                  323 527,64                115 207,92
+          Zwiêkszenia                                              0,00              223 527,64
+          Wykorzystania                                            0,00              -15 207,92
+          Rozwi¹zania                                        -3 527,64                      0,00
+  Stan na koniec okresu                                    320 000,00                323 527,64
+            -   nale¿noœci krótkoterminowe, w tym:         320 000,00                323 527,64
+            nale¿noœci dochodzone na drodze s¹dowej        320 000,00                323 527,64
+       Nota 5 – Struktura œrodków pieniê¿nych
+                                                                31.12.2020             31.12.2019
+                                                                         z³                     z³
+  Œrodki pieniê¿ne w kasie                                             0,00                   0,00
+  Œrodki pieniê¿ne na rachunkach bankowych                       34 636,80               8 935,38
+  Inne œrodki pieniê¿ne                                                0,00                   0,00
+  Inne aktywa pieniê¿ne                                                0,00                   0,00
+                                                                 34 636,80               8 935,38
+  Krótkoterminowe aktywa finansowe zaklasyfikowane dla
+  potrzeb rachunku przep³ywów pieniê¿nych do œrodków                   0,00                   0,00
+  pieniê¿nych
+  Razem œrodki pieniê¿ne dla potrzeb rachunku
+                                                                 34 636,80               8 935,38
+  przep³ywów pieniê¿nych
+W tym œrodki pieniê¿ne na rachunku bankowym VAT o ograniczonej mo¿liwoœci dysponowania wynosz¹
+0,00 z³.
+                                                              Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                   24
+
+     Nota 6 – Wykaz istotnych pozycji rozliczeñ miêdzyokresowych.
+                                                                 31.12.2020             31.12.2019
+                                                                          z³                    z³
+ D³ugoterminowe rozliczenia miêdzyokresowe czynne
+   Aktywa z tytu³u odroczonego podatku dochodowego                14 034,00               5 084,70
+   Inne d³ugoterminowe rozliczenia miêdzyokresowe                       0,00                  0,00
+                                                                  14 034,00               5 084,70
+ Krótkoterminowe rozliczenia miêdzyokresowe czynne
+   Op³acone ubezpieczenia                                          1 336,95                 172,02
+   Op³acone prenumeraty                                              208,37                   0,00
+   Inne krótkoterminowe rozliczenia miêdzyokresowe                 5 147,00                   0,00
+                                                                   6 692,32                 172,02
+                                               RAZEM              20 726,32               5 256,72
+                                                                 31.12.2020             31.12.2019
+                                                                          z³                    z³
+ Rozliczenia miêdzyokresowe bierne
+   Przychody przysz³ych okresów
+                                                                       0,00                   0,00
+ Inne krótkoterminowe rozliczenia miêdzyokresowe,
+                                                                       0,00                   0,00
+                                               RAZEM                   0,00                   0,00
+     Nota 7a – Dane o strukturze w³asnoœci kapita³u podstawowego oraz liczbie i wartoœci
+     nominalnej subskrybowanych akcji, w tym uprzywilejowanych na 31.12.2020 roku.
+Struktura kapita³u zak³adowego na dzieñ publikacji raportu przedstawia siê nastêpuj¹co:
+                                                            Udzia³ w kapitale
+                                           Liczba akcji                            Udzia³ w
+           Lp.          Seria akcji                           zak³adowym
+                                              (w szt.)                              g³osach
+                                                                (w proc.)
+            1.        A + A[1]                    1 000 000                0,24%         0,24%
+            2.        B                             350 000                0,09%         0,09%
+            3.        C                             110 000                0,03%         0,03%
+            4.        D                          40 000 000                9,72%         9,72%
+            5.        E                           9 875 225                2,40%         2,40%
+            6.        F                           3 500 000                0,85%         0,85%
+            7.        G                           6 320 860                1,54%         1,54%
+            8.        H                          13 820 000                3,36%         3,36%
+            9.        I                          14 800 000                3,60%         3,60%
+            10.       J                          20 000 000                4,86%         4,86%
+            11.       L                          66 010 000               16,04%        16,04%
+            12.       £                         235 626 183               57,27%        57,27%
+        Razem                                   411 412 268              100,00%       100,00%
+                                                                   Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                        25
+
+        Nota 7b – Struktura w³asnoœciowa kapita³u i procent posiadanych akcji (udzia³ów) na
+        31.12.2020 roku
+Struktura akcjonariatu na dzieñ 31 grudnia 2020, ze wskazaniem akcjonariuszy posiadaj¹cych co najmniej 5
+proc. g³osów na Walnym Zgromadzeniu, przedstawia siê nastêpuj¹co:
+                                                                         Udzia³ w kapitale
+                                              Liczba akcji                                     Udzia³ w g³osach
+   Lp.                Akcjonariusz                                         zak³adowym
+                                                 (w szt.)                                           (w proc.)
+                                                                             (w proc.)
+     1.     WNG LIMITED                               165 959 803                     40,34%              40,34%
+     2.     ATP FIZ AN                                148 655 128                     36,13%              36,13%
+     3.     Marcin Tomasz Fryda                         24 190 305                     5,88%               5,88%
+     4.     WIPOL                                       21 759 000                     5,29%               5,29%
+     5.     pozostali                                   50 848 032                    12,36%              12,36%
+  Razem                                                411 412 268                   100,00%             100,00%
+        Nota 7c – Propozycje co do podzia³u zysku lub pokrycia straty za rok obrotowy
+Zarz¹d proponuje pokrycie straty za rok obrotowy 2020 w wysokoœci 2 397 801,08 z³ z kapita³u zapasowego.
+        Nota 8 – Zmiany stanu rezerw na zobowi¹zania
+                             01.01.2020   Utworzone             Wykorzystane           Rozwi¹zane             31.12.2020
+                                     z³           z³                        z³                   z³                   z³
+  Rezerwa z tytu³u
+  odroczonego podatku          1 590,00         0,00                 -1 254,00                0,00                336,00
+  dochodowego
+  Rezerwa na straty z
+  tytu³u udzielonych         239 000,00         0,00                      0,00                0,00            239 000,00
+  gwarancji i porêczeñ
+                             240 590,00         0,00                 -1 254,00                0,00            239 336,00
+        Nota 9 – Podzia³ zobowi¹zañ d³ugoterminowych
+                                                                                                            Stan na
+                                                        1-3 lat           3-5 lat       powy¿ej 5 lat
+                                                                                                          31.12.2020
+ Zobowi¹zania d³ugoterminowe wobec jednostek
+ pozosta³ych:
+ subwencje                                                 54 571,96            0,00              0,00          54 571,96
+ Zobowi¹zania d³ugoterminowe razem                         54 571,96            0,00              0,00          54 571,96
+Podzia³ subwencji na czeœæ krótkoterminow¹ i d³ugoterminow¹, nie uwzglêdnia ewentualnego umorzenia
+jej czêœci.
+W dniu 25 czerwca 2020 r Merlin Group S.A. dokona³a ca³kowitego wykupu i umorzenia obligacji
+imiennych serii F 9 o wartoœci 6.040.000 PLN oraz serii F11 o wartoœci nominalnej 5.000.000 PLN.
+W dniu 30 czerwca 2020 r. Merlin Group S.A dokona³ wczeœniejszego wykupu obligacji imiennych serii F12
+o wartoœci nominalnej 24.000.000 PLN.
+Umorzenie obligacji serii F12, F8, F11, powoduje wygaœniêcie wszelkich praw i obowi¹zków z nich
+wynikaj¹cych.
+                                                                 Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                       26
+
+      Nota 9a – Kredyty i po¿yczki
+                                                                                                   Stan na
+                                                          do roku               1-3 lat
+                                                                                                 31.12.2020
+ a) kredyty bankowe                                                0,00                 0,00                0,00
+ b) subwencje                                                 14 361,04            54 571,96          68 933,00
+ c) po¿yczki otrzymane - jednostki powi¹zane                       0,00                 0,00                0,00
+ d) po¿yczki otrzymane - jednostki pozosta³e                 685 207,36                 0,00         685 207,36
+ Kredyty i po¿yczki razem                                    699 568,40            54 571,96         754 140,36
+W dniu 16.07.2020 r. Spó³ka otrzyma³a subwencje z Polskiego Funduszu Rozwoju o wartoœci 68 933 z³.
+Spó³ka otrzyma³a po¿yczki spoza grupy: w dniu 02.12.2020 r. na kwotê 500 000 z³ oprocentowan¹ stawk¹
+9% z terminem sp³aty do 31.12.2021 r. oraz w dniu 30.12.2020 r. na kwotê 185 000 z³ oprocentowan¹
+stawk¹ 9% sp³acon¹ w dniu 04.01.2021 r.
+Spó³ka udzieli³a dla spó³ek powi¹zanych po¿yczki o wartoœci kapita³u 460 000 z³ oprocentowane w
+wysokoœci 6 % o okresie sp³aty do 1 roku od dnia udzielenia.
+      Nota 10 – Instrumenty finansowe
+                                                  Wartoœæ na           Wartoœæ na
+W podziale na kategorie
+                                                  31.12.2020           31.12.2019
+Aktywa finansowe
+Po¿yczki i nale¿noœci                                 473 730,19            490 106,66
+Œrodki pieniê¿ne i ich ekwiwalenty                     34 636,80              8 935,38
+Zobowi¹zania finansowe
+Zobowi¹zania z tytu³u dostaw i us³ug                  300 121,96            241 003,11
+Zobowi¹zania finansowe                                754 140,36         42 698 320,89
+                                                  Wartoœæ na           Wartoœæ na
+W podziale na klasy instrumentów
+                                                  31.12.2020           31.12.2019
+Aktywa finansowe
+Nale¿noœci z tytu³u dostaw i us³ug od jednostek
+                                                            0,00             10 767,75
+powi¹zanych
+Nale¿noœci z tytu³u dostaw i us³ug od pozosta³ych
+                                                            0,00              1 677,54
+jednostek
+Po¿yczki udzielone dla jednostek powi¹zanych          473 730,19            477 661,37
+Œrodki pieniê¿ne                                       34 636,80              8 935,38
+Zobowi¹zania finansowe
+Zobowi¹zania z tytu³u dostaw i us³ug                  300 121,96            241 003,11
+Zobowi¹zania z tytu³u kredytów i po¿yczek             754 140,36          4 639 079,47
+Zobowi¹zania z tytu³u emisji obligacji                      0,00         38 059 241,42
+                                                               Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                    27
+
+       Nota 11 – Struktura rzeczowa i terytorialna przychodów ze sprzeda¿y
+Wyszczególnienie                                      Przychody ze                     Razem
+                                                          sprzeda¿y
+                                                           krajowej
+                                                                  z³                        z³
+Przychody ze sprzeda¿y towarów                                  0,00                      0,00
+Przychody ze sprzeda¿y us³ug                            1 033 052,69            1 033 052,69
+Przychody ze sprzeda¿y ogó³em                           1 033 052,69             1 033 052,69
+       Nota 12 – Przychody i koszty z tytu³u odsetek od nale¿noœci i zobowi¹zañ finansowych
+                                   Przychody z odsetek wyliczone za pomoc¹ stóp procentowych wynikaj¹cych z
+Kategoria aktywów                     zawartych kontraktów przypadaj¹ce na okres objêty sprawozdaniem fin.
+finansowych
+                                        odsetki                      odsetki niezrealizowane p³atne (*)
+                                  zrealizowane                do 3 mies.       od 3 do 12 mies.         powy¿ej 12 mies.
+                                              z³                       z³                      z³                     z³
+Krótkoterminowe lokaty                      0,00                     0,00                    0,00                   0,00
+Krótkoterminowa po¿yczka                8 046,54                     0,00                3 730,19                   0,00
+  Kategoria zobowi¹zania           Koszty z tyt. odsetek naliczonych wg stóp procentowych wynikaj¹cych z zawartych
+                                                kontraktów przypadaj¹ce na okres objêty sprawozdaniem fin.
+                                                  odsetki           odsetki niezrealizowane wg terminów zap³aty
+                                           zrealizowane               do 3 mies.        od 3 do 12 mies.       powy¿ej 12
+                                                                                                                    mies.
+                                                       z³                     z³                      z³                z³
+  Zobowi¹zania finansowe
+                                                     0,00                   0,00                    0,00              0,00
+  przeznaczone do obrotu
+  Pozosta³e krótkoterminowe
+                                             1 585 273,03                 207,36                    0,00              0,00
+  zobowi¹zania finansowe
+  D³ugoterminowe zobowi¹zania
+                                                     0,00                   0,00                    0,00              0,00
+  finansowe
+       Nota 13 – ustalenie aktywów/rezerw z tytu³u podatku dochodowego
+                                                                                       2020                   2019
+                                                                                         z³                     z³
+  Dodatnie ró¿nice przejœciowe miêdzy wykazan¹ w ksiêgach
+  rachunkowych wartoœci¹ aktywów, a ich wartoœci¹
+  podatkow¹, w tym:
+  Odsetki od udzielonych po¿yczek                                                 3 730,19               17 661,37
+  Razem dodatnie ró¿nice przejœciowe                                               3 730,19              17 661,37
+  Rezerwa na podatek dochodowy odroczony (wed³ug stawki
+                                                                                     336,00               1 590,00
+  9%)
+                                                                       Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                            28
+
+ Ujemne ró¿nice przejœciowe miêdzy wykazan¹ w ksiêgach
+ rachunkowych wartoœci¹ aktywów i pasywów, a ich wartoœci¹
+ podatkow¹, w tym:
+ Odsetki od wyemitowanych obligacji                                                 0,00         3 030 446,13
+ Odsetki od otrzymanych po¿yczek                                                 207,36            139 079,45
+ Rezerwa na koszty roku bie¿¹cego                                             49 946,00             26 440,00
+ Wynagrodzenie z tytu³u umów cywilnoprawnych                                  20 284,57             18 774,00
+ Ubezpieczenia spo³ecznie                                                     42 016,42             11 285,80
+ Ulga na z³e d³ugi CIT                                                        43 476,37                   0,00
+ Razem ujemne ró¿nice przejœciowe                                            155 930,72          3 226 025,38
+ `Aktywa z tytu³u podatku dochodowego odroczonego
+                                                                              14 034,00            290 342,00
+ (wed³ug stawki 9%)
+ Odpis z tytu³u utraty wartoœci                                                     0,00           285 257,30
+ Aktywa z tytu³u podatku dochodowego odroczonego                              14 034,00               5 084,70
+     Nota 14 – Wykaz zobowi¹zañ zabezpieczonych na maj¹tku jednostki
+Pozycja nie wystêpuje.
+     Nota 15 – Zobowi¹zania warunkowe, w tym równie¿ udzielone przez jednostkê gwarancje i
+     porêczenia, a tak¿e wekslowe
+                                                                                   data        data
+                Firma                       Udzieli³         opis                                                  kwota
+                                                                               rozpoczêcia  zakoñczenia
+ Eurocentrum Office Sp. z o.o.         Merlin Group S.A Akt notarialny 777       28.01.2021    31.07.2021           210.310,92
+ Eurocentrum Office Sp. z o.o.         Merlin Group S.A Akt notarialny 777       28.01.2021    30.09.2025           932.402,33
+     Nota 16 – Wysokoœci i wyjaœnienie przyczyn odpisów aktualizuj¹cych wartoœæ aktywów
+                                                                                2020                                2019
+                                                                                   z³                                 z³
+ Stan na pocz¹tek okresu                                                 323 527,64                           115 207,92
+        Zwiêkszenia                                                              0,00                        223 527,64
+        Wykorzystania                                                            0,00                         -15 207,92
+        Rozwi¹zania                                                        -3 527,64                                0,00
+ Stan na koniec okresu                                                   320 000,00                          323 527,64
+           -   nale¿noœci krótkoterminowe, w tym:                        320 000,00                          323 527,64
+           nale¿noœci dochodzone na drodze s¹dowej                       320 000,00                          323 527,64
+Spó³ka dokona³a odpisu na nale¿noœci na drodze s¹dowej w wysokoœci 223 527,64 z³.
+     Nota 17 – Poniesione w ostatnim roku i planowane na nastêpny rok nak³ady na niefinansowe
+     aktywa trwa³e
+Spó³ka nie ponosi nak³adów na niefinansowe aktywa trwa³e.
+     Nota 18 – Poniesione w ostatnim roku i planowane na nastêpny rok nak³ady na ochronê
+     œrodowiska
+Spó³ka nie ponosi nak³adów na ochronê œrodowiska
+                                                                  Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                           29
+
+      Nota 19 – Informacja o dzia³alnoœci zaniechanej w roku obrotowym lub przewidzianej do
+      zaniechania w nastêpnym
+Spó³ka nie zaniecha³a dzia³alnoœci w roku obrotowym i nie przewiduje zaniechania w kolejnym roku.
+      Nota 20 – Kursy przyjête do wyceny oraz kursy œrednie w okresie
+ Do wyceny sk³adników aktywów i pasywów zastosowano obowi¹zuj¹ce na dzieñ bilansowy kursy walut,
+wynikaj¹ce z tabeli œrednich kursów NBP z dnia 31 grudnia 2020 roku, nr 255/A/NBP/2020, tj.:
+          1 EURO          =       4,6148 PLN
+      Nota 21 – Informacja o przeciêtnym w roku obrotowym zatrudnieniu, z podzia³em na grupy
+      zawodowe
+                                         2020              2019
+                                  Liczba osób       Liczba osób
+Stanowiska umys³owe                          6                 8
+Przeciêtne zatrudnienie                      7                 8
+      Nota 22 – Informacja o wynagrodzeniach, wyp³aconych lub nale¿nych osobom wchodz¹cym
+      w sk³ad organów zarz¹dzaj¹cych i nadzoruj¹cych
+     Lp.                Funkcja             kwota
+       1         Zarz¹d                   110 000,00
+£¹czna wartoœæ wyp³aconego wynagrodzenia Rady Nadzorczej w 2020 roku wynios³a 0,00 z³.
+      Nota 23 – Informacja o po¿yczkach i œwiadczeniach o podobnym charakterze udzielonych
+      osobom wchodz¹cym w sk³ad organów zarz¹dzaj¹cych i nadzoruj¹cych spó³ek handlowych
+Spó³ka nie udziela³a tego typu po¿yczek.
+      Nota 24 – Informacja o znacz¹cych zdarzeniach dotycz¹cych lat ubieg³ych ujêtych w
+      sprawozdaniu finansowym roku obrotowego
+Nie wyst¹pi³y znacz¹ce zdarzenia dotycz¹ce lat ubieg³ych.
+      Nota 25 – Informacje o znacz¹cych zdarzeniach, jakie nast¹pi³y po dniu bilansowym, a nie
+      uwzglêdnionych w sprawozdaniu finansowym
+W dniu 11 stycznia 2021 r. S¹d Rejonowy dla m.st. Warszawy wpisu zmian Statutu Emitenta zwi¹zanych z
+podjêtymi w dniu 8 grudnia 2020 roku uchwa³ami nr 3-5 Nadzwyczajnego Walnego Zgromadzenia
+Emitenta.
+W zwi¹zku z powy¿szym dosz³o do rejestracji nastêpuj¹cych zmian w Statucie:
+     1. zmienione jednostki redakcyjne Statutu: §8 ust.2-7, §21 ust.1, §29 ust.3, §31 ust.2, §31 ust.3;
+     2. usuniête jednostki redakcyjne Statutu.: §24 ust.2, §27 ust.5, §30 ust.3.
+W dniu 10 marca 2021 r. Zarz¹d Merlin Group S.A. otrzyma³ odpis pozwu z dnia 7 stycznia 2021 r.
+wniesionego przeciwko Spó³ce przez akcjonariusza mniejszoœciowego, tj. Bluebird Capital S.A. z siedzib¹ w
+                                                              Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                   30
+
+Warszawie, który g³osowa³ przeciwko powziêciu uchwa³y nr 4 Nadzwyczajnego Walnego Zgromadzenia
+Spó³ki podjêtej w dniu 8 grudnia 2020 r., a po jej powziêciu za¿¹da³ zaprotoko³owania sprzeciwu.
+Jednoczeœnie Zarz¹d Merlin Group S.A informuje, ¿e ¿¹danie pozwu obejmuje wniosek o stwierdzenie
+niewa¿noœci uchwa³y nr 4 Nadzwyczajnego Walnego Zgromadzenia Emitenta, podjêtej w dniu 8 grudnia
+2020 r. w sprawie zmiany Statutu Spó³ki w przedmiocie warunkowego podwy¿szenia kapita³u
+zak³adowego w zwi¹zku z rejestracj¹ obni¿enia kapita³u zak³adowego Spó³ki.
+Merlin Grup S.A zosta³ zobowi¹zany na mocy zarz¹dzenia S¹du Okrêgowego w Warszawie, XVI Wydzia³
+Gospodarczy z dnia 4 marca 2021 r. do wniesienia odpowiedzi na pozew, o którym mowa wy¿ej, w terminie
+21 dni od dnia otrzymania pozwu. Merlin Group S.A w wykonaniu wskazanego zobowi¹zania, z³o¿y w
+przewidzianym terminie odpowiedŸ na pozew.
+W dniu 18 marca 2021 r. Zarz¹d Merlin Group S.A powzi¹³ informacje o wydaniu w dniu 16 marca 2021 r
+przez S¹d Okrêgowy w Warszawie XX Wydzia³ Gospodarczy, postanowienia o udzieleniu zabezpieczenia
+na skutek za¿alenia Bluebird Capital S.A.
+Zgodnie z treœci¹ Postanowienia zabezpieczenie zosta³o udzielone poprzez wstrzymanie wykonalnoœci
+uchwa³y nr 20 (w sprawie zmiany uchwa³y nr 8 w sprawie pokrycia straty spó³ki za 2018 r.), uchwa³y nr 21
+(w sprawie obni¿enia kapita³u zak³adowego spó³ki w celu pokrycia strat spó³ki oraz zmiany statutu spó³ki),
+i uchwa³y nr 23 (w sprawie podwy¿szenia kapita³u zak³adowego spó³ki poprzez emisjê akcji serii £ w trybie
+subskrypcji prywatnej z wy³¹czeniem prawa poboru dotychczasowych akcjonariuszy) oraz zmiany statutu
+spó³ki Zwyczajnego Walnego Zgromadzenia Emitenta z 17 czerwca 2020 r. zaprotoko³owanych akcie
+notarialnym z dn. 17 czerwca 2020r. rep. A nr 9068/2020 do czasu prawomocnego zakoñczenia
+postêpowania („Uchwa³y”). Zgodnie z treœci¹ Postanowienia za¿alenie zosta³o oddalone w pozosta³ej
+czêœci.
+Zarz¹d Spó³ki jednoczeœnie wskazuje, ¿e Uchwa³y zosta³y wykonane przed wydaniem Postanowienia, gdy¿
+w dniu 1 lipca 2020 r. S¹d Rejonowy dla m. st. Warszawy w Warszawie, XII Wydzia³ Gospodarczy
+Krajowego Rejestru S¹dowego dokona³ wpisu zmian Statutu Emitenta zwi¹zanych z podjêtymi w dniu 17
+czerwca 2020 roku uchwa³ami nr 20 i 21 (o czym Emitent informowa³ w raporcie EBI nr 17/2020, a w dniu
+22 grudnia 2020 r. powy¿szy s¹d rejestrowy dokona³ wpisu zmian Statutu Emitenta zwi¹zanych z podjêt¹ w
+dniu 17 czerwca 2020 roku uchwa³¹ nr 23 Zwyczajnego Walnego Zgromadzenia Emitenta w sprawie
+podwy¿szenia kapita³u zak³adowego poprzez emisjê akcji serii £ w trybie subskrypcji prywatnej z
+wy³¹czeniem prawa poboru dotychczasowych akcjonariuszy oraz zmiany Statutu Spó³ki (o czym Emitent
+informowa³ w raporcie EBI nr 41/2020). W zwi¹zku z powy¿szym Uchwa³y wywar³y na d³ugo przed dniem
+wydania Postanowienia docelowe skutki prawne w postaci wpisów w rejestrze przedsiêbiorców KRS, tote¿
+dosz³o do ich wykonania.
+Zarz¹d Merlin Group aktualnie oczekuje na dorêczenie odpisu Postanowienia oraz analizuje koniecznoœæ
+podjêcia dalszych dzia³añ prawnych.
+     Nota 26 – Przedstawienie dokonanych w roku obrotowym zmian zasada (polityki)
+     rachunkowoœci, w tym metod wyceny oraz zmian sposobu sporz¹dzania sprawozdania
+     finansowego, je¿eli wywieraj¹ one istotny wp³yw na sytuacjê maj¹tkow¹, finansow¹ i wynik
+     finansowy jednostki, ich przyczyn i spowodowan¹ zmianami kwotê wyniku finansowego oraz
+     zmian w kapitale (fundusz) w³asnym
+Jednostka nie dokonywa³a zmian zasad rachunkowoœci.
+     Nota 27 – Informacje liczbowe zapewniaj¹ce porównywalnoœæ danych sprawozdania
+     finansowego za rok poprzedzaj¹cy ze sprawozdaniem za rok obrotowy
+Dane s¹ porównywalne do okresu ubieg³ego.
+                                                           Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                31
+
+      Nota 28 – Transakcje z jednostkami powi¹zanymi
+                                                                    31.12.2020                31.12.2019
+                                                                             z³                       z³
+          Nale¿noœci z tytu³u dostaw i us³ug, w tym:
+                   Merlin Commerce Sp. z o.o.                              0,00                    92,00
+                   Merlin Business Service Sp. z o.o.                      n/d                  2 460,00
+                   Merlin Publishing Sp. z o.o.                            n/d                  1 045,50
+                   Profit M Sp. z o.o.                                     0,00                 7 170,25
+                                                                          0,00                 10 767,75
+          Nale¿noœci z tytu³u udzielonych po¿yczek, w tym:
+                   Merlin Commerce Sp. z o.o.                       473 730,19                477 661,37
+                                                                    473 730,19                477 661,37
+          Nale¿noœci z tytu³u wp³at na objêcie udzia³ów
+                   Profit M Sp. z o.o.                                     0,00             2 000 000,00
+                                                                          0,00              2 000 000,00
+          Zobowi¹zania
+                                                                          0,00                      0,00
+                                                                          2020                      2019
+                                                                             z³                       z³
+          Przychody w okresie obrotowym, w tym:
+                   Merlin Commerce Sp. z o.o.                       232 500,00                537 688,60
+                   Merlin Business Service Sp. z o.o.                      n/d                276 936,00
+                   Merlin Publishing Sp. z o.o.                            n/d                 10 200,00
+                   Profit M Sp. z o.o.                              766 968,75                804 501,00
+                                                                   999 468,75               1 629 325,60
+          Koszty w okresie obrotowym, w tym
+                   Merlin Commerce Sp. z o.o.                              0,00                25 775,00
+                   Profit M Sp. z o.o.                                  429,98                  4 866,45
+                                                                        429,98                 30 641,45
+      Spó³ka nie zawiera³a transakcji z jednostkami powi¹zanymi na innych warunkach ni¿ rynkowe.
+      Nota 29 – Podmiot uprawniony do badania sprawozdania finansowego
+W dniu 28 stycznia 2020 roku Rada Nadzorcza Merlin Group S.A. wybra³a firmê PTA Audyt Sp. z o.o.
+z siedzib¹ w Katowicach, do przeprowadzenia badania jednostkowego i skonsolidowanego sprawozdania
+finansowego Spó³ki sporz¹dzonego na dzieñ 31 grudnia 2019 roku oraz na dzieñ 31 grudnia 2020 roku.
+PTA Audyt Sp. z o.o. z siedzib¹ w Katowicach przy ul. Ks. Œciegiennego 21/5 jest wpisana na listê
+podmiotów uprawnionych do badania sprawozdañ finansowych w Krajowej Izbie Bieg³ych Rewidentów
+pod numerem 4202.
+Wynagrodzenie za badanie rocznego jednostkowego sprawozdania finansowego wyniesie 18.000 PLN.
+                                                           Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                32
+
+      Nota 30. - Jednostka sporz¹dzaj¹ca skonsolidowane sprawozdanie finansowe na najwy¿szym
+      szczeblu grupy kapita³owej, w której sk³ad wchodzi spó³ka, jako jednostka
+Merlin Group S.A. sporz¹dza sprawozdanie skonsolidowane sprawozdanie finansowe obejmuj¹ce wszystkie
+spó³ki zale¿ne.
+      Nota 31. - Wp³yw COVID-19 na dzia³alnoœæ Spó³ki.
+Pod koniec 2019 r. po raz pierwszy pojawi³y siê wiadomoœci dotycz¹ce koronawirusa SARS-COV-2. W
+pierwszych miesi¹cach 2020 r. koronawirus rozprzestrzeni³ siê na ca³ym œwiecie, a jego negatywny wp³yw
+nabra³ dynamiki zw³aszcza w 2020 r. Obecnie sytuacja jest stabilniejsza ni¿ w poprzednim roku niemniej
+jednak pocz¹tek roku 2021 rozpocz¹³ siê od zamkniêcia czêœci gospodarki oraz wzrostu zachorowañ na
+COVID-19. Chocia¿ w chwili publikacji niniejszego sprawozdania finansowego sytuacja ta wci¹¿ siê
+zmienia, wydaje siê, ¿e negatywny wp³yw na handel œwiatowy i na jednostkê mo¿e byæ powa¿niejszy ni¿
+pierwotnie oczekiwano.. Kierownictwo uwa¿a tak¹ sytuacjê za zdarzenie nie powoduj¹ce korekt w
+sprawozdaniu finansowym za rok 2020, lecz za zdarzenie wymagaj¹ce dodatkowych ujawnieñ. Poniewa¿
+sytuacja wci¹¿ siê rozwija, kierownictwo jednostki uwa¿a, ¿e nie jest mo¿liwe przedstawienie szacunków
+iloœciowych potencjalnego wp³ywu obecnej sytuacji na jednostkê. Ewentualny wp³yw zostanie uwzglêdniony
+w odpisach z tytu³u utraty wartoœci aktywów i rezerwach na oczekiwane straty w 2021 r.
+      Nota 32. - Ryzyko niezrealizowania prognoz finansowych.
+Udzia³y w Merlin Commerce Sp. o.o. i Profit M Sp. z o.o. wykazane w sprawozdaniu finansowym s¹
+wyra¿one w historycznej cenie nabycia. Na koniec roku Zarz¹d Spó³ki dokona³ oceny wartoœci udzia³ów w
+tych Spó³kach pod katem utraty wartoœci. W tym celu Zarz¹d spó³ek zale¿nych przygotowa³ za³o¿enia
+biznesowo-finansowe przy za³o¿eniu wzrostu przychodów ze sprzeda¿y od 2021 roku. Za³o¿enia s¹
+obarczone ryzykiem nierealizowania przyjêtych za³o¿eñ przez Zarz¹d, co mo¿e powodowaæ ryzyko utraty
+wartoœci udzia³ów w Merlin Commerce Sp. z o.o. i Profit M Sp. z o.o.
+ Warunkiem spe³nienia prognoz jest otrzymanie dalszego wsparcia finansowego od akcjonariuszy albo od
+pozyskanego inwestora strategicznego w 2020 r.
+      Nota 33. - Inne istotne informacje u³atwiaj¹ce ocenê jednostki.
+Poza wymienionymi w niniejszym sprawozdaniu nie s¹ nam znane inne informacje, które wywiera³yby
+istotny wp³yw na ocenê sytuacji maj¹tkowej, finansowej oraz wynik finansowy Spó³ki.
+Warszawa, 22 marca 2021 r.
+Przemys³aw ¯bikowski             Signature Not Verified
+Prezes Zarz¹du                   Dokument podpisany przez Przemys³aw ¯bikowski
+                                 Data: 2021.03.22 10:47:27 CET
+Marek Belniak
+Cz³onek Zarz¹du
+                               Marek                      Elektronicznie podpisany
+                                                          przez Marek Belniak
+                               Belniak                    Data: 2021.03.22 12:14:56
+                                                          +01'00'
+                                                                     Jednostkowy raport roczny Merlin Group S.A. za rok 2020
+                                                                                                                          33
+

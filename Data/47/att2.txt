@@ -1,0 +1,930 @@
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+                                   DRAGEUS GAMES S.A.
+                                 RAPORT ROCZNY ZA 2020 R.
+                                        Autoryzowany Doradca
+Raport sporzπdzony zosta≥ przez spÛ≥kÍ DRAGEUS GAMES S.A. z siedzibπ w Warszawie (dalej rÛwnieø:
+SpÛ≥ka, Emitent), zgodnie z wymogami okreúlonymi w za≥πczniku nr 3 do Regulaminu Alternatywnego
+Systemu Obrotu ÑInformacje bieøπce i okresowe przekazywane w alternatywnym systemie obrotu na
+rynku NewConnectî. RolÍ Autoryzowanego Doradcy dla DRAGEUS GAMES S.A. pe≥ni ABISTEMA
+Kancelaria Doradcza Sp. z o.o. z siedzibπ w Krakowie, przy ul. Rπcznej 66B, wpisana do Rejestru
+PrzedsiÍbiorcÛw Krajowego Rejestru Sπdowego pod nr KRS 0000437337.
+                                  Warszawa, dnia 22 marca 2021 r.
+                                                                                    Strona 1 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+SPIS TREåCI
+ 1. LIST DO AKCJONARIUSZY ............................................................................. .....................................3
+2. WYBRANE DANE FINANSOWE EMITENTA .......................................................................................... 4
+3. SPRAWOZDANIE ZARZ•DU Z DZIA£ALNOå∆ EMITENTA W 2020 R. ................................................... 5
+3.1. ZDARZENIA ISTOTNIE WP£YWAJ•CE NA DZIA£ALNOå∆ EMITENTA, KT”RE NAST•PI£Y W ROKU
+OBROTOWYM......................................................................................................................................... 7
+3.2. ZDARZENIA ISTONIE WP£YWAJ•CE NA DZIA£ALNOå∆ JEDNOSTKI PO ZAKO—CZENIU ROKU
+OBROTOWEGO .....................................................................................................................................10
+3.3. PRZEWIDYWANY ROZW”J JEDNOSTKI ..........................................................................................10
+3.4. WAØNIEJSZE OSI•GNI CIA W DZIEDZINIE BADA— I ROZWOJU ..................................................... 15
+3.5. AKTUALNA I PRZEWIDYWANA SYTUACJA FINANSOWA ................................................................ 15
+3.6. AKCJE W£ASNE .............................................................................................................................. 16
+3.7. POSIADANE PRZEZ JEDNOSTK  ODDZIA£Y (ZAK£ADY) .................................................................. 16
+3.8. INFORMACJA O RYZYKACH Z TYTU£U POSIADANYCH INSTRUMENT”W FINANSOWYCH ........ ... 16
+3.9 KLUCZOWE WSKAèNIKI ORAZ ZAGADNIENIA PRACOWNICZEÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ.17
+4. INFORMACJA NA TEMAT WYBRANYCH DANYCH FINANSOWYCH SP”£EK ZALEØNYCH EMITENTA
+NIEOBJ TYCH KONSOLIDACJ• ..............................................................................................................17
+5. SPRAWOZDANIE FINANSOWE ZA ROK OBROTOWY ZAKO—CZONY W DNIU 31 GRUDNIA 2019 R. 18
+6. SPRAWOZDANIE Z BADANIA ROCZNEGO SPRAWOZDANIA FINANSOWEGO ZA ROK OBROTOWY
+ZAKO—CZONY W DNIU 31 GRUDNIA 2019 R........................................................................................ 18
+7. OåWIADCZENIE ZARZ•DU O SPOSOBIE SPORZ•DZENIA SPRAWOZDANIA ROCZNEGO ................... 18
+8. OåWIADCZENIE ZARZ•DU DOTYCZ•CE WYBORU PODMIOTU DOKONUJ•CEGO BADANIA
+SPRAWOZDANIA ROCZNEGO ............................................................................................................... 19
+9. INFORMACJA NA TEMAT STOSOWANIA ZASAD £ADU KORPORACYJNEGO .................................... 19
+                                                                                                                                 Strona 2 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+1. LIST DO AKCJONARIUSZY
+                                                                Warszawa, 22 marca 2021 r.
+Szanowni PaÒstwo,
+Zapraszam do zapoznania siÍ z raportem rocznym za rok 2020 r. bÍdπcym dla naszej spÛ≥ki trzecim
+pe≥nym rokiem dzia≥alnoúci. By≥ to dla nas rok dynamicznego rozwoju, budowania pozycji rynkowej,
+nawiπzywania kontaktÛw handlowych i budowania coraz efektywniejszego procesu wydawniczego.
+Na szczegÛlne wyrÛønienie zas≥uguje fakt, øe w 2020 roku wydaliúmy w sumie 33 produkty, w tym: 15
+gier na PlatformÍ Nintendo Switch, 9 gier na PlatformÍ Play Station, 7 gier na PlatformÍ Xbox, 2 gry na
+PlatformÍ Windows Store.
+Powyøsze premiery prze≥oøy≥y siÍ na znaczπcy wzrost przychodÛw ze sprzedaøy produktÛw SpÛ≥ki,
+ktÛre zwiÍkszy≥y siÍ o 87% w stosunku do roku 2019 .
+Zdobyte doúwiadczenie jak i nieustanne prace nad budowπ ugruntowanej pozycji na rynku gier
+pozwala nam w roku 2021 skupiÊ siÍ nad wydaniem tytu≥Ûw majπcych wyøszy potencja≥ sprzedaøy na
+konkurencyjnym rynku gier. W zwiπzku z powyøszym zamierzamy maksymalnie wykorzystaÊ nasze
+doúwiadczenie i wiedzÍ i skupiaÊ siÍ na rynku konsolowym, gdyø tu widzimy duøe moøliwoúci i wyøszy
+potencja≥ wzrostu.
+Majπc na uwadze zbliøajπce siÍ ciekawe premiery, moøemy pozwoliÊ sobie na patrzenie z optymizmem
+w przysz≥oúÊ.
+Z powaøaniem
+£ukasz Mitan
+Prezes Zarzπdu
+Drageus Games S.A.
+                                                                                          Strona 3 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+ 2. WYBRANE DANE FINANSOWE EMITENTA
+                                                        2019            2020            2019           2020
+                    WyszczegÛlnienie
+                                                        PLN             PLN             EUR            EUR
+  Przychody netto ze sprzedaøy                       1.097.130,65   1.456.959,29       255.039,90     325.635,71
+  Przychody netto ze sprzedaøy produktÛw               770.406,08   1.443.695,43       179.089,24     322.671,19
+  Zysk (strata) ze sprzedaøy                         (154.592,98)    (193.628,12)      (35.936,81)
+                                                                                                      (43.276,59)
+  Zysk (strata) z dzia≥alnoúci operacyjnej           (156.202,62)    (193.629,62)      (36.310,99)
+                                                                                                      (43.276,92)
+  Zysk (strata) przed opodatkowaniem                 (158.897,89)    (187.278,10)      (36.937,54)
+                                                                                                      (41.857,33)
+  Zysk (strata) netto                                                (174.364,10)      (33.709,35)
+                                                     (145.010,89)                                     (38.971,01)
+  Aktywa/Pasywa razem                                1.452.030,39   1.498.560,93       340.972,26     324.729,33
+  Aktywa trwa≥e                                         66.091,00       98.930,00        15.519,78      21.437,55
+                                                                                                      303.291,79
+  Aktywa obrotowe                                                   1.399.630,93       325.452,48
+                                                     1.385.939,39
+  Kapita≥ w≥asny                                     1.344.148,36   1.169.784,26       315.638,92     253.485,36
+  Zobowiπzania razem                                    55.932,75      170.232,37        13.134,38      36.888,35
+  Zobowiπzania d≥ugoterminowe                                0,00            0,00             0,00           0,00
+  Zobowiπzania krÛtkoterminowe                          55.932,75      170.232,37        13.134,38      36.888,35
+årednie kursy wymiany z≥otego w okresach objÍtych sprawozdaniem finansowym i porÛwnywalnymi danymi
+finansowymi w stosunku do EUR ustalanych przez NBP w szczegÛlnoúci:
+      -    kursu obowiπzujπcego na ostatni dzieÒ kaødego okresu (31.12.2019 r. - kurs og≥oszony przez NBP ñ
+           tabela kursÛw úrednich NBP nr 251/A/NBP/2019 z dnia 31.12.2019 tj. 4,2585 z≥; 31.12.2020 r. - kurs
+           og≥oszony przez NBP ñ tabela kursÛw úrednich NBP nr 255/A/NBP/2020 z dnia 31.12.2020 tj. 4,6148 z≥),
+      -    kurs úredni w kaødym okresie, obliczony jako úrednia arytmetyczna kursÛw obowiπzujπcych na ostatni
+           dzieÒ kaødego miesiπca w danym okresie (2019 r. - 4,3018 z≥, 2020 r. - 4,4742z≥).
+                                                                                                   Strona 4 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+3. SPRAWOZDANIE ZARZ•DU Z DZIA£ALNOåCI EMITENTA W 2020 R.
+Drageus Games SpÛ≥ka Akcyjna (SpÛ≥ka, Emitent) powsta≥a w 2017 roku i w dniu 22.05.2017 roku zosta≥a
+zarejestrowana w Krajowym Rejestrze Sπdowym dla m.st. Warszawy, XII Wydzia≥u Gospodarczego Krajowego
+Rejestru Sadowego pod numerem 0000678459.
+WysokoúÊ kapita≥u zak≥adowego SpÛ≥ki wynosi 210.000 PLN.
+G≥Ûwnym przedmiotem dzia≥alnoúci SpÛ≥ki jest:
+     <U+F031><U+F02E>   Dzia≥alnoúÊ zwiπzana z oprogramowaniem,
+     <U+F032><U+F02E>   Dzia≥alnoúÊ wydawnicza w zakresie gier komputerowych,
+     <U+F033><U+F02E>   Dzia≥alnoúÊ wydawnicza w zakresie pozosta≥ego oprogramowania.
+Emitent posiada jeden podmiot zaleøny:
+ï        eHeroes SpÛ≥ka z ograniczona odpowiedzialnoúciπ z siedzibπ Warszawie, ul. Nowogrodzka 42 lok 15, 00-
+         695 Warszawa, zarejestrowany w Krajowym Rejestrze Sπdowym dla m.st. Warszawy, XII Wydzia≥u
+         Gospodarczego Krajowego Rejestru Sadowego dla M.ST. pod numerem KRS 0000700064, z kapita≥em
+         zak≥adowym w wysokoúci 10.000,00 PLN. (od 20.10.2017)
+Emitent posiada 100% udzia≥Ûw w kapitale zak≥adowym spÛ≥ki, co daje 100% g≥osÛw na zgromadzeniu wspÛlnikÛw.
+Emitent posiada rÛwnieø 37% udzia≥Ûw w MD Games SpÛ≥ka z ograniczonπ odpowiedzialnoúciπ z siedzibπ
+w Warszawie, ul. Nowogrodzka 42 lok 15, 00-695 Warszawa, zarejestrowany w Sπdzie Rejonowym dla
+m. ST. Warszawy, XII Wydzia≥ Gospodarczy Krajowego Rejestru Sπdowego, numer KRS: 0000800480, wysokoúÊ
+kapita≥u zak≥adowego 108 000 PLN.
+Emitent posiada 37% udzia≥Ûw w kapitale zak≥adowym spÛ≥ki, co daje 37% g≥osÛw na zgromadzeniu wspÛlnikÛw.
+MD Games Sp. z o.o. zosta≥a wpisana do Krajowego Rejestru Sπdowego w dniu 22.08.2019r..
+Informacje dotyczπce sk≥adu osobowego Zarzπdu oraz Rady Nadzorczej SpÛ≥ki
+W okresie obrotowym cz≥onkami Zarzπdu SpÛ≥ki byli:
+ï                 £ukasz Mitan ñ Prezes Zarzπdu
+ï                 Rados≥aw MrowiÒski ñ Wiceprezes Zarzπdu
+Do dnia sporzπdzenia niniejszego raportu nie by≥o zmian w sk≥adzie osobowym Zarzπdu SpÛ≥ki,
+W okresie obrotowym cz≥onkami Rady Nadzorczej SpÛ≥ki byli:
+ï                 Wojciech Mojøuk - Przewodniczπcy Rady Nadzorczej
+ï                 Artur Øe≥ubowski - Cz≥onek Rady Nadzorczej
+ï                 Micha≥ W≥odarski ñ Cz≥onek Rady Nadzorczej
+ï                 Ewa Mitan - Cz≥onek Rady Nadzorczej
+ï                 Øaneta Bujalska ñ Cz≥onek Rady Nadzorczej
+Do dnia sporzπdzenia niniejszego raportu nie by≥o zmian w sk≥adzie osobowym Rady Nadzorczej SpÛ≥ki,
+                                                                                              Strona 5 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+       Informacje dotyczπce akcjonariuszy jednostki - emitenta
+WyszczegÛlnienie akcjonariuszy posiadajπcych co najmniej 5% udzia≥u w kapitale zak≥adowym oraz w
+g≥osach na walnym zgromadzeniu na dzieÒ sporzπdzenia raportu
+                                                                 Udzia≥                              Udzia≥
+                                                                                  Liczba
+       Akcjonariusz                           Liczba akcji     w kapitale                      w ogÛlnej liczbie
+                                                                                  g≥osÛw
+                                                             zak≥adowym                              g≥osÛw
+    Rados≥aw MrowiÒski                             350.000       16,67%           350.000            16,67%
+        £ukasz Mitan                               215.000       10,24%           215.000            10,24%
+    Gaming Factory S.A.                            201.150        9,58%           201.150            9,58%
+  HBI Ventures sp. z o.o.                          200.000        9,52%           200.000            9,52%
+          Pozostali                              1.133.850       53,99%          1.133.850           53,99%
+           Suma                                2.100.000            100,00%        2.100.000             100,00%
+Ponadto Prezes Zarzπdu £ukasz Mitan jest cz≥onkiem zarzπdu i wspÛ≥w≥aúcicielem spÛ≥ki Drageus Publishing
+House sp. z o.o., ktÛra posiada 50.000 akcji Emitenta.
+Dodatkowo Prezes Zarzπdu jest cz≥onkiem zarzπdu oraz wspÛ≥w≥aúcicielem firmy HBI Ventures sp. z o.o., ktÛra
+posiada 200.000 akcji Emitenta.
+Wszystkie wyemitowane przez podmiot dominujπcy akcje sπ akcjami zwyk≥ymi bez øadnego uprzywilejowania,
+co do uczestnictwa w podziale zysku.
+Zarzπd na dzieÒ sporzπdzenia raportu nie posiada øadnych informacji o znanych emitentowi umowach (w tym
+rÛwnieø zawartych po dniu bilansowym), w wyniku ktÛrych mogπ w przysz≥oúci nastπpiÊ zmiany w proporcjach
+posiadanych akcji przez dotychczasowych akcjonariuszy i obligatariuszy.
+       Zestawienie stanu posiadania akcji emitenta przez osoby zarzπdzajπce i nadzorujπce na dzieÒ
+       31.12.2020 r. oraz sporzπdzenia raportu.
+    ï    Prezes Zarzπdu ñ £ukasz Mitan 215.000 akcji
+    ï    Vice Prezes Zarzπdu ñ Rados≥aw MrowiÒski 350.000 akcji
+Ponadto Prezes Zarzπdu £ukasz Mitan oraz Cz≥onek Rady Nadzorczej Ewa Mitan sπ cz≥onkami zarzπdu i
+wspÛ≥w≥aúcicielami spÛ≥ki Drageus Publishing House sp. z o.o., ktÛra posiada 50.000 akcji Emitenta.
+Dodatkowo Prezes Zarzπdu jest cz≥onkiem zarzπdu oraz wspÛ≥w≥aúcicielem firmy HBI Ventures sp. z o.o., ktÛra
+posiada 200.000 akcji Emitenta.
+                                                                                                  Strona 6 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+3.1. ZDARZENIA ISTONIE WP£YWAJ•CE NA DZIA£ALNOå∆ EMITENTA, KT”RE NAST•PI£Y W ROKU
+OBROTOWYM
+DZIA£ANOå∆ PRODUCKYJNA I WYDAWNICZA
+Produkty przeznaczone do sprzedaøy wprowadzone w 2020 roku
+A.      Nintendo Switch
+    1.  Aborigenus (styczeÒ 2020)
+    2.  Skull Roque (luty 2020)
+    3.  Swordbreaker (marzec 2020)
+    4.  Diabolic ()marzec 2020)
+    5.  Archaica: the Path of Light (kwiecieÒ 2020)
+    6.  Debtor (kwiecieÒ 2020)
+    7.  Dark Burial (maj 2020)
+    8.  Genetic Disaster (maj 2020)
+    9.  Bridge Strike (czerwiec 2020)
+    10. PewPaw (czerwiec 2020)
+    11. The Great Perhaps (lipiec 2020)
+    12. WeakWood Throne (wrzesieÒ 2020)
+    13. Grood (paüdziernik 2020)
+    14. Girabox (listopad 2020)
+    15. Steampunk Tower 2 (grudzieÒ 2020)
+B.      PlayStation
+    1.  Archaica The Path of Light (kwiecieÒ 2020)
+    2.  Genetic Disaster (maj 2020)
+    3.  The Great Perhaps (lipiec 2020)
+    4.  Pixel Gladiator (wrzesieÒ 2020)
+    5.  Grood (paüdziernik 2020)
+    6.  Weet WItches (paüdziernik 2020)
+    7.  Dead Dungeon (listopad 2020)
+    8.  Drawgeon: Dungeon of Ink and Paper (listopad 2020)
+    9.  Steampunk Tower 2 (grudzieÒ 2020)
+C.      Xbox
+    1.  Archaica The Path of Light (kwiecieÒ 2020)
+    2.  Genetic Disaster (maj 2020)
+    3.  The Great Perhaps (lipiec 2020)
+    4.  Grood (paüdziernik 2020)
+    5.  Sweet Witches (paüdziernik 2020)
+    6.  Dead Dungeon (listopad 2020)
+    7.  Steampunk Tower 2 (grudzieÒ 2020)
+                                                                           Strona 7 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+D.      Windows Store
+1.      Sweet Witches (paüdziernik 2020)
+2.      Dead Dungeon (listopad 2020)
+Ponadto Emitent ca≥y czas sprzedaje gry wydane w poprzednim okresie.
+Produkty przeznaczone do sprzedaøy z okresÛw poprzednich
+ A.     Nintendo Switch
+    1.  Tactical MInd (grudzieÒ 2017)
+    2.  Mad Carnage (luty 2018)
+    3.  FanBox Party (sierpieÒ 2018)
+    4.  Mech Rage (grudzieÒ 2018)
+    5.  Tardy (marzec 2019)
+    6.  Event Horizon (marzec 2019)
+    7.  Dead Dungeon (czerwiec 2019)
+    8.  Sweet Witches (lipiec 2019)
+    9.  Swaps and Traps (lipiec 2019)
+    10. Atomic Heist (wrzesieÒ 2019)
+    11. Island Maze (WrzesieÒ 2019)
+    12. Pixel Gladiator (paüdziernik 2019)
+    13. Spirit Roots (paüdziernik 2019)
+    14. One Person Story (listopad 2019)
+    15. Tactical Mind 2 (listopad 2019)
+    16. BreathingFear (listopad 2019)
+    17. Event Horizon: Space Defense (grudzieÒ 2019)
+    18. Farabel (grudzieÒ 2019)
+    19. Funny Bunny Adventures (grudzieÒ 2019)
+    20. Drawngeon: Dungeon of Ink and Paper (grudzieÒ 2019)
+    21. Mushroom Quest (grudzieÒ 2019)
+B.      PC (platforma Steam)
+    1.  Tactical Mind (grudzieÒ 2017)
+    2.  Mad Carnage ( luty 2018)
+    3.  Mech Rage (grudzieÒ 2018)
+    4.  Tardy (lipiec 2019)
+    5.  Island Maze (wrzesieÒ 2019)
+    6.  Spirit Roots (grudzieÒ 2019)
+                                                                     Strona 8 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+PRZYGOTOWANIE SP”£KI DO DEBIUTU NA NEWCONNECT
+W grudniu 2019 roku zosta≥ zatwierdzony Dokument informacyjny Emitenta, a debiut Emitenta w
+Alternatywnym Systemie Obrotu na rynku NewConnect mia≥ miejsce 17 stycznia 2020 roku.
+INWESTYCJA W MD GAMES SP. Z O. O.
+W zwiπzku z chÍciπ dynamicznego rozwoju Emitent aktywnie poszukuje na rynku perspektywicznych
+zespo≥Ûw deweloperskich, nowych moøliwoúci zarabiania pieniÍdzy, nowych kontaktÛw biznesowych.
+Ma to na celu dodatkowe podniesienie dywersyfikacji oraz umoøliwienie osiπgania zyskÛw nie tylko ze
+sprzedaøy gier w ramach omawianych podmiotÛw, ale rÛwnieø sprzedaøy posiadanych w nich
+udzia≥ach lub z tytu≥u ewentualnej dywidendy.
+Majπc to na uwadze, Drageus Games S.A. w sierpniu 2019 r. objπ≥ 40% udzia≥Ûw w nowopowsta≥ej
+spÛ≥ce MD Games Sp. z o. o., gdzie drugim wiodπcym udzia≥owcem jest firma Movie Games S.A.
+SpÛ≥ka zosta≥a utworzona jako wydawca, ktÛry do swojego portfolio szuka ciekawych, duøych tytu≥Ûw
+ñ g≥Ûwnπ platformπ dystrybucyjnπ majπ byÊ Nintendo Switch, Xbox oraz PlayStation.
+Strony Umowy ustali≥y, iø intencjπ stron jest, aby spÛ≥ka MD Games sp. z o.o. w pierwszej kolejnoúci
+portowa≥a gry Movie Games S.A. oraz developerÛw trzecich a w przysz≥oúci produkowa≥a w≥asne gry.
+SpÛ≥ka 16 paüdziernika 2020 roku wyda≥a grÍ Postal Redux na platformÍ Nintendo Switch, a w marcu
+2021 na Play Station (Ameryka)
+SpÛ≥ka pracuje obecnie nad trzema projektami:
+                                                                                      Strona 9 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+     1. SpÛ≥ka pracuje nad portem gry (jest rÛwnieø wydawcπ) Treasure Hunter Simulator na
+         platformÍ Play Station 4 oraz Xbox. Prace sπ obecnie na ukoÒczeniu.
+     2. Przygotowuje Port gry Barn Finders na platformÍ Play Station 4 i Play Station 5 oraz Xbox.
+         SpÛ≥ka podpisa≥a rÛwnieø umowÍ na portowanie i wydanie gry Barn Finders na platformÍ
+         Nintendo Switch. Plan zakoÒczenia projektu w roku 2021
+     3. SpÛ≥ka ma podpisanπ umowÍ na portowanie i wydanie na platformÍ Play Station 4 oraz Xbox
+         bardzo popularnπ grÍ Drug Dealer Simulator
+W 2019 r. nak≥ady inwestycyjne wynios≥y ≥πcznie ok 20 tys. z≥.
+W 2 kwartale 2020r. nak≥ady inwestycyjne wynios≥y 20 tys. z≥.
+W 3 kwartale nowi inwestorzy objÍli nowoutworzone udzia≥y, w wyniku tych zmian obecny udzia≥
+naleøπcy do Drageus Games S.A. wynosi 37%
+Nowe udzia≥y stanowiπce 7,4% kapita≥u zak≥adowego zosta≥y objÍte w zamian za wk≥ad pieniÍøny w
+kwocie 800.000 z≥.
+Obecnie MD GAMES Sp. z o.o. jest w procesie przekszta≥cania w spÛ≥kÍ akcyjnπ.
+3.2. ZDARZENIA ISTONIE WP£YWAJ•CE NA DZIA£ALNOå∆ JEDNOSTKI PO ZAKO—CZENIU ROKU
+OBROTOWEGO
+Po zakoÒczeniu roku 2020, nie wystπpi≥y istotne zdarzenia, ktÛre mia≥yby istotny wp≥yw na dzia≥alnoúÊ
+Emitenta.
+ 3.3. PRZEWIDYWANY ROZW”J JEDNOSTKI
+W 2021 r. Emitent planuje kontynuacjÍ dzia≥aÒ sprzedaøowych aktualnie wyprodukowanych i
+wydanych tytu≥Ûw, kontynuacjÍ produkcji niezakoÒczonych gier oraz wydanie nowych gier na
+platformy Nintendo Switch, Play Station oraz Xboxa.
+SpÛ≥ka rozpoczÍ≥a rÛwnieø úwiadczenie us≥ug dla podmiotÛw trzecich w zakresie portowania gier (za
+wynagrodzeniem) na konsole (PlayStation, Xbox, Nintendo Switch).
+Aktualny plan wydawniczy gier wydanych w pierwszym kwartale oraz planowanych gier na najbliøsze
+dwa kwarta≥y przedstawiajπ siÍ nastÍpujπco:
+Gry wydane w roku 2021
+ Colorful Colore                            Nintendo Switch,         1Q 2021         Portowanie,
+                                                                                     wydawanie
+                                                                                       Strona 10 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+ Colorful Color to gra typu puzzle, w ktÛrej gracz musi znaleüÊ wyjúcie z labiryntu dopasowujπc rÛøne
+ kolory i wchodzπc w interakcjÍ z rÛønymi rzeczami znajdujπcymi siÍ w pokoju.
+ Features:
+ - aø 50 rÛønych poziomÛw
+ - rÛøne mechaniki
+ - 3 kolory do dopasowania!
+Gry planowane w najbliøszych kwarta≥ach:
+                                                                     Data wydania/
+ Lp.                     Gra                        Platforma       planowana data            Emitent
+                                                                        wydania
+      Moon Raider                               Nintendo Switch,         2Q 2021         Portowanie,
+                                                PS4, Xbox                                wydawanie
+  1.
+                                                                                          Strona 11 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+     Poznaj AvÍ, cÛrkÍ genialnego naukowca doktora Cavora i Seleny, by≥ej krÛlowej ksiÍøyca! Øycie matki
+     Avy zaleøy od specjalnej energii, ktÛrπ mogπ dostarczyÊ tylko ksiÍøycowe klejnoty. Niestety ñ na ziemi
+     wszystkie klejnoty juø siÍ skoÒczy≥y, dlatego Cavor prosi swojπ cÛrkÍ by uda≥a siÍ na ksiÍøyc i
+     przywioz≥a jak najwiÍcej klejnotÛw by ratowaÊ matkÍÖ
+     Rozpoczynajπc swojπ wyprawÍ na ksiÍøycu Ava musi zmierzyÊ siÍ z mrocznymi katakumbami, w
+     ktÛrych przebywajπ wrogowie ñ legion skorumpowanych kosmitÛw. Rzπdzπ oni ksiÍøycem si≥π, a ich
+     úwiat pe≥en jest przeraøajπcej technologii i úmiercionoúnych pu≥apek. Stawiajπc czo≥a
+     niebezpieczeÒstwu Ava odkrywa, øe nie tylko musi zdobyÊ klejnoty, lecz rÛwnieø uratowaÊÖ ksiÍøyc
+     odkrywajπc zrÛønicowany úwiat i znajdujπc nowe obszary.
+     Features:
+     - 10 miejsc do odkrycia
+     - 11 bossÛw
+     - Lokalny co-op
+     Guards                                   Nintendo Switch,          2Q 2021        Portowanie,
+                                              PS4, Xbox                                wydawanie
+ 2.
+     Walcz druøynowo, zabijaj okropne potwory i staÒ do walki ze úmiertelnie groünym bossem ñ ten opis
+     przyciπgnie nie jednego fana klasycznych turowych gier RPG. Co wyrÛønia Guards? Nie tylko
+     oryginalny turowy system walki, ale przede wszystkim oúmiu unikalnych bohaterÛw, magiczne
+     przedmioty, dodatkowe umiejÍtnoúci i nieograniczony wybÛr taktyk gry. To gracz dowodzi druøynπ 4
+     bohaterÛw, gdzie oprÛcz healera mam trzech fighterÛw. Musi umiejÍtnie zmieniaÊ ich pozycje,
+     szachowaÊ ich umiejÍtnoúciami by w odpowiednim momencie uøyÊ superataku. Czy to nic
+     specjalnego? Aleø bardzo specjalnego ñ w koÒcu opinie graczy na Steam sπ bardzo pozytywne!
+     Super Cyborg                             Nintendo Switch,        2Q/3Q 2021       Portowanie,
+                                              PS4, Xbox                                wydawanie
+ 3.
+                                                                                        Strona 12 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+     Super Cyborg to oldschoolowa gra akcji typu run'n'gun. Podczas hardcorowej rozgrywki gracz wciela
+     siÍ w elitarnego cyborga bitewnego, ktÛry zostaje wys≥any do zbadania anomalii na tajemniczej
+     wyspie.
+     Don't Be Afraid                          Nintendo Switch,      3Q/4Q 2021        Portowanie,
+                                              PS4, Xbox                               wydawanie
+ 4.
+     Don't Be Afraid to gra przygodowa z elementami horroru, w ktÛrej wcielisz siÍ w rolÍ ch≥opca
+     porwanego przez psychopatÍ. Przemierzajπc wielki, tajemniczy, nieznany Ci dom, poznasz, jaki sekret
+     skrywajπ jego wnÍtrza...
+     Mini Madness                             Nintendo Switch,        4Q 2021         Portowanie,
+ 5.                                           PS4, Xbox, Steam                        wydawanie
+     Race R/C to zrÍcznoúciowa gra inspirowana takimi tytu≥ami jak Re-Volt czy Micro Machine. Rozgrywka
+     przewidziana jest nie tylko dla trybu jednoosobowego, lecz rÛwnieø jako Multi-Player z maksymalnie
+     czterema graczami. åwiat Micro Machiness pokochajπ mi≥oúnicy klasycznych wyúcigÛwek jak i ci
+     stÍsknieni za dzieciÍcπ wyobraüniπ, kiedy to nawet najmniejszy samochÛd by≥ mistrzem F1. OprÛcz
+     klasycznych miniaturek samochodÛw sportowych, gracze bÍdπ mieli do wyboru takøe nieco
+     rozbudowane konstrukcje jak radiowozy czy autobusy, a takøe monster trucki. Atrakcyjnoúci ca≥ej
+     rozgrywce dodaje t≥o ñ domowe tory wyúcigowe umiejscowione w salonie czy na stole bilardowym
+     przywodzπ na myúl dzieciÍcy úwiat. Wyúcigi bÍdπ rozgrywane na 32 rÛønych trasach, na ktÛrych
+     czekajπ bonusy w postaci broni i wspomagaczy. Kaødy wygrany poziom odblokowuje niedostÍpne
+     wczeúniej opcje, w tym 4 mini gry, ktÛre dodatkowo uatrakcyjniajπ rozgrywkÍ.
+     Whateverland                             Nintendo Switch,      3Q/4Q 2021        Portowanie,
+ 6.                                           PS4, Xbox                               wydawanie
+                                                                                       Strona 13 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+     Whateverland to kolejna, artystyczna gra studia Caligari Games. Tym razem przenosimy siÍ do
+     rÍcznie malowanego úwiata nawiπzujπcego stylistykπ do filmÛw Tima Burtona, ktÛra przyciπga graczy
+     poszukujπcych w grach wysokiej kultury, co pokaza≥a udana kampania na Kickstarterze, a takøe
+     bardzo pozytywny odbiÛr Prologu wydanego na Steam.
+     Podczas rozgrywki udajemy siÍ do úwiata zaginionych dusz, gdzie kaødy z mieszkaÒcÛw otrzymuje
+     dok≥adnie to, na co zas≥uøy≥. Czy z≥odziejowi Vincentowi uda siÍ znaleüÊ sojusznikÛw by odnaleüÊ
+     drogÍ powrotnπ do úwiata øywych? Czy juø na zawsze pozostanie w krainie Whateverland zwiπzany
+     czarem Beatrix? Koniec tej wyjπtkowej podrÛøy zaleøy juø tylko od gracza!
+Gry wczeúniej wydane przez spÛ≥kÍ na platformÍ Nintendo Switch, a obecnie przygotowywane
+do wydania na inne platformy:
+   1.     Weakwood Throne              PS4, Xbox           2Q 2021
+   2.     Tardy                        PS4, Xbox         2Q/3Q 2021
+   2.     Spirit Roots                 PS4, Xbox         2Q/3Q 2021
+Gry planowane w okresie pÛüniejszym:
+          Wolly The Amazing                                W okresie           Producent, wydawca
+   1.                             Nintendo Switch, PC
+          Adventure                                      pÛüniejszym
+          The Excalibur                                    W okresie           Producent, wydawca
+   2.                             Nintendo Switch, PC
+          Defense                                        pÛüniejszym
+                                                           W okresie           Producent, wydawca
+   3.     Nuketown                Nintendo Switch, PC
+                                                         pÛüniejszym
+                                                           W okresie           Producent, wydawca
+   4.     Impact                  Nintendo Switch, PC
+                                                         pÛüniejszym
+                                                           W okresie                Wydawca
+   5.     Fun Box Party 2           Nintendo Switch
+                                                         pÛüniejszym
+                                                                                     Strona 14 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+3.4. WAØNIEJSZE OSI•GNI CIA W DZIEDZINIE BADA— I ROZWOJU
+W roku obrotowym zakoÒczony 31 grudnia 2020 r. Emitent nie prowadzi≥ dzia≥aÒ w dziedzinie badaÒ
+i rozwoju.
+ 3.5. AKTUALNA I PRZEWIDYWANA SYTUACJA FINANSOWA
+W 2020 r. Emitent osiπgnπ≥ przychody ze sprzedaøy i zrÛwnanie z nimi 1.456.959,29 z≥. Przychody ze
+sprzedaøy produktÛw na poziomie 1.443.695,43 z≥. W porÛwnaniu z analogicznym okresem roku
+poprzedniego oznacza to wzrost wartoúci przychodÛw ze sprzedaøy produktÛw na poziomie 87% w
+ujÍciu rok do roku. Przychody ze sprzedaøy produktÛw w 2020 r. wynios≥y 1.443.695,43 tys. z≥ i zosta≥y
+osiπgniÍte przede wszystkim w rezultacie sprzedaøy gier: wydanych w okresie 2017-2019, jak i nowych
+gier wydanych w 2020r. Jednoczeúnie poniesione przez SpÛ≥kÍ w tym okresie koszty dzia≥alnoúci
+operacyjnej wynios≥y 1.650.587,41 z≥, w wyniku czego Emitent odnotowa≥ stratÍ ze sprzedaøy na
+poziomie 193.628,12 z≥, natomiast strata netto osiπgnÍ≥a wartoúÊ 174.364,10 z≥. Dodatkowy
+negatywny wp≥yw na wynik w 2020 roku mia≥y poniesione koszty na niezbÍdne wyposaøenie
+techniczne SpÛ≥ki.
+Na dzieÒ 31.12.2020 r. suma bilansowa Emitenta wynios≥a 1.498.560,93z≥ i by≥a wyøsza niø na dzieÒ
+31.12.2019 r. -o 3%. Najistotniejszπ kategoriÍ w porÛwnywanych okresach po stronie aktywÛw
+stanowi≥y zapasy, ktÛrych wartoúÊ wynios≥a odpowiednio 971.175,36 z≥ (31.12.2020 r.) oraz 957.911,50
+z≥ (31.12.2019 r.). Jednoczeúnie wzrÛs≥ poziom naleønoúci krÛtkoterminowych, ktÛrych poziom na
+koniec 2019 r. wynosi≥ 208.552,75 z≥ natomiast na koniec 2020 r. wzrÛs≥ do 233.105,48 z≥. W zwiπzku
+poniesionymi nak≥adami inwestycyjnymi (udzia≥y w MD GAMES SP. Z O. O.) oraz nak≥adami na bieøπcπ
+dzia≥alnoúÊ operacyjnπ zmniejszeniu o 10% uleg≥ stan úrodkÛw pieniÍønych na rachunku i w kasie, tj. z
+kwoty 159.968,87 z≥ do 143.399,42 z≥. W odniesieniu do 31.12.2019r. naleøy rÛwnieø odnotowaÊ
+zmniejszenie kapita≥Ûw w≥asnych z 1.344.148,36 z≥ do 1.169.784,26 z≥ (31.12.2020 r.) co jest pochodnπ
+poniesionej straty na koniec 2020 r. W danym okresie zwiÍkszeniu uleg≥y zobowiπzania
+krÛtkoterminowe i w 2020 roku wynios≥y 170.232,37 z≥. ZarÛwno w ciπgu 2019 r. jak i ca≥ego 2020 r.
+SpÛ≥ka nie posiada≥a zobowiπzaÒ oprocentowanych.
+W 2021 roku Emitent zamierza wydaÊ co najmniej kilkanaúcie gier w tym na konsole Nintendo Switch,
+na Konsole Play Station oraz KonsolÍ Xbox, co powinno mieÊ pozytywny wp≥yw na przychody ze
+sprzedaøy gier w 2021 roku.
+W zwiπzku z faktem, øe spÛ≥ka jest notowana w Alternatywnym Systemie Obrotu na rynku
+NewConnect, SpÛ≥ka ca≥y czas ponosi dodatkowe koszty, ktÛre majπ wp≥yw na wyniki Emitenta.
+KORONAWIRUS ñ na dzieÒ dzisiejszy, utrudnienia spowodowane zaleceniami PaÒstwa Polskiego nie
+powinny mieÊ znacznego wp≥ywu na dzia≥alnoúÊ Emitenta w d≥ugim okresie. Jednakøe, jeúli ta sytuacja
+bÍdzie przez d≥uøszy czas, to moøe to mieÊ negatywny wp≥yw na terminy wydania gier oraz na
+potencjalnych nabywcÛw, co mog≥oby skutkowaÊ mniejszπ sprzedaøπ.
+                                                                                        Strona 15 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+3.6. AKCJE W£ASNE
+W roku obrotowym zakoÒczonym w dniu 31 grudnia 2020 r., ani po jego zakoÒczeniu SpÛ≥ka nie
+nabywa≥a akcji (udzia≥Ûw) w≥asnych.
+3.7. POSIADANE PRZEZ JEDNOSTK  ODDZIA£Y (ZAK£ADY)
+W roku obrotowym zakoÒczonym w dniu 31 grudnia 2020 r., ani po jego zakoÒczeniu Emitent nie
+posiada≥ oddzia≥Ûw.
+3.8. INFORMACJA O RYZYKACH Z TYTU£U POSIADANYCH INSTRUMENT”W FINANSOWYCH
+W roku obrotowym zakoÒczonym 31 grudnia 2020 roku SpÛ≥ka nie stosowa≥a rachunkowoúci
+zabezpieczeÒ oraz nie wykorzystywa≥a instrumentÛw finansowych w zakresie ryzyka: zmiany cen,
+kredytowego, istotnych zak≥ÛceÒ przep≥ywÛw úrodkÛw pieniÍønych oraz utraty p≥ynnoúci finansowej,
+na jakie jest ona naraøona.
+ Dzia≥alnoúÊ SpÛ≥ki naraøona jest na nastÍpujπce ryzyka:
+- ryzyko walutowe
+- ryzyko rynkowe
+- ryzyko p≥ynnoúciowe
+Zarzπd ca≥y czas monitoruje powyøsze ryzyka.
+Ryzyko walutowe ma wp≥yw na wysokoúÊ przychodu osiπganego przez spÛ≥kÍ, wszystkie gry sπ
+sprzedawane za granicπ w walucie obcej. Kurs wymiany walut ma wp≥yw na wielkoúÊ przychodu, czym
+z≥oty jest s≥abszy, tym przychÛd jest wiÍkszy.
+Ryzyko p≥ynnoúciowe - Emitent monitoruje ryzyko braku funduszy przy pomocy narzÍdzia okresowego
+planowania p≥ynnoúci. NarzÍdzie to uwzglÍdnia terminy zapadalnoúci, zarÛwno inwestycji jak i
+aktywÛw finansowych (np. konta naleønoúci, pozosta≥ych aktywÛw finansowych) oraz prognozowane
+przep≥ywy pieniÍøne z dzia≥alnoúci operacyjnej.
+Zarzπd ca≥y czas monitoruje rynek oraz p≥ynnoúÊ finansowπ SpÛ≥ki.
+Dodatkowe ryzyka:
+- ryzyko wystπpienia zdarzeÒ losowych
+- ryzyko zwiπzane z utratπ kluczowych cz≥onkÛw zespo≥u
+- ryzyko zwiπzane z opÛünieniem w produkcji gier
+- ryzyko z nieukoÒczonymi projektami
+- ryzyko zwiπzane z wprowadzaniem nowych gier
+- ryzyko nieosiπgniÍcia przez grÍ sukcesu rynkowego
+- ryzyko zwiπzane ze strukturπ przychodÛw
+- ryzyko roszczeÒ z tytu≥u praw autorskich
+- ryzyko czynnika ludzkiego
+- ryzyko podlegania umÛw prawu obcemu
+- ryzyko wystπpienia nieprzewidzianych trendÛw
+                                                                                   Strona 16 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+SzczegÛ≥owy opis wyøej wymienionych ryzyk zosta≥ opisany w Dokumencie Informacyjnym Emitenta,
+ktÛry jest dostÍpny na stronie internetowej Emitenta.
+3.9. KLUCZOWE WSKAèNIKI ORAZ ZAGADNIENIA PRACOWNICZE
+                                                                                   WartoúÊ wskaünika
+         Wskaünik                     Formu≥a obliczeniowa
+                                                                              2019         2020
+                                   (inwestycje krÛtkoterminowe +
+Wskaünik p≥ynnoúci szybkiej         naleønoúci krÛtkoterminowe)/                 7,65
+                                                                                               2,52
+                                   zobowiπzania krÛtkoterminowe
+                                (aktywa obrotowe - krÛtkoterminowe
+Wskaünik p≥ynnoúci bieøπcej         rozliczenia miÍdzyokresowe)/                24,78
+                                                                                                8,2
+                                   zobowiπzania krÛtkoterminowe
+Emitent w 2020 roku wyda≥ 33 gry na rÛøne platformy, co w porÛwnaniu do roku 2019 by≥o wzrostem
+o kilkadziesiπt procent.
+Emitent nie posiada pracownikÛw z tytu≥u umowy o pracÍ
+Dzia≥alnoúÊ Emitenta nie ma negatywnego skutku na úrodowisko naturalne
+4. INFORMACJA NA TEMAT WYBRANYCH DANYCH FINANSOWYCH SP”£KI ZALEØNEJ EMITENTA
+NIEOBJ TEJ KONSOLIDACJ•
+W spÛ≥ce eHeroes Sp. z o.o. Emitent posiada 100% udzia≥Ûw.
+Odstπpiono od konsolidacji na podstawie art. 56 uor. oraz art. 58 uor.
+Bilans eHeroes sp. z o.o.
+                                                                 Na dzieÒ           Na dzieÒ
+                   WyszczegÛlnienie                             31.12.2019         31.12.2020
+                                                                   (w z≥)             (w z≥)
+ A. Aktywa trwa≥e                                                         0,00               0,00
+ B. Aktywa obrotowe                                                 54.956,92           41.317,86
+ C. Naleøne wp≥aty na kapita≥ (fundusz) podstawowy                        0,00               0,00
+ D. Udzia≥y (akcje) w≥asne                                                0,00               0,00
+ AKTYWA RAZEM                                                       54.956,92           41.317,86
+ A. Kapita≥ (fundusz) w≥asny                                        (7.347,92)        (11.975,02)
+ B. Zobowiπzania i rezerwy na zobowiπzania                          62.304,84           53.292,88
+ PASYWA RAZEM                                                       54.956,92           41.317,86
+èrÛd≥o: eHeroes sp. z o.o.
+Rachunek zyskÛw i strat eHeroes sp. z o.o.
+                                                                                                  Strona 17 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+                                                        Za okres           Za okres
+                                                      od 1.01.2019       od 1.01.2020
+                    WyszczegÛlnienie
+                                                      do 31.12.2019      do 31.12.2020
+                                                          (w z≥)             (w z≥)
+  A. Przychody netto ze sprzedaøy i zrÛwnane z             34.417,30          55.393,68
+  nimi, w tym:
+  B. Koszty dzia≥alnoúci operacyjnej                       44.378,46          57.853,83
+  C. Zysk (strata) ze sprzedaøy (A-B)                      (9.961,16)         (2.460,15)
+  D. Pozosta≥e przychody operacyjne                          3.323,24             162,41
+  E. Pozosta≥e koszty operacyjne                               804,07             589,58
+  F. Zysk (strata) z dzia≥alnoúci operacyjnej (C+D-E)      (7.441,99)         (2.887,32)
+  G. Przychody finansowe                                         0,00               0,00
+  H. Koszty finansowe                                        1.489,81           1.739,78
+  I. Zysk (strata) brutto (F+G+H)                          (8.931,80)         (4.627,10)
+  J. Podatek dochodowy                                           0,00               0,00
+  K. Pozosta≥e obowiπzkowe zmniejszenia zysku
+  (zwiÍkszenia straty)
+  L. Zysk (strata) netto (I-J-K)                           (8.931,80)         (4.627,10)
+5. SPRAWOZDANIE FINANSOWE ZA ROK OBROTOWY ZAKO—CZONY W DNIU 31 GRUDNIA 2020 R.
+Sprawozdanie finansowe za okres od 01.01.2020 r. do 31.12.2020 r. stanowi za≥πcznik nr 1 do
+niniejszego raportu.
+6. SPRAWOZDANIE Z BADANIA ROCZNEGO SPRAWOZDANIA FINANSOWEGO ZA ROK OBRTOWY
+ZAKO—CZONY W DNIU 31 GRUDNIA 2020 R.
+ Sprawozdania z badania rocznego sprawozdania finansowego za rok obrotowy zakoÒczony w dniu 31
+grudnia 2020 r. wraz z opiniπ bieg≥ego rewidenta stanowi za≥πcznik nr 2 do niniejszego raportu.
+ 7. OåWIADCZENIE ZARZ•DU O SPOSOBIE SPORZ•DZENIA SPRAWOZDANIA ROCZNEGO
+                                                       Warszawa, dnia 22 marca 2021 r.
+Niniejszym Zarzπd DRAGEUS GAMES S.A. z siedzibπ w Warszawie oúwiadcza, øe wedle jego najlepszej
+wiedzy, roczne sprawozdanie finansowe Emitenta za okres od 01.01.2020 do 31.12.2020 i dane
+porÛwnywalne sporzπdzone zosta≥y zgodnie z przepisami obowiπzujπcymi Emitenta oraz øe
+odzwierciedlajπ w sposÛb prawdziwy, rzetelny i jasny sytuacjÍ majπtkowπ i finansowπ Emitenta oraz
+                                                                                         Strona 18 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+jego wynik finansowy, oraz øe sprawozdanie z dzia≥alnoúci Emitenta zawiera prawdziwy obraz sytuacji
+emitenta, w tym opis podstawowych zagroøeÒ i ryzyk.
+£ukasz Mitan ñ Prezes Zarzπdu                             Rados≥aw MrowiÒski ñ Wiceprezes Zarzπdu
+8. OåWIADCZENIE ZARZ•DU DOTYCZ•CE WYBORU PODMIOTU DOKONUJ•CEGO BADANIA
+SPRAWOZDANIA ROCZNEGO
+                                                          Warszawa, dnia 22 marca 2021 r.
+Niniejszym Zarzπd DRAGEUS GAMES S.A. z siedzibπ w Warszawie niniejszym oúwiadcza, iø wybÛr
+firmy audytorskiej przeprowadzajπcej badanie rocznego sprawozdania finansowego Emitenta za
+okres od 01.01.2020 do 31.12.2020 r. przeprowadzony zosta≥ zgodnie z przepisami, w tym
+dotyczπcymi wyboru i procedury wyboru firmy audytorskiej, a takøe, iø firma audytorska oraz
+cz≥onkowie zespo≥u wykonujπcego badanie spe≥niali warunki do sporzπdzenia bezstronnego i
+niezaleønego sprawozdania z badania rocznego sprawozdania finansowego zgodnie z obowiπzujπcymi
+przepisami, standardami wykonywania zawodu i zasad etyki zawodowej.
+£ukasz Mitan ñ Prezes Zarzπdu                             Rados≥aw MrowiÒski ñ Wiceprezes Zarzπdu
+ 9. INFORMACJA NA TEMAT STOSOWANIA ZASAD £ADU KORPORACYJNEGO
+PKT ZASADA DOBREJ PRAKTYKI
+OåWIADCZENIE O STOSOWANIU DOBREJ PRAKTYKI TAK/NIE/NIE DOTYCZY
+Zarzπd Drageus Games S.A. oúwiadcza, øe stosuje zasady ≥adu korporacyjnego, o ktÛrych mowa
+w dokumencie ÑDobre Praktyki SpÛ≥ek Notowanych na NewConnectî, uchwalonego uchwa≥π Zarzπdu
+Gie≥dy PapierÛw Wartoúciowych nr 795/2008 z dnia 31 paüdziernika 2008 roku, zmienionπ nastÍpnie
+uchwa≥π Zarzπdu Gie≥dy PapierÛw Wartoúciowych nr 293/2010 z dnia 31 marca 2010 roku, zgodnie
+z poniøszπ tabelπ.
+                                               TAK/NIE/ NIE
+   LP                 ZASADA                                                WYJAåNIENIE
+                                                 DOTYCZY
+    1   SpÛ≥ka      powinna       prowadziÊ                      Ze wzglÍdu na koszty spÛ≥ka nie
+        przejrzystπ i efektywnπ politykÍ            TAK, z       bÍdzie transmitowaÊ obrad walnego
+        informacyjnπ,      zarÛwno          z   wy≥πczeniem      zgromadzenia i upubliczniaÊ go na
+        wykorzystaniem        tradycyjnych    transmisji obrad   stronie internetowej. W ocenie
+        metod,     jak   i   z      uøyciem        walnego       Zarzπdu koszty zwiπzane z technicznπ
+        nowoczesnych            technologii,  zgromadzenia z     obs≥ugπ transmisji oraz rejestracji
+        zapewniajπcych            szybkoúÊ,   wykorzystaniem     przebiegi       obrad         walnego
+        bezpieczeÒstwo     oraz      szeroki    sieci Internet,  zgromadzenia sπ niewspÛ≥mierne do
+        dostÍp do informacji. SpÛ≥ka              rejestracji    potencjalnych korzyúci.
+        korzystajπc w jak najszerszym         przebiegu obrad
+        stopniu z tych metod, powinna         i upublicznienia   W przysz≥oúci      spÛ≥ka     rozwaøy
+        zapewniÊ              odpowiedniπ       go na stronie    transmitowanie     obrad      walnego
+        komunikacjÍ      z     inwestorami      internetowej.    zgromadzenia.
+        i analitykami,           umoøliwiaÊ
+                                                                                         Strona 19 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+        transmitowanie obrad walnego
+        zgromadzenia z wykorzystaniem
+        sieci Internet, rejestrowaÊ przebieg
+        obrad i upubliczniaÊ go na stronie
+        internetowej.
+   2    SpÛ≥ka       powinna        zapewniÊ
+        efektywny dostÍp do informacji
+        niezbÍdnych do oceny sytuacji i        TAK
+        perspektyw spÛ≥ki oraz sposobu jej
+        funkcjonowania.
+   3    SpÛ≥ka prowadzi korporacyjnπ
+        stronÍ internetowπ i zamieszcza na     TAK
+        niej:
+  3.1   podstawowe informacje o spÛ≥ce i
+                                               TAK
+        jej dzia≥alnoúci (strona startowa).
+  3.2   opis dzia≥alnoúci emitenta ze
+        wskazaniem rodzaju dzia≥alnoúci, z
+                                               TAK
+        ktÛrej emitent uzyskuje najwiÍcej
+        przychodÛw
+  3.3   opis rynku, na ktÛrym dzia≥a
+        emitent, wraz z okreúleniem pozycji    TAK
+        emitenta na tym rynku.
+  3.4   øyciorysy zawodowe          cz≥onkÛw
+                                               TAK
+        organÛw spÛ≥ki.
+  3.5   powziÍte      przez     zarzπd,    na
+        podstawie oúwiadczenia cz≥onka
+        rady nadzorczej, informacje o
+        powiπzaniach         cz≥onka     rady
+        nadzorczej       z    akcjonariuszem   TAK
+        dysponujπcym                  akcjami
+        reprezentujπcymi nie mniej niø 5%
+        ogÛlnej liczby g≥osÛw na walnym
+        zgromadzeniu spÛ≥ki.
+  3.6   dokumenty korporacyjne spÛ≥ki.         TAK
+  3.7   zarys planÛw strategicznych spÛ≥ki.        SpÛ≥ka jest w trakcie opracowywania
+                                               NIE
+                                                   takich planÛw.
+  3.8   opublikowane prognozy wynikÛw              SpÛ≥ka nie zamierza w najbliøszym
+        finansowych na bieøπcy rok                 czasie      publikowaÊ       prognoz
+        obrotowy, wraz z za≥oøeniami do        NIE finansowych
+        tych prognoz (w przypadku gdy
+        emitent takie publikuje)
+  3.9   strukturÍ akcjonariatu Emitenta, ze
+        wskazaniem                  g≥Ûwnych
+                                               TAK
+        akcjonariuszy         oraz       akcji
+        znajdujπcych siÍ w wolnym obrocie
+ 3.10   dane oraz kontakt do osoby, ktÛra
+        jest odpowiedzialna w spÛ≥ce za
+                                               TAK
+        relacje inwestorskie oraz kontakty z
+        mediami
+  .11   skreúlony
+                                                                          Strona 20 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+ 3.12   opublikowane raporty bieøπce i
+                                             TAK
+        okresowe.
+ 3.13   kalendarz zaplanowanych dat
+        publikacji finansowych raportÛw
+        okresowych,        dat      walnych
+                                             TAK
+        zgromadzeÒ, a takøe spotkaÒ z
+        inwestorami i analitykami oraz
+        konferencji prasowych.
+ 3.14   informacje na temat zdarzeÒ
+        korporacyjnych, takich jak wyp≥ata
+        dywidendy, oraz innych zdarzeÒ
+        skutkujπcych       nabyciem      lub
+        ograniczeniem praw po stronie
+        akcjonariusza, z uwzglÍdnieniem
+                                             TAK
+        terminÛw          oraz        zasad
+        przeprowadzania tych operacji.
+        Informacje     te    powinny     byÊ
+        zamieszczane         w      terminie
+        umoøliwiajπcym podjÍcie przez
+        inwestorÛw decyzji inwestycyjnych.
+ 3.15   skreúlony
+ 3.16   pytania akcjonariuszy dotyczπce
+        spraw objÍtych porzπdkiem obrad,
+        zadawane przed i w trakcie
+                                             TAK
+        walnego zgromadzenia, wraz z
+        odpowiedziami       na   zadawane
+        pytania.
+ 3.17   informacjÍ na temat informacjÍ na
+        temat      powodÛw        odwo≥ania
+        walnego zgromadzenia, zmiany         TAK
+        terminu lub porzπdku obrad wraz z
+        uzasadnieniem.
+ 3.18   informacjÍ o przerwie w obradach
+        walnego zgromadzenia i powodach      TAK
+        zarzπdzenia przerwy.
+ 3.19   informacje na temat podmiotu, z
+        ktÛrym spÛ≥ka podpisa≥a umowÍ o
+        úwiadczenie                    us≥ug
+        Autoryzowanego        Doradcy     ze
+                                             TAK
+        wskazaniem nazwy, adresu strony
+        internetowej,              numerÛw
+        telefonicznych oraz adresu poczty
+        elektronicznej Doradcy.
+ 3.20   informacjÍ na temat podmiotu,
+        ktÛry pe≥ni funkcjÍ animatora akcji  TAK
+        emitenta
+ 3.21   dokument informacyjny (prospekt
+        emisyjny) spÛ≥ki, opublikowany w     TAK
+        ciπgu ostatnich 12 miesiÍcy.
+ 3.22   skreúlony
+        Informacje zawarte na        stronie TAK
+        internetowej       powinny       byÊ
+                                                 Strona 21 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+        zamieszczane          w        sposÛb
+        umoøliwiajπcy ≥atwy dostÍp do tych
+        informacji.     Emitent      powinien
+        dokonywaÊ aktualizacji informacji
+        umieszczanych          na       stronie
+        internetowej.       W       przypadku
+        pojawienia siÍ nowych, istotnych
+        informacji lub wystπpienia istotnej
+        zmiany informacji umieszczanych
+        na        stronie        internetowej,
+        aktualizacja      powinna       zostaÊ
+        przeprowadzona niezw≥ocznie
+   4    SpÛ≥ka prowadzi korporacyjnπ
+        stronÍ internetowπ, wed≥ug wyboru
+        emitenta, w jÍzyku polskim lub
+        angielskim. Raporty bieøπce i
+        okresowe          powinny           byÊ
+                                                 TAK
+        zamieszczane          na        stronie
+        internetowej co najmniej w tym
+        samym jÍzyku, w ktÛrym nastÍpuje
+        ich publikacja zgodnie z przepisami
+        obowiπzujπcymi emitenta.
+   5    SpÛ≥ka powinna prowadziÊ politykÍ            Emitent        nie        wykorzystuje
+        informacyjnπ ze szczegÛlnym                  indywidualnej       sekcji      relacji
+        uwzglÍdnieniem                 potrzeb       inwestorskich znajdujπcych siÍ na
+        inwestorÛw indywidualnych. W tym             www.GPWInfoStrefa.pl
+        celu SpÛ≥ka, poza swojπ stronπ
+                                                 NIE W przysz≥oúci spÛ≥ka          rozwaøy
+        korporacyjnπ                  powinna
+        wykorzystywaÊ indywidualnπ dla               stosowanie tej praktyki.
+        danej      spÛ≥ki    sekcjÍ      relacji
+        inwestorskich       znajdujπcπ       na
+        stronie www.GPWInfoStrefa.pl
+   6    Emitent powinien utrzymywaÊ
+        bieøπce            kontakty           z
+        przedstawicielami
+        Autoryzowanego Doradcy, celem
+        umoøliwienia mu prawid≥owego
+                                                 TAK
+        wykonywania swoich obowiπzkÛw
+        wobec emitenta. SpÛ≥ka powinna
+        wyznaczyÊ osobÍ odpowiedzialnπ
+        za kontakty z Autoryzowanym
+        Doradcπ.
+   7    W przypadku, gdy w spÛ≥ce nastπpi
+        zdarzenie, ktÛre w ocenie emitenta
+        ma      istotne     znaczenie       dla
+        wykonywania                       przez
+                                                 TAK
+        Autoryzowanego DoradcÍ swoich
+        obowiπzkÛw, emitent niezw≥ocznie
+        powiadamia        o     tym      fakcie
+        Autoryzowanego DoradcÍ
+   8    Emitent       powinien       zapewniÊ
+        Autoryzowanemu Doradcy dostÍp            TAK
+        do wszelkich dokumentÛw i
+        informacji      niezbÍdnych          do
+                                                                             Strona 22 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+        wykonywania            obowiπzkÛw
+        Autoryzowanego Doradcy
+   9    Emitent przekazuje w raporcie
+        rocznym:
+  9.1   informacjÍ na temat ≥πcznej
+        wysokoúci             wynagrodzeÒ
+                                             TAK
+        wszystkich cz≥onkÛw zarzπdu i rady
+        nadzorczej.
+  9.2   informacjÍ         na         temat      Ze    wzglÍdu     na      koniecznoúÊ
+        wynagrodzenia Autoryzowanego             zachowania tajemnicy handlowej i
+        Doradcy      otrzymywanego        od     poufnoúci zawartej umowy, Emitent
+                                             NIE
+        emitenta z tytu≥u úwiadczenia            nie bÍdzie stosowa≥ powyøszej
+        wobec emitenta us≥ug w kaødym            praktyki w sposÛb ciπg≥y.
+        zakresie
+  10    Cz≥onkowie      zarzπdu    i    rady
+        nadzorczej powinni uczestniczyÊ w
+        obradach walnego zgromadzenia
+        w      sk≥adzie     umoøliwiajπcym   TAK
+        udzielenie            merytorycznej
+        odpowiedzi na pytania zadawane w
+        trakcie walnego zgromadzenia
+ 11     Przynajmniej 2 razy w roku emitent,      W przysz≥oúci rozwaøy stosowanie tej
+        przy wspÛ≥pracy Autoryzowanego           praktyki.
+        Doradcy, powinien organizowaÊ        NIE
+        publicznie dostÍpne spotkanie z
+        inwestorami, analitykami i mediami
+  12    Uchwa≥a walnego zgromadzenia w
+        sprawie emisji akcji z prawem
+        poboru powinna precyzowaÊ cenÍ
+        emisyjnπ albo mechanizm jej
+        ustalenia lub zobowiπzaÊ organ do    TAK
+        tego upowaøniony do ustalenia jej
+        przed dniem ustalenia prawa
+        poboru, w terminie umoøliwiajπcym
+        podjÍcie decyzji inwestycyjnej
+  13    Uchwa≥y walnego zgromadzenia
+        powinny zapewniÊ zachowanie
+        niezbÍdnego odstÍpu czasowego
+        pomiÍdzy decyzjami powodujπcymi
+                                             TAK
+        okreúlone zdarzenia korporacyjne
+        a datami, w ktÛrych ustalane sπ
+        prawa akcjonariuszy wynikajπce z
+        tych zdarzeÒ korporacyjnych
+ 13a    W przypadku otrzymania przez
+        zarzπd emitenta od akcjonariusza
+        posiadajπcego co najmniej po≥owÍ
+        kapita≥u zak≥adowego lub co
+        najmniej po≥owÍ ogÛ≥u g≥osÛw w
+        spÛ≥ce, informacji o zwo≥aniu przez  TAK
+        niego nadzwyczajnego walnego
+        zgromadzenia w trybie okreúlonym
+        w art. 399 ß 3 Kodeksu spÛ≥ek
+        handlowych,      zarzπd    emitenta
+        niezw≥ocznie dokonuje czynnoúci,
+                                                                        Strona 23 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+        do ktÛrych jest zobowiπzany w
+        zwiπzku      z      organizacjπ      i
+        przeprowadzeniem             walnego
+        zgromadzenia.
+        Zasada ta ma zastosowanie
+        rÛwnieø         w         przypadku
+        upowaønienia przez sπd rejestrowy
+        akcjonariuszy       do      zwo≥ania
+        nadzwyczajnego               walnego
+        zgromadzenia na podstawie art.
+        400 ß 3 Kodeksu spÛ≥ek
+        handlowych.
+  14    DzieÒ ustalenia praw do dywidendy
+        oraz dzieÒ wyp≥aty dywidendy
+        powinny byÊ tak ustalone, aby czas
+        przypadajπcy pomiÍdzy nimi by≥
+        moøliwie najkrÛtszy, a w kaødym
+                                               TAK
+        przypadku nie d≥uøszy niø 15 dni
+        roboczych. Ustalenie d≥uøszego
+        okresu pomiÍdzy tymi terminami
+        wymaga               szczegÛ≥owego
+        uzasadnienia.
+  15    Uchwa≥a walnego zgromadzenia w
+        sprawie      wyp≥aty      dywidendy
+        warunkowej moøe zawieraÊ tylko
+                                               TAK
+        takie warunki, ktÛrych ewentualne
+        ziszczenie nastπpi przed dniem
+        ustalenia prawa do dywidendy.
+  16    Emitent       publikuje       raporty      Emitent nie widzi potrzeby publikacji
+        miesiÍczne, w terminie 14 dni od           raportÛw miesiÍcznych z uwagi na
+        zakoÒczenia miesiπca. Raport               specyfikÍ branøy.
+        miesiÍczny powinien zawieraÊ co
+        najmniej:                                  Emitent stoi na stanowisku, øe raporty
+                                                   okresowe i bieøπce dostarczajπ
+        ï informacje na temat wystπpienia          wystarczajπco duøo informacji dla
+        tendencji i zdarzeÒ w otoczeniu            akcjonariuszy.
+        rynkowym emitenta, ktÛre w ocenie
+        emitenta mogπ mieÊ w przysz≥oúci
+        istotne    skutki     dla    kondycji
+        finansowej        oraz       wynikÛw
+        finansowych emitenta,
+        ï zestawienie wszystkich informacji    NIE
+        opublikowanych przez emitenta w
+        trybie raportu bieøπcego w okresie
+        objÍtym raportem, ï informacje na
+        temat realizacji celÛw emisji, jeøeli
+        taka realizacja, choÊby w czÍúci,
+        mia≥a miejsce w okresie objÍtym
+        raportem,
+        ï kalendarz inwestora, obejmujπcy
+        wydarzenia majπce mieÊ miejsce w
+        nadchodzπcym miesiπcu, ktÛre
+        dotyczπ emitenta i sπ istotne z
+        punktu      widzenia       interesÛw
+        inwestorÛw, w szczegÛlnoúci daty
+        publikacji raportÛw okresowych,
+                                                                          Strona 24 z 25
+
+RAPORT ROCZNY DRAGEUS GAMES S.A. ZA 2020 R.
+        planowanych                   walnych
+        zgromadzeÒ, otwarcia subskrypcji,
+        spotkaÒ     z     inwestorami      lub
+        analitykami,     oraz     oczekiwany
+        termin       publikacji        raportu
+        analitycznego.
+ 16A    W przypadku naruszenia przez
+        emitenta                   obowiπzku
+        informacyjnego okreúlonego w
+        Za≥πczniku nr 3 do Regulaminu
+        Alternatywnego Systemu Obrotu
+        (ÑInformacje bieøπce i okresowe
+        przekazywane w alternatywnym
+                                               TAK
+        systemie      obrotu     na      rynku
+        ÑNewConnectî) emitent powinien
+        niezw≥ocznie opublikowaÊ, w trybie
+        w≥aúciwym dla przekazywania
+        raportÛw bieøπcych na rynku
+        NewConnect,                informacjÍ
+        wyjaúniajπcπ zaistnia≥π sytuacjÍ.
+  17    skreúlony                               -
+£ukasz             Elektronicznie
+                   podpisany przez
+                                                  RADOS£AW            Elektronicznie podpisany
+                                                                      przez RADOS£AW MAREK
+Robert             £ukasz Robert Mitan            MAREK               MROWI—SKI
+                   Data: 2021.03.22                                   Data: 2021.03.22 10:18:19
+Mitan              10:25:50 +01'00'
+                                                  MROWI—SKI           +01'00'
+£ukasz Mitan ñ Prezes Zarzπdu                     Rados≥aw MrowiÒski ñ Wiceprezes Zarzπdu
+                                                                                  Strona 25 z 25
+

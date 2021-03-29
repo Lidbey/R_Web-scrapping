@@ -1,0 +1,63 @@
+                                                         WYBRANE DANE FINANSOWE
+                                                                      okres             okres           okres            okres
+                                                                  od 01.01.2020     od 01.01.2019   od 01.01.2020    od 01.01.2019
+                   WYBRANE DANE FINANSOWE
+                                                                  do 31.12.2020     do 31.12.2019   do 31.12.2020    do 31.12.2019
+                                                                               [w z³]                           [w EUR]
+    I. Przychody netto ze sprzeda¿y                                  6 024 961,96      3 226 098,36    1 346 600,95       750 604,55
+   II. Koszt dzia³alnoœci operacyjnej, w tym:                        3 558 609,97      2 331 581,25      795 362,29       542 480,51
+  III. - amortyzacja                                                   818 329,73        719 383,24      182 899,68       167 376,28
+ IV.   Wynik na sprzeda¿y                                            2 466 351,99        894 517,11      551 238,65       208 124,04
+  V.   Pozosta³e przychody operacyjne                                        0,06         18 394,76            0,01         4 279,84
+ VI.   Pozosta³e koszty operacyjne                                     350 670,46        364 423,47       78 376,13        84 789,08
+ VII.  Wynik na dzia³alnoœci operacyjnej                             2 115 681,59        548 488,40      472 862,54       127 614,80
+ VIII. Przychody finansowe                                                   0,00              0,00            0,00             0,00
+  IX.  Koszty finansowe                                                242 098,24         78 701,06       54 109,84        18 311,09
+  X.   Wynik brutto                                                  1 873 583,35        469 787,34      418 752,70       109 303,71
+  XI.  Wynik netto                                                   1 915 162,79        673 141,54      428 045,86       156 617,39
+ XII.  Œrodki pieniê¿ne netto z dzia³alnoœci operacyjnej            -2 075 151,64     -3 969 715,65     -463 803,95      -923 619,28
+ XIII. Œrodki pieniê¿ne netto z dzia³alnoœci inwestycyjnej            -114 822,67        -14 773,38      -25 663,29        -3 437,27
+XIV.   Œrodki pieniê¿ne netto z dzia³alnoœci finansowej              2 900 350,96      4 052 770,00      648 239,01       942 943,23
+       Œrodki pieniê¿ne i ich ekwiwalent na koniec roku
+ XV.                                                                   779 395,30         69 018,65      174 197,69        16 058,32
+       obrotowego
+XVI.   Aktywa trwa³e, w tym:                                       12 396 163,49       7 922 106,04    2 686 175,67     1 843 207,55
+XVII.  - rzeczowe aktywa trwa³e                                         35 638,58         51 949,92        7 722,67        12 087,00
+XVIII. Aktywa obrotowe, w tym:                                     10 820 858,70      10 318 290,98    2 344 816,40     2 400 719,17
+ XIX.  - zapasy                                                         92 777,00              0,00       20 104,23             0,00
+ XX.   - nale¿noœci krótkoterminowe                                  5 301 965,89      3 188 059,51    1 148 904,80       741 754,19
+
+    XXI.  Aktywa razem                                             23 217 022,19       18 755 897,02     5 030 992,07    4 363 866,22
+   XXII.  Kapita³ w³asny                                           20 556 780,50       16 231 767,05     4 454 533,35    3 776 586,10
+   XXIII. Kapita³ zak³adowy                                        24 716 094,00       13 850 000,00     5 355 832,11    3 222 429,04
+  XXIV.   Kapita³ zapasowy                                          1 179 417,59                  0,00     255 572,85             0,00
+   XXV.   Zobowi¹zania i rezerwy na zobowi¹zania                    2 660 241,69        2 524 129,97       576 458,72      587 280,12
+  XXVI.   Zobowi¹zania d³ugoterminowe                                         0,00                0,00           0,00             0,00
+  XXVII.  Zobowi¹zania krótkoterminowe                              2 232 796,27        2 414 829,93       483 833,81      561 849,68
+ XXXVIII. Pasywa razem                                             23 217 022,19       18 755 897,02     5 030 992,07    4 363 866,22
+  XXXIX.  Liczba akcji [sztuk]                                     250 032 204        237 189 360        250 032 204   237 189 360
+  XXXX.   Zysk (strata) na jedn¹ akcjê [z³/EUR]                       0,024               0,003           0,005           0,0007
+   XXXI.  Wartoœæ ksiêgowa na jedna akcjê [z³/EUR]                     0,08                0,07           0,018            0,02
+  XXXII.  Zadeklarowana lub wyp³acona dywidenda na jedn¹ akcjê              -                   -              -                -
+KURS EURO WED£UG, KTÓREGO DOKONANO PRZELICZENIA WYBRANYCH JEDNOSTKOWYCH DANYCH FINANSOWYCH
+                                      2020                                                             2019
+                   m-c                              kurs                              m-c                               kurs
+               31.01.2020                          4,3010                          31.01.2019                         4,2954
+               29.02.2020                          4,3350                          28.02.2019                         4,3157
+               31.03.2020                          4,5523                          31.03.2019                         4,2996
+               30.04.2020                          4,5424                          30.04.2019                         4,2874
+               31.05.2020                          4,4503                          31.05.2019                         4,2965
+               30.06.2020                          4,4660                          30.06.2019                          4,266
+               31.07.2020                          4,4072                          31.07.2019                         4,2598
+               31.08.2020                          4,3969                          31.08.2019                         4,3437
+               30.09.2020                          4,5268                          30.09.2019                         4,3547
+               31.10.2020                          4,6188                          31.10.2019                         4,3025
+               30.11.2020                          4,4779                          30.11.2019                         4,2843
+               31.12.2020                          4,6148                          31.12.2019                         4,2721
+ œredni kurs:                                      4,4742            œredni kurs:                                      4,298
+
+Dane finansowe zosta³y przeliczone i ujawnione w raporcie na EURO wed³ug nastêpuj¹cych zasad:
+   1) poszczególne pozycje bilansu przeliczono na EURO wed³ug œredniego kursu obowi¹zuj¹cego na dany dzieñ bilansowy, og³oszonego dla tej waluty przez NBP,
+   2) poszczególne pozycje rachunku zysków i strat oraz sprawozdania z przep³ywu œrodków pieniê¿nych przeliczono na EURO wed³ug kursu stanowi¹cego œredni¹
+        arytmetyczn¹ œrednich kursów og³aszanych przez NBP dla tej walut, obowi¹zuj¹cych na ostatni dzieñ ka¿dego zakoñczonego miesi¹ca roku obrotowego.
+

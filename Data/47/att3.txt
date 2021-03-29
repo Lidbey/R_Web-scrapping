@@ -1,0 +1,797 @@
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                          1
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+                                 SPRAWOZDANIE FINANSOWE
+                                         Drageus Games S.A.
+                               ul. Grzybowska 87, 00-844 Warszawa
+                    za okres od 1 stycznia 2020 do 31 grudnia 2020 roku.
+WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO
+•   Przedmiotem podstawowej dzia³alnoœci Spó³ki zgodnie z aktem notarialnym jest m.in:
+    <U+F031><U+F02E>   Dzia³alnoœæ zwi¹zana z oprogramowaniem,
+    <U+F032><U+F02E>   Dzia³alnoœæ wydawnicza w zakresie gier komputerowych,
+    <U+F033><U+F02E>   Dzia³alnoœæ wydawnicza w zakresie pozosta³ego oprogramowania.
+•   Spó³ka zarejestrowana jest w S¹dzie Rejonowym dla m.st. Warszawy, XII Wydzia³ Gospodarczy
+    KRAJOWEGO REJESTRU S¥DOWEGO w Rejestrze Przedsiêbiorców pod numerem KRS 0000678459.
+•   Przedmiotowe sprawozdanie finansowe obejmuje rok obrotowy od 1 stycznia 2020 r. do 31 grudnia
+    2020 r. i zamknê³o siê sum¹ bilansow¹ po stronie aktywów i pasywów w wysokoœci 1 498 560,93 z³ oraz
+    strat¹ netto w kwocie 174 364,10 z³.
+•   Sprawozdanie finansowe zosta³o sporz¹dzone przy za³o¿eniu mo¿liwoœci kontynuowania dzia³alnoœci
+    gospodarczej przez Spó³kê w okresie co najmniej 12 miesiêcy po dniu bilansowym. Na dzieñ podpisania
+    sprawozdania finansowego Kierownik Jednostki nie stwierdza istnienia faktów i okolicznoœci, które
+    wskazywa³yby na zagro¿enie dla mo¿liwoœci kontynuacji dzia³alnoœci w okresie, co najmniej 12 miesiêcy
+    po dniu bilansowym na skutek zamierzonego lub przymusowego zaniechania b¹dŸ istotnego
+    ograniczenia przez ni¹ dotychczasowej dzia³alnoœci.
+•   Sprawozdanie finansowe przygotowano w oparciu o ni¿ej podane wyszczególnione zasady
+    rachunkowoœci.
+Podstawa sporz¹dzania sprawozdania finansowego
+    •   Sprawozdanie finansowe przygotowane zosta³o w oparciu o zasady rachunkowoœci i praktykê
+        zawodow¹ stosowane przez jednostki dzia³aj¹ce w Polsce, zgodnie z przepisami Ustawy o
+        rachunkowoœci z dnia 29 wrzeœnia 1994 roku z póŸniejszymi zmianami (tekst jednolity: Dz. U. z 2021
+        r., poz. 217, z póŸñ. zm.).
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                        2
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+     Stosowane metody wyceny
+  a) Wartoœci niematerialne i prawne
+        Wartoœci niematerialne i prawne wycenia siê na dzieñ bilansowy wed³ug cen ich nabycia
+pomniejszonych o odpisy z tytu³u trwa³ej utraty wartoœci oraz o amortyzacjê przeprowadzan¹ wed³ug
+stawek przewidzianych w wykazie rocznych stawek amortyzacyjnych, stanowi¹cym za³¹cznik do ustawy
+podatkowej.
+  b) Œrodki trwa³e
+        Wartoœæ pocz¹tkow¹ œrodków trwa³ych wycenia siê na dzieñ bilansowy w wysokoœci cen ich nabycia
+lub kosztów wytworzenia pomniejszonych o odpisy amortyzacyjne oraz o odpisy z tytu³u trwa³ej utraty
+wartoœci.
+Œrodki trwa³e o wartoœci przekraczaj¹cej 10 tys. z³otych amortyzuje siê liniowo w okresie przewidywanego
+u¿ytkowania, pocz¹wszy od pierwszego dnia miesi¹ca nastêpuj¹cego po miesi¹cu, w którym przyjêto je do
+u¿ytkowania, wed³ug stawek zgodnych z Za³¹cznikiem do ustawy o podatku dochodowym od osób prawnych
+z dnia 15 lutego 1992 roku (wykaz rocznych stawek amortyzacyjnych) (Dz.U z 2020r poz. 1426 z póŸñ.zm.)
+oraz ich ekonomiczn¹ u¿ytecznoœci¹. Podlegaj¹ one okresowym aktualizacjom wyceny wed³ug zasad
+okreœlonych przez Ministra Finansów.
+Œrodki trwa³e zaliczane do grupy 3-8 Klasyfikacji, z wy³¹czenie samochodów osobowych, w roku
+podatkowym, w którym œrodki te zosta³y wprowadzone do ewidencji œrodków trwa³ych oraz wartoœci
+niematerialnych i prawnych, do wysokoœci nieprzekraczaj¹cej w roku podatkowym równowartoœci
+okreœlonej stosownymi przepisami s¹ umarzane jednorazowo w 100% w chwili wydania ich do u¿ytkowania.
+Œrodki trwa³e niskocenne o wartoœci pocz¹tkowej do 10 000,00 z³otych umarza siê jednorazowo w 100 % w
+chwili wydania ich do u¿ytkowania.
+  c) Œrodki trwa³e w budowie
+Œrodki trwa³e w budowie wycenia siê na dzieñ bilansowy w wysokoœci ogó³u kosztów pozostaj¹cych w
+bezpoœrednim zwi¹zku z ich nabyciem lub wytworzeniem, pomniejszone o odpisy z tytu³u trwa³ej utraty
+wartoœci.
+  d) Inwestycje d³ugoterminowe w nieruchomoœci
+Aktywa finansowe oraz inwestycje w nieruchomoœci wycenia siê w wartoœci godziwej, odnosz¹c ró¿nice na
+wynik.
+Spó³ka tworzy odpisy aktualizuj¹cy z tytu³u utraty wartoœci aktywów finansowych oraz inwestycji
+w nieruchomoœci.
+  e) Zapasy materia³ów, towarów i produktów gotowych
+Rzeczowe sk³adniki aktywów obrotowych ujmuje siê w ksiêgach rachunkowych na dzieñ nabycia lub
+powstania wed³ug cen nabycia a w przypadku produktów gotowych wed³ug kosztów wytworzenia. W celu
+ustalenia wartoœci stanu koñcowego zapasu danego sk³adnika aktywów jednostka dokonuje wyceny
+rozchodu w drodze szczegó³owej identyfikacji rzeczywistych cen (kosztów) tych sk³adników aktywów, które
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                           3
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+dotycz¹ œciœle okreœlonych przedsiêwziêæ, niezale¿nie od daty ich zakupu lub wytworzenia. Nie rzadziej ni¿
+na dzieñ bilansowy jednostka dokonuje wyceny rzeczowych aktywów obrotowych wed³ug cen nabycia lub
+kosztów wytworzenia nie wy¿szych od cen ich sprzeda¿y netto na dzieñ bilansowy.
+  f) Nale¿noœci i udzielone po¿yczki
+Nale¿noœci i udzielone po¿yczki w z³otych polskich wykazuje siê w kwocie wymagaj¹cej zap³aty
+z zachowaniem ostro¿noœci.
+Nale¿noœci i roszczenia w walutach obcych wykazuje siê w wartoœci nominalnej, przeliczonej na z³ote polskie
+wed³ug kursu œredniego NBP z dnia poprzedzaj¹cego dzieñ dokonania operacji, tym, ¿e je¿eli dowód
+odprawy celnej SAD wykazuje inny kurs, stosuje siê kurs okreœlony w tym dokumencie. Na dzieñ bilansowy
+wartoœci te przelicza siê wed³ug œredniego kursu NBP.
+Nale¿noœci i roszczenia wykazane s¹ w wartoœci netto. Wartoœæ nale¿noœci urealnia siê dokonuj¹c odpisów
+aktualizuj¹cych zmniejszaj¹cych nale¿noœci od d³u¿ników postawionych w stan likwidacji lub upad³oœci,
+kwestionuj¹cych nale¿noœci oraz zalegaj¹cych na dzieñ bilansowy z zap³at¹ d³u¿ej ni¿ 24 m-ce, je¿eli ocena
+ich sytuacji gospodarczej i finansowej wykazuje, ¿e sp³ata nale¿noœci w najbli¿szym czasie nie jest
+prawdopodobna, a tak¿e w innych przypadkach, gdy nale¿noœci i roszczenia nie s¹ realne.
+  g) Zobowi¹zania
+        Zobowi¹zania wycenia siê w kwocie wymagaj¹cej zap³aty.
+        Zobowi¹zania w walutach obcych wycenia siê po kursie œrednim NBP z dnia poprzedzaj¹cego dzieñ
+dokonania operacji (chyba, ¿e w zg³oszeniu celnym lub innym wi¹¿¹cym Spó³kê dokumencie ustalony zosta³
+inny kurs). Na dzieñ bilansowy wartoœci te przelicza siê wed³ug œredniego kursu NBP.
+  h) Rezerwy
+        Rezerwy wycenia siê w uzasadnionej, wiarygodnie oszacowanej wartoœci godziwej.
+  i) Kapita³y
+        Kapita³y w³asne oraz pozosta³e aktywa i pasywa wycenia siê w wartoœci nominalnej.
+        Kapita³ podstawowy wykazuje siê w wartoœci ustalonej w umowie Spó³ki wpisanej do KRS.
+Zadeklarowane lecz niewniesione wk³ady ujmuje siê jako nale¿ne wp³aty na rzecz kapita³u podstawowego.
+Udzia³y i akcje wycenia siê: wed³ug ceny nabycia w razie odp³atnego nabycia oraz wed³ug wartoœci
+nominalnej nie wy¿szej jednak ni¿ ich wartoœæ bilansowa przed przeniesieniem w³asnoœci - w razie
+nieodp³atnego nabycia z uwzglêdnieniem ewentualnej utraty wartoœci.
+Nale¿noœci wycenia siê w kwocie wymaganej zap³aty, z zachowaniem zasady ostro¿nej wyceny.
+Zobowi¹zania wycenia siê w ksiêgach rachunkowych w kwocie wymagaj¹cej zap³aty.
+Nale¿noœci i zobowi¹zania wyra¿one w walutach obcych wycenia siê po obowi¹zuj¹cym na ten dzieñ
+œrednim kursie og³oszonym dla danej waluty przez Narodowy Bank Polski.
+Krajowe œrodki pieniê¿ne wykazuje siê w wartoœci nominalnej.
+Kapita³ podstawowy Spó³ki wycenia siê wed³ug wartoœci nominalnej, okreœlonej w Umowie Spó³ki.
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                            4
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+   Przychody i koszty s¹ ujmowane zgodnie z zasad¹ memoria³u, tj. w roku obrotowym, którego dotycz¹,
+niezale¿nie od terminu otrzymania lub dokonania p³atnoœci. Przychody ze sprzeda¿y produktów, towarów i
+materia³ów ujmuje siê w rachunku zysków i strat, gdy Spó³ka przekaza³a nabywcy znacz¹ce korzyœci
+wynikaj¹ce z praw w³asnoœci do tych aktywów oraz przesta³a byæ trwale zaanga¿owana w zarz¹dzanie
+przekazanymi aktywami, ani te¿ nie sprawuje nad nimi efektywnej kontroli.
+Przychody odsetkowe s¹ ujmowane przy zastosowaniu efektywnej stopy procentowej.
+Podatek dochodowy wykazany w rachunku zysków i strat obejmuje czêœæ bie¿¹c¹.
+Ró¿nice kursowe wynikaj¹ce z wyceny na dzieñ bilansowy aktywów i pasywów wyra¿onych w walutach
+obcych, z wyj¹tkiem inwestycji d³ugoterminowych, oraz powsta³e w zwi¹zku z zap³at¹ nale¿noœci i
+zobowi¹zañ w walutach obcych, jak równie¿ przy sprzeda¿y walut, zalicza siê odpowiednio do przychodów
+lub kosztów finansowych, a w uzasadnionych przypadkach - do kosztu wytworzenia produktów lub ceny
+nabycia towarów, a tak¿e ceny nabycia lub kosztu wytworzenia œrodków trwa³ych, œrodków trwa³ych w
+budowie lub wartoœci niematerialnych i prawnych
+Spó³ka sporz¹dza rachunek zysków i strat w wariancie porównawczym.
+Rachunek przep³ywów pieniê¿nych sporz¹dzono metod¹ poœredni¹.
+ RACHUNEK ZYSKU I STRAT OD 01/01/2020 DO 31/12/2020
+                                    (wariant porównawczy)
+                                      Wyszczególnienie                     31/12/2019       31/12/2020
+ A. Przychody netto ze sprzeda¿y i zrównane z nimi, w tym :                    1 097 130,65   1 456 959,29
+            - od jednostek powi¹zanych                                             6 300,00       7 000,00
+        I. Przychody netto ze sprzeda¿y produktów                                770 406,08   1 443 695,43
+       II. Zmiana stanu produktów                                                326 724,57      13 263,86
+           (zwiêkszenie - wartoœæ dodatnia, zmniejszenie - wartoœæ ujemna)                -              -
+      III. Koszt wytworzenia produktów na w³asne potrzeby jednostki                       -              -
+      IV. Przychody netto ze sprzeda¿y towarów i materia³ów                               -              -
+ B. Koszty dzia³alnoœci operacyjnej                                            1 251 723,63   1 650 587,41
+        I. Amortyzacja                                                            41 950,76      38 149,46
+       II. Zu¿ycie materia³ów i energii                                           23 303,29      27 768,29
+      III. Us³ugi obce                                                           595 171,52     911 507,57
+      IV. Podatki i op³aty, w tym :                                                1 072,00           0,00
+            - podatek akcyzowy                                                            -              -
+       V. Wynagrodzenia                                                          572 218,22     508 644,43
+      VI. Ubezpieczenia spo³eczne i inne œwiadczenia                                 388,62           0,00
+     VII. Pozosta³e koszty rodzajowe                                              17 619,22     164 517,66
+     VIII. Wartoœæ sprzedanych towarów i materia³ów                                       -              -
+ C. ZYSK (STRATA) ZE SPRZEDA¯Y (A-B)                                           (154 592,98)   (193 628,12)
+ D. Pozosta³e przychody operacyjne                                                    93,52           0,28
+        I. Zysk ze zbycia niefinansowych aktywów trwa³ych                                 -              -
+       II. Dotacje                                                                        -              -
+      III. Aktualizacja wartoœci aktywów niefinansowych                                   -              -
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                                5
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+      IV. Inne przychody operacyjne                                                   93,52              0,28
+ E. Pozosta³e koszty operacyjne                                                    1 703,16              1,78
+         I. Strata ze zbycia niefinansowyh aktywów trwa³ych                               -                 -
+        II. Aktualizacja wartoœci aktywów niefinansowych                                  -                 -
+      III. Inne koszty operacyjne                                                  1 703,16              1,78
+ F. ZYSK (STRATA) Z DZIA£ALNOŒCI OPERACYJNEJ (C+D-E)                           (156 202,62)      (193 629,62)
+ G. Przychody finansowe                                                            1 300,04          6 351,61
+         I. Dywidendy i udzia³y w zyskach, w tym :                                        -                 -
+            a) od jednostek powi¹zanych, w tym:                                           -                 -
+             - w których jednostka posiada zaanga¿owanie w kapitale                       -                 -
+            b) od jednostek pozosta³ych, w tym:                                           -                 -
+             - w których jednostka posiada zaanga¿owanie w kapitale                       -                 -
+        II. Odsetki, w tym :                                                       1 300,04          2 856,23
+             - od jednostek powi¹zanych                                            1 300,04          2 856,23
+      III. Zysk z tytu³u rozchodu aktywów finansowych, w tym:                             -                 -
+             - w jednostkach powi¹zanych                                                  -                 -
+      IV. Aktualizacja wartoœci aktywów finansowych                                       -                 -
+        V. Inne                                                                           -          3 495,38
+ H. Koszty finansowe                                                               3 995,31              0,09
+         I. Odsetki, w tym :                                                           0,70              0,09
+             - dla jednostek powi¹zancyh                                                  -                 -
+        II. Strata z tytu³u rozchodu aktywów finansowych, w tym:                          -                 -
+             - w jednostkach powi¹zanych                                                  -                 -
+      III. Aktualizacja wartoœci aktywów finansowych
+      IV. Inne                                                                     3 994,61                 -
+  I. ZYSK (STRATA) BRUTTO (F+G-H)                                              (158 897,89)      (187 278,10)
+ J. Podatek dochodowy                                                           (13 887,00)       (12 914,00)
+ K. Pozosta³e obowi¹zkowe zmniejszenia zysku (zwiêkszenia straty)                         -                 -
+ L. ZYSK (STRATA) NETTO (I-J-K)                                                (145 010,89)      (174 364,10)
+Bilans sporz¹dzony na dzieñ 31/12/2020
+                                 AKTYWA                             31/12/2019              31/12/2020
+ A. AKTYWA TRWA£E                                                             66 091,00            98 930,00
+     I.     Wartoœci niematerialne i prawne                                            -                     -
+            1. Koszty zakoñczonych prac rozwojowych                                    -                     -
+            2. Wartoœæ firmy                                                           -                     -
+            3. Inne wartoœci niematerialne i prawne                                    -
+            4. Zaliczki na wartoœci niematerialne i prawne
+     II.    Rzeczowe aktywa trwa³e                                                     -                     -
+            1. Œrodki trwa³e                                                           -                     -
+                a. grunty (w tym prawo wieczystego u¿ytkowania
+                gruntu)
+                b. budynki, lokale i obiekty in¿ynierii l¹dowej i
+                wodnej
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                        6
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+             c. urz¹dzenia techniczne i maszyny                                      -              -
+             d. œrodki transportu                                                    -              -
+             e. inne œrodki trwa³e                                                   -              -
+          2. Œrodki trwa³e w budowie
+          3. Zaliczki na œrodki trwa³e w budowie                                     -              -
+     III. Nale¿noœci d³ugoterminowe                                                  -              -
+          1. Od jednostek powi¹zanych
+             Od pozosta³ych jednostek, w których jednostka
+          2. posiada
+             zaanga¿owanie w kapitale
+          3. Od pozosta³ych jednostek
+     IV. Inwestycje d³ugoterminowe                                             30 000,00     50 000,00
+          1. Nieruchomoœci
+          2. Wartoœci niematerialne i prawne                                         -              -
+          3. D³ugoterminowe aktywa finansowe                                   30 000,00     50 000,00
+             a. w jednostkach powi¹zanych                                      30 000,00     50 000,00
+                  -    udzia³y lub akcje                                       30 000,00     50 000,00
+                  -    inne papiery wartoœciowe
+                  -    udzielone po¿yczki                                            -              -
+                  -    inne d³ugoterminowe aktywa finansowe
+                 w pozosta³ych jednostkach, w których
+             b. jednostka posiada
+                 zaanga¿owanie w kapitale
+                  -    udzia³y lub akcje
+                  -    inne papiery wartoœciowe
+                  -    udzielone po¿yczki
+                  -    inne d³ugoterminowe aktywa finansowe
+             c. w pozosta³ych jednostkach                                            -              -
+                  -    udzia³y lub akcje                                             -              -
+                  -    inne papiery wartoœciowe
+                  -    udzielone po¿yczki
+                  -    inne d³ugoterminowe aktywa finansowe
+          4. Inne inwestycje d³ugoterminowe
+     V. D³ugoterminowe rozliczenia miêdzyokresowe                              36 091,00     48 930,00
+             Aktywa z tytu³u odroczonego podatku
+          1. dochodowego                                                       36 091,00     48 930,00
+          2. Inne rozliczenia miêdzyokresowe
+ B. AKTYWA OBROTOWE                                                       1 385 939,39   1 399 630,93
+     I. Zapasy                                                                957 911,50    971 175,36
+          1. Materia³y
+          2. Pó³produkty i produkty w toku                                    425 077,52    418 052,45
+          3. Produkty gotowe                                                  532 833,98    553 122,91
+          4. Towary                                                                  -              -
+          5. Zaliczki na dostawy i us³ugi                                            -              -
+     II. Nale¿noœci krótkoterminowe                                           208 552,75    233 105,48
+          1. Nale¿noœci od jednostek powi¹zanych                                     -              -
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                         7
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+             a. z tytu³u dostaw i us³ug, o okresie sp³aty :                          -              -
+                  -   do 12 miesiêcy                                                 -              -
+                  -   powy¿ej 12 miesiêcy                                            -              -
+             b. inne                                                                 -              -
+             Nale¿noœci od pozosta³ych jednostek,w których
+          2. jednostka posiada                                                       -              -
+             zaanga¿owanie w kapitale
+             a. z tytu³u dostaw i us³ug, o okresie sp³aty :                          -              -
+                  -   do 12 miesiêcy                                                 -              -
+                  -   powy¿ej 12 miesiêcy
+             b. inne
+          3. Nale¿noœci od pozosta³ych jednostek                              208 552,75     233 105,48
+             a. z tytu³u dostaw i us³ug, o okresie sp³aty :                   184 854,48     201 574,32
+                  -   do 12 miesiêcy                                          184 854,48     201 574,32
+                  -   powy¿ej 12 miesiêcy
+             b.       z tytu³u podatków, dotacji, ce³,
+                      ubezpieczeñ spo³ecznych i zdrowotnych
+                      oraz innych tyt. publ. prawnych                          17 398,80     17 760,05
+             c. inne                                                            6 299,47      13 771,11
+             d. dochodzone na drodze s¹dowej
+     III. Inwestycje krótkoterminowe                                          219 475,14    195 350,09
+          1. Krótkoterminowe aktywa finansowe                                 219 475,14    195 350,09
+             a. w jednostkach powi¹zanych                                      59 506,27     51 950,67
+                  -   udzia³y lub akcje
+                  -   inne papiery wartoœciowe
+                  -   udzielone po¿yczki                                       59 506,27     51 950,67
+                  -   inne krótkoterminowe aktywa finansowe
+             b. w pozosta³ych jednostkach                                            -              -
+                  -   udzia³y lub akcje                                              -              -
+                  -   inne papiery wartoœciowe
+                  -   udzielone po¿yczki
+                  -   inne krótkoterminowe aktywa finansowe
+             c. œrodki pieniê¿ne i inne aktywa pieniê¿ne                      159 968,87    143 399,42
+                  -   œrodki pieniê¿ne w kasie i na rachunku                  159 968,87    143 399,42
+                  -   inne œrodki pieniê¿ne
+                  -   inne aktywa pieniê¿ne
+          2. Inne inwestycje krótkoterminowe
+     IV. Krótkoterminowe rozliczenia miêdzyokresowe                                  -              -
+     NALE¯NE WP£ATY NA KAPITA£ (FUNDUSZ)
+ C. PODSTAWOWY
+ D. UDZIA£Y (AKCJE)W£ASNE
+                        Aktywa razem                                      1 452 030,39   1 498 560,93
+                           PASYWA                                       31/12/2019       31/12/2020
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                                8
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+ A. Kapita³ w³asny                                                          1 344 148,36         1 169 784,26
+     I.    Kapita³ (fundusz) podstawowy                                       210 000,00           210 000,00
+     II.   Kapita³ (fundusz) zapasowy, w tym:                               1 504 083,50         1 504 083,50
+           - nadwy¿ka wartoœci sprzeda¿y (wartoœci emisyjnej)               1 504 083,50         1 504 083,50
+           nad wartoœci¹ nominaln¹ udzia³ów (akcji)
+     III. Kapita³ (fundusz) z aktualizacji wyceny, w tym:
+           - z tytu³u aktualizacji wartoœci godziwej
+     IV. Pozosta³e kapita³y (fundusze) rezerwowe, w tym:
+           - tworzone zgodnie z umow¹ spó³ki
+           - na udzia³y (akcje) w³asne
+     V. Zysk (strata) z lat ubieg³ych                                    (224 924,25)     (369 935,14)
+     VI. Zysk (strata) netto                                                (145 010,89)         (174 364,10)
+           Odpisy z zysku netto w ci¹gu roku obrotwego
+     VII. (wielkoœæ ujemna)
+     ZOBOWI¥ZANIA I REZERWY NA
+ B. ZOBOWI¥ZANIA                                                              107 882,03           328 776,67
+     I.    Rezerwy na zobowi¹zania                                             51 949,28           158 544,30
+               Rezerwa z tytu³u odroczonego podatku
+           1. dochodowego                                                           75,00                  0,00
+           2. Rezerwa na œwiadczenia emerytalne i podobne                               -                     -
+               -   d³ugoterminowa
+               -   krótkoterminowa
+           3. Pozosta³e rezerwy                                                51 874,28           158 544,30
+               -   d³ugoterminowe
+               - krótkoterminowe                                           51 874,28               158 544,30
+     II.   Zobowi¹zania d³ugoterminowe                                            -                      -
+           1. Wobec jednostek powi¹zanych                                         -                      -
+               Wobec pozosta³ych jednostek, w których
+           2. jednostka posiada
+               zaanga¿owanie w kapitale
+           3. Wobec pozosta³ych jednostek                                         -                      -
+               a. kredyty i po¿yczki
+                   z tytu³u emisji d³u¿nych papierów
+               b. wartoœciowych
+               c. inne zobowi¹zania finansowe
+               d. inne
+     III.  Zobowi¹zania krótkoterminowe                                        55 932,75           170 232,37
+           1. Wobec jednostek powi¹zanych                                       3 065,47             1 295,44
+                   z tytu³u dostaw i us³ug, o okresie
+               a. wymagalnoœci :                                                3 065,47             1 295,44
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                             9
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+                      - do 12 miesiêcy                                          3 065,47           1 295,44
+                      - powy¿ej 12 miesiêcy
+                b. inne                                                                -                   -
+                Wobec pozosta³ych jednostek, w których
+            2. jednostka posiada                                                       -                   -
+                zaanga¿owanie w kapitale
+                    z tytu³u dostaw i us³ug, o okresie
+                a. wymagalnoœci :                                                      -                   -
+                      - do 12 miesiêcy
+                      - powy¿ej 12 miesiêcy
+                b. inne
+            3. Wobec pozosta³ych jednostek                                     52 867,28         168 936,93
+                a. kredyty i po¿yczki                                                  -                   -
+                    z tytu³u emisji d³u¿nych papierów
+                b. wartoœciowych
+                c. inne zobowi¹zania finansowe
+                    z tytu³u dostaw i us³ug, o okresie
+                d. wymagalnoœci :                                              46 247,26           2 783,42
+                      - do 12 miesiêcy                                         46 247,26           2 783,42
+                      - powy¿ej 12 miesiêcy                                            -                   -
+                e. zaliczki otrzymane na dostawy                                       -                   -
+                f. zobowi¹zania wekslowe                                               -                   -
+                    z tytu³u podatków, ce³, ubezpieczeñ i innych
+                g. œwiadczeñ                                                6 558,91             31 128,40
+                h. z tytu³u wynagrodzeñ                                                -         134 964,00
+                i. inne                                                            61,11              61,11
+            4. Fundusze specjalne                                                      -                   -
+     IV. Rozliczenia miêdzyokresowe                                                    -                   -
+            1. Ujemna wartoœc firmy                                                    -                   -
+            2. Inne rozliczenia miêdzyokresowe                                         -                   -
+                 - d³ugoterminowe
+                 - krótkoterminowe                                                     -
+                             Pasywa razem                                   1 452 030,39       1 498 560,93
+Rachunek przep³ywów pieniê¿nych na dzieñ 31/12/2019
+Metoda bezpoœrednia
+                                                                                         31.12.2019       31.12.2020
+ A. Przep³ywy œrodków pieniê¿nych z dzia³alnoœci operacyjnej
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                     10
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+     I. Zysk (strata) netto                                                           -145 010,89 -174 364,10
+     II. Korekty razem                                                                -337 923,80 -205 532,28
+           1. Amortyzacja                                                               41 950,76   38 149,46
+           2. Zyski (straty) z tytu³u ró¿nic kursowych                                    -710,44         0,00
+           3. Odsetki i udzia³y w zyskach (dywidendy)                                   -1 300,04    -2 856,23
+           4. Zysk (strata) z dzia³alnoœci inwestycyjnej                                     0,00         0,00
+           5. Zmiana stanu rezerw                                                       48 024,28  106 595,02
+           6. Zmiana stanu zapasów                                                    -323 630,04  -13 263,86
+           7. Zmiana stanu nale¿noœci                                                  -99 179,28  -24 552,73
+              Zmiana stanu zobowi¹zañ krótkoterminowych, z wyj¹tkiem po¿yczek i
+           8. kredytów                                                                  10 914,85  114 299,62
+           9. Zmiana stanu rozliczeñ miêdzyokresowych                                  -13 937,00  -12 839,00
+          10. Inne korekty                                                                 -56,89         0,00
+     III. Przep³ywy pieniê¿ne netto z dzia³alnoœci operacyjnej (I+/-II)               -482 934,69   31 168,18
+ B. Przep³ywy œrodków pieniê¿nych z dzia³alnoœci inwestycyjnej
+     I. Wp³ywy                                                                          12 746,30   10 411,83
+              Zbycie wartoœci niematerialnych i prawnych oraz rzeczowych aktywów
+           1. trwa³ych
+              Zbycie inwestycji w nieruchomoœci oraz wartoœci niematerialne i
+           2. prawne
+           3. Z aktywów finansowych, w tym:                                             12 746,30   10 411,83
+              a) w jednostkach powi¹zanych
+              b) w pozosta³ych jednostkach                                              12 746,30   10 411,83
+                   - zbycie aktywów finansowych
+                   - dywidendy i udzia³y w zyskach
+                   - sp³ata udzielonych po¿yczek d³ugoterminowych                       12 000,00     8 675,05
+                   - odsetki                                                               746,30     1 736,78
+                   - inne wp³ywy z aktywów finansowych
+           4. Inne wp³ywy inwestycyjne
+     II. Wydatki                                                                       120 625,81   58 149,46
+              Nabycie wartoœci niematerialnych i prawnych oraz rzeczowych aktywów
+           1. trwa³ych                                                                  41 950,76   38 149,46
+           2. Inwestycje w nieruchomoœci oraz wartoœci niematerialne i prawne
+           3. Na aktywa finansowe, w tym:                                               78 675,05   20 000,00
+              a) w jednostkach powi¹zanych                                              78 675,05   20 000,00
+              b) w pozosta³ych jednostkach                                                   0,00         0,00
+                   - nabycie aktywów finansowych                                             0,00
+                   - udzielone po¿yczki d³ugoterminowe                                                    0,00
+           4. Inne wydatki inwestycyjne
+     III. Przep³ywy pieniê¿ne netto z dzia³alnoœci inwestycyjnej (I-II)               -107 879,51  -47 737,63
+ C. Przep³ywy œrodków pieniê¿nych z dzia³alnoœci finansowej
+     I. Wp³ywy                                                                           6 342,50         0,00
+              Wp³ywy netto z wydania udzia³ów (emisji akcji) i innych instrumentów
+           1. kapita³owych                                                               6 342,50         0,00
+              oraz dop³at do kapita³u
+           2. Kredyty i po¿yczki                                                             0,00         0,00
+           3. Emisja d³u¿nych papierów wartoœciowych
+           4. Inne wp³ywy finansowe
+     II. Wydatki                                                                             0,00         0,00
+           1. Nabycie udzia³ów (akcji) w³asnych
+           2. Dywidendy i inne wyp³aty na rzecz w³aœcicieli
+           3. Inne, ni¿ wyp³aty na rzecz w³aœcicieli, wydatki z tytu³u podzia³u zysku
+           4. Sp³aty kredytów i po¿yczek
+           5. Wykup d³u¿nych papierów wartoœciowych
+           6. Z tytu³u innych zobowi¹zañ finansowych
+           7. P³atnoœci zobowi¹zañ z tytu³u umów leasingu finansowego
+           8. Odsetki
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                         11
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+            9. Inne wydatki finansowe
+      III. Przep³ywy pieniê¿ne netto z dzia³alnoœci finansowej (I-II)                         6 342,50       0,00
+ D.   Przep³ywy pieniê¿ne netto, razem (A.III +/- B.III+/- C.III)                          -584 471,70 -16 569,45
+ E.   Bilansowa zmiana stanu œrodków pieniê¿nych, w tym:                                   -584 471,70 -16 569,45
+       - zmiana stanu œrodków pieniê¿nych z tytu³u ró¿nic kursowych
+ F.   Œrodki pieniê¿ne na pocz¹tek okresu                                                   744 440,57 159 968,87
+ G.   Œrodki pieniê¿ne na koniec okresu (F+/-D), w tym:                                     159 968,87 143 399,42
+       - o ograniczonej mo¿liwoœci dysponowania
+Zestawienie zmian w kapitale w³asnym
+                                                                      31.12.2019       31.12.2020
+ I. Kapita³ (fundusz) w³asny na pocz¹tek okresu (BO)                     1 482 816,75    1 344 148,36
+                           – korekty b³êdów podstawowych
+ I.a. Kapita³ (fundusz) w³asny na pocz¹tek okresu (BO) po korektach      1 482 816,75    1 344 148,36
+       1. Kapita³ (fundusz)podstawowy na pocz¹tek okresu                   203 657,50      210 000,00
+             1.1. Zmiany kapita³u (funduszu) podstawowego                         0,00           0,00
+                     a) zwiêkszenie (z tytu³u)                                6 342,50           0,00
+                           – podwy¿szenie kapita³u (gotówka)
+                     b) zmniejszenie (z tytu³u)                                   0,00           0,00
+                           – umorzenia udzia³ów (akcji)
+             1.2. Kapita³ (fundusz) podstawowy na koniec okresu            210 000,00      210 000,00
+       2. Nale¿ne wp³aty na kapita³ podstawowy na pocz¹tek
+ okresu
+             2.1. Zmiana nale¿nych wp³at na kapita³ podstawowy                    0,00           0,00
+                     a) zwiêkszenie (z tytu³u)
+                     b) zmniejszenie (z tytu³u)
+             2.2. Nale¿ne wp³aty na kapita³ podstawowy na koniec
+ okresu
+       3. Udzia³y (akcje) w³asne na pocz¹tek okresu                               0,00           0,00
+                     a) zwiêkszenie (z tytu³u)                                    0,00           0,00
+                     b) zmniejszenie (z tytu³u)
+              3.1. Udzia³y (akcje w³asne) na koniec okresu
+       4. Kapita³ (fundusz) zapasowy na pocz¹tek okresu                  1 504 083,50    1 504 083,50
+             4.1. Zmiany kapita³u (funduszu) zapasowego                           0,00           0,00
+                     a) zwiêkszenie (z tytu³u)                                    0,00           0,00
+                           – nadwy¿ka pomiêdzy wartoœci¹ nominaln¹
+ nowoutworzonych udzialów a ich kwot¹ otrzyman¹ z tytu³u                          0,00           0,00
+ podwy¿szenia kapita³u zak³adowego
+                           – z podzia³u zysku (ustawowo)
+                           – z podzia³u zysku zgodnie ze statutem
+                           – z przeszacowanie œrodków trwa³ych
+                     b) zmniejszenie (z tytu³u)                                   0,00           0,00
+                           – pokrycia straty                                      0,00           0,00
+             4.2. Kapita³ zapasowy na koniec okresu                      1 504 083,50    1 504 083,50
+       5. Kapita³ (fundusz) z aktualizacji wyceny na pocz¹tek
+ okresu
+             5.1.Zmiany kapita³u (funduszu) z aktualizacji wyceny                 0,00           0,00
+                     a) zwiêkszenie (z tytu³u)                                    0,00           0,00
+                           – aktualizacja wartoœci inwestycji
+ d³ugoterminowych (nieruchomoœæ)
+                              skorygowana o wartoœæ odroczonego
+                                                                                  0,00           0,00
+ podatku dochodowego
+                     b) zmniejszenie (z tytu³u)                                   0,00           0,00
+                           – zbycia œrodków trwa³ych
+                           – aktualizacja wartoœci inwestycji
+ d³ugoterminowych (nieruchomoœæ)
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                     12
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+                             skorygowana o wartoœæ odroczonego
+ podatku dochodowego
+            5.2. Kapita³ (fundusz) z aktualizacji wyceny na koniec
+ okresu
+      6. Pozosta³e kapita³y (fundusze) rezerwowe na pocz¹tek
+                                                                                  0,00         0,00
+ okresu
+            6.1. Zmiany pozosta³ych kapita³ów (funduszy)
+                                                                                  0,00         0,00
+ rezerwowych
+                    a) zwiêkszenie (z tytu³u)                                     0,00         0,00
+                          – wp³aty na kapita³ zak³adowy
+                                                                                  0,00         0,00
+ niezarejestrowane przez S¹d
+                    b) zmniejszenie (z tytu³u)                                    0,00         0,00
+                          – podwy¿szenie kapita³u zak³adowego
+                                                                                  0,00         0,00
+ zrejestrowane przez S¹d
+            6.2. Pozosta³e kapita³y (fundusze) rezerwowe na koniec
+                                                                                  0,00         0,00
+ okresu
+      7. Zysk (strata) z lat ubieg³ych na pocz¹tek okresu                   -73 500,05  -224 924,25
+            7.1. Zysk z lat ubieg³ych na pocz¹tek okresu                          0,00         0,00
+                          – korekty b³êdów podstawowych                           0,00         0,00
+            7.2 Zysk z lat ubieg³ych na pocz¹tek okresu, po korektach             0,00         0,00
+                    a) zwiêkszenie (z tytu³u)                                     0,00         0,00
+                          – przekszta³cenia zwi¹zane ze zmian¹
+                                                                                  0,00         0,00
+ polityki rachunkowoœci
+                    b) zmniejszenie (z tytu³u)                                    0,00         0,00
+                          – podzia³ zysku (na kapita³ zapasowy)
+                          – wyp³ata dywidendy
+            7.3. Zysk z lat ubieg³ych na koniec okresu                            0,00         0,00
+            7.4. Strata z lat ubieg³ych na pocz¹tek okresu,                 -73 500,05  -224 924,25
+                          – korekty b³êdów podstawowych                           0,00         0,00
+            7.5. Strata z lat ubieg³ych na pocz¹tek okresu, po
+ korektach
+                    a) zwiêkszenie (z tytu³u)
+                          – przeniesienia straty z lat ubieg³ych do
+                                                                           -151 424,20  -145 010,89
+ pokrycia
+                    b) zmniejszenie (z tytu³u)                                    0,00         0,00
+                          – pokrycie straty                                       0,00         0,00
+            7.6. Strata z lat ubieg³ych na koniec okresu                   -224 924,25  -369 935,14
+            7.7 Zysk (strata) z lat ubieg³ych na koniec okresu            -224 924,25  -369 935,14
+      8. Wynik netto                                                       -145 010,89  -174 364,10
+                    a) zysk netto
+                    b) strata netto                                        -145 010,89  -174 364,10
+                    c) odpisy z zysku
+ II. Kapita³ (fundusz) w³asny na koniec okresu (BZ)                      1 344 148,36  1 169 784,26
+ III. Kapita³ (fundusz) w³asny, po uwzglêdnieniu proponowanego
+ podzia³u zysku (pokrycia straty)
+                          DODATKOWE INFORMACJE I OBJAŒNIENIA
+                                                                I
+1.     Rzeczowe aktywa trwa³e
+       Wartoœci niematerialne i prawne
+Wartoœæ brutto
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                                    13
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+                                                                               Wartoœæ
+                                                                             pocz¹tkowa
+   Grupa sk³adników maj¹tku trwa³ego
+                                        B.O.             Zwiêkszenia Przemieszczenia Zmniejszenia B.Z.
+ programy komputerowe                                               0,00
+ licencje                                    41 650,39       30 202,64                                    71 853,03
+ Suma                                        41 650,39       30 202,64                0,00          0,00  71 855,03
+ Umorzenie
+                                                                        Wartoœæ umorzenia
+   Grupa sk³adników maj¹tku trwa³ego
+                                       B.O.             Zwiêkszenia        Przemieszczenia Zmniejszenia B.Z.
+ programy komputerowe                                              0,00                                          0,00
+ licencje                                 41 650,39          30 202,64                                      71 853,03
+ Suma                                     41 650,39          30 202,64                 0,00         0,00    71 855,03
+Wartoœæ netto
+    Wyszczególnienie      B.O.           B.Z.
+ programy
+ komputerowe                       0,00               0,00
+ licencje                          0,00               0,00
+          SUMA                     0,00               0,00
+       Œrodki trwa³e
+ Wartoœæ brutto
+                                                                         Wartoœæ pocz¹tkowa
+   Grupa sk³adników maj¹tku trwa³ego
+                                        B.O.               Zwiêkszenia Przemieszczenia Zmniejszenia B.Z.
+ Prawo wieczystego u¿ytkowania gruntu              0,00               0,00              0,00        0,00            0,00
+ Budynki i budowle                                 0,00               0,00              0,00        0,00            0,00
+ Urz¹dzenia techniczne i maszyny             13 909,76                0,00              0,00        0,00      13 909,76
+ Pozosta³e œrodki trwa³e                     14 020,59           7 946,82               0,00        0,00      21 967,41
+ Suma                                        27 930,35           7 946,82               0,00        0,00      35 877,17
+ Umorzenie
+   Grupa sk³adników maj¹tku trwa³ego                                    Wartoœæ umorzenia
+                                       B.O.              Zwiêkszenia       Przemieszczenia Zmniejszenia B.Z.
+ Prawo wieczystego u¿ytkowania
+ gruntu                                          0,00                0,00              0,00        0,00          0,00
+ Budynki                                         0,00                0,00              0,00        0,00          0,00
+ Urz¹dzenia techniczne i maszyny            13 909,76                0,00              0,00        0,00    13 909,76
+ Pozosta³e œrodki trwa³e                    14 020,59           7 946,82               0,00        0,00    21 967,41
+ Suma                                       27 930,35           7 946,82               0,00        0,00    35 877,17
+ Wartoœæ netto
+              Wyszczególnienie                B.O.                B.Z.
+ Prawo wieczystego u¿ytkowania gruntu                      0,00               0,00
+ Budynki                                                   0,00               0,00
+ Urz¹dzenia techniczne i maszyny                           0,00               0,00
+ Pozosta³e œrodki trwa³e                                   0,00               0,00
+                    SUMA                                   0,00               0,00
+       Œrodki trwa³e w budowie
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                  14
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+      Nie dotyczy.
+2.    Inwestycje d³ugoterminowe
+Spó³ka posiada 100% udzia³ów w spó³ce Eheroes Sp. z o.o. o wartoœci 10 000,00 z³ oraz 800
+udzia³ów (37% w kapitale podstawowym) spó³ki MD Games o wartoœci 40 000,00 z³.
+3.    Wartoœæ nie amortyzowanych lub nie umarzanych przez jednostkê œrodków
+      trwa³ych u¿ywanych na podstawie umów najmu, dzier¿awy i innych umów,
+      w tym z tytu³u umów leasingu
+Spó³ka wynajmuje pomieszczenia biurowe przy ul. Grzybowskiej 87 w Warszawie oraz Boya
+Zeleñskiego 6/49 w Warszawie. Spó³ka nie jest w stanie okreœliæ wartoœci wynajmowanego lokalu
+biurowego.
+4.    Zapasy
+Spó³ka posiada zapasy produktów gotowych oraz produkcjê w toku, wycenione w koszcie
+wytworzenia .
+5.    Nale¿noœci krótkoterminowe
+Nale¿noœci bud¿etowe dotycz¹ podatku VAT do odliczenia w nastêpnym okresie oraz nadwy¿ki
+podatku naliczonego nad nale¿nym.
+Spó³ka w roku obrotowym nie dokonywa³a odpisu aktualizuj¹cego nale¿noœci. S¹ to bie¿¹ce
+nale¿noœci, uregulowane w 2021 roku.
+Nale¿noœci inne dotycz¹ g³ównie wp³aconej kaucji.
+6.    Dane o strukturze i w³asnoœci kapita³u podstawowego
+    a) Kapita³ podstawowy
+Na dzieñ 31 grudnia 2019 roku kapita³ spó³ki wynosi³ 210 000,00 z³otych i dzieli³ siê na 2.100.000
+akcji nieuprzywilejowanych o wartoœci nominalnej 0,10 z³otych ka¿da.
+    b) Kapita³ zapasowy
+Kapita³ zapasowy wynosi 1.504.083,50 z³ i powsta³ z nadwy¿ki wartoœci emisyjnej nad nominaln¹
+wyemitowanych akcji. W ostatnim roku obrotowym nie uleg³ zmianie.
+    c) Kapita³ rezerwowy
+Nie wystêpuje.
+    d) Zysk/ Strata z lat ubieg³ych
+Pozycja uleg³a zmianie o kwotê straty za rok 2019.
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                      15
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+7. Zobowi¹zania d³ugoterminowe
+Nie wystêpuje.
+8. Zobowi¹zania krótkoterminowe
+Dotycz¹ bie¿¹cych zobowi¹zañ.
+9.     Rozliczenia miêdzyokresowe i rezerwy
+                        Tytu³y                               BO                       BZ
+                     AKTYWA
+                                                                   36 091,00               48 930,00
+ 1. D³ugoterminowe rozliczenia miêdzyokresowe
+ czynne                                                                    -                       -
+ Aktywa z tyt. odroczonego podatku dochodowego                     36 091,00               48 930,00
+ Inne rozliczenia miêdzyokresowe                                           -                       -
+ 2. Krótkoterminowe rozliczenia miêdzyokresowe
+                                                                        0,00                    0,00
+ Ubezpieczenia                                                          0,00                    0,00
+                      PASYWA
+                                                                   51 874,28              158 544,30
+   1. Bierne rozliczenia miêdzyokresowe kosztów
+                                                                        0,00                    0,00
+ Urlopy
+ Badanie sprawozdañ finansowych                                         0,00                    0,00
+ Inne
+ 2. Inne rozliczenia miêdzyokresowe                                51 874,28              158 544,30
+ D³ugoterminowe
+ Krótkoterminowe w tym:                                            51 874,28              158 544,30
+ rezerwa na bilans                                                  3 900,00                3 900,00
+ pozosta³e rezerwy                                                 47 974,28             154 644,308
+   9. Wykaz grup zobowi¹zañ zabezpieczonych na maj¹tku jednostki oraz
+        Zobowi¹zania warunkowe, udzielone przez jednostkê gwarancje i
+        porêczenia tak¿e wekslowe
+Nie dotyczy
+  10.     Koszt wytworzenia œrodków trwa³ych w budowie.
+Nie dotyczy
+  11.     Poniesione w ostatnim roku i planowane na nastêpny rok nak³ady na
+          niefinansowe aktywa trwa³e .
+W 2020 roku Spó³ka dokona³a nak³adów na œrodki trwa³e i wartoœci niematerialne i prawne o
+wartoœci 38 149,46 z³.
+Na dzieñ dzisiejszy nie s¹ jeszcze znane planowane nak³ady na niefinansowe aktywa trwa³e.
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                 16
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+                                                      II
+       1. Struktura rzeczowa i terytorialna przychodów ze sprzeda¿y produktów,
+      us³ug i towarów
+Spó³ka dokonuje sprzeda¿y gier. Przychody ze sprzeda¿y wynios³y 1 443 695,43 z³, w tym sprzeda¿
+zagraniczna 1 383 400,04 z³.
+       2. Przeciêtne zatrudnienie w roku obrotowym
+Na dzieñ bilansowy Spó³ka nie zatrudnia³a osób na podstawie umowy o pracê.
+       3. Informacje o stanie rezerw
+ Rezerwa na podatek odroczony wynosi 0,00 z³.
+Spó³ka utworzy³a rezerwê na sporz¹dzenie i badanie sprawozdania finansowego oraz na koszty gier.
+Do wyliczenia rezerwy zosta³a zastosowana 9% stawka podatku dochodowego.
+       4. Wynagrodzenia cz³onków zarz¹du i organów nadzorczych
+W roku 2020 kwota wynagrodzeñ Zarz¹du wynios³a 324.000,00 z³.
+       5. Propozycje co do pokrycia straty lub podzia³u zysku za rok obrotowy
+Strata netto za rok obrotowy objêty sprawozdaniem finansowym zostanie pokryta zyskami
+nastêpnych okresów.
+       6. Podatek dochodowy od osób prawnych
+                      Wyszczególnienie                         Kwota w PLN
+ 1. Przychody ze sprzeda¿y                                           1 456 959,29
+ 2. Pozosta³e przychody operacyjne                                           0,28
+ 3. Przychody finansowe                                                  6 351,61
+ A. Razem przychody                                                  1 463 311,18
+ 1. Koszty dzia³alnoœci operacyjnej                                  1 650 587,41
+ 2. Pozosta³e koszty operacyjne                                              1,78
+ 3. Koszty finansowe                                                         0,09
+ B. Razem koszty                                                     1 650 589,28
+ WYNIK KSIÊGOWY                                                       -187 278,10
+ C. + ZWIÊKSZENIA PODSTAWY
+ OPODATKOWANIA                                                         331 650,31
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                            17
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+ 1) Zmniejszenia kosztów podatkowych (koszty nie
+ stanowi¹ce kosztu uzyskania przychodu):
+                                                                       320 961,03
+ 1. Odsetki od po¿yczek                                                      0,00
+ 2. Sk³adki ZUS                                                              0,00
+ 3. Rezerwa na bilans i badanie                                          3 900,00
+ 4. Rezerwa na koszty gier                                             154 644,30
+ 5. Niezap³acone wynagrodzenia                                         162 000,00
+ 6. Pozosta³e, w tym spisane nale¿noœci                                    416,73
+ 2) Zwiêkszenie przychodów podatkowych:                                 10 689,28
+ 1. Wyks wyceny lokaty z2019                                                 0,00
+ 2. Ró¿nice kursowe zrealizowane                                        10 689,28
+ D. - ZMNIEJSZENIA PODSTAWY
+ OPODATKOWANIA                                                           4 731,22
+ 1) Zwiêkszenia kosztów podatkowych:                                    15 570,05
+ 1.Rozwi¹zanie rezerwa                                                   3 900,00
+ 2. Ró¿nice kursowe zrealizowane                                        11 670,05
+ 2) Zmniejszenia przychodów podatkowych :                                3 495,38
+ 1. Odsetki od po¿yczek naliczone niezap³acone                               0,00
+ 2. "Ró¿nice kursowe per saldo                                           3 495,38
+ 3. Pozosta³e                                                                0,00
+ Straty z lat ubieg³ych                                                      0,00
+ WYNIK PODATKOWY/ DOCHÓD/ BRUTTO                                       125 306,78
+ Straty z lat ubieg³ych                                               -125 306,78
+ WYNIK PODATKOWY/DOCHÓD/BRUTTO                                               0,00
+    7. Informacje o wspólnych przedsiêwziêciach, które nie podlegaj¹ konsolidacji
+Nie dotyczy
+    9. Wysokoœæ i wyjaœnienie przyczyn odpisów aktualizuj¹cych œrodki trwa³e
+Nie dotyczy
+    10. Odpisy aktualizuj¹ce wartoœæ zapasów
+Nie dotyczy
+    11. Informacje o dzia³alnoœci zaniechanej w roku obrotowym lub przewidzianej
+      do zaprzestania w roku nastêpnym
+W roku obrotowym nie mia³y miejsca przypadki zaniechania wytwarzania okreœlonych produktów/
+sprzeda¿y okreœlonych us³ug oraz ograniczenia dzia³alnoœci handlowej. Nie przewiduje siê te¿
+zaprzestania takiej dzia³alnoœci w roku nastêpnym.
+    12. Transakcje ze spó³kami powi¹zanymi kapita³owo
+
+  Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                         18
+  Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+    W 2020 roku spó³ka dokonywa³a transakcji z nastêpuj¹cymi spó³kami :
+    -   Eheroes Spz.o.o. o wartoœci 7 000,00 z³
+Transakcje by³y dokonywane na zasadach rynkowych
+      13. Wykaz spó³ek, w których jednostka posiada co najmniej 20% udzia³ów
+  Spó³ka posiada 100% udzia³ów spó³ki Eheroes Sp.zo.o.
+  Spó³ka posiada 37% udzia³ów spó³ki MD Games Sp. z o.o.
+      14. Dane liczbowe dotycz¹ce otrzymanej po¿yczki od podmiotu powi¹zanego.
+  Nie dotyczy
+      15. Wynagrodzenie Bieg³ego Rewidenta
+      Wynagrodzenie Bieg³ego Rewidenta wynosi 3 000,00z³ netto.
+                                                       III.
+  1. Znacz¹ce zdarzenia dotycz¹ce lat ubieg³ych ujête w sprawozdaniu finansowym
+       roku obrotowego
+  Nie dotyczy
+  2. Informacje o znacz¹cych zdarzeniach jakie wyst¹pi³y po dniu bilansowym nie
+       uwzglêdnionych w bilansie oraz rachunku zysków i strat
+  Nie dotyczy
+  3. Znacz¹ce zdarzenia dotycz¹ce lat ubieg³ych ujête w sprawozdaniu finansowym
+      roku obrotowego
+       Nie dotyczy
+  4. Zmiany zasad ( polityki ) rachunkowoœci, w tym metod wyceny oraz sposobu
+  sporz¹dzania sprawozdania finansowego, wywieraj¹ce istotny wp³yw na sytuacjê
+  maj¹tkow¹, finansowa oraz zmiany w kapitale w³asnym
+  Nie dotyczy
+                                                        IV
+  Informacje dodatkowe dotycz¹ce rachunku przep³ywów pieniê¿nych dla spó³ek sporz¹dzaj¹cych
+  sprawozdanie z przep³ywu œrodków pieniê¿nych.
+
+Drageus Games Spó³ka Akcyjna NIP 527-280-96-52, Regon 367333964                                                           19
+Informacja dodatkowa do sprawozdania finansowego za okres od 01/01/2020 do 31/12/2020
+Spó³ka sporz¹dza sprawozdania z przep³ywu œrodków pieniê¿nych metod¹ poœredni¹.
+                                                          V
+Odst¹piono od konsolidacji na podstawie art. 56 uor Oraz art. 58 uor.
+Kursy u¿yte do wyceny bilansowej:
+Tabela nr 255/A/NBP/2019 1 EUR=4,6148 PLN
+Tabela nr 255/A/NBP/2019 1 USD=3,7584 PLN
+Sporz¹dzi³/a:
+Marzena Bodarska                                                                        ZARZ¥D
+                                                                        £ukasz Mitan – Prezes Zarz¹du
+                                                                        Rados³aw Mrowiñski – Wiceprezes Zarz¹du
+                            RADOS£AW          Elektronicznie podpisany                             Elektronicznie
+                                              przez RADOS£AW MAREK                £ukasz           podpisany przez £ukasz
+                            MAREK             MROWIÑSKI                                            Robert Mitan
+                                              Data: 2021.03.22 09:37:11           Robert Mitan Data: 2021.03.22
+                            MROWIÑSKI         +01'00'                                              10:19:41 +01'00'
+

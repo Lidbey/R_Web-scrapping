@@ -1,0 +1,1558 @@
+        QUBICGAMES S.A.
+   SPRAWOZDANIE FINANSOWE
+ZA ROK OBROTOWY KOÑCZ¥CY SIÊ
+       31 GRUDNIA 2020 R.
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+  1.         Dane identyfikuj¹ce Spó³kê
+ 1. 1        Nazwa Spó³ki
+             QubicGames S.A., zwana dalej Spó³k¹.
+ 1. 2        Siedziba Spó³ki
+             Katedralna 16
+             08-110 Siedlce
+ 1. 3        Rejestracja w Krajowym Rejestrze S¹dowym
+             W³aœciwy s¹d                 S¹d Rejonowy Lublin-Wschód w Lublinie z siedzib¹ w
+             rejestrowy                   Œwidniku, VI Wydzia³ Gospodarczy Krajowego Rejestru
+                                          S¹dowego
+             Data:                        27 stycznia 2016 r.
+             Numer rejestru:              0000598476
+ 1. 4        Podstawowy przedmiot i czas dzia³alnoœci Spó³ki
+             Przedmiotem dzia³alnoœci Spó³ki zgodnie ze statutem Spó³ki jest miêdzy innymi:
+              <U+25CF> dzia³alnoœæ wydawnicza w zakresie gier komputerowych
+              <U+25CF> dzia³alnoœæ zwi¹zana z oprogramowaniem
+              <U+25CF> dzia³alnoœæ wydawnicza w zakresie pozosta³ego oprogramowania
+              <U+25CF> sprzeda¿ hurtowa pozosta³ych artyku³ów u¿ytku domowego
+                sprzeda¿ detaliczna gier i zabawek prowadzona w wyspecjalizowanych
+              <U+25CF>
+                sklepach
+              <U+25CF> dzia³alnoœæ zwi¹zana z doradztwem w zakresie informatyki
+                pozosta³a dzia³alnoœæ us³ugowa w zakresie technologii informatycznych i
+              <U+25CF>
+                komputerowych
+                przetwarzanie danych; zarz¹dzanie stronami internetowymi (hosting) i podobna
+              <U+25CF>
+                dzia³alnoœæ
+              <U+25CF> dzia³alnoœæ portali internetowych
+              <U+25CF> sprzeda¿ detaliczna prowadzona przez domy sprzeda¿y wysy³kowej lub internet
+             Spó³ka zosta³a utworzona na czas nieokreœlony.
+                                                         2
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 1. 5        Okres objêty sprawozdaniem finansowym
+             Sprawozdanie finansowe zosta³o przygotowane za okres od 1 stycznia 2020 r. do 31
+             grudnia 2020 r., natomiast dane porównawcze obejmuj¹ okres od 1 stycznia 2019 r.
+             do 31 grudnia 2019 r.
+ 1. 6        Za³o¿enie kontynuacji dzia³alnoœci
+             Sprawozdanie finansowe zosta³o sporz¹dzone przy za³o¿eniu kontynuowania
+             dzia³alnoœci w daj¹cej siê przewidzieæ przysz³oœci.
+                                                    3
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+Czêœæ 1. Omówienie przyjêtych zasad rachunkowoœci
+2. Znacz¹ce zasady rachunkowoœci
+Sprawozdanie finansowe sporz¹dzono stosuj¹c poni¿ej opisane zasady rachunkowoœci:
+2.1 Podstawa sporz¹dzenia sprawozdania finansowego
+Sprawozdanie finansowe zosta³o sporz¹dzone zgodnie z zasadami rachunkowoœci
+obowi¹zuj¹cymi na terytorium Rzeczypospolitej Polskiej, okreœlonymi w ustawie
+o rachunkowoœci z dnia 29 wrzeœnia 1994 r. (Dz. U. z 2021 r. poz. 217 z póŸniejszymi
+zmianami) i wydanymi na jej podstawie przepisami wykonawczymi.
+Przyjête przez Spó³kê zasady rachunkowoœci stosowane by³y w sposób ci¹g³y i s¹ zgodne z
+zasadami rachunkowoœci stosowanymi w poprzednim roku obrotowym.
+Czêœæ 2. Ustalenia sposobu sporz¹dzenia sprawozdania finansowego
+2.2 Przychody i koszty
+Spó³ka sporz¹dza rachunek zysków i strat w wariancie porównawczym.
+2.3 Rachunek przep³ywów pieniê¿nych
+Rachunek przep³ywów pieniê¿nych sporz¹dzono metod¹ poœredni¹.
+Czêœæ 3. Metody wyceny aktywów i pasywów
+2.4 Wartoœci niematerialne i prawne
+Wartoœci niematerialne i prawne wycenia siê w ksiêgach wed³ug cen ich nabycia lub kosztów
+poniesionych na ich wytworzenie, pomniejszonych o odpisy amortyzacyjne a tak¿e o odpisy
+z tytu³u trwa³ej utraty ich wartoœci.
+Autorskie prawa maj¹tkowe zwi¹zane z produkowanymi i wydawanymi grami wykazane
+zosta³y w bilansie w wartoœci netto.
+Wartoœci niematerialne i prawne umarza siê metod¹ liniow¹ przy zastosowaniu nastêpuj¹cych
+stawek amortyzacyjnych:
+Koszty zakoñczonych prac rozwojowych                                  10%-20%
+Inne                                                                  20%-50%
+Dla autorskich praw maj¹tkowych Spó³ka stosuje metodê amortyzacji naturalnej, która jest
+uzale¿niona od planowanego rozk³adu realizacji przychodów wynikaj¹cych z u¿ytkowania
+danego sk³adnika aktywów w przysz³oœci. Stosowany model zosta³ opracowany na podstawie
+danych historycznych. Weryfikacja modelu zosta³a przeprowadzona na podstawie przychodów
+ze sprzeda¿y szerokiej gamy produktów wprowadzonych na rynek.
+Poprawnoœæ stosowanych okresów i stawek amortyzacji wartoœci niematerialnych i prawnych
+jest przez jednostkê okresowo weryfikowana, powoduj¹c odpowiedni¹ korektê dokonywanych
+w nastêpnych latach odpisów amortyzacyjnych.
+                                                  4
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+2.5 Rzeczowe aktywa trwa³e
+Œrodki trwa³e wycenia siê w ksiêgach w cenie nabycia lub koszcie wytworzenia (wartoœæ
+pocz¹tkowa), pomniejszonych o odpisy amortyzacyjne, a tak¿e o odpisy z tytu³u trwa³ej utraty
+ich wartoœci.
+Cena nabycia i koszt wytworzenia œrodków trwa³ych oraz œrodków trwa³ych w budowie
+obejmuje ogó³ ich kosztów poniesionych przez jednostkê za okres budowy, monta¿u,
+przystosowania i ulepszenia do dnia przyjêcia do u¿ywania, w tym równie¿ koszt obs³ugi
+zobowi¹zañ zaci¹gniêtych w celu ich finansowania i zwi¹zane z nimi ró¿nice kursowe,
+pomniejszony o przychody z tego tytu³u.
+Wartoœæ pocz¹tkow¹ œrodka trwa³ego powiêkszaj¹ koszty jego ulepszenia, polegaj¹cego na
+przebudowie, rozbudowie, modernizacji lub rekonstrukcji, powoduj¹cego, ¿e wartoœæ
+u¿ytkowa tego œrodka po zakoñczeniu ulepszenia przewy¿sza posiadan¹ przy przyjêciu do
+u¿ywania wartoœæ u¿ytkow¹.
+Œrodki trwa³e amortyzowane s¹ metod¹ liniow¹. Rozpoczêcie amortyzacji nastêpuje
+w nastêpnym miesi¹cu po przyjêciu œrodka trwa³ego do u¿ywania. Œrodki trwa³e o wartoœci
+pocz¹tkowej poni¿ej 3.500 z³, z wyj¹tkiem sprzêtów IT, odpisywane s¹ jednorazowo w koszty
+operacyjne Spó³ki.
+Przyk³adowe stawki amortyzacyjne s¹ nastêpuj¹ce:
+Budynki, lokale, prawa do lokali i obiekty in¿ynierii           10%-33%
+l¹dowej i wodnej
+Urz¹dzenia techniczne i maszyny                                 10%-30%
+Œrodki transportu                                                20%
+Inne œrodki trwa³e                                               10%-33%
+Poprawnoœæ stosowanych okresów i stawek amortyzacji œrodków trwa³ych jest przez jednostkê
+okresowo weryfikowana, powoduj¹c odpowiedni¹ korektê dokonywanych w nastêpnych latach
+odpisów amortyzacyjnych.
+2.6 Inwestycje
+Inwestycje obejmuj¹ aktywa posiadane w celu osi¹gniêcia korzyœci ekonomicznych
+wynikaj¹cych z przyrostu wartoœci tych aktywów, uzyskania z nich przychodów w formie
+odsetek, dywidend (udzia³ów w zyskach) lub innych po¿ytków, w tym równie¿ z transakcji
+handlowej, a w szczególnoœci aktywa finansowe oraz te nieruchomoœci i wartoœci
+niematerialne i prawne, które nie s¹ u¿ytkowane przez jednostkê, lecz s¹ posiadane w celu
+osi¹gniêcia tych korzyœci.
+2.6. 1 Inwestycje w akcje i udzia³y w jednostkach podporz¹dkowanych
+Akcje i udzia³y jednostkach podporz¹dkowanych zaliczone do aktywów trwa³ych wycenia siê
+wed³ug ceny nabycia. W przypadku trwa³ej utraty wartoœci wartoœæ udzia³ów i akcji pomniejsza
+siê o odpowiedni odpis.
+                                                  5
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+2.7 Trwa³a utrata wartoœci aktywów
+Na ka¿dy dzieñ bilansowy ocenia siê czy istniej¹ obiektywne dowody wskazuj¹ce na trwa³¹
+utratê wartoœci sk³adnika b¹dŸ grupy aktywów. Jeœli takie dowody istniej¹, ustala siê
+szacowan¹, mo¿liw¹ do odzyskania wartoœæ sk³adnika aktywów i dokonuje siê odpisu
+aktualizuj¹cego z tytu³u utraty wartoœci, w kwocie równej ró¿nicy miêdzy wartoœci¹ mo¿liw¹ do
+odzyskania i wartoœci¹ bilansow¹. Strata wynikaj¹ca z utraty wartoœci jest ujmowana
+w rachunku zysków i strat. W przypadku, gdy skutki uprzednio dokonanego przeszacowania
+aktywów ujêto jako kapita³ z aktualizacji wyceny, to strata pomniejsza wysokoœæ tego kapita³u,
+a pozosta³a czêœæ straty jest odnoszona na rachunek zysków i strat.
+2.8 Leasing finansowy
+Gdy Spó³ka jest stron¹ umów leasingowych, na podstawie których przyjê³a do u¿ywania obce
+œrodki trwa³e i wartoœci niematerialne i prawne, na mocy których nastêpuje przeniesienie
+zasadniczo ca³ego ryzyka i po¿ytków wynikaj¹cych z tytu³u posiadania aktywów bêd¹cych
+przedmiotem umowy, przedmiot leasingu jest ujmowany w bilansie. Przedmiot leasingu jest
+pocz¹tkowo ujmowany wed³ug ni¿szej z dwóch wartoœci: wartoœci godziwej lub wartoœci
+bie¿¹cej minimalnych op³at leasingowych.
+2.9 Zapasy
+Zapasy wyceniane s¹ wed³ug cen ich nabycia lub kosztów wytworzenia nie wy¿szych od ich
+cen sprzeda¿y netto na dzieñ bilansowy.
+Wartoœæ zapasów ustala siê w oparciu o:
+Wyroby gotowe oraz produkty w toku produkcji - koszty wytworzenia, które obejmuj¹ koszty
+pozostaj¹ce w bezpoœrednim zwi¹zku z danym produktem oraz uzasadnion¹ czêœæ kosztów
+poœrednio zwi¹zanych z wytworzeniem tego produktu.
+Zapasy ujmowane s¹ w bilansie w wartoœci netto, tj. pomniejszone o wartoœæ odpisów
+aktualizuj¹cych. Odpisy aktualizuj¹ce ujmuje siê w pozosta³ych kosztach operacyjnych.
+2.10 Nale¿noœci, roszczenia i zobowi¹zania, inne ni¿ zaklasyfikowane jako aktywa
+i zobowi¹zania finansowe
+Nale¿noœci wycenia siê w kwocie wymaganej zap³aty, z zachowaniem zasady ostro¿nej
+wyceny. Wartoœæ nale¿noœci aktualizuje siê uwzglêdniaj¹c stopieñ prawdopodobieñstwa ich
+zap³aty poprzez dokonanie odpisu aktualizuj¹cego, zaliczanego odpowiednio do pozosta³ych
+kosztów operacyjnych lub do kosztów finansowych - zale¿nie od rodzaju nale¿noœci, której
+dotyczy odpis aktualizuj¹cy.
+Zobowi¹zania wycenia siê w ksiêgach rachunkowych w kwocie wymagaj¹cej zap³aty.
+Nale¿noœci i zobowi¹zania wyra¿one w walutach obcych wykazuje siê na dzieñ ich powstania
+wed³ug œredniego kursu Narodowego Banku Polskiego og³oszonego dla danej waluty z dnia
+poprzedzaj¹cego ten dzieñ.
+Na dzieñ bilansowy nale¿noœci i zobowi¹zania wyra¿one w walutach obcych wycenia siê po
+obowi¹zuj¹cym na ten dzieñ œrednim kursie og³oszonym dla danej waluty przez Narodowy
+Bank Polski.
+                                                  6
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+2.11 Rozliczenia miêdzyokresowe
+Spó³ka dokonuje czynnych rozliczeñ miêdzyokresowych kosztów, je¿eli dotycz¹ one
+przysz³ych okresów sprawozdawczych. W szczególnoœci, czynne rozliczenia miêdzyokresowe
+kosztów obejmuj¹ koszty minimów gwarancyjnych, które zosta³y wyp³acone z góry
+deweloperom gier. Koszty te rozpoznawane s¹ w rachunku zysków i strat pocz¹wszy od
+momentu, gdy Spó³ka osi¹ga przychody ze sprzeda¿y gier jako wydawca.
+Bierne rozliczenia miêdzyokresowe kosztów dokonywane s¹ w wysokoœci prawdopodobnych
+zobowi¹zañ przypadaj¹cych na bie¿¹cy okres sprawozdawczy.
+2.12 Rezerwy na zobowi¹zania
+Rezerwy stanowi¹ zobowi¹zania, których termin wymagalnoœci lub kwota nie s¹ pewne.
+2.13 Podatek dochodowy
+Bie¿¹ce zobowi¹zanie z tytu³u podatku dochodowego jest naliczane zgodnie z przepisami
+podatkowymi. Wykazywana w rachunku zysków i strat czêœæ odroczona stanowi ró¿nicê
+pomiêdzy stanem rezerw i aktywów z tytu³u podatku odroczonego na koniec i na pocz¹tek
+okresu sprawozdawczego.
+Rezerwê i aktywa z tytu³u odroczonego podatku dochodowego, dotycz¹ce operacji
+rozliczanych z kapita³em w³asnym, odnosi siê na kapita³ w³asny.
+Aktywa z tytu³u odroczonego podatku dochodowego ustala siê w wysokoœci kwoty
+przewidzianej w przysz³oœci do odliczenia od podatku dochodowego, w zwi¹zku z ujemnymi
+ró¿nicami przejœciowymi oraz straty podatkowej mo¿liwej do odliczenia, ustalonej przy
+uwzglêdnieniu zasady ostro¿noœci.
+Rezerwê z tytu³u odroczonego podatku dochodowego tworzy siê w wysokoœci kwoty podatku
+dochodowego, wymagaj¹cej w przysz³oœci zap³aty, w zwi¹zku z wystêpowaniem dodatnich
+ró¿nic przejœciowych, to jest ró¿nic, które spowoduj¹ zwiêkszenie podstawy obliczenia podatku
+dochodowego w przysz³oœci.
+Wysokoœæ rezerwy i aktywów z tytu³u odroczonego podatku dochodowego ustala siê przy
+uwzglêdnieniu stawek podatku dochodowego obowi¹zuj¹cych w roku powstania obowi¹zku
+podatkowego, przy uwzglêdnieniu przepisów podatkowych obowi¹zuj¹cych na dzieñ
+bilansowy.
+Rezerwa i aktywa z tytu³u odroczonego podatku dochodowego s¹ kompensowane dla potrzeb
+prezentacji w sprawozdaniu finansowym.
+2.14 Ró¿nice kursowe
+Do wyceny pozycji bilansu, wyra¿onych w walutach obcych, przyjêto nastêpuj¹ce kursy (w z³):
+Bilans
+31.12.2020
+EUR 4,6148
+USD 3,7584
+JPY 3,6484 (za 100 JPY)
+GBP 5,1327
+                                                  7
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+31.12.2019
+EUR 4,2585
+USD 3,7977
+JPY 3,4959 (za 100 JPY)
+2.15 Instrumenty finansowe
+2.15.1 Klasyfikacja instrumentów finansowych
+Instrumenty finansowe ujmowane s¹ oraz wyceniane zgodnie z Rozporz¹dzeniem Ministra
+Finansów z dnia 12 grudnia 2001 r. w sprawie szczegó³owych zasad uznawania, metod
+wyceny, zakresu ujawniania i sposobu prezentacji instrumentów finansowych. Zasady wyceny
+i ujawniania aktywów finansowych opisane w poni¿szej nocie nie dotycz¹ wy³¹czonych
+z Rozporz¹dzenia w szczególnoœci: udzia³ów i akcji w jednostkach podporz¹dkowanych, praw
+i zobowi¹zañ wynikaj¹cych z umów leasingowych i ubezpieczeniowych, nale¿noœci
+i zobowi¹zañ z tytu³u dostaw i us³ug oraz instrumentów finansowych wyemitowanych przez
+Spó³kê stanowi¹cych jej instrumenty kapita³owe.
+Aktywa finansowe dzieli siê na:
+• aktywa finansowe przeznaczone do obrotu,
+• po¿yczki udzielone i nale¿noœci w³asne,
+• aktywa finansowe utrzymywane do terminu wymagalnoœci,
+• aktywa finansowe dostêpne do sprzeda¿y.
+Zobowi¹zania finansowe dzieli siê na:
+• zobowi¹zania finansowe przeznaczone do obrotu,
+• pozosta³e zobowi¹zania finansowe.
+2.15.2 Zasady ujmowania i wyceny instrumentów finansowych
+Aktywa finansowe wprowadza siê do ksi¹g rachunkowych na dzieñ zawarcia kontraktu w cenie
+nabycia, to jest w wartoœci godziwej poniesionych wydatków lub przekazanych w zamian
+innych sk³adników maj¹tkowych, zaœ zobowi¹zania finansowe w wartoœci godziwej uzyskanej
+kwoty lub wartoœci otrzymanych innych sk³adników maj¹tkowych. Przy ustalaniu wartoœci
+godziwej na ten dzieñ uwzglêdnia siê poniesione przez Spó³kê koszty transakcji.
+Transakcje kupna i sprzeda¿y instrumentów finansowych dokonane w obrocie regulowanym
+wprowadza siê do ksi¹g rachunkowych w dniu ich rozliczenia.
+2.15.3 Aktywa finansowe przeznaczone do obrotu
+Do aktywów finansowych przeznaczonych do obrotu zalicza siê aktywa nabyte w celu
+osi¹gniêcia korzyœci ekonomicznych wynikaj¹cych z krótkoterminowych zmian cen oraz
+wahañ innych czynników rynkowych albo krótkiego czasu trwania nabytego instrumentu,
+a tak¿e inne aktywa finansowe, bez wzglêdu na zamiary, jakimi kierowano siê przy zawieraniu
+kontraktu, je¿eli stanowi¹ one sk³adnik portfela podobnych aktywów finansowych, co do
+którego jest du¿e prawdopodobieñstwo realizacji w krótkim terminie zak³adanych korzyœci
+ekonomicznych.
+                                                  8
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+Do aktywów finansowych przeznaczonych do obrotu zalicza siê pochodne instrumenty
+finansowe, z wyj¹tkiem przypadku, gdy Spó³ka uznaje zawarte kontrakty za instrumenty
+zabezpieczaj¹ce.
+Aktywa finansowe przeznaczone do obrotu wycenia siê w wartoœci godziwej, natomiast skutki
+okresowej wyceny zalicza siê odpowiednio do przychodów lub kosztów finansowych okresu
+sprawozdawczego, w którym nast¹pi³o przeszacowanie.
+2.15.4 Aktywa finansowe utrzymywane do terminu wymagalnoœci
+Do aktywów finansowych utrzymywanych do terminu wymagalnoœci zalicza siê
+niezakwalifikowane do po¿yczek udzielonych i nale¿noœci w³asnych aktywa finansowe, dla
+których zawarte kontrakty ustalaj¹ termin wymagalnoœci sp³aty wartoœci nominalnej oraz
+okreœlaj¹ prawo do otrzymania w ustalonych terminach korzyœci ekonomicznych, na przyk³ad
+oprocentowania, w sta³ej lub mo¿liwej do ustalenia kwocie, pod warunkiem ¿e Spó³ka zamierza
+i mo¿e utrzymaæ te aktywa do czasu, gdy stan¹ siê one wymagalne.
+Aktywa finansowe utrzymywane do terminu wymagalnoœci wycenia siê                     wed³ug
+zamortyzowanego kosztu przy zastosowaniu metody efektywnej stopy procentowej.
+2.15.5 Po¿yczki udzielone i nale¿noœci w³asne
+Do po¿yczek udzielonych i nale¿noœci w³asnych zalicza siê, niezale¿nie od terminu ich
+wymagalnoœci (zap³aty), aktywa finansowe powsta³e na skutek wydania bezpoœrednio drugiej
+stronie kontraktu œrodków pieniê¿nych. Do po¿yczek udzielonych i nale¿noœci w³asnych
+zalicza siê tak¿e obligacje i inne d³u¿ne instrumenty finansowe nabyte w zamian za wydane
+bezpoœrednio drugiej stronie kontraktu œrodki pieniê¿ne, je¿eli z zawartego kontraktu
+jednoznacznie wynika, ¿e zbywaj¹cy nie utraci³ kontroli nad wydanymi instrumentami
+finansowymi (transakcje odkupu).
+Do po¿yczek udzielonych i nale¿noœci w³asnych nie zalicza siê nabytych po¿yczek ani
+nale¿noœci, a tak¿e wp³at dokonanych przez Spó³kê celem nabycia instrumentów kapita³owych
+nowych emisji, równie¿ wtedy, gdy nabycie nastêpuje w pierwszej ofercie publicznej lub
+w obrocie pierwotnym, a w przypadku praw do akcji - tak¿e w obrocie wtórnym.
+Po¿yczki udzielone i nale¿noœci w³asne wycenia siê w kwocie wymaganej zap³aty, z
+zachowaniem zasady ostro¿noœci.
+2.15.6 Aktywa finansowe dostêpne do sprzeda¿y
+Aktywa finansowe nie zakwalifikowane do powy¿szych kategorii zaliczane s¹ do aktywów
+finansowych dostêpnych do sprzeda¿y.
+Aktywa finansowe dostêpne do sprzeda¿y wycenia siê w wartoœci godziwej zaœ skutki
+przeszacowania zalicza siê odpowiednio do przychodów lub kosztów finansowych okresu
+sprawozdawczego.
+2.15.7 Zobowi¹zania finansowe
+Zobowi¹zania finansowe przeznaczone do obrotu, w tym instrumenty pochodne, które nie
+zosta³y wyznaczone jako instrumenty zabezpieczaj¹ce, wykazywane s¹ w wartoœci godziwej,
+zaœ zyski i straty wynikaj¹ce z ich wyceny ujmowane s¹ bezpoœrednio w rachunku zysków
+i strat.
+                                                  9
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+Do zobowi¹zañ finansowych przeznaczonych do obrotu zalicza siê równie¿ zobowi¹zanie do
+dostarczenia po¿yczonych papierów wartoœciowych oraz innych instrumentów finansowych,
+w przypadku zawarcia przez Spó³kê umowy sprzeda¿y krótkiej.
+Pozosta³e zobowi¹zania finansowe wycenia siê w skorygowanej ceny nabycia, wyliczonej przy
+zastosowaniu metody efektywnej stopy procentowej.
+2.16 Rachunkowoœæ zabezpieczeñ
+Spó³ka nie stosuje rachunkowoœci zabezpieczeñ.
+2.17 Opis metod i istotnych za³o¿eñ przyjêtych do ustalenia wartoœci godziwej aktywów
+i zobowi¹zañ finansowych wycenianych w takiej wartoœci
+Za wartoœæ godziw¹ przyjmuje siê kwotê, za jak¹ dany sk³adnik aktywów móg³by zostaæ
+wymieniony, a zobowi¹zanie uregulowane na warunkach transakcji rynkowej, pomiêdzy
+zainteresowanymi i dobrze poinformowanymi stronami.
+Wartoœæ godziwa ustalana jest w drodze:
+• wyceny instrumentu finansowego po cenie ustalonej w aktywnym obrocie regulowanym, w
+przypadku gdy dla instrumentu finansowego istnieje aktywny obrót regulowany,
+• oszacowania ceny instrumentu finansowego za pomoc¹ metod estymacji powszechnie
+uznanych za poprawne.
+Czêœæ 4. Ustalenia wyniku finansowego
+2.18 Przychody i koszty
+Przychody i koszty s¹ ujmowane zgodnie z zasad¹ memoria³u, tj. w roku obrotowym, którego
+dotycz¹, niezale¿nie od terminu otrzymania lub dokonania p³atnoœci.
+Przychody ze sprzeda¿y
+Przychody ze sprzeda¿y produktów, towarów i materia³ów ujmuje siê w rachunku zysków
+i strat, gdy Spó³ka przekaza³a nabywcy znacz¹ce korzyœci wynikaj¹ce z praw w³asnoœci do
+tych aktywów oraz przesta³a byæ trwale zaanga¿owana w zarz¹dzanie przekazanymi
+aktywami, ani te¿ nie sprawuje nad nimi efektywnej kontroli.
+Kontrakty na us³ugi o okresie realizacji do 6 miesiêcy
+Przychody z wykonania us³ug o okresie realizacji do 6 miesiêcy ujmowane s¹ w momencie
+zakoñczenia wykonywania us³ugi.
+2.19 Przychody odsetkowe
+Przychody odsetkowe s¹ ujmowane przy zastosowaniu efektywnej stopy procentowej.
+2.20 Przychody z tytu³u dywidend
+Przychody z tytu³u dywidend zalicza siê do przychodów finansowych na dzieñ powziêcia przez
+Walne Zgromadzenie Akcjonariuszy spó³ki, w któr¹ jednostka zainwestowa³a, uchwa³y o
+podziale zysku, chyba ¿e w uchwale okreœlono inny dzieñ prawa do dywidendy.
+                                                  10
+
+QubicGames S.A.
+Wprowadzenie do sprawozdania finansowego
+(wszystkie dane liczbowe przedstawiono w z³otych)
+2.21 Podatek dochodowy
+Podatek dochodowy wykazany w rachunku zysków i strat obejmuje czêœæ bie¿¹c¹ i czêœæ
+odroczon¹.
+2.22 Ró¿nice kursowe
+Ró¿nice kursowe wynikaj¹ce z wyceny na dzieñ bilansowy aktywów i pasywów wyra¿onych
+w walutach obcych, z wyj¹tkiem inwestycji d³ugoterminowych, oraz powsta³e w zwi¹zku
+z zap³at¹ nale¿noœci i zobowi¹zañ w walutach obcych, jak równie¿ przy sprzeda¿y walut,
+zalicza siê odpowiednio do przychodów lub kosztów finansowych, a w uzasadnionych
+przypadkach - do kosztu wytworzenia produktów lub ceny nabycia towarów, a tak¿e ceny
+nabycia lub kosztu wytworzenia œrodków trwa³ych, œrodków trwa³ych w budowie lub wartoœci
+niematerialnych i prawnych.
+                                                  11
+
+QubicGames S.A.
+Bilans
+(wszystkie dane liczbowe przedstawiono w z³otych)
+AKTYWA                                                                          Nota               31.12.2020                  31.12.2019
+Aktywa trwa³e                                                                                   8 513 414,83                7 626 509,19
+  Wartoœci niematerialne i prawne                                                1.1
+  Koszty zakoñczonych prac rozwojowych                                                             189 902,25                  274 303,29
+  Autorskie prawa maj¹tkowe                                                                     1 434 817,69                1 232 101,61
+  Inne wartoœci niematerialne i prawne                                                                 1 798,22                   2 139,82
+                                                                                                1 626 518,16                1 508 544,72
+  Rzeczowe aktywa trwa³e                                                           2
+  Œrodki trwa³e                                                                                    332 777,39                  192 139,47
+       budynki, lokale, prawa do lokali i obiekty in¿ynierii
+       l¹dowej i wodnej                                                                                3 569,12                   2 413,07
+       urz¹dzenia techniczne i maszyny                                                             157 783,94                  132 395,79
+       œrodki transportu                                                                           166 839,21                    57 330,61
+       inne œrodki trwa³e                                                                              4 585,12                          -
+                                                                                                   332 777,39                  192 139,47
+  Nale¿noœci d³ugoterminowe                                                        3
+  Od pozosta³ych jednostek                                                                           97 160,88                   18 180,00
+                                                                                                     97 160,88                   18 180,00
+  Inwestycje d³ugoterminowe                                                        4
+  D³ugoterminowe aktywa finansowe                                                               6 456 958,40                5 907 645,00
+       w jednostkach powi¹zanych                                                                1 000 000,00                     59 240,00
+             udzia³y lub akcje                                                                  1 000 000,00                     59 240,00
+       w pozosta³ych jednostkach, w których jednostka
+                                                                                                   322 540,00                  300 000,00
+       posiada zaanga¿owanie w kapitale
+             udzia³y lub akcje                                                                     322 540,00                  300 000,00
+       w pozosta³ych jednostkach                                                                5 134 418,40                5 548 405,00
+             udzia³y lub akcje                                                                  5 134 418,40                5 548 405,00
+                                                                                                6 456 958,40                5 907 645,00
+  Bilans nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami, które stanowi¹ integraln¹ czêœæ sprawozdania finansowego.
+                                                                   12
+
+QubicGames S.A.
+Bilans
+(wszystkie dane liczbowe przedstawiono w z³otych)
+AKTYWA                                                                          Nota               31.12.2020                  31.12.2019
+Aktywa obrotowe                                                                                 6 213 285,63                5 708 273,67
+  Zapasy                                                                           5
+  Pó³produkty i produkty w toku                                                                 1 661 186,39                1 369 204,05
+  Zaliczki na dostawy i us³ugi                                                                       34 612,12                   40 000,00
+                                                                                                1 695 798,51                1 409 204,05
+  Nale¿noœci krótkoterminowe
+  Nale¿noœci od jednostek powi¹zanych                                                                  3 690,00                          -
+       z tytu³u dostaw i us³ug, o okresie sp³aty                                 7.1                   3 690,00                          -
+             do 12 miesiêcy                                                                            3 690,00                          -
+  Nale¿noœci od pozosta³ych jednostek, w których                                 7.2
+  jednostka posiada zaanga¿owanie w kapitale                                                                      -              73 800,00
+       z tytu³u dostaw i us³ug, o okresie sp³aty                                                                  -              73 800,00
+             do 12 miesiêcy                                                                                                      73 800,00
+  Nale¿noœci od pozosta³ych jednostek                                                           1 503 267,15                2 433 196,64
+       z tytu³u dostaw i us³ug, o okresie sp³aty                                 7.3            1 177 748,22                2 048 002,27
+             do 12 miesiêcy                                                                     1 177 748,22                2 048 002,27
+       z tytu³u podatków, dotacji, ce³, ubezpieczeñ
+       spo³ecznych i zdrowotnych oraz innych tytu³ów                                               325 518,93                  385 194,37
+       publicznoprawnych
+                                                                                                1 506 957,15                2 506 996,64
+  Inwestycje krótkoterminowe
+  Krótkoterminowe aktywa finansowe                                                              2 208 128,52                   613 119,02
+       w pozosta³ych jednostkach                                                                   767 063,09                  332 330,31
+             udzia³y lub akcje                                                    18               371 523,60                            -
+             udzielone pozyczki                                                                      51 015,06                           -
+             inne krótkoterminowe aktywa finansowe                                                 344 524,43                  332 330,31
+       œrodki pieniê¿ne i inne aktywa pieniê¿ne                                                 1 441 065,43                   280 788,71
+             œrodki pieniê¿ne w kasie i na rachunkach                              6            1 441 065,43                   280 788,71
+                                                                                                2 208 128,52                   613 119,02
+  Krótkoterminowe rozliczenia miêdzyokresowe                                       8               802 401,45               1 178 953,96
+AKTYWA RAZEM                                                                                   14 726 700,46              13 334 782,86
+  Bilans nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami, które stanowi¹ integraln¹ czêœæ sprawozdania finansowego.
+                                                                   13
+
+QubicGames S.A.
+Bilans
+(wszystkie dane liczbowe przedstawiono w z³otych)
+PASYWA                                                                            Nota                31.12.2020                  31.12.2019
+Kapita³ w³asny
+  Kapita³ podstawowy                                                                9.1               982 000,00                  982 000,00
+  Kapita³ zapasowy, w tym                                                                          6 954 054,98                 4 364 073,22
+       nadwy¿ka wartoœci emisyjnej nad wartoœci¹
+                                                                                                   4 364 073,22                4 364 073,22
+       nominaln¹ akcji
+  Strata z lat ubieg³ych                                                                                            -           (157 755,46)
+  Zysk netto                                                                                       2 528 208,54                 2 747 737,22
+                                                                                                 10 464 263,52                  7 936 054,98
+Zobowi¹zania i rezerwy na zobowi¹zania                                                             4 262 436,94                 5 398 727,88
+  Rezerwy na zobowi¹zania
+  Rezerwa z tytu³u odroczonego podatku dochodowego                                 35.2            1 401 988,60                 1 079 330,60
+                                                                                                   1 401 988,60                 1 079 330,60
+  Zobowi¹zania d³ugoterminowe
+  Wobec pozosta³ych jednostek                                                      10.1               557 113,27                  324 573,00
+       kredyty i po¿yczki                                                                             473 586,50                  324 573,00
+       inne zobowi¹zania finansowe                                                                      83 526,77                           -
+                                                                                                      557 113,27                  324 573,00
+  Zobowi¹zania krótkoterminowe
+  Zobowi¹zania wobec pozosta³ych jednostek                                                         2 187 269,65                 3 632 871,74
+       kredyty i po¿yczki                                                     10.1, 34.2              475 458,02                  981 365,02
+       inne zobowi¹zania finansowe                                                 10.1                 35 302,76                 343 022,60
+       z tytu³u dostaw i us³ug, o okresie wymagalnoœci                                             1 177 769,56                 1 905 179,05
+             do 12 miesiêcy                                                                        1 177 769,56                 1 905 179,05
+       z tytu³u podatków, ce³, ubezpieczeñ spo³ecznych
+       i zdrowotnych oraz innych tytu³ów publiczno-prawnych                                           362 229,27                    77 664,92
+       z tytu³u wynagrodzeñ                                                                           133 054,67                  100 608,94
+       inne                                                                        10.1                  3 455,37                 225 031,21
+                                                                                                   2 187 269,65                 3 632 871,74
+  Rozliczenia miêdzyokresowe
+  Inne rozliczenia miêdzyokresowe                                                                     116 065,42                  361 952,54
+       krótkoterminowe                                                             11.1               116 065,42                  361 952,54
+                                                                                                      116 065,42                  361 952,54
+PASYWA RAZEM                                                                                     14 726 700,46                13 334 782,86
+   Bilans nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami, które stanowi¹ integraln¹ czêœæ sprawozdania finansowego.
+                                                                    14
+
+QubicGames S.A.
+Rachunek zysków i strat
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                                   01.01.2020 -                01.01.2019 -
+                                                                                 Nota                31.12.2020                  31.12.2019
+Przychody netto ze sprzeda¿y i zrównane z nimi, w tym
+                                                                                  12
+    od jednostek powi¹zanych                                                                          37 725,00                             -
+Przychody netto ze sprzeda¿y produktów                                                          10 895 362,96                 8 980 179,29
+Przychody netto ze sprzeda¿y towarów i materia³ów                                                                  -             164 500,00
+                                                                                                10 895 362,96                 9 144 679,29
+Koszty dzia³alnoœci operacyjnej
+Amortyzacja                                                                                        (943 907,89)             (1 146 481,00)
+Zu¿ycie materia³ów i energii                                                                       (120 165,47)                 (67 649,71)
+Us³ugi obce                                                                       13            (8 314 415,21)              (5 980 240,99)
+Podatki i op³aty                                                                                    (14 267,75)                 (15 529,83)
+Wynagrodzenia                                                                                   (1 296 276,39)                 (430 347,46)
+Ubezpieczenia spo³eczne i inne œwiadczenia                                                         (147 825,75)                 (66 024,71)
+Pozosta³e koszty rodzajowe                                                                         (165 376,87)                (184 111,88)
+Wartoœæ sprzedanych towarów i materia³ów                                                                           -           (202 863,75)
+                                                                                              (11 002 235,33)               (8 093 249,33)
+(Strata)/Zysk ze sprzeda¿y                                                                         (106 872,37)               1 051 429,96
+Pozosta³e przychody operacyjne
+Zysk z tytu³u rozchodu niefinansowych aktywów trwa³ych                                                    500,00                             -
+Dotacje                                                                                                            -               30 758,48
+Inne przychody operacyjne                                                                              33 514,97                    3 812,07
+                                                                                                       34 014,97                   34 570,55
+Pozosta³e koszty operacyjne
+Aktualizacja wartoœci aktywów niefinansowych                                                        (49 227,69)                (339 674,84)
+Inne koszty operacyjne                                                                             (383 146,61)                 (10 116,03)
+                                                                                                   (432 374,30)                (349 790,87)
+(Strata)/Zysk z dzia³alnoœci operacyjnej                                                           (505 231,70)                  736 209,64
+Przychody finansowe
+Dywidendy i udzia³y w zyskach, w tym                                                                   52 107,00                             -
+   od jednostek pozosta³ych                                                                           52 107,00                             -
+Odsetki                                                                           14                   11 364,16                   48 767,82
+Zysk z tytu³u rozchodu aktywów finansowych                                                        1 117 116,99                               -
+Aktualizacja wartoœci aktywów finansowych                                                         2 479 537,00                2 660 186,46
+Inne                                                                                                   19 470,91                             -
+                                                                                                  3 679 596,06                2 708 954,28
+Koszty finansowe
+Odsetki                                                                           15                (31 329,69)                 (30 242,66)
+Inne                                                                                                (22 074,13)                 (35 576,44)
+                                                                                                    (53 403,82)                 (65 819,10)
+ Rachunek zysków i strat nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami, które stanowi¹ integraln¹ czêœæ sprawozdania
+                                                               finansowego.
+                                                                    15
+
+QubicGames S.A.
+Rachunek zysków i strat
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                                   01.01.2020 -                01.01.2019 -
+                                                                                 Nota                31.12.2020                  31.12.2019
+Zysk brutto                                                                                       3 120 960,54                3 379 344,82
+Podatek dochodowy                                                                 35               (582 852,00)                (631 607,60)
+Pozosta³e obowi¹zkowe zmniejszenia zysku
+                                                                                                       (9 900,00)                           -
+(zwiêkszenia straty)
+Zysk netto                                                                                        2 528 208,54                2 747 737,22
+ Rachunek zysków i strat nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami, które stanowi¹ integraln¹ czêœæ sprawozdania
+                                                               finansowego.
+                                                                    16
+
+QubicGames S.A.
+Zestawienie zmian w kapitale w³asnym
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                                      01.01.2020 -               01.01.2019 -
+                                                                                       Nota             31.12.2020                 31.12.2019
+Kapita³ w³asny na pocz¹tek okresu                                                                     7 936 054,98               5 188 317,76
+     Kapita³ podstawowy na pocz¹tek okresu                                                              982 000,00                 982 000,00
+     Kapita³ podstawowy na koniec okresu                                                9.1             982 000,00                 982 000,00
+     Kapita³ zapasowy na pocz¹tek okresu                                                              4 364 073,22               4 364 073,22
+     Zmiany kapita³u zapasowego                                                                       2 589 981,76                          -
+         zwiêkszenia z tytu³u:                                                                        2 589 981,76                          -
+               - podzia³u zysku (ustawowo)                                                              219 818,98                          -
+               - podzia³u zysku (ponad wymagan¹ ustawowo
+                                                                                                      2 370 162,78                          -
+               minimaln¹ wartoœæ)
+     Kapita³ zapasowy na koniec okresu                                                                6 954 054,98               4 364 073,22
+     Strata z lat ubieg³ych na pocz¹tek okresu                                                        (157 755,46)             (1 929 656,71)
+         zmniejszenia z tytu³u:                                                                         157 755,46               1 771 901,25
+            - przeniesienie zysku z lat ubieg³ych                                                       157 755,46               1 771 901,25
+     Strata z lat ubieg³ych na koniec okresu                                                                           -         (157 755,46)
+     Wynik netto                                                                                      2 528 208,54               2 747 737,22
+         zysk netto                                                                                   2 528 208,54               2 747 737,22
+Kapita³ w³asny na koniec okresu                                                                     10 464 263,52                7 936 054,98
+Kapita³ w³asny, po uwzglêdnieniu proponowanego podzia³u zysku
+                                                                                                    10 464 263,52                7 936 054,98
+                    Zestawienie zmian w kapitale w³asnym nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami,
+                                            które stanowi¹ integraln¹ czêœæ sprawozdania finansowego.
+                                                                        17
+
+QubicGames S.A.
+Rachunek przep³ywów pieniê¿nych
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                                 01.01.2020 -              01.01.2019 -
+                                                                                Nota               31.12.2020                31.12.2019
+Przep³ywy œrodków pieniê¿nych z dzia³alnoœci operacyjnej                                         (263 448,32)              (680 482,30)
+Zysk netto                                                                                       2 528 208,54             2 747 737,22
+Korekty razem
+   Amortyzacja                                                                                     943 907,89             1 146 481,04
+   (Zysk)/Strata z tytu³u ró¿nic kursowych                                                          (1 845,02)                  1 207,48
+   Odsetki i udzia³y w zyskach (dywidendy)                                                         (24 677,28)               (21 788,28)
+   Zysk z dzia³alnoœci inwestycyjnej                                            20.1           (3 452 234,88)           (2 557 322,71)
+   Zmiana stanu rezerw                                                                             322 658,00                631 607,60
+   Zmiana stanu zapasów                                                         20.2             (999 214,32)           (1 223 508,78)
+   Zmiana stanu nale¿noœci                                                                         921 058,61           (1 925 379,29)
+   Zmiana stanu zobowi¹zañ krótkoterminowych, z wyj¹tkiem
+                                                                                20.3             (631 975,25)             1 876 745,11
+   po¿yczek i kredytów
+   Zmiana stanu rozliczeñ miêdzyokresowych                                                         130 665,39           (1 356 261,69)
+                                                                                               (2 791 656,86)           (3 428 219,52)
+Przep³ywy pieniê¿ne netto z dzia³alnoœci operacyjnej                                             (263 448,32)              (680 482,30)
+Przep³ywy œrodków pieniê¿nych z dzia³alnoœci inwestycyjnej                                       1 893 660,83              (767 193,21)
+Wp³ywy                                                                                           3 295 386,34                100 968,49
+   Zbycie wartoœci niematerialnych i prawnych oraz
+                                                                                                        500,00                         -
+   rzeczowych aktywów trwa³ych
+   Z aktywów finansowych, w tym                                                                  3 294 886,34                100 968,49
+       w pozosta³ych jednostkach                                                                3 294 886,34                100 968,49
+           zbycie aktywów finansowych                                                            3 252 679,34                          -
+           dywidendy i udzia³y w zyskach                                                             42 207,00                         -
+           sp³ata udzielonych po¿yczek d³ugoterminowych                                                         -            100 000,00
+           odsetki                                                                                              -                 968,49
+Wydatki                                                                                        (1 401 725,51)              (868 161,70)
+   Nabycie wartoœci niematerialnych i prawnych oraz
+   rzeczowych aktywów trwa³ych                                                  20.4             (351 725,51)                (68 586,70)
+   Na aktywa finansowe, w tym                                                                  (1 050 000,00)              (608 240,00)
+       w jednostkach powi¹zanych                                                              (1 000 000,00)                (58 240,00)
+       w pozosta³ych jednostkach                                                                  (50 000,00)             (550 000,00)
+           nabycie aktywów finansowych                                                                          -          (500 000,00)
+           udzielone po¿yczki d³ugoterminowe                                                       (50 000,00)               (50 000,00)
+   Inne wydatki inwestycyjne                                                                                    -          (191 335,00)
+Przep³ywy pieniê¿ne netto z dzia³alnoœci inwestycyjnej                                           1 893 660,83              (767 193,21)
+                  Rachunek przep³ywów pieniê¿nych nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami,
+                                       które stanowi¹ integraln¹ czêœæ sprawozdania finansowego.
+                                                                   18
+
+QubicGames S.A.
+Rachunek przep³ywów pieniê¿nych
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                                 01.01.2020 -           01.01.2019 -
+                                                                                Nota               31.12.2020             31.12.2019
+Przep³ywy œrodków pieniê¿nych z dzia³alnoœci finansowej                                          (469 935,79)             839 424,92
+Wp³ywy                                                                                             578 546,00           1 123 754,16
+   Kredyty i po¿yczki                                                                              578 546,00           1 123 754,16
+Wydatki                                                                                       (1 048 481,79)            (284 329,24)
+   Sp³aty kredytów i po¿yczek                                                                    (938 989,66)           (240 296,26)
+   P³atnoœci zobowi¹zañ z tytu³u umów leasingu finansowego                                         (82 263,12)            (22 893,89)
+   Odsetki                                                                                         (27 229,01)            (21 139,09)
+Przep³ywy pieniê¿ne netto z dzia³alnoœci finansowej                                              (469 935,79)             839 424,92
+Przep³ywy pieniê¿ne netto razem                                                                  1 160 276,72           (608 250,59)
+Bilansowa zmiana stanu œrodków pieniê¿nych                                                       1 160 276,72           (608 250,59)
+Œrodki pieniê¿ne na pocz¹tek okresu                                                                280 788,71             889 039,30
+Œrodki pieniê¿ne na koniec okresu                                                                1 441 065,43             280 788,71
+                  Rachunek przep³ywów pieniê¿nych nale¿y analizowaæ ³¹cznie z dodatkowymi informacjami i objaœnieniami,
+                                       które stanowi¹ integraln¹ czêœæ sprawozdania finansowego.
+                                                                   19
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+  1.     Wartoœci niematerialne i prawne
+ 1. 1 Zmiana stanu wartoœci niematerialnych i prawnych
+                                             Koszty
+                                   zakoñczonych                   Autorskie Inne wartoœci
+                                                prac Wartoœæ         prawa    niematerial-
+                                    rozwojowych        firmy    maj¹tkowe     ne i prawne         Razem
+         Wartoœæ brutto
+         01.01.2020                  1 033 381,87          -   4 658 070,97      51 409,00   5 742 861,84
+         Zwiêkszenia                               -       -     962 619,86              -     962 619,86
+         Nabycie                                   -       -     962 619,86              -     962 619,86
+         31.12.2020                  1 033 381,87          -   5 620 690,83      51 409,00   6 705 481,70
+         Umorzenie
+         i aktualizacja
+         wartoœci
+         01.01.2020                   (759 078,58)         - (3 425 969,36)    (49 269,18) (4 234 317,12)
+         Zwiêkszenia                   (84 401,04)         -   (759 903,78)       (341,60)   (844 646,42)
+         Amortyzacja                   (84 401,04)             (759 903,78)       (341,60)   (844 646,42)
+         31.12.2020                   (843 479,62)         - (4 185 873,14)    (49 610,78) (5 078 963,54)
+         Wartoœæ netto
+         01.01.2020                     274 303,29         -   1 232 101,61       2 139,82   1 508 544,72
+         31.12.2020                     189 902,25         -   1 434 817,69       1 798,22   1 626 518,16
+         Koszty zakoñczonych prac rozwojowych na dzieñ bilansowy wynios³y 1.033.381,87 z³ (2019
+         r.: 1.033.381,87 z³). Spó³ka dokonuje odpisów amortyzacyjnych od wartoœci kosztów
+         zakoñczonych prac rozwojowych przez okres od 5 do 10 lat.
+ 1. 2 Koszty zwi¹zane z pracami badawczymi i rozwojowymi niezaklasyfikowane do
+         wartoœci niematerialnych i prawnych
+         Nie dotyczy.
+                                                       20
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 2.     Rzeczowe aktywa trwa³e
+ 2. 1 Zmiana stanu œrodków trwa³ych
+                                            Budynki, lokale,
+                                             prawa do lokali    Urz¹dzenia
+                                        i obiekty in¿ynierii    techniczne         Œrodki Inne œrodki
+                                           l¹dowej i wodnej      i maszyny    transportu        trwa³e      Razem
+        Wartoœæ brutto
+        01.01.2020                                  3 575,00     465 749,57   143 326,45             -   612 651,02
+        Zwiêkszenia                                 1 946,00      94 087,64   138 173,88      5 691,87   239 899,39
+        Nabycie                                     1 946,00      94 087,64   138 173,88      5 691,87   239 899,39
+        31.12.2020                                  5 521,00     559 837,21   281 500,33      5 691,87   852 550,41
+        Umorzenie
+        i aktualizacja
+        wartoœci
+        01.01.2020                                (1 161,93)  (333 353,78)   (85 995,84)             - (420 511,55)
+        Zwiêkszenia                                 (789,95)    (68 699,49)  (28 665,28)    (1 106,75)  (99 261,47)
+        Amortyzacja                                 (789,95)    (68 699,49)  (28 665,28)    (1 106,75)  (99 261,47)
+        31.12.2020                                (1 951,88)  (402 053,27)  (114 661,12)    (1 106,75) (519 773,02)
+        Wartoœæ netto
+        01.01.2020                                  2 413,07     132 395,79     57 330,61            -   192 139,47
+        31.12.2020                                  3 569,12     157 783,94   166 839,21      4 585,12   332 777,39
+ 2. 2 Wartoœæ gruntów u¿ytkowanych wieczyœcie
+        Nie dotyczy.
+ 2. 3 Œrodki trwa³e nieamortyzowane
+        Nie dotyczy.
+ 2. 4 Œrodki trwa³e w budowie
+        Nie dotyczy.
+ 2. 5 Przyczyny odpisów aktualizuj¹cych wartoœæ œrodków trwa³ych
+        Nie dotyczy.
+                                                             21
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 3.       Nale¿noœci d³ugoterminowe
+ 3. 1 Struktura nale¿noœci d³ugoterminowych
+                                                                                     Odpisy aktualizuj¹ce       Wartoœæ
+                                                                     Wartoœæ brutto   wartoœæ nale¿noœci           netto
+          Od pozosta³ych jednostek                                         97 160,88                    -      97 160,88
+                                                                           97 160,88                    -      97 160,88
+ 4.       Inwestycje d³ugoterminowe
+ 4. 1 Zmiana stanu inwestycji d³ugoterminowych
+                                                                   D³ugoterminowe
+                                                                 aktywa finansowe -
+                                                                      w pozosta³ych
+                                                                     jednostkach, w D³ugoterminowe
+                                              D³ugoterminowe      których jednostka             aktywa
+                                          aktywa finansowe -                posiada    finansowe - w
+                                                w jednostkach     zaanga¿owanie w         pozosta³ych
+                                                  powi¹zanych               kapitale      jednostkach            Razem
+          Wartoœæ brutto
+          01.01.2020                                   59 240,00         300 000,00       5 548 405,00      5 907 645,00
+          Zwiêkszenia                                977 460,00            22 540,00      2 479 537,00      3 479 537,00
+          Nabycie                                  1 000 000,00                    -                  -     1 000 000,00
+          Przemieszczenia
+                                                     (22 540,00)           22 540,00                  -                -
+          wewnêtrzne
+          Inne (przeszacowanie do                              -                   -      2 479 537,00      2 479 537,00
+          wartoœci godziwej)
+          Zmniejszenia                               (36 700,00)                   -    (2 893 523,60)    (2 930 223,60)
+          Rozchód                                    (36 700,00)                   -    (2 522 000,00)    (2 558 700,00)
+          Inne (przeklasyfikowanie
+          do czêœci                                            -                   -       (371 523,60)     (371 523,60)
+          krótkoterminowej)
+          31.12.2020                               1 000 000,00          322 540,00       5 134 418,40      6 456 958,40
+          Wartoœæ netto
+          01.01.2020                                   59 240,00         300 000,00       5 548 405,00      5 907 645,00
+          31.12.2020                               1 000 000,00          322 540,00       5 134 418,40      6 456 958,40
+                                                                 22
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+          Udzia³y i akcje w jednostkach powi¹zanych
+          Dnia 30 lipca 2020 r. Spó³ka zawi¹za³a now¹ spó³kê tj. Untold Tales S.A. z siedzib¹ w Warszawie.
+          Kapita³ zak³adowy Untold Tales S.A. wynosi 1.000.000,00 z³ i dzieli siê na 10.000.000 akcji zwyk³ych na
+          okaziciela serii A o wartoœci nominalnej 0,10 z³ ka¿da. Spó³ka objê³a 100% akcji w kapitale zak³adowym
+          Untold Tales S.A.
+          Spó³ka Untold Tales S.A. zosta³a zarejestrowana w Krajowym Rejestrze S¹dowym w dniu 21 wrzeœnia 2020 r.
+          Akcje zosta³y op³acone przed zarejestrowaniem Spó³ki wk³adem pieniê¿nym w wysokoœci 250.000,00 z³.
+          Pe³ne pokrycie akcji wk³adem pieniê¿nym nast¹pi³o do dnia 31 grudnia 2020 r.
+          Udzia³y i akcje w pozosta³ych jednostkach, w których jednostka posiada zaanga¿owanie w kapitale
+          Na dzieñ 31 grudnia 2020 r. d³ugoterminowe aktywa finansowe w pozosta³ych jednostkach, w których
+          jednostka posiada zaanga¿owanie w kapitale obejmuj¹ 25.000 akcji spó³ki SQRT3 S.A. (stanowi¹cych 20%
+          wszystkich akcji tej spó³ki) o wartoœci w cenie nabycia 300.000 z³. oraz 366 udzia³ów w spó³ce Nakana Sp. z
+          o.o. (stanowi¹cych 33,27% udzia³ów tej spó³ki) o wartoœci w cenie nabycia 22.540 z³.
+          W dniu 19 czerwca 2020 roku Spó³ka zawar³a umowê sprzeda¿y 66,73% udzia³ów w kapitale zak³adowym
+          spó³ki Nakana Sp. z o.o. za ³¹czn¹ cenê w wysokoœci 36.700 z³ Prezesowi Zarz¹du Nakana Sp. z o.o., Panu
+          Mikaelowi Bourget. Zgodnie z postanowieniami powy¿szej umowy, udzia³y w Nakana Sp. z o.o. zosta³y
+          przeniesione na Pana Mikaela Bourget z chwil¹ zap³aty przez niego ceny sprzeda¿y wynikaj¹cej z umowy, tj.
+          w dniu 3 lipca 2020 roku. W zwi¹zku z powy¿szym od dnia 3 lipca 2020 roku Nakana Sp. z o.o. nie jest ju¿
+          jednostk¹ zale¿n¹ od Spó³ki, lecz jednostk¹ stowarzyszon¹.
+          Udzia³y i akcje w pozosta³ych jednostkach
+          Na dzieñ 31 grudnia 2020 r. d³ugoterminowe aktywa finansowe w pozosta³ych jednostkach obejmuj¹:
+          - 435.240 akcji spó³ki SONKA S.A. (stanowi¹cych 12,06% wszystkich akcji tej spó³ki) o ³¹cznej wartoœci
+          godziwej w wysokoœci 4.204.418,40 z³;
+          - 172 udzia³y w spó³ce No Gravity Development Sp. z o.o. (stanowi¹cych 7,83% wszystkich udzia³ów tej
+          spó³ki) o ³¹cznej wartoœci godziwej w wysokoœci 930.000 z³.
+          Dodatkowo na dzieñ 31 grudnia 2020 r. Spó³ka posiada 38.460 akcji spó³ki SONKA S.A. (stanowi¹cych
+          1,07% wszystkich akcji tej spó³ki) o ³¹cznej wartoœci godziwej w wysokoœci 371.523,60 z³, które zosta³y
+          zaprezentowane w bilansie w pozycji "Krótkoterminowe aktywa finansowe w pozosta³ych jednostkach - udzia³y
+          i akcje". £¹cznie na dzieñ 31 grudnia 2020 r. Spó³ka posiada 473.700 akcji spó³ki SONKA S.A. (stanowi¹cych
+          13,13% wszystkich akcji tej spó³ki) o ³¹cznej wartoœci godziwej w wysokoœci 4.575.942 z³.
+          W lipcu 2020 roku Spó³ka dokona³a sprzeda¿y 150.000 akcji Drageus Games S.A. za ³¹czn¹ cenê w
+          wysokoœci 1.269.906,73 z³ na rynku NewConnect. W wyniku transakcji sprzeda¿y Spó³ka wygenerowa³a
+          zrealizowany zysk ze sprzeda¿y akcji Drageus Games S.A. w 2020 roku w wysokoœci 443.068,23 z³, co
+          wykazano w pozycji „Zysk z tytu³u rozchodu aktywów finansowych” w rachunku zysków i strat.
+          W trakcie 2020 roku Spó³ka dokona³a równie¿ sprzeda¿y wszystkich posiadanych akcji        spó³ki Noobz from
+          Poland S.A. za ³¹czn¹ cenê w wysokoœci 2.096.354,22 z³. W wyniku transakcji               sprzeda¿y Spó³ka
+          wygenerowa³a zrealizowany zysk ze sprzeda¿y akcji Noobz from Poland S.A. w 2020            roku w wysokoœci
+          674.048,23 z³, co wykazano w pozycji „Zysk z tytu³u rozchodu aktywów finansowych” w       rachunku zysków i
+          strat.
+                                                            23
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+          Wycena udzia³ów i akcji w pozosta³ych jednostkach
+          a) SONKA S.A.
+          Wartoœæ godziwa akcji spó³ki SONKA S.A. na dzieñ 31 grudnia 2020 r. zosta³a ustalana, zgodnie z
+          Rozporz¹dzeniem Ministra Finansów z dnia 12 grudnia 2001 r. w sprawie szczegó³owych zasad uznawania,
+          metod wyceny, zakresu ujawniania i sposobu prezentacji instrumentów finansowych, drog¹ wyceny
+          instrumentu finansowego po cenie ustalonej w aktywnym obrocie regulowanym, t.j. wed³ug kursu akcji
+          SONKA S.A. na rynku NewConnect z dnia 31 grudnia 2020 r.
+          Skutki przeszacowania wartoœci godziwej zosta³y odniesione na przychody finansowe w kwocie 1.899.537 z³.
+          b) No Gravity Development Sp. z o.o.
+          Wartoœæ godziwa akcji spó³ki No Gravity Development Sp. z o.o. na dzieñ 31 grudnia 2020 r. zosta³a ustalana,
+          zgodnie z Rozporz¹dzeniem Ministra Finansów z dnia 12 grudnia 2001 r. w sprawie szczegó³owych zasad
+          uznawania, metod wyceny, zakresu ujawniania i sposobu prezentacji instrumentów finansowych, w drodze
+          oszacowania ceny instrumentu finansowego za pomoc¹ metod estymacji powszechnie uznanych za
+          poprawne.
+          Przyjêta metoda wyceny polega³a na ustaleniu wartoœci spó³ki No Gravity Development Sp. z o.o. poprzez
+          oszacowanie mno¿nika opartego na przychodach EV/Revenues przy zastosowaniu metody porównawczej do
+          innych spó³ek z tej samej bran¿y notowanych na rynku NewConnect oraz odniesieniu wyliczonego mno¿nika
+          do poziomu przychodów spó³ki No Gravity Development Sp. z o.o. za rok koñcz¹cy siê 31 grudnia 2020 r.
+          Wycena uwzglêdnia dyskonto zwi¹zane z faktem, i¿ spó³ka No Gravity Development Sp. z o.o. nie jest na
+          dzieñ sporz¹dzenia wyceny notowana na rynku NewConnect.
+          Skutki przeszacowania wartoœci godziwej zosta³y odniesione na przychody finansowe w kwocie 580.000 z³.
+ 4. 2 Odpisy aktualizuj¹ce wartoœæ d³ugoterminowych aktywów trwa³ych
+          Nie dotyczy.
+ 4. 3 Wykaz spó³ek stowarzyszonych i zale¿nych
+                                                                 % ogólnej liczby  Zysk/(Strata)      Kapita³ w³asny
+                                                % posiadanych g³osów w organie      netto za rok             na dzieñ
+          Nazwa Spó³ki                               udzia³ów       stanowi¹cym        obrotowy            bilansowy
+          Untold Tales S.A.                            100,0%            100,0%     (214 675,29) **        785 324,71
+          Nakana Sp. z o.o.                             33,3%              33,3%       32 882,39 *          20 052,54
+          SQRT3 S.A.                                    20,0%              20,0%      161 798,27 **        625 940,01
+          * dane ze sprawozdania finansowego nie podlegaj¹cego badaniu przez bieg³ego rewidenta
+          ** dane ze sprawozdania finansowego nie zbadanego przez bieg³ego rewidenta
+                                                              24
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 5.       Zapasy
+                                                                           31.12.2020         31.12.2019
+          Stan zapasów brutto                                           2 426 582,22        2 090 760,07
+          Odpis aktualizuj¹cy wartoœæ zapasów                            (730 783,71)       (681 556,02)
+          Stan zapasów netto                                            1 695 798,51        1 409 204,05
+          Poszczególne komponenty tych zapasów to nak³ady na nastêpuj¹ce gry oraz produkty:
+                                                                           31.12.2020         31.12.2019
+          Myths and Dungeons                                               929 087,62         911 912,62
+          Tratwa                                                                     -        158 018,94
+          Geo Quiz                                                         236 193,90                   -
+          Pozosta³e gry                                                    530 516,99         339 272,49
+                                                                        1 695 798,51        1 409 204,05
+ 6.       Œrodki pieniê¿ne
+                                                                           31.12.2020         31.12.2019
+          Œrodki pieniê¿ne w kasie                                             179,05             320,36
+          Œrodki pieniê¿ne na rachunkach, w tym:                        1 440 886,38          280 468,35
+             œrodki pieniê¿ne zgromadzone na rachunku VAT                           -                  -
+                                                                        1 441 065,43          280 788,71
+                                                       25
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+  7.      Nale¿noœci krótkoterminowe
+  7. 1 Nale¿noœci krótkoterminowe z tytu³u dostaw i us³ug od jednostek powi¹zanych
+                                                              31.12.2020     31.12.2019
+          Stan nale¿noœci brutto                                3 690,00              -
+          Odpis aktualizuj¹cy wartoœæ nale¿noœci                       -              -
+          Stan nale¿noœci netto                                 3 690,00              -
+  7. 2 Nale¿noœci krótkoterminowe z tytu³u dostaw i us³ug od pozosta³ych jednostek,
+          w których jednostka posiada zaanga¿owanie w kapitale
+                                                              31.12.2020     31.12.2019
+          Stan nale¿noœci brutto                                       -      73 800,00
+          Odpis aktualizuj¹cy wartoœæ nale¿noœci                       -              -
+          Stan nale¿noœci netto                                        -      73 800,00
+  7. 3 Nale¿noœci krótkoterminowe z tytu³u dostaw i us³ug od pozosta³ych jednostek
+                                                              31.12.2020     31.12.2019
+          Stan nale¿noœci brutto                            1 177 748,22   2 048 002,27
+          Odpis aktualizuj¹cy wartoœæ nale¿noœci                       -              -
+          Stan nale¿noœci netto                             1 177 748,22   2 048 002,27
+  8.      Krótkoterminowe rozliczenia miêdzyokresowe
+                                                              31.12.2020     31.12.2019
+          Minimum gwarancyjne wyp³acone deweloperom           715 192,96   1 069 708,47
+          Niezafakturowane przychody                           30 000,00       3 392,21
+          Ubezpieczenia                                         9 732,15       4 634,00
+          Odroczone koszty wydawnicze                          30 666,05      79 012,37
+          Koszty prowizji od kredytów rozliczane w czasie       7 168,97       9 293,53
+          Pozosta³e                                             9 641,32      12 913,38
+                                                              802 401,45   1 178 953,96
+                                                     26
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+  9.        Kapita³ w³asny
+  9. 1      Struktura w³asnoœci kapita³u podstawowego
+                                                                                          Wartoœæ
+                                                                                        nominalna
+            Akcjonariusz                                          Seria     Iloœæ akcji      akcji         Udzia³ %
+            Jakub Pieczykolan                                       A(1)       780 000   78 000,00           7,94%
+                                                                    B/C      3 172 500  317 250,00          32,31%
+            Pozostali < 5%                                          B/C      5 867 500  586 750,00          59,75%
+                                                                             9 820 000  982 000,00         100,00%
+            (1) Akcje serii A s¹ uprzywilejowane co do g³osu w ten sposób, ¿e na ka¿d¹ 1 (jedn¹) akcjê przypadaj¹ 2
+            (dwa) g³osy.
+            W dniu 18 lutego 2020 r. Pan Jakub Pieczykolan, Prezes Spó³ki dokona³ zbycia ³¹cznie 455.000 akcji
+            QubicGames S.A. Transakcji dokonano na rynku NewConnect.
+            Po uwzglêdnieniu powy¿szej transakcji, Pan Jakub Pieczykolan posiada 3.952.500 akcji QubicGames S.A.,
+            co stanowi 40,25% w kapitale zak³adowym Spó³ki oraz 44,65% g³osów na Walnym Zgromadzeniu Spó³ki.
+  9. 2      Propozycje co do sposobu podzia³u zysku za rok obrotowy
+            Zarz¹d Spó³ki proponuje przeznaczyæ zysk za rok obrotowy 2020 w ca³oœci na kapita³ zapasowy.
+ 10.        Zobowi¹zania d³ugoterminowe
+ 10. 1      Struktura wiekowa zobowi¹zañ d³ugoterminowych wobec pozosta³ych jednostek
+                                                    Z tytu³u
+                                                      emisji
+                                                   d³u¿nych        Inne
+                                                   papierów    zobowi¹-
+                                     Kredyty      wartoœcio-      zania  Zobowi¹zania
+                                  i po¿yczki           wych  finansowe      wekslowe          Inne          Razem
+            Przypadaj¹ce
+            do sp³aty:
+            powy¿ej 1
+                                 434 401,50                -  83 526,77               -          -       517 928,27
+            roku do 3 lat
+            powy¿ej 3 do
+                                   39 185,00               -           -              -          -        39 185,00
+            5 lat
+                                 473 586,50                -  83 526,77               -          -       557 113,27
+            Przypadaj¹ce
+            do sp³aty:
+            do 1 roku            475 458,02                -  35 302,76               -   3 455,37       514 216,15
+            ujête jako zobowi¹zania krótkoterminowe
+                                                               27
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 11.        Inne rozliczenia miêdzyokresowe
+ 11. 1      Rozliczenia krótkoterminowe
+                                                                      31.12.2020   31.12.2019
+            Przychody przysz³ych okresów                                       -   144 919,11
+            Rezerwa na audyt                                           10 000,00     9 700,00
+            Rezerwa na koszty royalties dla deweloperów                77 222,92   187 148,26
+            Rezerwa na premie od sprzeda¿y                             28 842,50    20 185,17
+                                                                      116 065,42   361 952,54
+ 12.        Struktura przychodów ze sprzeda¿y
+                                                                    01.01.2020 - 01.01.2019 -
+                                                                      31.12.2020   31.12.2019
+            Struktura geograficzna
+            Przychody ze sprzeda¿y produktów
+            Kraj                                                      237 634,77   592 831,97
+            Eksport                                                10 657 728,19 8 387 347,32
+                                                                   10 895 362,96 8 980 179,29
+            Przychody ze sprzeda¿y towarów i materia³ów
+            Kraj                                                               -   164 500,00
+                                                                               -   164 500,00
+            Struktura rzeczowa
+            Przychody ze sprzeda¿y produktów
+            Przychody ze sprzeda¿y gier i praw autorskich          10 155 290,65 8 970 757,52
+            Przychody ze sprzeda¿y us³ug w zakresie tworzenia gier             -     9 421,77
+            Przychody z tytu³u portowania gier                        565 612,00            -
+            Przychody z tytu³u wspomagania sprzeda¿y gier             174 460,31            -
+                                                                   10 895 362,96 8 980 179,29
+            Przychody ze sprzeda¿y towarów i materia³ów
+            Przychody ze sprzeda¿y gier i praw autorskich                      -   164 500,00
+                                                                               -   164 500,00
+ 13.        Struktura us³ug obcych
+                                                                    01.01.2020 - 01.01.2019 -
+                                                                      31.12.2020   31.12.2019
+            Us³ugi obce
+            Prowizja agencyjna od sprzeda¿y gier na platformie
+                                                                    2 907 321,75 2 506 966,32
+            Nintendo Switch
+            Koszty royalties nale¿nych deweloperom wydawanych
+                                                                    3 679 967,08 2 823 260,20
+            gier
+            Pozosta³e                                               1 727 126,38   650 014,47
+                                                                    8 314 415,21 5 980 240,99
+                                                          28
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 14.        Przychody odsetkowe
+            (w tym wynikaj¹ce z d³u¿nych instrumentów finansowych oraz po¿yczek udzielonych i
+            nale¿noœci w³asnych)
+            w okresie od 1 stycznia 2020 r. do 31 grudnia 2020 r.
+                                                               Odsetki niezrealizowane, o terminie
+                                                                            p³atnoœci
+                                                  Odsetki
+                                                  zrealizo-        do 3         od 3 do       powy¿ej
+                                                    wane      miesiêcy     12 miesiêcy     12 miesiêcy      Razem
+            Pozosta³e aktywa                                                 11 364,16               -   11 364,16
+                                                            -         -      11 364,16               -   11 364,16
+            w okresie od 1 stycznia 2019 r. do 31 grudnia 2019 r.
+                                                               Odsetki niezrealizowane, o terminie
+                                                  Odsetki                   p³atnoœci
+                                                  zrealizo-        do 3         od 3 do       powy¿ej
+                                                    wane      miesiêcy     12 miesiêcy     12 miesiêcy      Razem
+            Pozosta³e aktywa                          557,53  48 210,29               -              -   48 767,82
+                                                      557,53  48 210,29               -              -   48 767,82
+ 15.        Koszty odsetkowe
+            (w tym wynikaj¹ce z zaci¹gniêtych zobowi¹zañ finansowych)
+            w okresie od 1 stycznia 2020 r. do 31 grudnia 2020 r.
+                                                               Odsetki niezrealizowane, o terminie
+                                                                            p³atnoœci
+                                                  Odsetki
+                                                  zrealizo-        do 3         od 3 do       powy¿ej
+                                                    wane      miesiêcy     12 miesiêcy     12 miesiêcy      Razem
+            Pozosta³e krótkoterminowe
+            zobowi¹zania finansowe                 25 825,17                   5 504,52              -   31 329,69
+                                                   25 825,17          -        5 504,52              -   31 329,69
+            w okresie od 1 stycznia 2019 r. do 31 grudnia 2019 r.
+                                                               Odsetki niezrealizowane, o terminie
+                                                                            p³atnoœci
+                                                  Odsetki
+                                                  zrealizo-        do 3         od 3 do       powy¿ej
+                                                    wane      miesiêcy     12 miesiêcy     12 miesiêcy      Razem
+            Pozosta³e krótkoterminowe
+            zobowi¹zania finansowe                 24 402,21   1 954,36        3 886,09              -   30 242,66
+                                                   24 402,21   1 954,36        3 886,09              -   30 242,66
+ 16.        Nak³ady na niefinansowe aktywa trwa³e
+                                                                                          01.01.2020 - 01.01.2019 -
+                                                                                            31.12.2020  31.12.2019
+            Nak³ady na niefinansowe aktywa trwa³e:
+            - poniesione w roku                                                             351 725,51   68 586,70
+            - planowane na rok nastêpny                                                      40 000,00   40 000,00
+                                                               29
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 17.        Pozycje przychodów lub kosztów o nadzwyczajnej wartoœci lub które wyst¹pi³y
+            incydentalnie
+                                                                                 01.01.2020 -   01.01.2019 -
+            Koszty                                                                 31.12.2020     31.12.2019
+            Koszty maseczek ochronnych zabezpieczaj¹cych
+            przed COVID-19, przekazanych w darowiŸnie szpitalom                    258 750,00              -
+            jednoimiennym
+                                                                                   258 750,00              -
+ 18.        Sk³adniki aktywów lub zobowi¹zañ prezentowane w wiêcej ni¿ jednej pozycji bilansu
+            Nastêpuj¹ce sk³adniki aktywów prezentowane s¹ w wiêcej ni¿ jednej pozycji bilansu:
+                                                                                 01.01.2020 -   01.01.2019 -
+                                                                                   31.12.2020     31.12.2019
+            Akcje spó³ki SONKA S.A.:
+            - w czêœci d³ugoterminowej prezentowane w pozycji "D³ugoterminowe    4 204 418,40              -
+            aktywa finansowe w pozosta³ych jednostkach - udzia³y i akcje"
+            - w czêœci krótkoterminowej prezentowane w pozycji "Krótkoterminowe    371 523,60              -
+            aktywa finansowe w pozosta³ych jednostkach - udzia³y i akcje"
+                                                                                 4 575 942,00              -
+            Nastêpuj¹ce sk³adniki zobowi¹zañ prezentowane s¹ w wiêcej ni¿ jednej pozycji bilansu:
+                                                                                 01.01.2020 -   01.01.2019 -
+                                                                                   31.12.2020     31.12.2019
+            Zobowi¹zania z tytu³u kredytu bankowego:
+            - w czêœci d³ugoterminowej prezentowane w pozycji "Wobec pozosta³ych   227 177,00     324 573,00
+            jednostek - kredyty i po¿yczki"
+            - w czêœci krótkoterminowej prezentowane w pozycji "Zobowi¹zania        93 996,00     104 196,00
+            wobec pozosta³ych jednostek - kredyty i po¿yczki"
+                                                                                   321 173,00     428 769,00
+            Zobowi¹zania z tytu³u umowy leasingu finansowego:
+            - w czêœci d³ugoterminowej prezentowane w pozycji "Wobec pozosta³ych    83 526,77              -
+            jednostek - inne zobowi¹zania finansowe"
+            - w czêœci krótkoterminowej prezentowane w pozycji "Zobowi¹zania        35 302,76              -
+            wobec pozosta³ych jednostek - inne zobowi¹zania finansowe"
+                                                                                   118 829,53              -
+            Zobowi¹zania z tytu³u otrzymanej subwencji z funduszu PFR:
+            - w czêœci d³ugoterminowej prezentowane w pozycji "Wobec pozosta³ych   246 409,50              -
+            jednostek - kredyty i po¿yczki"
+            - w czêœci krótkoterminowej prezentowane w pozycji "Zobowi¹zania        82 136,50              -
+            wobec pozosta³ych jednostek - kredyty i po¿yczki"
+                                                                                   328 546,00              -
+                                                         30
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 19.        Informacje na temat sk³adników aktywów niebêd¹cych instrumentami finansowymi
+            wycenianych w wartoœci godziwej
+            Nie dotyczy.
+ 20.        Objaœnienia do rachunku przep³ywów pieniê¿nych
+ 20. 1      Zysk z dzia³alnoœci inwestycyjnej
+                                                                                01.01.2020 -      01.01.2019 -
+                                                                                  31.12.2020        31.12.2019
+            (Zysk)/Strata ze zbycia œrodków trwa³ych                                 (500,00)                 -
+            (Zysk)/Strata ze zbycia inwestycji                                (1 117 116,99)                  -
+            Aktualizacja wartoœci inwestycji                                  (2 479 537,00)    (2 660 186,46)
+            Inne                                                                  144 919,11        102 863,75
+                                                                              (3 452 234,88)    (2 557 322,71)
+ 20. 2      Zmiana stanu zapasów
+                                                                                01.01.2020 -      01.01.2019 -
+                                                                                  31.12.2020        31.12.2019
+            Zmiana stanu zapasów                                                (286 594,46)      (468 370,46)
+            Przeklasyfikowanie zapasów na WNiP                                  (712 619,86)      (755 138,32)
+                                                                                (999 214,32)    (1 223 508,78)
+ 20. 3      Zmiana stanu zobowi¹zañ krótkoterminowych (z wyj¹tkiem kredytów i po¿yczek)
+                                                                                01.01.2020 -      01.01.2019 -
+                                                                                  31.12.2020        31.12.2019
+            Zmiana stanu zobowi¹zañ krótkoterminowych                         (1 213 061,82)      3 021 368,11
+            Zmiana stanu kredytów i po¿yczek                                      356 893,50      (889 298,35)
+            Zmiana stanu innych zobowi¹zañ finansowych (w tym leasingu)           224 193,07      (255 324,65)
+                                                                                (631 975,25)      1 876 745,11
+ 20. 4      Nabycie wartoœci niematerialnych i prawnych oraz rzeczowych aktywów trwa³ych
+                                                                                01.01.2020 -      01.01.2019 -
+                                                                                  31.12.2020        31.12.2019
+            Zwiêkszenia wartoœci niematerialnych i prawnych                     (250 000,00)                  -
+            Zwiêkszenia œrodków trwa³ych                                        (101 725,51)        (68 586,70)
+                                                                                (351 725,51)        (68 586,70)
+ 21.        Informacje o charakterze i            celu   gospodarczym   zawartych    przez    Spó³kê    umów
+            nieuwzglêdnionych w bilansie
+            W roku obrotowym 2020 Spó³ka nie zawiera³a umów i transakcji nieuwzglêdnionych w bilansie,
+            które nie zosta³y wykazane w innych miejscach dodatkowych informacji i objaœnieñ, w zakresie
+            niezbêdnym do oceny ich wp³ywu na sytuacjê maj¹tkow¹, finansow¹ i wynik finansowy Spó³ki.
+                                                         31
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 22.        Transakcje z jednostkami powi¹zanymi
+ 22. 1      Saldo rozrachunków na dzieñ bilansowy
+                                                                            Nale¿noœci   Zobowi¹zania
+            Untold Tales S.A.                                                  3 690,00               -
+                                                                               3 690,00               -
+ 22. 2      Przychody ze wzajemnych transakcji w roku obrotowym
+                                                                                   Inne   Przychody ze
+                                                                             przychody       sprzeda¿y
+            Untold Tales S.A.                                                 18 826,00       37 725,00
+                                                                              18 826,00       37 725,00
+ 22. 3      Koszty ze wzajemnych transakcji w roku obrotowym
+                                                                   Zakupy
+                                                               materia³ów
+                                                                i towarów Zakupy us³ug         Odsetki
+            Untold Tales S.A.                                            -    25 000,00               -
+                                                                         -    25 000,00               -
+ 23.        Informacje o istotnych transakcjach zawartych przez Spó³kê na innych warunkach ni¿
+            rynkowe ze stronami powi¹zanymi
+            W roku obrotowym 2020 Spó³ka nie zawiera³a istotnych transakcjach na innych warunkach ni¿
+            rynkowe ze stronami powi¹zanymi.
+ 24.        Zatrudnienie
+            Przeciêtny stan zatrudnienia w roku obrotowym
+            Pracownicy zwi¹zani z produkcj¹ gier                                                   5,00
+            Pracownicy administracyjni                                                             1,00
+                                                                                                   6,00
+            W roku obrotowym 2020 Spó³ka wspó³pracowa³a w sposób sta³y lub okresowy z 39 osobami na
+            podstawie umów cywilnoprawanych (2019 r.: z 23 osobami).
+                                                      32
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 25.        Wynagrodzenia, zaliczki oraz po¿yczki i œwiadczenia o podobnym charakterze dla osób
+            wchodz¹cych w sk³ad organu zarz¹dzaj¹cego, nadzoruj¹cego i administruj¹cego
+            Wynagrodzenia, ³¹czenie z wynagrodzeniem z zysku, wyp³acone lub nale¿ne osobom
+            wchodz¹cym w sk³ad organu zarz¹dzaj¹cego, nadzoruj¹cego i administruj¹cego:
+                                                                                 31.12.2020      31.12.2019
+            Organ zarz¹dzaj¹cy                                                   211 200,00      159 000,00
+            Organ nadzoruj¹cy                                                     34 205,45        39 391,56
+                                                                                 245 405,45      198 391,56
+            W latach 2020 i 2019 nie wyp³acono zaliczek ani nie udzielono po¿yczek i œwiadczeñ o podobnym
+            charakterze osobom wchodz¹cym w sk³ad organów zarz¹dzaj¹cych, nadzoruj¹cych albo
+            administruj¹cych.
+ 26.        Wynagrodzenie firmy audytorskiej wyp³acone lub nale¿ne
+                                                                               01.01.2020 -     01.01.2019 -
+                                                                                 31.12.2020      31.12.2019
+            Wynagrodzenie z tytu³u badania rocznego sprawozdania finansowego
+                                                                                  10 000,00         9 700,00
+ 27.        Zdarzenia dotycz¹ce lat ubieg³ych ujête w sprawozdaniu finansowym roku obrotowego
+            Nie dotyczy.
+ 28.        Zdarzenia po dniu bilansowym nie ujête w sprawozdaniu finansowym
+            W dniach od 11 stycznia 2021 roku do 19 lutego 2021 roku Spó³ka dokona³a sprzeda¿y 38.460
+            akcji spó³ki SONKA S.A. za ³¹czn¹ cenê w wysokoœci 383.142,82 z³ na rynku NewConnect.
+            W wyniku transakcji sprzeda¿y Spó³ka wygenerowa³a zrealizowany zysk ze sprzeda¿y akcji w
+            2021 roku w wysokoœci 10.152,86 z³.
+            Na dzieñ sporz¹dzenia niniejszego sprawozdania finansowego Spó³ka posiada 12,08% wszystkich
+            akcji tej spó³ki.
+ 29.        Informacje o skonsolidowanym sprawozdaniu finansowym
+            Spó³ka nie sporz¹dza skonsolidowanego sprawozdania finansowego z uwagi na spe³nienie
+            kryteriów, o których mowa w art. 58 ust. 1 Ustawy o Rachunkowoœci.
+            Podstawowe wskaŸniki ekonomiczno-finansowe, charakteryzuj¹ce dzia³alnoœæ              jednostek
+            powi¹zanych w danym i ubieg³ym roku obrotowym kszta³tuj¹ siê nastêpuj¹co.
+                                                       33
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+            Untold Tales S.A.                                                   01.01.2020 -    01.01.2019 -
+                                                                                  31.12.2020     31.12.2019
+            Przychody netto ze sprzeda¿y produktów, towarów i materia³ów          148 134,37               -
+            Strata ze sprzeda¿y                                                 (215 701,80)               -
+            Przychody finansowe                                                     1 822,43               -
+            Strata brutto                                                       (214 675,29)               -
+            Strata netto                                                        (214 675,29)               -
+                                                                                  31.12.2020     31.12.2019
+            Kapita³y w³asne                                                       785 324,71               -
+            Zobowi¹zania i rezerwy na zobowi¹zania                                176 777,26               -
+            Aktywa trwa³e                                                          41 546,93               -
+            Aktywa obrotowe                                                       920 555,04               -
+ 30.        Zobowi¹zania warunkowe
+            Przepisy dotycz¹ce podatku od towarów i us³ug, podatku dochodowego od osób prawnych,
+            fizycznych, podatku od nieruchomoœci czy sk³adek na ubezpieczenia spo³eczne podlegaj¹
+            zmianom, wskutek czego niejednokrotnie brak jest odniesienia do utrwalonych regulacji b¹dŸ
+            precedensów prawnych. Obowi¹zuj¹ce przepisy zawieraj¹ równie¿ niejasnoœci, które powoduj¹
+            ró¿nice w opiniach, co do interpretacji prawnej przepisów podatkowych zarówno miêdzy organami
+            pañstwowymi, jak i miêdzy organami pañstwowymi i przedsiêbiorstwami. Rozliczenia podatkowe
+            oraz inne (na przyk³ad celne czy dewizowe) mog¹ byæ przedmiotem kontroli organów, które
+            uprawnione s¹ do nak³adania istotnych kar, a ustalone w wyniku kontroli dodatkowe kwoty
+            zobowi¹zañ musz¹ zostaæ wp³acone wraz z odsetkami. Zjawiska te powoduj¹, ¿e ryzyko
+            podatkowe w Polsce jest wy¿sze ni¿ istniej¹ce zwykle w krajach o bardziej rozwiniêtym systemie
+            podatkowym.
+            Rozliczenia podatkowe mog¹ zostaæ poddane kontroli przez okres piêciu lat. W efekcie kwoty
+            wykazane w sprawozdaniu finansowym mog¹ ulec zmianie w póŸniejszym terminie po
+            ostatecznym ustaleniu ich wysokoœci przez organy skarbowe.
+ 31.        Ustanowione przez Spó³kê zabezpieczenia maj¹tkowe
+            Spó³ka wystawi³a weksel zwi¹zany z umow¹ leasingu œrodków transportu.
+ 32.        Jednostki których Spó³ka jest wspólnikiem ponosz¹cym nieograniczon¹ odpowiedzialnoœæ
+            Nie dotyczy.
+ 33.        Dzia³alnoœæ zaniechana
+            Nie dotyczy.
+                                                        34
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+ 34.        Informacje o instrumentach finansowych
+ 34. 1      Cele i zasady zarz¹dzania ryzykiem finansowym
+            Dzia³alnoœæ Spó³ki nara¿ona jest na nastêpuj¹ce rodzaje ryzyka wynikaj¹ce z posiadania
+            instrumentów finansowych:
+              <U+25CF>  ryzyko kredytowe,
+              <U+25CF>  ryzyko p³ynnoœci,
+              <U+25CF>  ryzyko rynkowe.
+            Podstawowe zasady zarz¹dzania ryzykiem
+            Zarz¹d ponosi odpowiedzialnoœæ za ustanowienie i nadzór nad zarz¹dzaniem ryzykiem przez
+            Spó³kê, w tym identyfikacjê i analizê ryzyk, na które Spó³ka jest nara¿ona, okreœlenie
+            odpowiednich ich limitów i kontroli, jak te¿ monitorowanie ryzyka i stopnia dopasowania do limitów.
+            Zasady i procedury zarz¹dzania ryzykiem podlegaj¹ regularnym przegl¹dom w celu uwzglêdnienia
+            zmiany warunków rynkowych i zmian w dzia³alnoœci Spó³ki.
+            Ryzyko kredytowe
+            Ryzyko kredytowe jest to ryzyko poniesienia straty finansowej przez Spó³kê w sytuacji, kiedy
+            strona instrumentu finansowego nie spe³nia obowi¹zków wynikaj¹cych z umowy. Ryzyko
+            kredytowe zwi¹zane jest przede wszystkim z d³u¿nymi instrumentami finansowymi. Celem
+            zarz¹dzania ryzykiem jest utrzymywanie stabilnego i zrównowa¿onego pod wzglêdem jakoœci i
+            wartoœci portfela wierzytelnoœci z tytu³u udzielonych po¿yczek oraz innych inwestycji w d³u¿ne
+            instrumenty finansowe, dziêki polityce ustalania limitów kredytowych dla stron umowy.
+            Dalsze informacje na temat ryzyka kredytowego zosta³y przedstawione w Dodatkowych
+            informacjach i objaœnieniach w nocie 34.5.
+            Ryzyko p³ynnoœci
+            Ryzyko p³ynnoœci jest to ryzyko wyst¹pienia trudnoœci w spe³nieniu przez Spó³kê obowi¹zków
+            zwi¹zanych ze zobowi¹zaniami finansowymi, które rozliczane s¹ w drodze wydania œrodków
+            pieniê¿nych lub innych aktywów finansowych. Zarz¹dzanie p³ynnoœci¹ przez Spó³kê polega na
+            zapewnianiu, aby w mo¿liwie najwy¿szym stopniu, Spó³ka posiada³a p³ynnoœæ wystarczaj¹c¹ do
+            regulowania wymagalnych zobowi¹zañ, zarówno w normalnej jak i kryzysowej sytuacji, bez
+            nara¿ania na niedopuszczalne straty lub podwa¿enie reputacji Spó³ki. W tym celu Spó³ka
+            monitoruje przep³ywy pieniê¿ne, utrzymuje linie kredytowe i zapewnia œrodki pieniê¿ne w kwocie
+            wystarczaj¹cej dla pokrycia oczekiwanych wydatków operacyjnych i bie¿¹cych zobowi¹zañ
+            finansowych oraz utrzymuje za³o¿one wskaŸniki p³ynnoœci.
+            Ryzyko rynkowe
+            Ryzyko rynkowe polega na tym, ¿e zmiany cen rynkowych, takich jak kursy walutowe, stopy
+            procentowe, ceny instrumentów kapita³owych bêd¹ wp³ywaæ na wyniki Spó³ki lub na wartoœæ
+            posiadanych instrumentów finansowych. Celem zarz¹dzania ryzykiem rynkowym jest utrzymanie i
+            kontrolowanie stopnia nara¿enia Spó³ki na ryzyko rynkowe w granicach przyjêtych parametrów,
+            przy jednoczesnym d¹¿eniu do optymalizacji stopy zwrotu z inwestycji.
+                                                         35
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+            a) Ryzyko walutowe
+            Spó³ka jest nara¿ona na ryzyko walutowe w zwi¹zku z transakcjami sprzeda¿y, zakupu oraz
+            po¿yczkami, które s¹ wyra¿one w walucie obcej, czyli g³ównie USD, EUR. Spó³ka minimalizuje
+            ryzyko walutowe poprzez odpowiednie ukszta³towanie struktury aktywów i pasywów wyra¿onych w
+            walutach obcych.
+            b) Ryzyko stopy procentowej
+            Spó³ka jest nara¿ona na ryzyko zmiennoœci przep³ywów pieniê¿nych powodowanych przez stopy
+            procentowe, zwi¹zane z aktywami i zobowi¹zaniami o zmiennych stopach procentowych, oraz na
+            ryzyko zmiennoœci wartoœci godziwej wynikaj¹ce z aktywów i zobowi¹zañ o sta³ych stopach
+            procentowych. Spó³ka minimalizuje ryzyko stopy procentowej poprzez odpowiednie
+            ukszta³towanie struktury aktywów i pasywów o zmiennej i sta³ej stopie procentowej.
+            Dodatkowe informacje na temat ryzyka stopy procentowej zosta³y przedstawione w Dodatkowych
+            informacjach i objaœnieniach w nocie 34.4.
+ 34. 2      Charakterystyka instrumentów finansowych
+                                                                           Wartoœæ Warunki i terminy wp³ywaj¹ce
+            Portfel                                  Charakterystyka     bilansowa na przysz³e przep³ywy pieniê¿ne
+                                               473.700 akcji zwyk³ych
+            Aktywa finansowe dostêpne
+                                               serii A w spó³ce SONKA  4 575 942,00            nie dotyczy
+            do sprzeda¿y
+                                               S.A.
+                                               172 udzia³y w spó³ce No
+            Aktywa finansowe dostêpne
+                                               Gravity Development Sp.   930 000,00            nie dotyczy
+            do sprzeda¿y
+                                               z o.o.
+                                                                                           Z dniem 29.02.2020
+                                               Weksle w³asne
+            Aktywa finansowe                                                          przekonwertowane na akcje w
+                                               wystawione przez spó³kê
+            utrzymywane do terminu                                       344 524,43 spó³ce Vavel Game Studio Ltd; do
+                                               Vavel Game Studio Ltd w
+            wymagalnoœci                                                            dnia 31.12.2020 akcje nie zosta³y
+                                               wysokoœci 75.000 USD
+                                                                                         jeszcze zarejestrowane
+                                               œrodki pieniê¿ne i inne
+            Œrodki pieniê¿ne                                           1 441 065,43            nie dotyczy
+                                               aktywa pieniê¿ne
+                                               Po¿yczka udzielona
+            Po¿yczki udzielone i                                                       Termin sp³aty - 31.03.2021;
+                                               spó³ce stowarzyszonej      51 015,06
+            nale¿noœci w³asne                                                           oprocentowanie sta³e - 3%
+                                               Nakana Sp. z o.o.
+                                               Kredyt bankowy w banku                  Termin sp³aty - 20.05.2024;
+            Pozosta³e zobowi¹zania
+                                               Santander Bank Polska     321 173,00  oprocentowanie zmienne - 3M
+            finansowe
+                                               S.A.                                          WIBOR + 3,7%
+                                               Kredyt bankowy w banku                  Termin sp³aty - 26.04.2021;
+            Pozosta³e zobowi¹zania
+                                               Santander Bank Polska       3 400,00  oprocentowanie zmienne - 3M
+            finansowe
+                                               S.A.                                          WIBOR + 5,7%
+            Pozosta³e zobowi¹zania             Karta kredytowa w banku
+                                                                          10 860,64            nie dotyczy
+            finansowe                          Millennium S.A.
+                                               Po¿yczki otrzymane od
+            Pozosta³e zobowi¹zania             Prezesa Zarz¹du Spó³ki                  Termin sp³aty - 31.08.2021;
+                                                                         285 064,88
+            finansowe                          (najwiêkszego                           oprocentowanie sta³e - 2%
+                                               akcjonariusza Spó³ki)
+                                                                 36
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                       Wartoœæ Warunki i terminy wp³ywaj¹ce
+            Portfel                                Charakterystyka   bilansowa na przysz³e przep³ywy pieniê¿ne
+            Pozosta³e zobowi¹zania             Subwencja otrzymana z              Termin sp³aty - 31.07.2023;
+                                                                     328 546,00
+            finansowe                          funduszu PFR                      subwencja nieoprocentowana
+ 34. 3      Wartoœæ bilansowa instrumentów finansowych wycenianych w wartoœci godziwej
+            Wartoœæ bilansowa aktywów finansowych wycenianych w wartoœci godziwej wynosi 5.505.942 z³.
+            Skutki przeszacowania wartoœci godziwej zosta³y odniesione na przychody finansowe okresu
+            sprawozdawczego w kwocie 2.479.537 z³.
+ 34. 4      Informacje na temat ryzyka stopy procentowej
+            Na dzieñ bilansowy portfel d³u¿nych instrumentów finansowych ma nastêpuj¹c¹ strukturê:
+                                                                                   31.12.2020         31.12.2019
+                                                                                      wartoœæ            wartoœæ
+            Instrumenty finansowe:                                                 bilansowa          bilansowa
+            - o sta³ej stopie procentowej
+              Aktywa finansowe                                                      51 015,06         332 330,31
+              Zobowi¹zania finansowe                                               285 064,88         544 514,72
+            - o zmiennej stopie procentowej
+              Zobowi¹zania finansowe                                               335 433,64         761 423,30
+            Na dzieñ bilansowy Spó³ka nie posiada³a instrumentów finansowych, dla których termin wykupu
+            przypada wczeœniej od terminu pierwotnie okreœlonego w umowie. Zmiany efektywnej stopy
+            procentowej dla instrumentów o zmiennej stopie procentowej nastêpuj¹ zgodnie ze zmianami
+            rynkowej stopy procentowej, tj. 1MWIBOR oraz 3MWIBOR.
+ 34. 5      Informacje na temat ryzyka kredytowego
+            Maksymalne nara¿enie Spó³ki na ryzyko kredytowe odpowiada wartoœci bilansowej nastêpuj¹cych
+            aktywów finansowych:
+                                                                                   31.12.2020         31.12.2019
+                                                                                      wartoœæ            wartoœæ
+                                                                                   bilansowa          bilansowa
+            Aktywa finansowe:
+            Nale¿noœci w³asne i po¿yczki udzielone                                  51 015,06                  -
+            Nale¿noœci handlowe                                                  1 181 438,22       2 121 802,27
+            Œrodki pieniê¿ne                                                     1 441 065,43         280 788,71
+                                                                                 2 673 518,71       2 402 590,98
+            Na dzieñ bilansowy nie wystêpowa³a znacz¹ca koncentracja ryzyka kredytowego zwi¹zanego z
+            przedstawionymi powy¿ej aktywami finansowymi.
+                                                              37
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+  35.        Podatek dochodowy od osób prawnych
+ 35. 1       Wyliczenie podatku dochodowego od osób prawnych
+                                                                       Z zysków         Ÿróde³ 01.01.2020 -                                                        01.01.2019 -
+                                                                   kapita³owych  przychodów      31.12.2020                                                          31.12.2019
+             Zysk brutto                                            3 596 653,99 (475 693,45)  3 120 960,54                                                        3 379 344,82
+                                                                                                               Podstawa prawna
+             Przychody zwolnione z opodatkowania (trwa³e ró¿nice                     Z innych
+             pomiêdzy zyskiem/strat¹ dla celów rachunkowych            Z zysków         Ÿróde³                                           Z zysków Z innych Ÿróde³
+             a dochodem/strat¹ dla celów podatkowych)              kapita³owych  przychodów          Razem  Art.   Ust.   Pkt.  Lit. kapita³owych     przychodów         Razem
+                   Otrzymana dywidenda                                         -    52 107,00     52 107,00  22       1     …    …               -               -             -
+                   Pozosta³e                                                   -       116,20        116,20                                      -               -
+                                                                               -    52 223,20     52 223,20                                      -               -             -
+                                                                                                               Podstawa prawna
+                                                                                     Z innych
+             Przychody niepodlegaj¹ce opodatkowaniu w roku             Z zysków         Ÿróde³                                           Z zysków Z innych Ÿróde³
+             bie¿¹cym                                              kapita³owych  przychodów          Razem  Art.   Ust.   Pkt.  Lit. kapita³owych     przychodów         Razem
+                   Dotacje                                                     -             -            -  …       …      …    ...             -       30 758,48    30 758,48
+                   Dodatnie niezrealizowane ró¿nice kursowe                         23 172,20     23 172,20 15a       1     ...  ...             -          302,56        302,56
+                   Aktualizacja wartoœci aktywów finansowych        2 479 537,00             - 2 479 537,00  12       1      1   ...  2 660 186,46               - 2 660 186,46
+                   Naliczone odsetki od po¿yczek udzielonych                   -     1 015,06      1 015,06  12       4      2   ...             -        (410,96)      (410,96)
+                   Niezafakturowane przychody                                  -    30 000,00     30 000,00  12       1      1   ...             -               -             -
+                                                                    2 479 537,00    54 187,26  2 533 724,26                           2 660 186,46       30 650,08 2 690 836,54
+                                                                                                               Podstawa prawna
+                                                                                     Z innych
+             Przychody podlegaj¹ce opodatkowania w roku bie¿¹cym,      Z zysków         Ÿróde³                                           Z zysków Z innych Ÿróde³
+             ujête w ksiêgach rachunkowych lat ubieg³ych           kapita³owych  przychodów          Razem  Art.   Ust.   Pkt.  Lit. kapita³owych     przychodów         Razem
+                   Przychody ze sprzeda¿y instrumentów finansowych             -             -            -  ...     ...    ...  ...    144 735,90               -   144 735,90
+                   Przychody podatkowe roku 2019                               -             -            -  ...     ...    …    …               -       50 000,00    50 000,00
+                                                                               -             -            -                             144 735,90       50 000,00   194 735,90
+                                                                                            38
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                                                         Podstawa prawna
+             Koszty niestanowi¹ce kosztów uzyskania przychodów
+             (trwa³e ró¿nice pomiêdzy zyskiem/strat¹ dla celów                               Z innych
+             rachunkowych a dochodem/strat¹ dla celów                          Z zysków         Ÿróde³                                            Z zysków Z innych Ÿróde³
+             podatkowych)                                                  kapita³owych  przychodów          Razem   Art.    Ust.   Pkt.  Lit. kapita³owych    przychodów          Razem
+                   VAT NKUP                                                            -    (8 512,77)    (8 512,77)  16        1     46   ...             -       (415,37)       (415,37)
+                   Koszty reprezentacji                                                -      3 843,46      3 843,46  16        1     28   ...             -      10 938,30      10 938,30
+                   Koszty odsetkowe niestanowi¹ce kosztów uzyskania
+                                                                                       -        550,52        550,52  16        1     21   ...             -         117,95         117,95
+                   przychodów
+                   Koszty paliwa i eksploatacji samochodów, nie stanowi¹ce
+                                                                                       -      2 786,81      2 786,81  16        1     51   ...             -       3 312,65       3 312,65
+                   kosztów uzyskania przychodów
+                   Spisane koszty MG op³acone w latach ubieg³ych                       -    80 999,21     80 999,21   15      4e      …    …               -               -              -
+                   Pozosta³e koszty rodzajowe niestanowi¹ce kosztów
+                   uzyskania przychodów                                                -             -             -   ...     ...    ...  ...             -      12 423,40      12 423,40
+                   Pozosta³e [mo¿liwoœæ ³¹cznego podania ró¿niæ o
+                                                                                       -    10 958,49     10 958,49    ...     ...    ...  ...             -       9 484,69       9 484,69
+                   wartoœciach ni¿szych ni¿ 20.000 z³]
+                                                                                       -    90 625,72     90 625,72                                        -      35 861,62      35 861,62
+                                                                                                                         Podstawa prawna
+                                                                                             Z innych
+             Koszty nieuznawane za koszty uzyskania przychodów                 Z zysków         Ÿróde³                                            Z zysków Z innych Ÿróde³
+             w bie¿¹cym roku                                               kapita³owych  przychodów          Razem   Art.    Ust.   Pkt.  Lit. kapita³owych    przychodów          Razem
+                   Amortyzacja nie stanowi¹ca kosztów uzyskania
+                   przychodów                                                          -   835 971,49    835 971,49   16        1     48   ...             -   1 050 625,14   1 050 625,14
+                   Amortyzacja œrodków trwa³ych w leasingu                             -    28 665,28     28 665,28   16³       4     ...  ...             -      28 665,28      28 665,28
+                   Ujemne niezrealizowane ró¿nice kursowe                              -      4 382,54      4 382,54 15a        1     ...  ...             -       1 375,39       1 375,39
+                   Niezap³acone odsetki od po¿yczek otrzymanych                        -      5 504,52      5 504,52  16        1     11   ...             -       5 840,45       5 840,45
+                   RMK bierne                                                          -   114 356,05    114 356,05   15      4e      ...  ...             -       9 700,00       9 700,00
+                   Odsetki leasingowe                                                  -      1 885,29      1 885,29 17b        1     ...  ...             -       3 145,17       3 145,17
+                   Odpisy aktualizuj¹ce zapasy                                         -    49 227,69     49 227,69   16        1    26a   ...             -     339 674,84     339 674,84
+                   Koszty poœrednie                                                    -    81 485,84     81 485,84   15      4e      ...  ...             -      31 987,50      31 987,50
+                   Koszty umów zleceñ i o dzie³o (oraz ZUS-u od tych
+                   umów) roku bie¿¹cego, wyp³acone w roku nastêpnym                    -   119 369,96    119 369,96   15      4e      ...  ...             -     122 223,25     122 223,25
+                   Koszty prowizji od kredytów bankowych zap³acone w
+                   latach poprzednich                                                         2 124,56      2 124,56  15      4e      …    …               -               -              -
+                   Koszty MG op³acone z góry                                           -   523 179,75    523 179,75   15      4e      …    …               -               -              -
+                   Odroczone koszty produkcji                                          -    79 012,40     79 012,40   15      4e      …    …               -               -              -
+                   Odwrócenie wyceny sprzedanych aktywów finansowych        2 082 948,99             - 2 082 948,99   12        1      1   …               -               -              -
+                                                                            2 082 948,99 1 845 165,37  3 928 114,36                                      -    1 593 237,02   1 593 237,02
+                                                                                                    39
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                                                       Podstawa prawna
+                                                                                           Z innych
+             Koszty uznawane za koszty uzyskania przychodów                  Z zysków         Ÿróde³                                            Z zysków Z innych Ÿróde³
+             w roku bie¿¹cym ujête w ksiêgach lat ubieg³ych              kapita³owych  przychodów           Razem   Art.   Ust.   Pkt.  Lit. kapita³owych    przychodów        Razem
+                   Zap³acone odsetki od po¿yczek otrzymanych, naliczone
+                                                                                     -     1 954,36        1 954,36  16      1     11    ...            -               -            -
+                   w latach poprzednich
+                   Podatkowe koszty produkcji gier, netto                            - 1 064 632,33    1 064 632,33  15     4a       1   ...            -   1 506 312,73  1 506 312,73
+                   Raty leasingowe                                                   -    77 103,28       77 103,28 17b      1      ...  ...            -       23 677,80    23 677,80
+                   Koszty umów zleceñ i o dzie³o (oraz ZUS-u od tych
+                                                                                     -   122 223,25      122 223,25  15     4e      ...  ...            -               -            -
+                   umów) roku ubieg³ego, wyp³acone w roku bie¿¹cym
+                   Koszty poœrednie z roku ubieg³ego                                 -    41 687,50       41 687,50  15     4e      ...  ...            -        7 590,00     7 590,00
+                   Minimum gwarancyjne wyp³acone deweloperom z góry                  -   570 265,95      570 265,95  15     4e      …    …              -      749 105,97   749 105,97
+                   Odroczone koszty wydawnicze                                       -    30 666,05       30 666,05  15     4e      …    …              -       79 012,37    79 012,37
+                   Koszty prowizji od kredytów rozliczane w czasie                   -             -              -  …       …      …    …              -        9 293,53     9 293,53
+                   Pozosta³e                                                         -             -              -                                     -           12,07        12,07
+                                                                                     - 1 908 532,72    1 908 532,72                                     -   2 375 004,47  2 375 004,47
+             Dochód do opodatkowania                                      3 200 065,98 (554 845,54)    2 645 220,44                                                         137 338,35
+             Strata z lat ubieg³ych                                     (1 830 626,12)             - (1 830 626,12)                                     -    (137 338,35) (137 338,35)
+             Podstawa opodatkowania                                       1 369 440,00 (554 846,00)      814 594,00                                                                  -
+             Podatek dochodowy                                              260 194,00             -     260 194,00                                                                  -
+                                                                                                  40
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+  35.       Podatek dochodowy od osób prawnych
+ 35. 2 Odroczony podatek dochodowy
+                                                                                 31.12.2020   31.12.2019
+            Ujemne ró¿nice przejœciowe:
+                Naliczone, a nie zap³acone odsetki od zobowi¹zañ                  48 636,88    45 086,72
+                Ujemne ró¿nice kursowe z wyceny bilansowej                         6 487,34     2 104,80
+                RMK bierne                                                       114 356,05     9 700,00
+                Koszty poœrednie                                                  81 485,84    31 987,50
+                Koszty umów zleceñ i o dzie³o (oraz ZUS-u od tych umów) roku
+                bie¿¹cego, wyp³acone w kolejnym roku                             119 369,96   122 223,25
+                Odroczony przychód z tytu³u sprzeda¿y instrumentów
+                finansowych                                                               -   144 735,90
+                Wycena zobowi¹zañ finansowych do wartoœci godziwej                        -   278 218,54
+                                                                                 370 336,07   634 056,71
+            Straty podatkowe do rozliczenia w kolejnych okresach:
+                Strata podatkowa 2015 (ogó³em)                                   321 521,24   321 521,24
+                Rozliczona/przedawniona czêœæ straty podatkowej                (321 521,24) (160 760,62)
+                Strata podatkowa 2015 do rozliczenia                                      -   160 760,62
+                Strata podatkowa 2016 (ogó³em)                                 1 691 820,66 1 691 820,66
+                Rozliczona/przedawniona czêœæ straty podatkowej              (1 691 820,66) (845 910,33)
+                Strata podatkowa 2016 do rozliczenia                                      -   845 910,33
+                Strata podatkowa 2017 (ogó³em)                                 1 661 667,17 1 661 667,17
+                Rozliczona czêœæ straty podatkowej                             (935 902,73) (105 069,14)
+                Strata podatkowa 2017 do rozliczenia                             725 764,45 1 556 598,03
+                Strata podatkowa 2018 (ogó³em)                                   113 988,73   113 988,73
+                Strata podatkowa 2018 do rozliczenia                             113 988,73   113 988,73
+                Strata podatkowa 2019 (ogó³em)                                     7 397,55            -
+                Strata podatkowa 2019 do rozliczenia                               7 397,55            -
+                Strata podatkowa 2020 r.                                         554 845,54            -
+            Suma strat podatkowych do rozliczenia w kolejnych okresach         1 401 996,27 2 677 257,71
+            Wartoœæ brutto aktywów z tytu³u odroczonego podatku
+                                                                                 336 743,10   629 149,70
+            dochodowego
+            Wartoœæ netto aktywów z tytu³u odroczonego podatku
+                                                                                 336 743,10   629 149,70
+            dochodowego
+                                                        41
+
+QubicGames S.A.
+Dodatkowe informacje i objaœnienia
+(wszystkie dane liczbowe przedstawiono w z³otych)
+                                                                                          31.12.2019    31.12.2018
+            Dodatnie ró¿nice przejœciowe:
+                Wartoœæ zapasów netto                                                  1 661 186,39   1 369 204,05
+                Odroczone koszty wydawnicze                                                30 666,05     79 012,37
+                Wartoœci niematerialne i prawne nie podlegaj¹ce amortyzacji
+                podatkowej                                                             1 374 719,94   1 506 404,90
+                Wycena aktywów finansowych dostêpnych do sprzeda¿y do
+                wartoœci godziwej                                                      5 258 572,00   5 284 938,43
+                Naliczone, a nie otrzymane odsetki od nale¿noœci                             1 015,06             -
+                Dodatnie ró¿nice kursowe z wyceny bilansowej                               24 688,17       1 515,97
+                Minimum gwarancyjne wyp³acone deweloperom z góry                          715 192,96    749 105,97
+                Koszty prowizji od kredytów rozliczane w czasie                              7 168,97      9 293,53
+                Ró¿nice przejœciowe z tytu³u ró¿nic miêdzy rachunkowym a
+                podatkowym ujêciem umów leasingu                                           48 009,68     (7 473,45)
+                Niezafakturowane przychody                                                 30 000,00              -
+                                                                                       9 151 219,22   8 992 001,77
+            Wartoœæ rezerwy z tytu³u odroczonego podatku dochodowego
+                                                                                       1 738 731,70   1 708 480,30
+            Kompensata                                                                 (336 743,10)   (629 149,70)
+            Wykazana w bilansie rezerwa z tytu³u odroczonego podatku
+                                                                                       1 401 988,60   1 079 330,60
+            dochodowego
+            Zmiana bilansowa netto aktywów/rezerwy z tytu³u odroczonego
+                                                                                       (322 658,00)   (631 607,60)
+            podatku dochodowego
+            Zmiana podatku odroczonego ujêtego w rachunku zysków i
+                                                                                       (322 658,00)   (631 607,60)
+            strat
+ 35. 3 Struktura podatku dochodowego od osób prawnych
+                                                                                        01.01.2020 -  01.01.2019 -
+                                                                                          31.12.2020    31.12.2019
+            Podatek dochodowy bie¿¹cy                                                     260 194,00              -
+            Dodatkowe zobowi¹zania podatkowe za lata poprzednie                                     -             -
+            Zmiana stanu odroczonego podatku dochodowego                                  322 658,00    631 607,60
+                                                                                          582 852,00    631 607,60
+ 36.        Pozosta³e informacje
+            Nie dotyczy.
+  37.       Identyfikacja osób sk³adaj¹cych podpis elektroniczny na sprawozdaniu finansowym
+                Jakub Pieczykolan                 Prezes Zarz¹du
+                Anna Pieczykolan                  Osoba, której powierzono prowadzenie ksi¹g rachunkowych
+             Anna              Elektronicznie
+                                                                              Elektronicznie
+                               podpisany przez                   Jakub        podpisany przez
+             Pieczykola        Anna Pieczykolan
+                                                                 Bart³omiej Jakub    Bart³omiej
+                               Data: 2021.03.22             42                Pieczykolan
+             n                 14:52:27 +01'00'
+                                                                 Pieczykolan Data:  2021.03.22
+                                                                              14:53:09 +01'00'
+

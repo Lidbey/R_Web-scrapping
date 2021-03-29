@@ -1,0 +1,981 @@
+
+     SPIS TREŒCI
+1.      WSTÊP. WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO. ............................................................... 3
+Informacje porz¹dkowe ......................................................................................................................................... 3
+Stosowane zasady (polityka) rachunkowoœci......................................................................................................... 3
+2.      DODATKOWE INFORMACJE I OBJAŒNIENIA ................................................................................................. 8
+I.      Grupa wyjaœnieñ (zapewniaj¹ca wgl¹d w wa¿niejsze pozycje aktywów i pasywów bilansu). ..................... 8
+II.     Grupa wyjaœnieñ dotycz¹ca m.in. struktury przychodów i kosztów, wyniku finansowego. ...................... 13
+III.    Grupa wyjaœnieñ dotycz¹ca struktury œrodków pieniê¿nych do rachunku przep³ywów pieniê¿nych. ...... 14
+IV.     Grupa wyjaœnieñ zawieraj¹ca informacje o zatrudnieniu i wynagrodzeniu pracowników oraz organów
+        Spó³ki. ........................................................................................................................................................ 15
+V.      Informacje uzupe³niaj¹ce. ......................................................................................................................... 15
+VI.     Objaœnienia dotycz¹ce jednostek wchodz¹cych w sk³ad grupy kapita³owej ............................................. 16
+VII.    Zagro¿enia dla kontynuacji dzia³alnoœci..................................................................................................... 16
+VIII. Pozosta³e informacje ................................................................................................................................. 16
+3.      SPRAWOZDANIE FINANSOWE ZA ROK OBROTOWY 2020 ......................................................................... 17
+     1.  Bilans……………………………………………………………………………………………………………………………………………………17
+     2.  Rachunek zysków i strat…………………………………………………………………………………………………………….…………22
+     3.  Zestawienie zmian w kapitale…………………………….….………………………………………………………………….…………24
+     4.  Rachunek przep³ywów pieniê¿nych……………………….………………………………………………………………….…………26
+     5.  Rozliczenie ró¿nic pomiêdzy podstaw¹ opodatkowania podatkiem dochodowym a wynikiem
+         finansowym……………………………………………….………….………………………………………………………………….…………28
+                                                                         2
+
+  1.       WSTÊP. WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO.
+Informacje porz¹dkowe
+a) Forever Entertainment S.A zosta³a zawi¹zana w dniu 04.08.2010 r. Siedziba Spó³ki mieœci siê w Gdyni przy alei
+    Zwyciêstwa 96/98.
+b) Spó³ka wpisana jest do Rejestru Przedsiêbiorców pod numerem KRS 000365951. Wpisu dokona³ S¹d Rejonowy
+    Gdañsk-Pó³noc w Gdañsku VIII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego w dniu 21.09.2010 r.
+c) G³ównym przedmiotem dzia³alnoœci jest dzia³alnoœæ zwi¹zana z oprogramowaniem, doradztwem w zakresie
+    informatyki, produkcj¹ gier komputerowych.
+d) Zgodnie ze statutem czas trwania dzia³alnoœci Spó³ki jest nieograniczony.
+e) Sprawozdanie finansowe zosta³o sporz¹dzone za okres od 1 stycznia 2020 r. do 31 grudnia 2020 r.
+f) Do przedstawienia przychodów i kosztów wykorzystywany jest rachunek porównawczy; rachunek przep³ywów
+    pieniê¿nych sporz¹dzony zosta³ w oparciu o metodê poœredni¹.
+g) Sk³ad zarz¹du Spó³ki w okresie objêtym sprawozdaniem: Zbigniew Henryk Dêbicki – Prezes Zarz¹du.
+h) Sprawozdanie finansowe zosta³o sporz¹dzone zgodnie z Ustaw¹ o rachunkowoœci z dnia 29 wrzeœnia 1994r. (tekst
+    jednolity - Dz.U. z 2009 r. Nr 152 poz. 1223 z póŸniejszymi zmianami),
+i) Sprawozdanie finansowe zosta³o sporz¹dzone przy za³o¿eniu kontynuowania dzia³alnoœci gospodarczej w daj¹cej
+    siê przewidzieæ przysz³oœci oraz niewystêpowania okolicznoœci wskazuj¹cych na zagro¿enie dla kontynuowania
+    dzia³alnoœci w okresie nie krótszym ni¿ rok.
+Stosowane zasady (polityka) rachunkowoœci
+Rzeczowe aktywa trwa³e, wartoœci niematerialne i prawne
+Œrodki trwa³e oraz wartoœci niematerialne i prawne wycenia siê wed³ug cen nabycia lub kosztów wytworzenia, lub
+wartoœci przeszacowanej (po aktualizacji wyceny œrodków trwa³ych przeprowadzonej na podstawie odrêbnych
+przepisów), pomniejszonych o odpisy amortyzacyjne lub umorzeniowe oraz odpisy z tytu³u trwa³ej utraty wartoœci.
+Cena nabycia i koszt wytworzenia œrodków trwa³ych w budowie, œrodków trwa³ych oraz wartoœci niematerialnych i
+prawnych obejmuje równie¿ koszt obs³ugi zobowi¹zañ zaci¹gniêtych w celu ich finansowania za okres budowy, monta¿u
+i przystosowania.
+Cenê nabycia lub koszt wytworzenia œrodka trwa³ego powiêkszaj¹ koszty jego ulepszenia.
+Koszty zakoñczonych prac rozwojowych prowadzonych przez jednostkê na w³asne potrzeby, poniesione przed
+podjêciem produkcji lub zastosowaniem technologii, zaliczane s¹ do wartoœci niematerialnych i prawnych, je¿eli
+spe³nione s¹ warunki okreœlone w Ustawie.
+Œrodki trwa³e w budowie wycenia siê w wysokoœci ogó³u kosztów pozostaj¹cych w bezpoœrednim zwi¹zku z ich nabyciem
+lub wytworzeniem, pomniejszonych o odpisy z tytu³u trwa³ej utraty wartoœci.
+W przypadku zmian technologii produkcji, przeznaczenia do likwidacji, wycofania z u¿ywania lub innych przyczyn
+powoduj¹cych trwa³¹ utratê wartoœci œrodka trwa³ego lub sk³adnika wartoœci niematerialnych i prawnych dokonywany
+jest odpis aktualizuj¹cy ich wartoœæ w ciê¿ar pozosta³ych kosztów operacyjnych. Odpisy aktualizuj¹ce dotycz¹ce œrodków
+trwa³ych, których wycena zosta³a zaktualizowana na podstawie odrêbnych przepisów, zmniejszaj¹ odniesione na kapita³
+z aktualizacji wyceny ró¿nice spowodowane aktualizacj¹ wyceny, ewentualna nadwy¿ka odpisu nad ró¿nicami z
+aktualizacji wyceny zaliczana jest do pozosta³ych kosztów operacyjnych.
+                                                    3
+
+W przypadku ustania przyczyny, dla której dokonano odpisu z tytu³u trwa³ej utraty wartoœci sk³adników œrodków
+trwa³ych oraz wartoœci niematerialnych i prawnych, równowartoœæ ca³oœci lub odpowiedniej czêœci uprzednio
+dokonanego odpisu aktualizuj¹cego zwiêksza wartoœæ danego sk³adnika aktywów i podlega zaliczeniu odpowiednio do
+pozosta³ych przychodów operacyjnych.
+Amortyzacja dokonywana jest metod¹ liniow¹. Przy ustalaniu okresu amortyzacji i rocznej stawki amortyzacyjnej
+uwzglêdnia siê okres ekonomicznej u¿ytecznoœci œrodka trwa³ego oraz sk³adników wartoœci niematerialnych i prawnych.
+Poprawnoœæ przyjêtych okresów oraz stawek amortyzacyjnych podlega okresowej weryfikacji. Nie podlegaj¹ amortyzacji
+grunty w przeciwieñstwie do prawa wieczystego u¿ytkowania gruntu.
+Dla wartoœci niematerialnych i prawnych okresy amortyzacji ustalone s¹ nastêpuj¹co:
+- prawa autorskie, licencje nie mniej ni¿ 36 m-cy,
+- pozosta³e wartoœci niematerialne i prawne nie mniej ni¿ 60 m-cy.
+Inwestycje d³ugoterminowe w nieruchomoœci oraz wartoœci niematerialne i prawne
+Nieruchomoœci oraz wartoœci niematerialne i prawne zaliczone do d³ugoterminowych inwestycji wycenia siê wed³ug
+ceny nabycia (kosztów wytworzenia) pomniejszonej o odpisy z tytu³u trwa³ej utraty wartoœci, a wiêc wed³ug takich
+samych zasad jak œrodki trwa³e.
+Odpis ten odnosi siê w ciê¿ar pozosta³ych kosztów operacyjnych. W przypadku ustania przyczyny, dla której dokonano
+odpisu z tytu³u trwa³ej utraty wartoœci, równowartoœæ ca³oœci lub odpowiedniej czêœci uprzednio dokonanego odpisu
+aktualizuj¹cego zwiêksza wartoœæ inwestycji i podlega zaliczeniu do pozosta³ych przychodów operacyjnych.
+Inne inwestycje d³ugoterminowe (aktywa finansowe)
+Aktywa finansowe zaliczone do inwestycji d³ugoterminowych wyceniane s¹ w nastêpuj¹cy sposób (w zale¿noœci od
+kategorii, do której zosta³y zaliczone zgodnie z Rozporz¹dzeniem o instrumentach finansowych):
+a) „po¿yczki udzielone – wycenia siê w wysokoœci zamortyzowanego kosztu przy zastosowaniu efektywnej stopy
+procentowej,
+b) „aktywa finansowe utrzymywane do terminu wymagalnoœci” – wycenia siê w wysokoœci zamortyzowanego kosztu
+przy zastosowaniu efektywnej stopy procentowej,
+c) „aktywa finansowe dostêpne do sprzeda¿y” – wycenia siê w wartoœci godziwej. Je¿eli nie ma mo¿liwoœci
+wiarygodnego ustalenia wartoœci godziwej a aktywa te maj¹ ustalony termin wymagalnoœci wówczas wyceny dokonuje
+siê w wysokoœci zamortyzowanego kosztu przy zastosowaniu efektywnej stopy procentowej; a je¿eli aktywa te nie maj¹
+ustalonego terminu wymagalnoœci wyceny dokonuje siê w cenie nabycia.
+Skutki okresowej wyceny aktywów finansowych, w tym instrumentów pochodnych z wy³¹czeniem pozycji
+zabezpieczanych i instrumentów zabezpieczaj¹cych, za wyj¹tkiem aktywów finansowych dostêpnych do sprzeda¿y,
+zalicza siê odpowiednio do przychodów lub kosztów finansowych okresu sprawozdawczego, w którym nast¹pi³o
+przeszacowanie.
+Wyj¹tkowo jeœli papiery wartoœciowe i po¿yczki nie stanowi¹ istotnych wartoœci w porównaniu z sum¹ bilansow¹ mo¿na
+zastosowaæ wycenê opart¹ o ustawê o rachunkowoœci bez ich dyskontowania. Tak ustalona wartoœæ aktywów
+finansowych nie mo¿e ró¿niæ siê znacznie od tej przyjêtej w Rozporz¹dzeniu.
+Inwestycje krótkoterminowe
+Aktywa finansowe zaliczone do inwestycji krótkoterminowych wyceniane s¹ w nastêpuj¹cy sposób (w zale¿noœci od
+kategorii, do której zosta³y zaliczone zgodnie z Rozporz¹dzeniem o instrumentach finansowych):
+a) „aktywa finansowe przeznaczone do obrotu” – wycenia siê w wartoœci godziwej, ta grupa obejmuje równie¿ papiery
+wartoœciowe o terminie zapadalnoœci d³u¿szym ni¿ rok zakwalifikowane jako instrumenty do obrotu,
+b) „pozosta³e aktywa finansowe” - podobnie jak w pozycji inwestycje d³ugoterminowe zgodnie z Rozporz¹dzeniem o
+instrumentach finansowych, podobnie jest w przypadku odnoszenia skutków wyceny.
+                                                    4
+
+Inne aktywa finansowe to lokaty bankowe o terminie zapadalnoœci d³u¿szym ni¿ 3 m-ce i krótszym ni¿ rok od dnia
+bilansowego, w tym wypadku Spó³ka wyj¹tkowo stosuje zasady przyjête w ustawie o rachunkowoœci i dolicza odsetki
+przypadaj¹ce na dany okres lokaty. Podobnie wyceniane s¹ œrodki pieniê¿ne i inne aktywa pieniê¿ne.
+Nale¿noœci
+Nale¿noœci wycenia siê w kwocie wymaganej zap³aty, z zachowaniem zasady ostro¿nej wyceny, i wykazuje w wartoœci
+netto (po pomniejszeniu o odpisy aktualizuj¹ce).
+Wartoœæ nale¿noœci podlega aktualizacji wyceny przy uwzglêdnieniu stopnia prawdopodobieñstwa ich zap³aty poprzez
+dokonanie odpisu aktualizuj¹cego.
+Zapasy
+Zapasy s¹ wyceniane wed³ug rzeczywistych cen zakupu lub rzeczywistych kosztów ich wytworzenia nie wy¿szych jednak
+od cen sprzeda¿y netto.
+Produkcja/us³ugi w toku wyceniana jest w wysokoœci bezpoœrednich kosztów wytworzenia.
+Wytworzone przez jednostkê, oprogramowanie komputerów, gry komputerowe, projekty typowe i inne produkty
+o podobnym charakterze, przeznaczone do sprzeda¿y, wycenia siê w okresie przynoszenia przez nie korzyœci
+ekonomicznych, tj. w okresie 5 lat, w wysokoœci nadwy¿ki kosztów ich wytworzenia nad przychodami, wed³ug cen
+sprzeda¿y netto, uzyskanymi ze sprzeda¿y tych produktów w ci¹gu tego okresu. Nie odpisane po up³ywie tego okresu
+koszty wytworzenia zwiêkszaj¹ pozosta³e koszty operacyjne. Jeœli jednak jednostka jest w stanie okreœliæ okres sprzeda¿y
+i oszacowaæ sprzeda¿ mo¿e dokonywaæ rozchodów proporcjonalnie do up³ywu okresu czasu. Okres dokonywanych
+odpisów nie mo¿e jednak przekroczyæ ustalonych 5 lat.
+Czynne rozliczenia miêdzyokresowe kosztów
+Czynne rozliczenia miêdzyokresowe kosztów dokonywane s¹ w odniesieniu do poniesionych kosztów dotycz¹cych
+przysz³ych okresów sprawozdawczych.
+Odpisy czynnych rozliczeñ miêdzyokresowych kosztów nastêpuj¹ stosownie do up³ywu czasu. Czas i sposób rozliczenia
+jest uzasadniony charakterem rozliczanych kosztów, z zachowaniem zasady ostro¿nej wyceny.
+Koszty stanowi¹ce ró¿nicê pomiêdzy ni¿sz¹ wartoœci¹ otrzymanych finansowych sk³adników aktywów, a wy¿sz¹ kwot¹
+zobowi¹zania zap³aty za nie, w tym równie¿ z tytu³u emitowanych przez jednostkê papierów wartoœciowych,
+odpisywane s¹ w koszty finansowe, w ci¹gu okresu, na jaki zaci¹gniêto zobowi¹zanie.
+Kapita³ w³asny
+Kapita³ zak³adowy wykazywany jest w wysokoœci okreœlonej w statucie i wpisanej w rejestrze s¹dowym.
+Zadeklarowane, lecz nie wniesione wk³ady kapita³owe ujmowane s¹ jako nale¿ne wk³ady na poczet kapita³u.
+Koszty emisji akcji poniesione przy powstaniu Spó³ki lub podwy¿szeniu kapita³u zak³adowego, zmniejszaj¹ kapita³
+zapasowy Spó³ki do wysokoœci nadwy¿ki wartoœci emisji nad wartoœci¹ nominaln¹ akcji, a pozosta³¹ ich czêœæ zalicza siê
+do kosztów finansowych.
+Akcje w³asne wycenia siê w cenie nabycia.
+Rezerwy na zobowi¹zania
+Rezerwy na zobowi¹zania wycenia siê w uzasadnionej, wiarygodnie oszacowanej wartoœci.
+Rezerwy tworzone s¹ na:
+• pewne lub o du¿ym stopniu prawdopodobieñstwa przysz³e zobowi¹zania, których kwotê mo¿na w sposób
+wiarygodny oszacowaæ, a w szczególnoœci na straty z transakcji gospodarczych w toku, w tym z tytu³u udzielonych
+gwarancji, porêczeñ, operacji kredytowych, skutków tocz¹cego siê postêpowania s¹dowego;
+                                                 5
+
+• przysz³e zobowi¹zania spowodowane restrukturyzacj¹, je¿eli na podstawie odrêbnych przepisów jednostka jest
+zobowi¹zana do jej przeprowadzenia lub zawarto w tej sprawie wi¹¿¹ce umowy, a plany restrukturyzacji pozwalaj¹ w
+sposób wiarygodny oszacowaæ wartoœæ tych przysz³ych zobowi¹zañ.
+Zobowi¹zania
+Zobowi¹zania finansowe (z wyj¹tkiem zobowi¹zañ finansowych przeznaczonych do obrotu, instrumentów pochodnych
+o charakterze zobowi¹zañ oraz pozycji zabezpieczanych) wycenia siê nie póŸniej ni¿ na koniec okresu sprawozdawczego,
+w wysokoœci zamortyzowanego kosztu przy zastosowaniu efektywnej stopy procentowej.
+Zobowi¹zania finansowe przeznaczone do obrotu oraz instrumenty pochodne o charakterze zobowi¹zañ wycenia siê
+w wartoœci godziwej.
+Zobowi¹zania inne ni¿ finansowe wykazywane s¹ w kwocie wymagaj¹cej zap³aty.
+Bierne rozliczenia miêdzyokresowe kosztów
+Bierne rozliczenia miêdzyokresowe kosztów dokonywane s¹ w wysokoœci prawdopodobnych zobowi¹zañ
+przypadaj¹cych na bie¿¹cy okres sprawozdawczy, wynikaj¹cych w szczególnoœci:
+• ze œwiadczeñ wykonanych na rzecz jednostki przez kontrahentów jednostki, gdy kwotê zobowi¹zania mo¿na
+oszacowaæ w sposób wiarygodny,
+• z obowi¹zku wykonania, zwi¹zanych z bie¿¹c¹ dzia³alnoœci¹, przysz³ych œwiadczeñ wobec nieznanych osób, których
+kwotê mo¿na oszacowaæ, mimo ¿e data powstania zobowi¹zania nie jest jeszcze znana, w tym z tytu³u napraw
+gwarancyjnych i rêkojmi za sprzedane produkty d³ugotrwa³ego u¿ytku.
+Odpisy biernych rozliczeñ miêdzyokresowych kosztów nastêpuj¹ stosownie do wielkoœci œwiadczeñ. Czas i sposób
+rozliczenia jest uzasadniony charakterem rozliczanych kosztów, z zachowaniem zasady ostro¿noœci.
+Rozliczenia miêdzyokresowe przychodów
+Rozliczenia miêdzyokresowe przychodów dokonywane s¹ z zachowaniem zasady ostro¿nej wyceny i obejmuj¹
+w szczególnoœci:
+• równowartoœæ otrzymanych lub nale¿nych od kontrahentów œrodków z tytu³u œwiadczeñ, których wykonanie nast¹pi
+w nastêpnych okresach sprawozdawczych;
+• œrodki pieniê¿ne otrzymane na sfinansowanie nabycia lub wytworzenia œrodków trwa³ych, w tym tak¿e œrodków
+trwa³ych w budowie oraz prac rozwojowych, je¿eli stosownie do innych ustaw nie zwiêkszaj¹ one kapita³ów w³asnych.
+Zaliczone do rozliczeñ miêdzyokresowych przychodów kwoty zwiêkszaj¹ stopniowo pozosta³e przychody operacyjne,
+równolegle do odpisów amortyzacyjnych lub umorzeniowych od œrodków trwa³ych lub kosztów prac rozwojowych
+sfinansowanych z tych Ÿróde³;
+• wartoœæ przyjêtych nieodp³atnie, w tym tak¿e w drodze darowizny, œrodków trwa³ych w budowie, œrodków trwa³ych
+oraz wartoœci niematerialnych i prawnych. Zaliczone do rozliczeñ miêdzyokresowych przychodów kwoty zwiêkszaj¹
+stopniowo pozosta³e przychody operacyjne, równolegle do odpisów amortyzacyjnych lub umorzeniowych od œrodków
+trwa³ych lub wartoœci niematerialnych i prawnych;
+• ujemn¹ wartoœæ firmy.
+Us³ugi w okresie realizacji d³u¿szym ni¿ 6 miesiêcy
+Przychody z wykonania nie zakoñczonej us³ugi (w tym budowlanej) objêtej umow¹ o okresie realizacji d³u¿szym ni¿ 6
+miesiêcy, wykonanej na dzieñ bilansowy w istotnym stopniu, ustalane s¹ proporcjonalnie do stopnia zaawansowania
+us³ugi, je¿eli stopieñ ten, jak równie¿ przewidywane ca³kowite koszty wykonania us³ugi za ca³y czas jej realizacji, mo¿na
+ustaliæ w sposób wiarygodny.
+Stopieñ zaawansowania us³ugi mierzy siê udzia³em kosztów poniesionych od dnia zawarcia umowy do dnia ustalenia
+przychodu w ca³kowitych kosztach wykonania us³ugi
+                                                  6
+
+Bez wzglêdu na zastosowany sposób ustalania przychodów, na wynik finansowy jednostki wp³ywaj¹ przewidywane
+straty zwi¹zane z wykonaniem us³ugi objêtej umow¹.
+Ró¿nicê pomiêdzy kosztami faktycznie poniesionymi, a kosztami wp³ywaj¹cymi na wynik finansowy jednostki zalicza siê
+do rozliczeñ miêdzyokresowych.
+Podatek dochodowy odroczony
+W zwi¹zku z przejœciowymi ró¿nicami miêdzy wykazywan¹ w ksiêgach rachunkowych wartoœci¹ aktywów i pasywów, a
+ich wartoœci¹ podatkow¹ oraz strat¹ podatkow¹ mo¿liw¹ do odliczenia w przysz³oœci, tworzona jest rezerwa i ustalane
+aktywa z tytu³u odroczonego podatku dochodowego.
+Aktywa z tytu³u odroczonego podatku dochodowego ustala siê w wysokoœci kwoty przewidzianej w przysz³oœci do
+odliczenia od podatku dochodowego, w zwi¹zku z ujemnymi ró¿nicami przejœciowymi, które spowoduj¹ w przysz³oœci
+zmniejszenie podstawy obliczenia podatku dochodowego oraz straty podatkowej mo¿liwej do odliczenia, ustalonej przy
+uwzglêdnieniu zasady ostro¿noœci.
+Rezerwê z tytu³u odroczonego podatku dochodowego tworzy siê w wysokoœci kwoty podatku dochodowego,
+wymagaj¹cej w przysz³oœci zap³aty, w zwi¹zku z wystêpowaniem dodatnich ró¿nic przejœciowych, to jest ró¿nic, które
+spowoduj¹ zwiêkszenie podstawy obliczenia podatku dochodowego w przysz³oœci.
+Wysokoœæ rezerwy i aktywów z tytu³u odroczonego podatku dochodowego ustala siê przy uwzglêdnieniu stawek
+podatku dochodowego obowi¹zuj¹cych w roku powstania obowi¹zku podatkowego.
+Ró¿nica pomiêdzy stanem rezerw i aktywów z tytu³u podatku odroczonego na koniec i pocz¹tek okresu
+sprawozdawczego wp³ywa na wynik finansowy, przy czym rezerwy i aktywa z tytu³u odroczonego podatku dochodowego
+dotycz¹ce operacji rozliczanych z kapita³em w³asnym, odnoszone s¹ równie¿ na kapita³ w³asny.
+Uznawanie przychodu
+Przychody ze sprzeda¿y s¹ uznawane w momencie dostarczenia towaru, je¿eli jednostka przekaza³a znacz¹ce ryzyko
+i korzyœci wynikaj¹ce z praw w³asnoœci do towarów, lub w momencie wykonania us³ugi. Sprzeda¿ wykazuje siê
+w wartoœci netto, tj. bez uwzglêdnienia podatku od towarów i us³ug oraz po uwzglêdnieniu wszelkich udzielonych
+rabatów.
+Wytworzone przez jednostkê produkty wielokrotnego u¿ytku jak oprogramowanie bêd¹ aktywowane po technicznym
+koszcie wytworzenia jako zapas i pomniejszane o wielkoœæ sprzeda¿y w cenie netto w korespondencji z kosztem w³asnym
+sprzeda¿y. Nieodpisane po up³ywie 5 lat koszty wytworzenia podlegaj¹ zgodnie z art. 34 ust. 3 ustawy o rachunkowoœci
+przeniesieniu na pozosta³e koszty operacyjne.
+Sporz¹dzono dn. 19.03.2021 r.
+              Sporz¹dzaj¹cy                                                              Kierownik jednostki
+                                                 7
+
+    2.        DODATKOWE INFORMACJE I OBJAŒNIENIA
+I. Grupa wyjaœnieñ (zapewniaj¹ca wgl¹d w wa¿niejsze pozycje aktywów i pasywów bilansu).
+  1. Szczegó³owy zakres zmian wartoœci œrodków trwa³ych, wartoœci niematerialnych i prawnych
+  oraz inwestycji d³ugoterminowych.
+  a) zmiany w zakresie wartoœci niematerialnych i prawnych
+                                 Koszty zakoñczonych
+              Tytu³                                           Wartoœæ firmy     Pozosta³e      Razem
+                                   prac rozwojowych
+Zmiany w wartoœci brutto wartoœci niematerialnych i prawnych
+1. Wartoœæ brutto na pocz¹tek
+                                           2.676.158,86           3.210.755,91     328.731,37  6.215.646,14
+okresu
+2. Zwiêkszenia                                     0,00                    0,00           0,00         0,00
+3. Zmniejszenia                                    0,00                    0,00           0,00         0,00
+a) likwidacja                                      0,00                    0,00           0,00         0,00
+b) pozosta³e                                       0,00                    0,00           0,00         0,00
+4. Wartoœæ brutto na koniec
+                                           2.676.158,86           3.210.755,91     328.731,37  6.215.646,14
+okresu
+Zmiany w stanie umorzenia wartoœci niematerialnych i prawnych
+1. Wartoœæ umorzenia na
+                                             669.039,66             802.689,00     328.731,37  1.800.460,03
+pocz¹tek okresu
+2.Zwiêkszenia                                892.052,88             160.537,80            0,00 1.052.590,68
+3. Zmniejszenia                                    0,00                    0,00           0,00         0,00
+a) likwidacja                                      0,00                    0,00           0,00         0,00
+b) pozosta³e                                       0,00                    0,00           0,00         0,00
+4. Wartoœæ umorzenia na
+                                           1.561.092,54             963.226,80     328.731,37  2.853.050,71
+koniec okresu
+5. Wartoœæ netto na pocz¹tek
+                                           2.007.119,20           2.408.066,91            0,00 4.415.186,11
+okresu
+6. Wartoœæ netto na koniec
+                                           1.115.066,32           2.247,529,11            0,00 3.362.595,43
+okresu
+
+b) zmiany w zakresie œrodków trwa³ych
+Zmiany w wartoœci brutto œrodków trwa³ych
+                                                     Urz¹dzenia
+                                         Budynki i                    Œrodki        Pozosta³e
+             Tytu³           Grunty                 techniczne i                                Razem
+                                         budowle                  transportowe    œrodki trwa³e
+                                                      maszyny
+1.wartoœæ brutto œrodków
+                                  0,00         0,00    248 667,32      272 275,61          0,00 520 942,93
+trwa³ych na pocz¹tek okresu
+2. Zwiêkszenia                    0,00         0,00     72 825,07            0,00          0,00  72 825,07
+a) œrodki trwa³e przyjête         0,00         0,00     72 825,07            0,00          0,00  72 825,07
+b) zawarcie umowy
+                                  0,00         0,00          0,00            0,00          0,00       0,00
+leasingowej
+c) przemieszczenia                0,00         0,00          0,00            0,00          0,00       0,00
+3. Zmniejszenia                   0,00         0,00      4 895,97      130 000,00          0,00 134 895,97
+a) œrodki trwa³e zbyte            0,00         0,00                    130 000,00          0,00 130 000,00
+b) zlikwidowane                   0,00         0,00      4 895,97            0,00          0,00   4 895,97
+c) przemieszczenia                0,00         0,00          0,00            0,00          0,00       0,00
+4. Œrodki trwa³e na koniec
+                                  0,00         0,00    316 596,42      142 275,61          0,00 458 872,03
+okresu
+Zmiany w umorzeniu œrodków trwa³ych
+                                                    Urz¹dzenia
+                                         Budynki i                    Œrodki        Pozosta³e
+             Tytu³           Grunty                 techniczne i                                 Razem
+                                         budowle                  transportowe    œrodki trwa³e
+                                                      maszyny
+1.Umorzenie œr. trwa³ych na
+                                  0,00         0,00    234 107,22      117 909,23          0,00  352 016,45
+pocz¹tek okresu
+2.Zwiêkszenia                     0,00         0,00     22 029,66       51 971,40          0,00   74 001,06
+a) umorzenie                      0,00         0,00     22 029,66       51 971,40          0,00   74 001,06
+b) pozosta³e                      0,00         0,00          0,00            0,00          0,00        0,00
+3.Zmniejszenia                    0,00         0,00      4 895,97      116 999,69          0,00  121 895,66
+a) sprzeda¿                       0,00         0,00                          0,00          0,00        0,00
+b) likwidacja                     0,00         0,00      4 895,97      116 999,69          0,00  121 895,66
+c) przemieszczenia                0,00         0,00          0,00            0,00          0,00        0,00
+4. Umorzenie na koniec
+                                  0,00         0,00    251 240,91       52 880,94          0,00  304 121,85
+okresu
+5. wartoœæ netto na pocz¹tek
+                                  0,00         0,00     14 560,10      154 366,38          0,00  168 926,48
+okresu
+6. Wartoœæ netto na koniec
+                                  0,00         0,00     65 355,51       89 394,67          0,00  154 750,18
+okresu
+c) zmiany w stanie wartoœci brutto œrodków trwa³ych w budowie
+                                              9
+
+Œrodki trwa³e w budowie nie wyst¹pi³y w Spó³ce.
+d) zmiany w zakresie inwestycji d³ugoterminowych
+                                                               Zakup                       Aktualizacja     Zmiana
+    L.p.              Nazwa spó³ki             BO 2020                      Sprzeda¿                                          BZ 2020
+                                                             inwestycji                      wartoœci     prezentacji
+            China Smart Forever
+     1.     Entertainment Holdings (Hong           165,94            0,00           0,00            0,00         0,00              165,94
+            Kong) Company Limited
+     2.     MegaPixel Studio S.A. *          3 750 000,00            0,00       2 010,00    -148 740,00          0,00        3 599 250,00
+     3.     UF Games S.A.                      249 600,00            0,00           0,00   9 110 400,00          0,00        9 360 000,00
+     4.     TA Publishing Sarl **               41 520,51                           0,00            0,00   764 453,83          805 974,34
+     5.     Storm Trident S.A.                       0,00       42 500,00           0,00     807 500,00          0,00          850 000,00
+     6.     Fearful Entertainment S.A.               0,00       45 000,00           0,00            0,00         0,00           45 000,00
+            Razem                            4 041 286,45       87 500,00       2 010,00   9 769 160,00    764 453,83      14 660 390,28
+* Spó³ka sprzeda³a 20.100 akcji MegPixel Studio S.A. za ³¹czn¹ kwotê 503.500 z³ (dwa pakiety w cenie 25z³ z akcjê i 35,00 z³ za akcjê).
+Zysk na sprzeda¿y inwestycji, po skorygowaniu o wartoœæ aktualizacji sprzedanych akcji, zosta³ wykazany w rachunki zysków i strat w
+pozycji G.III w kwocie 352 750,00.
+** Udzia³y TA Publishing Sarl zosta³y zakupione w 2019 roku b³êdnie zaprezentowano jako po¿yczki krótkoterminowe.
+W bie¿¹cym roku obrotowym dokonano aktualizacji wyceny:
+     a)    pakiety akcji posiadanych w UF Games S.A. Wycena zosta³a dokonana w oparciu o emisjê akcji spó³ki ustalon¹
+           na poziomie 6,00 PLN za akcjê i w ca³oœci objêtej przez niezale¿nych inwestorów. Uwzglêdniaj¹c liczbê
+           1 560 000 sztuk akcji posiadanych przez Forever Entertainment S.A. ³¹czn¹ wartoœæ tego udzia³u wynosi
+           9 360 000,00 PLN. Œrednia cena akcji, skalkulowana na podstawie transakcji na akcjach UF Games, które mia³y
+           miejsce w ci¹gu ostatnich 12 miesiêcy przekroczy³a 10 z³ i jest istotnie wy¿sza od ceny przyjêtej jako wartoœæ
+           godziwa.
+     b) pakietu akcji posiadanych w Storm Trident S.A. zakupionych w 2020 roku. Wycena zosta³a dokonana w oparciu
+           o ostatni¹ emisjê akcji spó³ki w wysokoœci 2,00 PLN i w ca³oœci objêtej przez niezale¿nych inwestorów.
+           Uwzglêdniaj¹c liczbê 425 000 sztuk akcji posiadanych przez Forever Entertainment S.A. ³¹czn¹ wartoœæ tego
+           udzia³u wynosi 850 000,00 PLN. Wzrost wartoœci Storm Trident odzwierciedla wysok¹ dynamikê wzrostu
+           wyników spó³ki wraz z rosn¹c¹ liczb¹ produkcji realizowanych przez Spó³kê. Spó³ka planuje tak¿e podpisaæ
+           umowê na realizacjê gry typy remake na bazie IP pozyskanego od firmy Squere Enix z Japonii, która jest jedn¹
+           z najwiêkszych firma gamingowych na œwiecie. Emitent planuje wprowadzenie akcji Storm Trident S.A. w 2022
+           roku.
+2. Wartoœæ gruntów u¿ytkowanych wieczyœcie
+Spó³ka nie posiada ¿adnych gruntów u¿ytkowanych wieczyœcie.
+3. Œrodki trwa³e u¿ywane na podstawie umów najmu, dzier¿awy
+Jednostka w trakcie prezentowanego okresu mia³a podpisan¹ umowê na wynajem siedziby na cele biurowe w Gdyni.
+Spó³ka dysponuje samochodami osobowymi na podstawie zawartych umów leasingu.
+                                                        10
+
+4. Zobowi¹zania wobec bud¿etu pañstwa lub gminy z tytu³u uzyskania prawa w³asnoœci budynków
+    i budowli
+Nie dotyczy.
+5. Struktura w³asnoœci kapita³u podstawowego i informacja o wartoœci subskrybowanych akcji, w tym
+uprzywilejowanych
+Wykaz akcjonariuszy (za³o¿ycieli) na dzieñ 31.12.2020 r. jest nastêpuj¹cy:
+   Lp.   Akcje                                                                  Liczba akcji
+    1    Seria A                                                                               375 000
+    2    Seria B                                                                                 47 508
+    3    Seria C                                                                                   5 000
+    4    Seria D                                                                               108 192
+    5    Seria E                                                                             3 749 900
+    6    Seria F                                                                             2 571 360
+    7    Seria G                                                                                 73 500
+    8    Seria H                                                                                 98 000
+    9    Seria I                                                                               303 775
+   10    Seria J                                                                             1 167 765
+   11    Seria K                                                                             1 500 000
+   12    Seria L                                                                             9 960 997
+   13    Seria M                                                                             1 539 003
+   14    Seria N                                                                               460 997
+   15    Seria O                                                                             3 139 003
+   16    Seria P                                                                             2 100 000
+                                Ogó³em                                                      27 200 000
+Cena nominalna wszystkich akcji wynosi 0,40 z³ od sztuki i daje proporcjonalny udzia³ na walnym zgromadzeniu
+akcjonariuszy. Emisja akcji zosta³a przeprowadzona w szesnastu seriach A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P. Akcje
+zosta³y objête przez akcjonariuszy po cenie wy¿szej ni¿ nominalna. Ró¿nica zosta³a odniesiona na kapita³ zapasowy.
+Ca³oœæ akcji jest o charakterze na okaziciela.
+6. Stan kapita³ów zapasowych i rezerwowych
+                                        Kapita³
+                                     rezerwowy z
+        Wyszczególnienie                                     Kapita³            Kapita³                  Ogó³em
+                                      aktualizacji
+                                                          rezerwowy           zapasowy
+                                        wyceny
+  Stan na pocz¹tek okresu                        0,00                0,00       3 875 084,30              3 875 084,30
+  Zwiêkszenia z tytu³u:                          0,00                0,00       1 850 557,19              1 850 557,19
+  a) zysku                                       0,00                0,00       1 850 557,19              1 850 557,19
+  b) umorzenia akcji                             0,00                0,00                 0,00                    0,00
+  c) inne                                        0,00                0,00                 0,00                    0,00
+                                                   11
+
+   Zmniejszenia                                    0,00                0,00                   0,00                 0,00
+   Stan na koniec okresu                           0,00                0,00          5 725 641,49        5 725 641,49
+7. Propozycja pokrycia straty, przeznaczenia zysku
+Zarz¹d Spó³ki proponuje przekazanie wypracowanego zysku w wysokoœci 14 280 922,19 PLN w czêœci na pokrycie straty
+z lat ubieg³ych, do wysokoœci straty, tj. 327 020,33 PLN. Pozosta³¹ wartoœæ, tj. kwota 13 953 971,86 PLN Zarz¹d
+proponuje w czêœci przeznaczyæ na kapita³ zapasowy. Na dzieñ sporz¹dzenia sprawozdania finansowego Zarz¹d Spó³ki
+nie podj¹³ decyzji w odnoœcie podzia³u pozosta³ej wartoœci zysku wypracowanego za rok 2020.
+8. Dane o stanie rezerw
+                                   Stan na pierwszy
+                                                                                                       Stan na ostatni
+           Wyszczególnienie           dzieñ roku        Zwiêkszenia   Wykorzystanie      Rozwi¹zanie
+                                                                                                        dzieñ okresu
+                                     obrotowego
+   1.  Na odroczony podatek
+                                          703.000,00     1 887 903,82       28.120,00             0,00     2 562 783,82
+       dochodowy
+   2.  Pozosta³e                                 0,00            0,00            0,00             0,00              0,00
+   3.  Razem                              703.000,00     1.887.903,00       28.120,00             0,00     2.562.783.82
+9. Odpisy aktualizuj¹ce nale¿noœci.
+Spó³ka nie dokona³a odpisów aktualizacyjnych wartoœæ nale¿noœci.
+10. Podzia³ zobowi¹zañ d³ugoterminowych.
+Zobowi¹zania d³ugoterminowe w kwocie 112 454,39 PLN wynikaj¹ z zawartych umów leasingu samochodu osobowego
+oraz sprzêtu komputerowego, których termin sp³aty przypada na okres od 1.01.2022 do 28.02.2022. Kwota 64 295,74
+PLN to czêœæ krótkoterminowa zobowi¹zañ z tytu³u tych samych umów, których termin sp³aty przypada do dnia
+31.12.2020.
+11. Rozliczenia miêdzyokresowe oraz przychody przysz³ych okresów.
+a)    Rozliczenia miêdzyokresowe czynne d³ugoterminowe.
+W pozycji d³ugoterminowe rozliczenia miêdzyokresowe Spó³ka prezentuje kwotê 5 837 255,89 PLN. Sk³ada siê na ni¹
+wartoœæ licencji na gry komputerowe – rozliczana w czasie przez okres 5 lat, w wysokoœci 5 804 862,79 PLN Wartoœæ tych
+licencji do rozliczenia w ci¹gu najbli¿szych 12 miesiêcy od dnia bilansowego zosta³a zaprezentowana w rozliczeniach
+krótkoterminowych. Kwota 32 393,10 PLN to aktywo na odroczony podatek dochodowy, które zosta³o skalkulowane w
+oparciu o przejœciowe ró¿nice miedzy kosztami bilansowymi, a podatkowymi. Dotyczy wynagrodzeñ za grudzieñ 2020
+wyp³aconych w styczniu 2021.
+b) Rozliczenia miêdzyokresowe czynne krótkoterminowe.
+Rozliczenia miêdzyokresowe czynne krótkoterminowe w kwocie 1 662 360,28 PLN sk³adaj¹ siê z kosztów poniesionych
+na prace badawczo-rozwojowe w wysokoœci 385 095,96 PLN, ubezpieczenia samochodu osobowego w kwocie
+                                                      12
+
+   1 206,27 PLN, wydatków na projekt Go To Brand 2, na który Spó³ce przyznano dofinansowanie, w wysokoœci 164.339,35
+   PLN oraz z kwoty 3 221,07 PLN. S¹ to wydatki na projekt Go To Brand 3. Ponadto w krótkoterminowych rozliczeniach
+   miêdzyokresowych czynnych prezentowana jest czêœæ krótkoterminowa licencji na gry komputerowe w kwocie
+   1 108 497,63 PLN. £¹czna wartoœæ krótkoterminowych rozliczeñ miêdzyokresowych to 1 662 360,28 PLN.
+   c) Rozliczenia miêdzyokresowe przychodów przysz³ych okresów.
+   D³ugoterminowe rozliczenia miêdzyokresowe przychodów przysz³ych okresów przedstawiaj¹ wartoœæ 138 253,42 PLN.
+   Sk³ada siê na ni¹ kwota dotacji, któr¹ Spó³ka otrzyma³a w ramach dofinansowania projektu Sterio. W czêœci
+   krótkoterminowej prezentujemy pozosta³¹ do rozliczenia w 2021 roku czêœæ dotacji do projektu Sterio w wysokoœci
+   553 013,16 PLN oraz dotacjê do projektu Go To Brand, w kwocie 138 083,20 PLN. £¹czna wartoœæ rozliczeñ
+   miêdzyokresowych przychodów przysz³ych okresów wynosi 829 349,78 PLN.
+   12. Zobowi¹zania zabezpieczone na maj¹tku.
+   Na koniec okresu obrachunkowego nie wystêpuj¹ zobowi¹zania zabezpieczone na maj¹tku.
+   13. Zobowi¹zania warunkowe.
+   Na dzieñ publikacji Raportu Rocznego za 2020 rok Spó³ka posiada zobowi¹zania warunkowe. Wynikaj¹ one z transakcji
+   realizowanymi na podstawie umów wydawniczych, zawartych z zewnêtrznymi studiami deweloperskimi.
+   a) typ zobowi¹zañ: wynikaj¹ce z umów
+   b) termin realizacji: do 1 roku
+   c) wartoœæ:                          103 440,00 EUR                    477 355,00 EUR
+                                      1 355 600,00 PLN                  1 355 600,00 PLN
+                                                                        ------------------------
+                                                               Razem: 1 862 955,00 PLN
+II. Grupa wyjaœnieñ dotycz¹ca m.in. struktury przychodów i kosztów, wyniku finansowego.
+   1. Struktura rzeczowa i terytorialna przychodów ze sprzeda¿y towarów i produktów oraz materia³ów.
+   W prezentowanym okresie sprawozdawczym przychody ze sprzeda¿y produktów i us³ug wypracowano w wysokoœci
+   25.181.548.20 PLN i dotyczy³y przychodów osi¹ganych na rynku krajowym w kwocie 1.163.365,91 PLN i zagranicznym
+   w kwocie 24.018.182,29 PLN.
+   2. Wysokoœæ i wyjaœnienie przyczyn odpisów aktualizuj¹cych œrodki trwa³e.
+   Nie wyst¹pi³y.
+   3. Odpisy aktualizuj¹ce wartoœæ zapasów.
+   Nie dotyczy.
+                                                  13
+
+    4. Przychody, koszty i wyniki dzia³alnoœci zaniechanej w roku obrotowym lub przewidzianej do
+    zaprzestania w roku nastêpnym.
+    Nie dotyczy.
+    5. Koszt wytworzenia inwestycji rozpoczêtych, œrodków trwa³ych i prac rozwojowych na w³asne
+    potrzeby.
+    Nie dotyczy
+    6. Nak³ady inwestycyjne na sk³adniki niefinansowe, w tym na ochronê œrodowiska
+    Nie wyst¹pi³y.
+    7. Objaœnienia do instrumentów finansowych
+    Nie wyst¹pi³y.
+III. Grupa wyjaœnieñ dotycz¹ca struktury œrodków pieniê¿nych do rachunku przep³ywów
+    pieniê¿nych.
+    1) Amortyzacja punkcie A.II.1. dotyczy w ca³oœci amortyzacji planowej.
+    2) Pozycje dotycz¹ce zmiany stanu rezerw, zapasów wykazuj¹ ró¿nice stanu tych aktywów.
+    3) Bilansowa zmiana stanu nale¿noœci zosta³a skorygowana o korektê nale¿noœci z lat ubieg³ych skorygowanych
+        w korespondencji z wynikiem finansowym. Najwa¿niejsze pozycje sk³adaj¹ce siê na korektê nale¿noœci wynikaj¹
+        z niezaksiêgowanych wynagrodzeñ z lat ubieg³ych oraz odpowiednio nie naliczonych odsetek od powi¹zanych z nimi
+        zobowi¹zañ.
+    4) Bilansowa zmiana stanu zobowi¹zañ krótkoterminowych zosta³a skorygowana o zmianê stanu z tytu³u zobowi¹zañ
+        wynikaj¹cych z umów leasingowych. W 2020 roku dokonano sp³aty na kwotê 52 276,87 PLN.
+    5) Bilansowa zmiana stanu rozliczeñ miêdzyokresowych zosta³a skorygowana o zmianê stanu z tytu³u wp³ywu dotacji
+        w kwocie 92 483,20 PLN oraz o zmianê kwalifikacji kosztów w kwocie 12 927,11 PLN prezentowanych w roku
+        poprzednim jako rozliczenia miêdzyokresowe. Korekta zosta³a dokonana w korespondencji z wynikiem finansowym.
+    6) W pozycji B.I.2 wykazano wp³yw ze sprzeda¿y akcji w kwocie 503 500,00 PLN.
+    7) W pozycji B.II.1. wykazano wartoœæ nabytych œrodków trwa³ych w kwocie 72 825,07 PLN.
+    8) W pozycji B.II.3 wykazano wartoœæ zakupionych akcji za kwotê 87 500,00 PLN.
+    9) W pozycji C.I.3 wykazano wp³yw z dotacji w wysokoœci 92 483,20 PLN.
+    10) W pozycji C.II.4. wykazano wartoœæ sp³aconych po¿yczek w kwocie 135 000,00 PLN
+    11) W pozycji C.II.7 ujêto kwoty zap³aconych faktur z tytu³u us³ug leasingowych.
+    12) W pozycji C.II.8. ujêto wartoœæ odsetek zap³aconych od po¿yczek w kwocie 20 120,55 PLN.
+    13) W pozycji A.II.10 ujêto wartoœæ odpisów aktualizuj¹cych wartoœæ posiadanych udzia³ów w kwocie 9 917 160,00 PLN,
+    ujêtych w przychodach finansowych.
+                                                      14
+
+IV. Grupa wyjaœnieñ zawieraj¹ca informacje o zatrudnieniu i wynagrodzeniu pracowników oraz
+   organów Spó³ki.
+   1. Zatrudnienie przeciêtne wed³ug grup zawodowych w osobach.
+   Przeciêtnie zatrudnienie w Spó³ce w 2020 roku wynosi³o 17 osób w przeliczeniu na etaty, a w roku 2019 - 16 osób w
+   przeliczeniu na etaty.
+   2. Wynagrodzenia wyp³acone dla cz³onków zarz¹du i organów nadzorczych.
+   1) cz³onków zarz¹du: 855 000,00 PLN,
+   2) organów nadzorczych: 19 690,20 PLN.
+   3. Po¿yczki i œwiadczenia o charakterze podobnym udzielone cz³onkom zarz¹du lub organów
+      nadzorczych.
+   Nie udzielono ¿adnych po¿yczek i œwiadczeñ cz³onkom zarz¹du.
+   4. Informacje o wynagrodzeniu bieg³ego rewidenta lub podmiotu uprawnionego do badania sprawozdañ
+      finansowych.
+   Spó³ka zleci³a zbadanie sprawozdania finansowego za rok 2020 GGA Sp. z o.o. S.K. z siedzib¹ w Gdañsku za
+   wynagrodzeniem netto 5.500 PLN.
+ V. Informacje uzupe³niaj¹ce.
+  1. Znacz¹ce zdarzenia dotycz¹ce lat poprzednich ujêtych w sprawozdaniu finansowym za dany okres
+      bilansowy.
+   Nie wyst¹pi³y.
+  2. Informacje na temat transakcji z jednostkami powi¹zanymi
+                                MegaPixel Studio                          TA PUBLISHING
+          Jednostka                                   UF GAMES S.A.                             STORM TRIDENT S.A.
+                                      S.A.                                     SARL
+  Wartoœæ przychodów                         0,00         1.105.000,00         1.307.122,75                 2.120,62
+  Wartoœæ kosztów                    1.699.044,58         4.037.067,83         1.907.945,53               116.911,59
+  Wartoœæ nale¿noœci                         0,00           184.500,00           409.187,17                     0,00
+  Wartoœæ zobowi¹zañ                         0,00                 0,00                 0,00                     0,00
+                                                   15
+
+     Poza powy¿szymi transakcjami dotycz¹cymi dzia³alnoœci podstawowej spó³ki, a dokonywanymi z jednostkami
+     powi¹zanymi, wed³ug stanu na dzieñ 31.12.2020 wystêpuj¹ te¿ nastêpuj¹ce po¿yczki udzielone jednostkom
+     powi¹zanym:
+     - po¿yczka d³ugoterminowa udzielona do China Smart Forever Entertainment Holdings w kwocie 320.000 PLN.
+     Nie wystêpuj¹ transakcje z jednostkami powi¹zanymi na warunkach innych ni¿ rynkowe.
+    3. Wa¿niejsze zdarzenia po dacie bilansowej nie uwzglêdnione w sprawozdaniu finansowym.
+     Nie wyst¹pi³y.
+    4. Zmiany zasad polityki rachunkowoœci maj¹ce znaczny wp³yw na sytuacjê maj¹tkowa, finansow¹ i
+         wynik finansowy jednostki, ich przyczyny i wielkoœæ.
+     Nie dotyczy.
+ VI.Objaœnienia dotycz¹ce jednostek wchodz¹cych w sk³ad grupy kapita³owej
+     Nie wyst¹pi³y.
+VII. Zagro¿enia dla kontynuacji dzia³alnoœci
+     Zdaniem Zarz¹du nie wystêpuj¹ przes³anki, co do zagro¿enia kontynuacji dzia³alnoœci Spó³ki w nastêpnym roku
+     obrotowym, jednak¿e dalsze funkcjonowanie Spó³ki bêdzie uzale¿nione od udanej sprzeda¿y produktów w roku 2020
+     nad którymi Forever Entertainment S.A. zaczê³a prace w latach poprzednich.
+VIII.Pozosta³e informacje
+     Na dzieñ bilansowy nie wystêpuj¹ inne informacje ni¿ wymienione powy¿ej, które mog³yby w istotny sposób wp³yn¹æ
+     na ocenê maj¹tkow¹, finansow¹ oraz wynik finansowy za prezentowany okres sprawozdawczy.
+   Sporz¹dzono dn. 22.03.2021 r.
+              Sporz¹dzaj¹cy                                                 Kierownik jednostki
+                                                     16
+
+  3.           SPRAWOZDANIE FINANSOWE ZA ROK OBROTOWY 2020
+1. Bilans
+                                                                                                                  w PLN
+  AKTYWA                                                                          Dane na: 31.12.2020     31.12.2019
+  Aktywa razem                                                                              35 599 511,36  19 642 295,58
+    A. Aktywa trwa³e                                                                        24 334 991,78  14 773 202,69
+       I. Wartoœci niematerialne i prawne                                                    3 362 595,43   4 415 186,11
+           1. Koszty zakoñczonych prac rozwojowych                                           1 115 066,32   2 007 119,20
+           2. Wartoœæ firmy                                                                  2 247 529,11   2 408 066,91
+           3. Inne wartoœci niematerialne i prawne                                                   0,00           0,00
+           4. Zaliczki na wartoœci niematerialne i prawne                                            0,00           0,00
+       II. Rzeczowe aktywa trwa³e                                                              154 750,18     168 926,48
+           1. Œrodki trwa³e                                                                    154 750,18     168 926,48
+              A. grunty (w tym prawo u¿ytkowania wieczystego gruntu)                                 0,00           0,00
+              B. budynki, lokale, prawa do lokali i obiekty in¿ynierii l¹dowej i wodnej              0,00           0,00
+              C. urz¹dzenia techniczne i maszyny                                                65 355,51      14 560,10
+              D. œrodki transportu                                                              89 394,67     154 366,38
+              E. inne œrodki trwa³e                                                                  0,00           0,00
+           2. Œrodki trwa³e w budowie                                                                0,00           0,00
+           3. Zaliczki na œrodki trwa³e w budowie                                                    0,00           0,00
+       III. Nale¿noœci d³ugoterminowe                                                                0,00           0,00
+           1. Od jednostek powi¹zanych                                                               0,00           0,00
+           2. Od pozosta³ych jednostek, w których jednostka posiada zaanga¿owanie w
+                                                                                                                    0,00
+  kapitale                                                                                           0,00
+           3. Od pozosta³ych jednostek                                                               0,00           0,00
+       IV. Inwestycje d³ugoterminowe                                                        14 980 390,28   5 125 740,28
+           1. Nieruchomoœci                                                                          0,00           0,00
+           2. Wartoœci niematerialne i prawne                                                        0,00           0,00
+           3. D³ugoterminowe aktywa finansowe                                               14 980 390,28   5 125 740,28
+              A. w jednostkach powi¹zanych                                                           0,00           0,00
+                 1. – udzia³y lub akcje                                                              0,00           0,00
+                 2. – inne papiery wartoœciowe                                                       0,00           0,00
+                 3. – udzielone po¿yczki                                                             0,00           0,00
+                 4. – inne d³ugoterminowe aktywa finansowe                                           0,00           0,00
+              B. w pozosta³ych jednostkach, w których jednostka posiada zaanga¿owanie w
+                                                                                                            5 125 740,28
+  kapitale                                                                                  14 980 390,28
+                 1. – udzia³y lub akcje                                                     14 660 390,28   4 041 286,45
+                 2. – inne papiery wartoœciowe                                                       0,00           0,00
+                 3. – udzielone po¿yczki                                                       320 000,00     320 000,00
+                 4. – inne d³ugoterminowe aktywa finansowe                                           0,00     764 453,83
+                                                             17
+
+            C. w pozosta³ych jednostkach                                                       0,00         0,00
+               1. – udzia³y lub akcje                                                          0,00         0,00
+               2. – inne papiery wartoœciowe                                                   0,00         0,00
+               3. – udzielone po¿yczki                                                         0,00         0,00
+               4. – inne d³ugoterminowe aktywa finansowe                                       0,00         0,00
+         4. Inne inwestycje d³ugoterminowe                                                     0,00         0,00
+     V. D³ugoterminowe rozliczenia miêdzyokresowe                                      5 837 255,89 5 063 349,82
+         1. Aktywa z tytu³u odroczonego podatku dochodowego                               32 393,10   440 698,55
+         2. Inne rozliczenia miêdzyokresowe                                            5 804 862,79 4 622 651,27
+  B. Aktywa obrotowe                                                                  11 264 519,58 4 869 092,89
+     I. Zapasy                                                                         1 669 218,05 1 324 688,96
+         1. Materia³y                                                                          0,00         0,00
+         2. Pó³produkty i produkty w toku                                              1 093 822,73   987 194,61
+         3. Produkty gotowe                                                              357 515,31   337 494,35
+         4. Towary                                                                             0,00         0,00
+         5. Zaliczki na dostawy i us³ugi                                                 217 880,01         0,00
+     II. Nale¿noœci krótkoterminowe                                                    3 954 765,96 2 395 901,57
+         1. Nale¿noœci od jednostek powi¹zanych                                                0,00         0,00
+            A. z tytu³u dostaw i us³ug, o okresie sp³aty:                                      0,00         0,00
+               1. – do 12 miesiêcy                                                             0,00         0,00
+               2. – powy¿ej 12 miesiêcy                                                        0,00         0,00
+            B. inne                                                                            0,00         0,00
+         2. Nale¿noœci od pozosta³ych jednostek, w których jednostka posiada
+                                                                                                       45 472,48
+zaanga¿owanie w kapitale                                                                 593 687,17
+            A. z tytu³u dostaw i us³ug, o okresie sp³aty:                                593 687,17    45 472,48
+               1. – do 12 miesiêcy                                                       593 687,17    45 472,48
+               2. – powy¿ej 12 miesiêcy                                                        0,00         0,00
+            B. inne                                                                            0,00         0,00
+         3. Nale¿noœci od pozosta³ych jednostek                                        3 361 078,79 2 350 429,09
+            A. z tytu³u dostaw i us³ug, o okresie sp³aty:                              3 018 723,81 2 050 645,20
+               1. – do 12 miesiêcy                                                     3 018 723,81 2 050 645,20
+               2. – powy¿ej 12 miesiêcy                                                        0,00         0,00
+            B. z tytu³u podatków, dotacji, ce³, ubezpieczeñ spo³ecznych i zdrowotnych
+                                                                                                      290 001,43
+oraz innych tytu³ów publicznoprawnych                                                    334 974,98
+            C. inne                                                                        7 380,00     9 782,46
+            D. dochodzone na drodze s¹dowej                                                    0,00         0,00
+     III. Inwestycje krótkoterminowe                                                   3 978 175,29   318 098,53
+         1. Krótkoterminowe aktywa finansowe                                           3 978 175,29   318 098,53
+            A. w jednostkach powi¹zanych                                                       0,00         0,00
+               1. – udzia³y lub akcje                                                          0,00         0,00
+               2. – inne papiery wartoœciowe                                                   0,00         0,00
+                                                          18
+
+               3. – udzielone po¿yczki                                                  0,00            0,00
+               4. – inne krótkoterminowe aktywa finansowe                               0,00            0,00
+            B. w pozosta³ych jednostkach                                                0,00            0,00
+               1. – udzia³y lub akcje                                                   0,00            0,00
+               2. – inne papiery wartoœciowe                                            0,00            0,00
+               3. – udzielone po¿yczki                                                  0,00            0,00
+               4. – inne krótkoterminowe aktywa finansowe                               0,00            0,00
+            C. Œrodki pieniê¿ne i inne aktywa pieniê¿ne                         3 978 175,29      318 098,53
+               1. – œrodki pieniê¿ne w kasie i na rachunkach                    3 978 175,29      318 098,53
+               2. – inne œrodki pieniê¿ne                                               0,00            0,00
+               3. – inne aktywa pieniê¿ne                                               0,00            0,00
+         2. Inne inwestycje krótkoterminowe                                             0,00            0,00
+     IV. Krótkoterminowe rozliczenia miêdzyokresowe                             1 662 360,28      830 403,83
+  C. Nale¿ne wp³aty na kapita³ (fundusz) podstawowy                                     0,00            0,00
+  D. Udzia³y (akcje) w³asne                                                             0,00            0,00
+SUMA AKTYWÓW                                                                 35 599 511,36   19 642 295,58
+PASYWA                                                          Dane na:      31.12.2020      31.12.2019
+Pasywa razem                                                                   35 599 511,36   19 642 295,58
+  A. Kapita³ (fundusz) w³asny                                                  30 559 613,35   16 605 641,49
+     I. Kapita³ (fundusz) podstawowy                                           10 880 000,00   10 880 000,00
+     II. Kapita³ (fundusz) zapasowy, w tym:                                     5 725 641,49    3 875 084,30
+         1. – nadwy¿ka wartoœci sprzeda¿y (wartoœci emisyjnej) nad wartoœci¹
+                                                                                                        0,00
+nominaln¹ udzia³ów (akcji)                                                      3 875 084,30
+     III. Kapita³ (fundusz) z aktualizacji wyceny, w tym:                               0,00            0,00
+         1. – z tytu³u aktualizacji wartoœci godziwej                                   0,00            0,00
+     IV. Pozosta³e kapita³y (fundusze) rezerwowe, w tym:                                0,00            0,00
+         1. – tworzone zgodnie z umow¹ (statutem) spó³ki                                0,00            0,00
+         2. – na udzia³y (akcje) w³asne                                                 0,00            0,00
+     V. Zysk (strata) z lat ubieg³ych                                            -327 020,33   -4 590 151,02
+     VI. Zysk (strata) netto                                                   14 280 992,19    6 440 708,21
+     VII. Odpisy z zysku netto w ci¹gu roku obrotowego (wielkoœæ ujemna)                0,00            0,00
+  B. Zobowi¹zania i rezerwy na zobowi¹zania                                     5 039 898,01    3 036 654,09
+     I. Rezerwy na zobowi¹zania                                                 2 562 783,82      703 000,00
+         1. Rezerwa z tytu³u odroczonego podatku dochodowego                    2 562 783,82      703 000,00
+         2. Rezerwa na œwiadczenia emerytalne i podobne                                 0,00            0,00
+            1. – d³ugoterminowa                                                         0,00            0,00
+            2. – krótkoterminowa                                                        0,00            0,00
+         3. Pozosta³e rezerwy                                                           0,00            0,00
+            1. – d³ugoterminowe                                                         0,00            0,00
+                                                          19
+
+            2. – krótkoterminowe                                                           0,00         0,00
+     II. Zobowi¹zania d³ugoterminowe                                                 112 454,32   159 787,34
+         1. Wobec jednostek powi¹zanych                                                    0,00         0,00
+         2. Wobec pozosta³ych jednostek, w których jednostka posiada zaanga¿owanie
+                                                                                                        0,00
+w kapitale                                                                                 0,00
+         3. Wobec pozosta³ych jednostek                                              112 454,32   159 787,34
+            A. kredyty i po¿yczki                                                          0,00         0,00
+            B. z tytu³u emisji d³u¿nych papierów wartoœciowych                             0,00         0,00
+            C. inne zobowi¹zania finansowe                                           112 454,32   159 787,34
+            D. zobowi¹zania wekslowe                                                       0,00         0,00
+            E. inne                                                                        0,00         0,00
+     III. Zobowi¹zania krótkoterminowe                                             1 535 310,09   883 987,01
+         1. Zobowi¹zania wobec jednostek powi¹zanych                                       0,00         0,00
+            A. z tytu³u dostaw i us³ug, o okresie wymagalnoœci:                            0,00         0,00
+                1. – do 12 miesiêcy                                                        0,00         0,00
+                2. – powy¿ej 12 miesiêcy                                                   0,00         0,00
+            B. inne                                                                        0,00         0,00
+         2. Zobowi¹zania wobec pozosta³ych jednostek, w których jednostka posiada
+                                                                                                    1 881,90
+zaanga¿owanie w kapitale                                                                   0,00
+            A. z tytu³u dostaw i us³ug, o okresie wymagalnoœci:                            0,00     1 881,90
+                1. – do 12 miesiêcy                                                        0,00     1 881,90
+                2. – powy¿ej 12 miesiêcy                                                   0,00         0,00
+            B. inne                                                                        0,00         0,00
+         3. Zobowi¹zania wobec pozosta³ych jednostek                               1 535 310,09   882 105,11
+            A. kredyty i po¿yczki                                                          0,00   135 000,00
+            B. z tytu³u emisji d³u¿nych papierów wartoœciowych                             0,00         0,00
+            C. inne zobowi¹zania finansowe                                            64 295,74    69 239,59
+            D. z tytu³u dostaw i us³ug, o okresie wymagalnoœci:                      587 329,94   378 434,18
+                1. – do 12 miesiêcy                                                  587 329,94   378 434,18
+                2. – powy¿ej 12 miesiêcy                                                   0,00         0,00
+            E. zaliczki otrzymane na dostawy i us³ugi                                      0,00         0,00
+            F. zobowi¹zania wekslowe                                                       0,00         0,00
+            G. z tytu³u podatków, ce³, ubezpieczeñ spo³ecznych i zdrowotnych oraz
+                                                                                                  138 045,33
+innych tytu³ów publicznoprawnych                                                     674 069,13
+            H. z tytu³u wynagrodzeñ                                                  209 475,28   148 665,91
+            I. inne                                                                      140,00    12 720,10
+         4. Fundusze specjalne                                                             0,00         0,00
+     IV. Rozliczenia miêdzyokresowe                                                  829 349,78 1 289 879,74
+         1. Ujemna wartoœæ firmy                                                           0,00         0,00
+         2. Inne rozliczenia miêdzyokresowe                                          829 349,78 1 289 879,74
+            1. – d³ugoterminowe                                                      138 253,42   691 266,58
+                                                         20
+
+       2. – krótkoterminowe         691 096,36     598 613,16
+SUMA PASYWÓW                   35 599 511,36   19 642 295,58
+                            21
+
+2. Rachunek zysków i strat
+                                                                                                    w PLN
+                                                                           01.01.2020       01.01.2019
+  Rachunek zysków i strat                                   Dane za okres:
+                                                                           31.12.2020       31.12.2019
+    A. Przychody netto ze sprzeda¿y i zrównane z nimi, w tym:                 27 322 365,24    13 729 569,45
+       J. – od jednostek powi¹zanych                                                   0,00             0,00
+       I. Przychody netto ze sprzeda¿y produktów                              25 181 548,20    11 627 239,58
+       II. Zmiana stanu produktów (zwiêkszenie – wartoœæ dodatnia,
+                                                                               2 140 817,04     2 102 329,87
+  zmniejszenie – wartoœæ ujemna)
+       III. Koszt wytworzenia produktów na w³asne potrzeby jednostki                   0,00             0,00
+       IV. Przychody netto ze sprzeda¿y towarów i materia³ów                           0,00             0,00
+    B. Koszty dzia³alnoœci operacyjnej                                        19 806 488,40    10 825 286,63
+       I. Amortyzacja                                                          1 113 591,74       966 511,09
+       II. Zu¿ycie materia³ów i energii                                          108 650,97       140 468,68
+       III. Us³ugi obce                                                       14 780 723,13     6 386 422,86
+       IV. Podatki i op³aty, w tym:                                               16 065,62        25 356,40
+           1. – podatek akcyzowy                                                       0,00             0,00
+       V. Wynagrodzenia                                                        3 376 583,81     2 484 983,98
+       VI. Ubezpieczenia spo³eczne i inne œwiadczenia, w tym:                    279 008,10       240 699,00
+           1. – emerytalne                                                       136 794,25             0,00
+       VII. Pozosta³e koszty rodzajowe                                           131 865,03       580 844,62
+       VIII. Wartoœæ sprzedanych towarów i materia³ów                                  0,00             0,00
+    C. Zysk (strata) ze sprzeda¿y (A–B)                                        7 515 876,84     2 904 282,82
+    D. Pozosta³e przychody operacyjne                                            587 227,61       594 995,71
+       I. Zysk z tytu³u rozchodu niefinansowych aktywów trwa³ych                       0,00             0,00
+       II. Dotacje                                                               553 013,16       591 675,87
+       III. Aktualizacja wartoœci aktywów niefinansowych                               0,00         3 319,84
+       IV. Inne przychody operacyjne                                              34 214,45             0,00
+    E. Pozosta³e koszty operacyjne                                                60 914,81         9 029,01
+       I. Strata z tytu³u rozchodu niefinansowych aktywów trwa³ych                26 000,31             0,00
+       II. Aktualizacja wartoœci aktywów niefinansowych                                0,00             0,00
+       III. Inne koszty operacyjne                                                34 914,50         9 029,01
+    F. Zysk (strata) z dzia³alnoœci operacyjnej (C+D–E)                        8 042 189,64     3 490 249,52
+    G. Przychody finansowe                                                    10 327 447,74     3 700 223,30
+       I. Dywidendy i udzia³y w zyskach, w tym:                                   56 259,77             0,00
+           A. Od jednostek powi¹zanych, w tym:                                    56 259,77             0,00
+              1. – w których jednostka posiada zaanga¿owanie w kapitale           56 259,77             0,00
+           B. Od jednostek pozosta³ych, w tym:                                         0,00             0,00
+                                                        22
+
+           1. – w których jednostka posiada zaanga¿owanie w kapitale          0,00           0,00
+    II. Odsetki, w tym:                                                     210,92        223,30
+        J. – od jednostek powi¹zanych                                         0,00           0,00
+    III. Zysk z tytu³u rozchodu aktywów finansowych, w tym:             352 750,00           0,00
+        J. – w jednostkach powi¹zanych                                        0,00           0,00
+    IV. Aktualizacja wartoœci aktywów finansowych                     9 917 900,00 3 700 000,000
+    V. Inne                                                                 327,05           0,00
+H. Koszty finansowe                                                     292 355,92    139 034,40
+    I. Odsetki, w tym:                                                   21 409,88     39 455,56
+        J. – dla jednostek powi¹zanych                                                       0,00
+    II. Strata z tytu³u rozchodu aktywów finansowych, w tym:                  0,00           0,00
+        J. – w jednostkach powi¹zanych                                        0,00           0,00
+    III. Aktualizacja wartoœci aktywów finansowych                            0,00           0,00
+    IV. Inne                                                            270 946,04        99 578,
+I. Zysk (strata) brutto (F+G–H)                                      18 077 281,46  7 051 438,42
+J. Podatek dochodowy                                                  3 796 289,27    607 460,45
+K. Pozosta³e obowi¹zkowe zmniejszenia zysku (zwiêkszenia straty)              0,00      3 269,76
+L. Zysk (strata) netto (I–J–K)                                       14 280 992,19  6 440 708,21
+                                                     23
+
+3. Zestawienie zmian w kapitale
+                                                                                                       w PLN
+ Zestawienie zmian w kapitale w³asnym                               Dane na: 31.12.2020      31.12.2019
+ I. Kapita³ (fundusz) w³asny na pocz¹tek okresu (BO)                           16 605 641,49     10 399 233,23
+    1. – zmiany przyjêtych zasad (polityki) rachunkowoœci                               0,00              0,00
+    2. – korekty b³êdów                                                          -327 020,33       -234 299,95
+ IA. Kapita³ (fundusz) w³asny na pocz¹tek okresu (BO), po korektach            16 065 317,87     10 164 933,28
+    1. Kapita³ (fundusz) podstawowy na pocz¹tek okresu                         10 880 000,00     10 880 000,00
+       1. Zmiany kapita³u (funduszu) podstawowego                                       0,00              0,00
+          A. zwiêkszenie (z tytu³u)                                                     0,00              0,00
+             1. – wydania udzia³ów (emisji akcji)                                       0,00              0,00
+          B. zmniejszenie (z tytu³u)                                                    0,00              0,00
+             1. – umorzenia udzia³ów (akcji)                                            0,00              0,00
+       2. Kapita³ (fundusz) podstawowy na koniec okresu                        10 880 000,00     10 880 000,00
+    2. Kapita³ (fundusz) zapasowy na pocz¹tek okresu                            3 875 084,30      3 875 084,30
+       1. Zmiany kapita³u (funduszu) zapasowego                                 1 850 557,19              0,00
+          A. zwiêkszenie (z tytu³u)                                             1 850 557,19              0,00
+             1. – emisji akcji powy¿ej wartoœci nominalnej                              0,00              0,00
+             2. – podzia³u zysku (ustawowo)                                     1 850 557,19              0,00
+             3. – podzia³u zysku (ponad wymagan¹ ustawowo minimaln¹
+                                                                                        0,00              0,00
+ wartoœæ)
+          B. zmniejszenie (z tytu³u)                                                    0,00              0,00
+             1. – pokrycia straty                                                       0,00              0,00
+       2. Stan kapita³u (funduszu) zapasowego na koniec okresu                  5 725 641,49      3 875 084,30
+    3. Kapita³ (fundusz) z aktualizacji wyceny na pocz¹tek okresu – zmiany
+                                                                                        0,00              0,00
+ przyjêtych zasad (polityki) rachunkowoœci
+       1. Zmiany kapita³u (funduszu) z aktualizacji wyceny                              0,00              0,00
+          A. zwiêkszenie (z tytu³u)                                                     0,00              0,00
+          B. zmniejszenie (z tytu³u)                                                    0,00              0,00
+             1. – zbycia œrodków trwa³ych                                               0,00              0,00
+       2. Kapita³ (fundusz) z aktualizacji wyceny na koniec okresu                      0,00              0,00
+    4. Pozosta³e kapita³y (fundusze) rezerwowe na pocz¹tek okresu                       0,00              0,00
+       1. Zmiany pozosta³ych kapita³ów (funduszy) rezerwowych                           0,00              0,00
+          A. zwiêkszenie (z tytu³u)                                                     0,00              0,00
+          B. zmniejszenie (z tytu³u)                                                    0,00              0,00
+       2. Pozosta³e kapita³y (fundusze) rezerwowe na koniec okresu                      0,00              0,00
+    5. Zysk (strata) z lat ubieg³ych na pocz¹tek okresu                         1 850 557,19     -4 355 851,07
+       1. Zysk z lat ubieg³ych na pocz¹tek okresu                                       0,00              0,00
+          1. – zmiany przyjêtych zasad (polityki) rachunkowoœci                         0,00              0,00
+          2. – korekty b³êdów                                                           0,00              0,00
+                                                           24
+
+       2. Zysk z lat ubieg³ych na pocz¹tek okresu, po korektach         6 440 708,21          0,00
+          A. zwiêkszenie (z tytu³u)                                             0,00          0,00
+             1. – podzia³u zysku z lat ubieg³ych                                0,00          0,00
+          B. zmniejszenie (z tytu³u)                                    6 440 708,21          0,00
+             1. –pokrycie straty z lat ubieg³ych                        4 590 151,02          0,00
+             2.- przeniesienie na kapita³ zapasowy                      1 850 557,19          0,00
+       3. Zysk z lat ubieg³ych na koniec okresu                                 0,00          0,00
+       4. Strata z lat ubieg³ych na pocz¹tek okresu                     4 590 151,02  4 355 851,07
+          1. – zmiany przyjêtych zasad (polityki) rachunkowoœci                 0,00          0,00
+          2. – korekty b³êdów                                             327 020,33    234 299,95
+       5. Strata z lat ubieg³ych na pocz¹tek okresu, po korektach       5 130 474,64  4 590 151,02
+          A. zwiêkszenie (z tytu³u)                                             0,00          0,00
+          B. zmniejszenie (z tytu³u)                                    4 590 151,02          0,00
+             1. –pokrycie zyskiem z lat ubieg³ych                       4 590 151,02          0,00
+       6. Strata z lat ubieg³ych na koniec okresu                         327 020,33  4 590 151,02
+       7. Zysk (strata) z lat ubieg³ych na koniec okresu                 -327 020,33 -4 590 151,02
+    6. Wynik netto                                                     14 280 992,19  6 440 708,21
+       A. zysk netto                                                   14 280 992,19  6 440 708,21
+       B. strata netto                                                          0,00          0,00
+       C. odpisy z zysku                                                        0,00          0,00
+II. Kapita³ (fundusz) w³asny na koniec okresu (BZ)                     30 559 613,35 16 605 641,49
+III. Kapita³ (fundusz) w³asny, po uwzglêdnieniu proponowanego podzia³u
+                                                                                0,00          0,00
+zysku (pokrycia straty)
+                                                           25
+
+4. Rachunek przep³ywów pieniê¿nych
+                                                                                                          w PLN
+   Rachunek przep³ywów pieniê¿nych                                     Dane na: 31.12.2020       31.12.2019
+    A. Przep³ywy œrodków pieniê¿nych z dzia³alnoœci operacyjnej
+       I. Zysk (strata) netto                                                     14 280 992,19       6 440 708,21
+       II. Korekty razem                                                         -10 849 176,14      -5 520 511,72
+           1. Amortyzacja                                                           1 113 591,74        966 511,09
+           2. Zyski (straty) z tytu³u ró¿nic kursowych                                      0,00              0,00
+           3. Odsetki i udzia³y w zyskach (dywidendy)                                  20 120,55          6 025,08
+           4. Zysk (strata) z dzia³alnoœci inwestycyjnej                             -475 399,69              0,00
+           5. Zmiana stanu rezerw                                                   1 859 783,82        703 000,00
+           6. Zmiana stanu zapasów                                                   -344 529,09     -1 264 474,37
+           7. Zmiana stanu nale¿noœci                                             - 1 946 689,05     -1 382 102,92
+           8. Zmiana stanu zobowi¹zañ krótkoterminowych, z wyj¹tkiem
+                                                                                      759 498,06        311 404,89
+  po¿yczek i kredytów
+           9. Zmiana stanu rozliczeñ miêdzyokresowych                              -2 066 392,48     -1 162 785,25
+           10. Inne korekty                                                        -9 769 160,00     -3 698 090,24
+       III. Przep³ywy pieniê¿ne netto z dzia³alnoœci operacyjnej (I±II)             3 431 816,05        920 196,49
+    B. Przep³ywy œrodków pieniê¿nych z dzia³alnoœci inwestycyjnej
+       I. Wp³ywy                                                                      503 500,00              0,00
+           1. Zbycie wartoœci niematerialnych i prawnych oraz rzeczowych
+                                                                                            0,00              0,00
+  aktywów trwa³ych
+           2. Zbycie inwestycji w nieruchomoœci oraz wartoœci niematerialne i
+                                                                                            0,00              0,00
+  prawne
+           3. Z aktywów finansowych, w tym:                                           503 500,00              0,00
+              A. w jednostkach powi¹zanych                                                  0,00              0,00
+              B. w pozosta³ych jednostkach                                            503 500,00              0,00
+                 1. – zbycie aktywów finansowych                                      503 500,00              0,00
+                 2. – dywidendy i udzia³y w zyskach                                         0,00              0,00
+                 3. – sp³ata udzielonych po¿yczek d³ugoterminowych                          0,00              0,00
+                 4. – odsetki                                                               0,00              0,00
+                 5. – inne wp³ywy z aktywów finansowych                                     0,00              0,00
+           4. Inne wp³ywy inwestycyjne                                                      0,00              0,00
+       II. Wydatki                                                                    160 325,07        484 082,57
+           1. Nabycie wartoœci niematerialnych i prawnych oraz rzeczowych
+                                                                                       72 825,07        346 982,57
+  aktywów trwa³ych
+           2. Inwestycje w nieruchomoœci oraz wartoœci niematerialne i prawne               0,00              0,00
+           3. Na aktywa finansowe, w tym:                                              87 500,00        137 100,00
+              A. w jednostkach powi¹zanych                                             87 500,00        137 100,00
+              B. w pozosta³ych jednostkach                                                  0,00              0,00
+                                                          26
+
+                1. – nabycie aktywów finansowych                                       0,00        0,00
+                2. – udzielone po¿yczki d³ugoterminowe                                 0,00        0,00
+          4. Inne wydatki inwestycyjne                                                 0,00        0,00
+      III. Przep³ywy pieniê¿ne netto z dzia³alnoœci inwestycyjnej (I–II)         343 174,93 -484 082,57
+   C. Przep³ywy œrodków pieniê¿nych z dzia³alnoœci finansowej
+      I. Wp³ywy                                                                   92 483,20        0,00
+          1. Wp³ywy netto z wydania udzia³ów (emisji akcji) i innych
+                                                                                       0,00        0,00
+instrumentów kapita³owych oraz dop³at do kapita³u
+          2. Kredyty i po¿yczki                                                        0,00        0,00
+          3. Emisja d³u¿nych papierów wartoœciowych                                    0,00        0,00
+          4. Inne wp³ywy finansowe                                                92 483,20        0,00
+      II. Wydatki                                                                207 397,42  843 379,10
+          1. Nabycie udzia³ów (akcji) w³asnych                                         0,00        0,00
+          2. Dywidendy i inne wyp³aty na rzecz w³aœcicieli                             0,00        0,00
+          3. Inne, ni¿ wyp³aty na rzecz w³aœcicieli, wydatki z tytu³u podzia³u
+                                                                                       0,00        0,00
+zysku
+          4. Sp³aty kredytów i po¿yczek                                          135 000,00  774 011,14
+          5. Wykup d³u¿nych papierów wartoœciowych                                     0,00        0,00
+          6. Z tytu³u innych zobowi¹zañ finansowych                                       0        0,00
+          7. P³atnoœci zobowi¹zañ z tytu³u umów leasingu finansowego              52 276,87   63 342,88
+          8. Odsetki                                                              20 120,55    6 025,08
+          9. Inne wydatki finansowe                                                    0,00        0,00
+      III. Przep³ywy pieniê¿ne netto z dzia³alnoœci finansowej (I–II)           -114 914,22 -843 379,10
+   D. Przep³ywy pieniê¿ne netto razem (A.III±B.III±C.III)                      3 660 076,76 -407 265,18
+   E. Bilansowa zmiana stanu œrodków pieniê¿nych, w tym:                       3 660 076,76  407 265,18
+      – zmiana stanu œrodków pieniê¿nych z tytu³u ró¿nic kursowych                     0,00        0,00
+   F. Œrodki pieniê¿ne na pocz¹tek okresu                                        318 098,53  725 363,71
+   G. Œrodki pieniê¿ne na koniec okresu (F±D), w tym:                          3 978 175,29  318 098,53
+       – o ograniczonej mo¿liwoœci dysponowania                                        0,00        0,00
+                                                           27
+
+        5. Rozliczenie ró¿nic pomiêdzy podstaw¹ opodatkowania podatkiem dochodowym a wynikiem
+             finansowym.
+                                                                       Dane na: 31.12.2020       31.12.2019
+A. Zysk / strata                                                                  18 077 281,46      7 051 438,42
+B. Przychody zwolnione z opodatkowania                                                609 272,93       591 675,87
+B.1. Dotacje (Art.17 17 Ust.1 Pkt. 21)                                                553 013,16       591 675,87
+B.2. Dywidenda (Art.22)                                                                56 259,77             0,00
+C. Przychody niepodlegaj¹ce opodatkowaniu w roku bie¿¹cym                           9 936 546,80     3 700 000,00
+C.1. Aktualizacja wartoœci aktywów finansowych (Art. 12)                            9 917 900,00     3 700 000,00
+C.2. Dodatnie ró¿nice kursowe bilansowe                                                18 435,88             0,00
+C.3. Odsetki naliczone                                                                    210,92             0,00
+D. Przychody podlegaj¹ce opodatkowaniu w roku bie¿¹cym, ujête w latach
+ubieg³ych                                                                                   0,00             0,00
+E. Koszty niestanowi¹ce kosztów uzyskania przychodów                                  132 134,87       239 476,75
+E.1. Odsetki bud¿etowe                                                                 31 031,49         5938,85
+E.2. Koszty reprezentacji (Art.16 Ust. 1 Pkt.49)                                        1 869,23       100 434,15
+E.3. Pozosta³e koszty (Art.15)                                                         99 234,15       133 103,75
+F. Koszty nieuznawane za koszty uzyskania przychodów                                1 211 283,15       949 112,99
+F.1. Amortyzacja aktywów zakupionych z dotacji (Art.23 Ust.1 Pkt.45)                  892 052,88       669 039,66
+F.2. Amortyzacja œrodków trwa³ych w leasingu (Art. 17f. Ust.1)                              0,00        92 332,84
+F.3. Ujemne ró¿nice kursowe, bilansowe (Art.15 Lit.a)                                       0,00        42 770,10
+F.4. Niewyp³acone wynagrodzenia UCP (Art.16 Ust. 1 Pkt.57)                            128 284,00        99 815,39
+F.5. Koszty ZUS op³acone w roku nastêpnym (Art.15 Ust.4 Lit.h)                         42 206,27        45 155,00
+F.6. Odwrócenie aktualizacji aktywów (Art. 12)                                        148 740,00             0,00
+G. Koszty uznawane za koszty uzyskania przychodów, ujête w latach ubieg³ych           336 146,39             0,00
+G.1 Wynagrodzenie UCP za poprzedni rok wyp³acone w roku bie¿¹cym (Art..16 Ust.1
+Pkt. 57)                                                                              290 991,39             0,00
+G.2 ZUS za rok poprzedni zap³acony w roku bie¿¹cym                                     45 155,00             0,00
+H. Strata z lat ubieg³ych                                                             445 126,14     2 131 725,59
+I. Inne zmiany podstawy opodatkowania                                                  50 451,23             0,00
+Op³acona rata leasingowa, czêœæ kapita³owa (Art. 17u. Pkt.1)                           50 451,23             0,00
+J. Podstawa opodatkowania podatkiem dochodowym                                      8 043 155,99     1 816 626,70
+K. Podatek dochodowy                                                                1 528 200,00       345 159,00
+                                                                28
+

@@ -1,0 +1,1126 @@
+   FUNDUSZ HIPOTECZNY DOM
+        SPÓ£KA AKCYJNA
+   SPRAWOZDANIE FINANSOWE
+ZA ROK OBROTOWY KOÑCZ¥CY SIÊ
+     31 GRUDNIA 2020 ROKU
+
+                               FUNDUSZ HIPOTECZNY DOM S.A.
+               Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+OŒWIADCZENIE ZARZ¥DU
+Zgodnie z wymogami art. 52 ust. 2 ustawy z dnia 29 wrzeœnia 1994 r. o rachunkowoœci (Dz.U. z
+2019r. poz. 351) Zarz¹d Fundusz Hipoteczny Dom S.A. przedstawia sprawozdanie finansowe, na
+które sk³ada siê:
+1) wprowadzenie do sprawozdania finansowego;
+2) bilans sporz¹dzony na dzieñ 31.12.2020 r., który po stronie aktywów i pasywów wykazuje
+    sumê 41.331,10 tys. PLN;
+3) rachunek zysków i strat za okres od 01.01.2020 r. do 31.12.2020 r. wykazuj¹cy stratê netto -
+     1.848,88 tys. PLN;
+4) zestawienie zmian w kapitale w³asnym za okres od 01.01.2020 r. do 31.12.2020 r. wykazuj¹ce
+     zwiêkszenie stanu kapita³u w³asnego o kwotê 9.006,88 tys. PLN;
+5) sprawozdanie z przep³ywu œrodków pieniê¿nych za okres od 01.01.2020 r. do 31.12.2020 r.
+     wykazuj¹ce zmniejszenie stanu œrodków pieniê¿nych netto o kwotê 41,85 tys. PLN;
+6) dodatkowe informacje i objaœnienia.
+______________________
+Robert Majkowski
+Prezes Zarz¹du
+______________________
+Dominik Maciejak
+Sporz¹dzaj¹cy
+Warszawa, 17 marca 2021 r.
+                                                                                             1
+
+                              FUNDUSZ HIPOTECZNY DOM S.A.
+           Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+A.   WPROWADZENIE DO SPRAWOZDANIA FINANSOWEGO
+1. INFORMACJE OGÓLNE
+   Nazwa Spó³ki
+   Fundusz Hipoteczny Dom Spó³ka Akcyjna
+   Siedziba Spó³ki
+   00 – 867 Warszawa, Al. Jana Paw³a II 29
+   Spó³ka jest wpisana do Krajowego Rejestru S¹dowego prowadzonego przez S¹d Rejonowy,
+   XII Wydzia³ Gospodarczy Krajowego Rejestru S¹dowego, pod numerem KRS 0000389370.
+   Spó³ce nadano numer statystyczny REGON 141621017 oraz numer identyfikacji podatkowej
+   NIP 5272589498.
+   Spó³ka powsta³a poprzez przekszta³cenie Spó³ki Fundusz Hipoteczny Dom Spó³ka z
+   ograniczon¹ odpowiedzialnoœci¹ w spó³kê Fundusz Hipoteczny Dom Spó³ka Akcyjna na
+   podstawie Uchwa³y Zwyczajnego Zgromadzenia Wspólników z dnia 06.05.2011 r. S¹d wpisa³
+   zmianê do rejestru dnia 17.06.2011 r.
+   Czas trwania Spó³ki jest nieograniczony.
+   Podstawowym przedmiotem dzia³alnoœci Spó³ki jest:
+   - zarz¹dzanie portfelem nieruchomoœci,
+   - pozyskiwanie klientów na us³ugê hipoteki odwróconej,
+   - wyp³acanie rent do¿ywotnich w zamian za przeniesienie prawa do nieruchomoœci.
+2. OKRES OBJÊTY SPRAWOZDANIEM
+   Sprawozdanie finansowe zosta³o przygotowane za okres od dnia 01.01.2020 r. do 31.12.2020
+   r. Natomiast dane porównawcze s¹ za okres od dnia 01.01.2019 r. do 31.12.2019 r.
+3. ZA£O¯ENIE KONTYNUACJI DZIA£ALNOŒCI GOSPODARCZEJ
+   Sprawozdanie finansowe Spó³ki zosta³o sporz¹dzone przy za³o¿eniu kontynuowania
+   dzia³alnoœci gospodarczej w daj¹cej siê przewidzieæ przysz³oœci.
+   Zarz¹d Spó³ki stwierdza na dzieñ podpisania sprawozdania finansowego ograniczone ryzyko
+   istnienia faktów i okolicznoœci, które wskazywa³yby na zagro¿enia dla mo¿liwoœci kontynuacji
+   dzia³alnoœci przez Spó³kê w okresie 12 miesiêcy po dniu bilansowym na skutek zamierzonego
+   lub przymusowego zaniechania, b¹dŸ istotnego ograniczenia przez ni¹ dotychczasowej
+   dzia³alnoœci.
+   Spó³ka na bie¿¹co korzysta ze œrodków finansowych przekazywanych przez wiêkszoœciowego
+   akcjonariusza w zale¿noœci od zakresu planowanych potrzeb.
+   W dniu 29 paŸdziernika 2018 roku Spó³ka w trybie art.492 §1 pkt 1 Kodeksu Spó³ek
+   Handlowych po³¹czy³a siê ze spó³k¹ Fundusz Hipoteczny DOM S.A. S.K.A..
+                                                                                             2
+
+                                FUNDUSZ HIPOTECZNY DOM S.A.
+              Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+4.   ZNACZ¥CE ZASADY RACHUNKOWOŒCI
+4.1. Podstawa prawna sporz¹dzenia sprawozdania finansowego
+     Sprawozdanie finansowe zosta³o przygotowane zgodnie z przepisami ustawy z dnia
+     29.09.1994 r. o rachunkowoœci (Dz.U. z 2019r. poz. 351) [„Ustawa”].
+4.2. Wartoœci niematerialne i prawne
+     Wartoœci niematerialne i prawne ujmuje siê w cenach nabycia lub kosztach wytworzenia
+     pomniejszonych o umorzenie. Wartoœci niematerialne i prawne o wartoœci przekraczaj¹cej
+     3500,00 PLN s¹ amortyzowane z wykorzystaniem stawek ustalanych na podstawie okresu ich
+     ekonomicznej u¿ytecznoœci. Wartoœci niematerialne i prawne o wartoœci nie przekraczaj¹cej
+     3500,00 PLN zaliczane s¹ w koszty zu¿ycia materia³ów w miesi¹cu przekazania do u¿ywania.
+4.3. Œrodki trwa³e
+     Wartoœæ pocz¹tkow¹ œrodków trwa³ych ujmuje siê w ksiêgach wed³ug cen nabycia lub kosztów
+     wytworzenia, pomniejszonych o odpisy amortyzacyjne (umorzeniowe), a tak¿e o odpisy z
+     tytu³u trwa³ej utraty ich wartoœci.
+     Cena nabycia i koszt wytworzenia œrodków trwa³ych obejmuje ogó³ ich kosztów poniesionych
+     przez jednostkê za okres budowy, monta¿u, przystosowania i ulepszenia, do dnia bilansowego
+     lub przyjêcia do u¿ywania, w tym równie¿:
+     - nie podlegaj¹cy odliczeniu podatek od towarów i us³ug oraz podatek akcyzowy,
+     - koszt obs³ugi zobowi¹zañ zaci¹gniêtych w celu ich finansowania i zwi¹zane z nimi ró¿nice
+     kursowe, pomniejszony o przychody z tego tytu³u.
+     Wartoœæ pocz¹tkow¹ stanowi¹c¹ cenê nabycia lub koszt wytworzenia œrodka trwa³ego
+     powiêkszaj¹ koszty jego ulepszenia, polegaj¹cego na przebudowie, rozbudowie, modernizacji
+     lub rekonstrukcji, powoduj¹cego, ¿e wartoœæ u¿ytkowa tego œrodka po zakoñczeniu
+     ulepszenia przewy¿sza posiadan¹ przy przyjêciu do u¿ywania wartoœæ u¿ytkow¹.
+     Œrodki trwa³e o wartoœci przekraczaj¹cej 3500,00 PLN amortyzowane s¹ z wykorzystaniem
+     stawek, które kszta³tuj¹ siê nastêpuj¹co:
+     Inwestycje w obce budynki                                       10 %
+     Zespo³y komputerowe                                              30 %
+     Samochody osobowe                                               20 %
+     Inne œrodki trwa³e                                              20 %
+     Inwestycje w obce œrodki trwa³e zaliczane do budynków o wartoœci przekraczaj¹cej 3500,00
+     PLN amortyzowane s¹ z wykorzystaniem stawek ustalanych na podstawie planowanego
+     czasu u¿ywania œrodka trwa³ego, który obecnie wynosi 10 lat.
+     Œrodki trwa³e o wartoœci nie przekraczaj¹cej 3500,00 PLN zaliczane s¹ w koszty zu¿ycia
+     materia³ów w miesi¹cu przekazania do u¿ywania. Rozpoczêcie amortyzacji nastêpuje nie
+     wczeœniej ni¿ po przyjêciu œrodka trwa³ego do u¿ywania.
+                                                                                              3
+
+                                FUNDUSZ HIPOTECZNY DOM S.A.
+               Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+       Œrodki trwa³e w budowie s¹ wyceniane w wysokoœci ogó³u kosztów pozostaj¹cych
+       w bezpoœrednim zwi¹zku z ich nabyciem lub wytworzeniem, w tym kosztów finansowych,
+       pomniejszonych o odpisy z tytu³u trwa³ej utraty wartoœci. Œrodki trwa³e w budowie nie s¹
+       amortyzowane do momentu zakoñczenia ich budowy i oddania do u¿ytkowania.
+4.4.   Inwestycje
+4.4.1. Inwestycje w akcje i udzia³y w jednostkach podporz¹dkowanych
+       Akcje i udzia³y w jednostkach podporz¹dkowanych jednostka ujmuje w ksiêgach w cenie
+       nabycia. Nie rzadziej ni¿ na dzieñ bilansowy jednostka wycenia wartoœæ udzia³ów w
+       jednostkach podporz¹dkowanych metod¹ praw w³asnoœci.
+4.4.2. Inwestycje w nieruchomoœci
+       Inwestycje w nieruchomoœci wyceniane s¹ – wed³ug wartoœci godziwej uwzglêdniaj¹cej
+       obci¹¿enie nieruchomoœci prawem do¿ywocia wg modelu wyceny przyjêtego w wycenie
+       rzeczoznawcy z momentu zawarcia umowy do¿ywocia.
+       Nie rzadziej ni¿ na dzieñ bilansowy, jednostka dokonuje wyceny nieruchomoœci w wartoœci
+       godziwej z zastosowaniem zasady ostro¿noœci. Wyceny w ksiêgach Spó³ki s¹ dokonywane
+       przez Spó³kê na podstawie wycen sporz¹dzonych przez profesjonalny podmiot zewnêtrzny
+       zajmuj¹cy siê okreœlaniem wartoœci nieruchomoœci.
+       Wycena nieruchomoœci, dla których operaty szacunkowe okreœlaj¹ce ich wartoœæ zosta³y
+       sporz¹dzone przez niezale¿nych rzeczoznawców maj¹tkowych w danym roku obrotowym,
+       nast¹pi na podstawie tych operatów.
+4.5.   Leasing
+       Spó³ka jest stron¹ umów leasingowych, na podstawie których przyjmuje do odp³atnego
+       u¿ywania lub pobierania po¿ytków obce œrodki trwa³e przez uzgodniony okres. W przypadku
+       spe³nienia co najmniej jednego z warunków okreœlonych w art. 3. ust. 4 Ustawy jednostka
+       œrodki te zalicza do aktywów trwa³ych, a drugostronnie jako zobowi¹zania finansowe. Op³aty
+       leasingowe s¹ dzielone miêdzy koszty finansowe i zmniejszenie salda zobowi¹zania w sposób
+       umo¿liwiaj¹cy uzyskanie sta³ej stopy odsetek od pozosta³ego do sp³aty zobowi¹zania. Koszty
+       finansowe ujmowane s¹ bezpoœrednio w rachunku zysków i strat.
+       Œrodki trwa³e u¿ywane na podstawie umów leasingu finansowego s¹ amortyzowane przez
+       przewidywany okres u¿ytkowania.
+4.6.   Nale¿noœci i zobowi¹zania
+       Nale¿noœci s¹ wykazywane w kwocie wymaganej zap³aty pomniejszonej o odpisy
+       aktualizuj¹ce.
+       Wartoœæ nale¿noœci aktualizuje siê uwzglêdniaj¹c stopieñ prawdopodobieñstwa ich zap³aty
+       poprzez dokonanie odpisu aktualizuj¹cego, zaliczanego odpowiednio do pozosta³ych kosztów
+       operacyjnych lub do kosztów finansowych – zale¿nie od rodzaju nale¿noœci, której dotyczy
+       odpis aktualizuj¹cy.
+                                                                                                4
+
+                               FUNDUSZ HIPOTECZNY DOM S.A.
+            Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+     Zobowi¹zania ujmuje siê w ksiêgach w kwocie wymagaj¹cej zap³aty, przy czym zobowi¹zania
+     finansowe, których uregulowanie zgodnie z umow¹ nastêpuje drog¹ wydania aktywów
+     finansowych innych ni¿ œrodki pieniê¿ne lub wymiany na instrumenty finansowe, wed³ug
+     wartoœci godziwej.
+     Wycena zobowi¹zania finansowego z tytu³u renty wobec osoby bêd¹cej stron¹ umowy
+     odwróconej hipoteki na moment pierwszego ujêcia w ksiêgach jest równa przewidywanym do
+     zap³aty zobowi¹zaniom z tytu³u rent i kosztów czynszu w okresie oszacowanym na podstawie
+     okresu ¿ycia tej osoby. Szacunku takiego jednostka dokonuje za pomoc¹ tablic „Trwanie ¿ycia
+     - miasta” publikowanych przez GUS z dnia zawarcia umowy – po zdyskontowaniu efektywn¹
+     stop¹ procentow¹ – wycena na moment nabycia.
+     Stopa dyskontowa u¿ywana przez jednostkê do dyskontowania przep³ywów pieniê¿nych
+     zwi¹zanych z nabyciem nieruchomoœci odpowiada sumie:
+     - stopy procentowej dla 10-letnich obligacji skarbowych EDO dla miesi¹ca podpisania
+     ostatecznej umowy odwróconej hipoteki,
+     - ryzyka kredytowego Funduszu.
+     Wycena zobowi¹zania finansowego z tytu³u renty dla Seniora w kolejnych okresach jest
+     dokonywana w zamortyzowanym koszcie.
+     Rewaloryzacja œwiadczenia bêdzie dokonywana o roczny wskaŸnik cen towarów i us³ug
+     konsumpcyjnych publikowany przez Prezesa GUS za rok poprzedni.
+     Charakterystyczne dla tego typu zobowi¹zania jest to, ¿e szacunki bêd¹ podlegaæ zmianom.
+     W szczególnoœci zmiany bêd¹ dotyczyæ:
+     - okresu trwania wyp³at z tytu³u renty,
+     - wartoœci rewaloryzacji uzale¿nionej od wzrostu wskaŸnika cen.
+     W takiej sytuacji zmiana szacunków wp³ywa na wynik finansowy okresu w którym to nast¹pi³o.
+4.7. Œrodki pieniê¿ne i ekwiwalenty œrodków pieniê¿nych
+     Œrodki pieniê¿ne w banku i w kasie oraz lokaty krótkoterminowe utrzymywane do terminu
+     zapadalnoœci wyceniane s¹ wed³ug wartoœci nominalnej.
+4.8. Rozliczenia miêdzyokresowe
+     Spó³ka dokonuje czynnych rozliczeñ miêdzyokresowych kosztów, je¿eli dotycz¹ one
+     przysz³ych okresów sprawozdawczych i kwota œwiadczenia przekracza 500,00 PLN.
+     Rozliczenia miêdzyokresowe przychodów obejmuj¹ równowartoœæ otrzymanych lub nale¿nych
+     od kontrahentów œrodków z tytu³u œwiadczeñ, których wykonanie nast¹pi w nastêpnych
+     okresach sprawozdawczych.
+                                                                                               5
+
+                                FUNDUSZ HIPOTECZNY DOM S.A.
+              Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+4.9.  Rezerwy
+      Rezerwy ujmowane s¹ wówczas, gdy na Spó³ce ci¹¿y istniej¹cy obowi¹zek (prawny lub
+      zwyczajowy) wynikaj¹cy ze zdarzeñ przesz³ych i gdy jest pewne lub wysoce prawdopodobne,
+      ¿e wype³nienie tego obowi¹zku spowoduje koniecznoœæ wyp³ywu œrodków, oraz gdy mo¿na
+      dokonaæ wiarygodnego oszacowania kwoty tego zobowi¹zania.
+4.10. Przep³ywy pieniê¿ne
+      Spó³ka sporz¹dza rachunek przep³ywów pieniê¿nych metod¹ poœredni¹.
+4.11. Przychody i koszty
+4.11.1. Przychody ze sprzeda¿y
+      Przychody ze sprzeda¿y us³ug ujmowane s¹ co do zasady w momencie wykonania us³ugi.
+      Przychody obejmuj¹ nale¿ne lub uzyskane kwoty ze sprzeda¿y, pomniejszone o podatek od
+      towarów i us³ug (VAT).
+4.11.2 Przychody z dzia³alnoœci podstawowej
+        Z uwagi na fakt, ¿e dzia³alnoœci¹ jednostki jest wyp³acanie rent do¿ywotnich w zamian za
+      przeniesienie praw w³asnoœci do nieruchomoœci jednostka do przychodów ze sprzeda¿y
+      zalicza zyski z:
+      a) wyceny nieruchomoœci inwestycyjnych, które powstaj¹ w momencie:
+      - zawarcia umowy, gdy wycena nieruchomoœci dokonana przez rzeczoznawcê z
+      uwzglêdnieniem obci¹¿enia do¿ywotnim prawem do nieruchomoœci jest wiêksza ni¿
+      szacowane do zap³aty zobowi¹zanie z tytu³u renty do¿ywotniej oraz poniesione koszty
+      bezpoœrednio zwi¹zane z zawarciem umowy,
+      - wygaœniêcia obci¹¿enia nieruchomoœci prawem do¿ywocia – wycena nieruchomoœci wg
+      wartoœci dokonanej przez rzeczoznawcê bez obci¹¿enia do¿ywotnim prawem s³u¿ebnoœci,
+      - zmniejszania siê wartoœci prawa obci¹¿enia, z uwagi na up³yw czasu, przez który
+      nieruchomoœæ by³aby obci¹¿ona,
+      - wzrostu wartoœci nieruchomoœci,
+      b)    wyceny zobowi¹zañ z tytu³u rent do¿ywotnich, które powstaj¹ w sytuacji       zmiany
+           szacunków. W szczególnoœci zmiany bêd¹ dotyczyæ:
+      - okresu trwania wyp³at z tytu³u renty,
+      - wartoœci rewaloryzacji uzale¿nionej od wzrostu wskaŸnika cen.
+      c) sprzeda¿y nieruchomoœci inwestycyjnych, tj. wynik na sprzeda¿y – kwota netto nale¿na
+           od nabywcy nieruchomoœci jest wy¿sza ni¿ wycena dokonana przez rzeczoznawcê.
+4.11.2. Koszty
+      Przychody i koszty s¹ rozpoznawalne wed³ug zasady memoria³owej, tj. w okresach, których
+      dotycz¹, niezale¿nie od daty otrzymania lub dokonania p³atnoœci.
+                                                                                               6
+
+                          FUNDUSZ HIPOTECZNY DOM S.A.
+        Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+Z uwagi na fakt, ¿e dzia³alnoœci¹ jednostki jest wyp³acanie rent do¿ywotnich w zamian za
+przeniesienie praw w³asnoœci do nieruchomoœci. Jednostka do kosztów dzia³alnoœci
+operacyjnej zalicza:
+a) straty z wyceny nieruchomoœci inwestycyjnych, które powstaj¹ w momencie:
+- zawarcia umowy, gdy wycena nieruchomoœci dokonana przez rzeczoznawcê z
+uwzglêdnieniem obci¹¿enia do¿ywotnim prawem do nieruchomoœci jest ni¿sza ni¿ szacowane
+do zap³aty zobowi¹zanie z tytu³u renty do¿ywotniej oraz poniesione koszty bezpoœrednio
+zwi¹zane z zwarciem umowy,
+- spadku wartoœci nieruchomoœci,
+b) straty z wyceny zobowi¹zañ z tytu³u rent do¿ywotnich, które powstaj¹ w sytuacji zmiany
+     szacunków. W szczególnoœci zmiany bêd¹ dotyczyæ:
+- okresu trwania wyp³at z tytu³u renty,
+- wartoœci rewaloryzacji uzale¿nionej od wzrostu wskaŸnika cen.
+c) straty ze sprzeda¿y nieruchomoœci inwestycyjnych, tj. wynik na sprzeda¿y – kwota netto
+     nale¿na od nabywcy nieruchomoœci jest ni¿sza ni¿ wycena dokonana przez
+     rzeczoznawcê.
+- koszty obs³ugi nieruchomoœci (np. podatki, ubezpieczenie),
+- koszty odsetek od zobowi¹zañ z tytu³u rent do¿ywotnich.
+Spó³ka wyniki:
+- z wyceny nieruchomoœci inwestycyjnych,
+- z wyceny zobowi¹zañ z tytu³u rent do¿ywotnich,
+- ze sprzeda¿y nieruchomoœci inwestycyjnych,
+prezentuje odrêbnie dla ka¿dej z zawartych umów.
+Spó³ka prowadzi ewidencjê kosztów w uk³adzie rodzajowym i kalkulacyjnym oraz sporz¹dza
+porównawczy wariant rachunku zysków i strat.
+                                                                                        7
+
+                                            FUNDUSZ HIPOTECZNY DOM S.A.
+                  Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+Bilans
+                                                                               Przekszta³cone
+                                                              na dzieñ                           Dane porównawcze
+                           AKTYWA                                            dane porównawcze
+                                                            31.12.2020 r.                          31.12.2019 r.
+                                                                                 31.12.2019
+  A  AKTYWA TRWA£E                                                41 171,71           36 440,51          31 575,27
+  I  Wartoœci niematerialne i prawne                                       -                   -                  -
+  1  Koszty zakoñczonych prac rozwojowych                                  -                   -                  -
+  2  Wartoœæ firmy                                                         -                   -                  -
+  3  Inne wartoœci niematerialne i prawne                                  -                   -                  -
+  4  zaliczki na wartoœci niematerialne i prawne                           -                   -                  -
+  II Rzeczowe aktywa trwa³e                                           33,13               49,42              49,42
+  1  Œrodki trwa³e                                                     33,13               49,42              49,42
+     grunty ( w tym prawo u¿ytkowania wieczystego
+  a  gruntu)                                                               -                   -                  -
+  b  budynki , lokale i obiekty in¿ynierii l¹dowej i wodnej                -                   -                  -
+  c  urz¹dzenia techniczne i maszyny                                    7,43                   -                  -
+  d  œrodki transportu                                                 25,70               49,42              49,42
+  e  inne œrodki trwa³e                                                    -                   -                  -
+  2  Œrodki trwa³e w budowie                                               -                   -                  -
+  3  Zaliczki na œrodki trwa³e w budowie                                   -                   -                  -
+ II
+  I  Nale¿noœci d³ugoterminowe                                        91,74               91,74              91,74
+  1  Od jednostek powi¹zanych                                              -                   -                  -
+     Od jednostek powi¹zanych, w których jednostka
+  2  posiada zaanga¿owanie w kapitale                                      -                   -                  -
+  3  Od pozosta³ych jednostek                                          91,74               91,74              91,74
+ IV  Inwestycje d³ugoterminowe                                    41 046,83           36 299,34          31 434,11
+  1  Nieruchomoœci                                                 41 046,83           36 299,34          31 434,11
+  2  Wartoœci niematerialne i prawne                                       -                   -                  -
+  3  D³ugoterminowe aktywa finansowe                                       -                   -                  -
+  a  w jednostkach powi¹zanych                                             -                   -                  -
+     -udzia³y lub akcje                                                    -                   -                  -
+     -inne papiery wartoœciowe                                             -                   -                  -
+     -udzielone po¿yczki                                                   -                   -                  -
+     -inne d³ugoterminowe aktywa finansowe                                 -                   -                  -
+     w pozosta³ych jednostkach w których jednostka
+  b  posiada zaanga¿owanie w kapitale                                      -                   -                  -
+     -udzia³y lub akcje                                                    -                   -                  -
+     -inne papiery wartoœciowe                                             -                   -                  -
+     -udzielone po¿yczki                                                   -                   -                  -
+     -inne d³ugoterminowe aktywa finansowe                                 -                   -                  -
+  b  w pozosta³ych jednostkach                                             -                   -                  -
+     -udzia³y lub akcje                                                    -                   -                  -
+     -inne papiery wartoœciowe                                             -                   -                  -
+     -udzielone po¿yczki                                                   -                   -                  -
+     -inne d³ugoterminowe aktywa finansowe                                 -                   -                  -
+                                                                                                                8
+
+                                         FUNDUSZ HIPOTECZNY DOM S.A.
+                 Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+  4 Inne inwestycje d³ugoterminowe                              -               -           -
+ V  D³ugoterminowe rozliczenia miêdzyokresowe                   -               -           -
+  1 Aktywa z odroczonego podatku dochodowego                    -               -           -
+  2 Inne rozliczenia miêdzyokresowe                             -               -           -
+ B  AKTYWA OBROTOWE                                       159,40          214,52      214,52
+  I Zapasy                                                      -               -           -
+  1 Materia³y                                                   -               -           -
+  2 Pó³produkty i produkty w toku                               -               -           -
+  3 Produkty gotowe                                             -               -           -
+  4 Towary                                                      -               -           -
+  5 Zaliczki na dostawy i us³ugi                                -               -           -
+ II Nale¿noœci krótkoterminowe                             98,10          107,95      107,95
+  1 Nale¿noœci od jednostek powi¹zanych                         -               -           -
+  a z tytu³u dostaw i us³ug, o okresie sp³aty                   -               -           -
+    - do 12 miesiêcy                                            -               -           -
+    - powy¿ej 12 miesiêcy                                       -               -           -
+  b inne                                                        -               -           -
+    Nale¿noœci od pozosta³ych jednostek, w których
+  2 jednostka posiada zaanga¿owanie w kapitale                  -               -           -
+  a z tytu³u dostaw i us³ug, o okresie sp³aty:                  -               -           -
+    - do 12 miesiêcy                                            -               -           -
+    - powy¿ej 12 miesiêcy                                       -               -           -
+  b inne                                                        -               -           -
+  3 Nale¿noœci od pozosta³ych jednostek                     98,10          107,95      107,95
+  a z tytu³u dostaw i us³ug, o okresie sp³aty                   -               -           -
+    - do 12 miesiêcy                                            -               -           -
+    - powy¿ej 12 miesiêcy                                       -               -           -
+    z tytu³u podatków, dotacji, ce³, ubezpieczeñ
+  b spo³ecznych i zdrowotnych oraz innych œwiadczeñ         30,92           34,72       34,72
+  c inne                                                    67,18           73,23       73,23
+  d dochodzone na drodze s¹dowej                                -               -           -
+ II
+  I Inwestycje krótkoterminowe                             33,42           75,27       75,27
+  1 Krótkoterminowe aktywa finansowe                        33,42           75,27       75,27
+  a w jednostkach powi¹zanych                                   -               -           -
+    -udzia³y lub akcje                                          -               -           -
+    -inne papiery wartoœciowe                                   -               -           -
+    -udzielone po¿yczki                                         -               -           -
+    -inne krótkoterminowe aktywa finansowe                      -               -           -
+  b w pozosta³ych jednostkach                                9,92            9,92        9,92
+    -udzia³y lub akcje                                          -               -           -
+    -inne papiery wartoœciowe                                   -               -           -
+    -udzielone po¿yczki                                      9,92            9,92        9,92
+    -inne krótkoterminowe aktywa finansowe                      -               -           -
+  c œrodki pieniê¿ne i inne aktywa pieniê¿ne                23,50           65,35       65,35
+    - œrodki pieniê¿ne w kasie i na rachunkach              23,50           65,35       65,35
+    - inne œrodki pieniê¿ne                                     -               -           -
+    - inne aktywa pieniê¿ne                                     -               -           -
+                                                                                         9
+
+                                     FUNDUSZ HIPOTECZNY DOM S.A.
+                Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+  2  Inne inwestycje krótkoterminowe                               -              -           -
+     Krótkoterminowe rozliczenia
+ IV  miêdzyokresowe                                            27,88         31,30        31,30
+     Nale¿ne wp³aty na kapita³ (fundusz)
+  C  podstawowy                                                    -              -           -
+ D   Udzia³y (akcje) w³asne                                        -              -           -
+      Aktywa razem                                         41 331,10    36 655,02     31 789,79
+Warszawa, 17.03.2021r.
+                                           Robert Majkowski          Dominik Maciejak
+                                            Prezes Zarz¹du           Sporz¹dzaj¹cy
+                                                                                            10
+
+                                          FUNDUSZ HIPOTECZNY DOM S.A.
+                  Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+Bilans
+                                                                            Przekszta³cone          Dane
+                                                           na dzieñ
+                            PASYWA                                        dane porównawcze      porównawcze
+                                                         31.12.2020 r.
+                                                                              31.12.2019        31.12.2019 r.
+   A  KAPITA£ (FUNDUSZ) W£ASNY                                 25 262,32           16 255,44          11 390,21
+   I  Kapita³ (fundusz) podstawowy                              1 150,00              867,40             867,40
+  II  Kapita³ ( fundusz) zapasowy, w tym:                      47 102,23           36 529,07          36 529,07
+      -nadwy¿ka wartoœci sprzeda¿y (wartoœci
+      emisyjnej) nad wartoœci¹ nominaln¹ udzia³ów               47 102,23           36 529,07
+                                                                                                               -
+      (akcji)
+      Kapita³ ( fundusz) z aktualizacji wyceny w
+                                                                        -                   -                  -
+   V  tym:
+      - z tytu³u aktualizacji wartoœci godziwej                         -                   -                  -
+  VI  Pozosta³e kapita³y ( fundusze) rezerwowe                          -                   -                  -
+      - tworzone zgodnie z umow¹ (statutem) spó³ki                      -                   -                  -
+      - na udzia³y (akcje) w³asne                                       -                   -                  -
+ VII  Zysk (strata) z lat ubieg³ych                    -       21 141,03  -        19 254,14  -       24 119,38
+ VII
+                                                      -         1 848,88 -          1 886,89 -         1 886,89
+   I  Zysk ( strata) netto
+      Odpisy z zysku netto w ci¹gu roku obrot.
+                                                                        -                   -                  -
+  IX  (wielkoœæ ujemna)
+   B  Zobowi¹zania i rezerwy na zobowi¹zania                   16 068,78           20 399,58          20 399,58
+   I  Rezerwy na zobowi¹zania                                     647,24              365,83             365,83
+      Rezerwa z tytu³u odroczonego podatku
+   1  dochodowego                                                       -                   -                  -
+   2  Rezerwa na œwiadczenia emerytalne i podobne                    9,36                7,98               7,98
+      -d³ugoterminowa                                                   -                   -                  -
+      -krótkoterminowa                                               9,36                7,98               7,98
+   3  Pozosta³e rezerwy                                            637,88              357,84             357,84
+      -d³ugoterminowe                                                   -                   -                  -
+      -krótkoterminowe                                             637,88              357,84             357,84
+  II  Zobowi¹zania d³ugoterminowe                              14 212,57           11 348,13          11 348,13
+   1  Wobec jednostek powi¹zanych                                       -                   -                  -
+      Wobec pozosta³ych jednostek, w których
+   2  jednostka posiada zaanga¿owanie w kapitale                        -                   -                  -
+   3  Wobec pozosta³ych jednostek                               14 212,57           11 348,13          11 348,13
+   a  kredyty i po¿yczki                                                -                   -                  -
+   b  z tytu³u emisji d³u¿nych papierów wartoœciowych                   -                   -                  -
+   c  inne zobowi¹zania finansowe                                       -                   -                  -
+   d  zobowi¹zania wekslowe                                             -                   -                  -
+   e  zob. fin. z tyt. zawartych um. do¿ywocia                  14 212,57           11 348,13          11 348,13
+   f  inne                                                              -                   -                  -
+ III  Zobowi¹zania krótkoterminowe                              1 208,98            8 685,62           8 685,62
+                                                                                     7 542,35           7 542,35
+   1  Zobowi¹zania wobec jednostek powi¹zanych                          -
+   a  z tytu³u dostaw i us³ug o okresie wymagalnoœci:                   -                   -                  -
+      - do 12 miesiêcy                                                  -                   -                  -
+      - powy¿ej 12 miesiêcy                                             -                   -                  -
+                                                                                     7 542,35           7 542,35
+   b  inne                                                              -
+      Zobowi¹zania wobec pozosta³ych jednostek, w
+      których jednostka posiada zaanga¿owanie w
+                                                                        -                   -                  -
+   2  kapitale
+   a  z tytu³u dostaw i us³ug o okresie wymagalnoœci:                   -                   -                  -
+      - do 12 miesiêcy                                                  -                   -                  -
+                                                                                                             11
+
+                                         FUNDUSZ HIPOTECZNY DOM S.A.
+                  Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+      - powy¿ej 12 miesiêcy                                               -                  -          -
+   b  inne                                                                -                  -          -
+   3  Zobowi¹zania wobec pozosta³ych jednostek                     1 206,30          1 140,59    1 140,59
+   a  kredyty i po¿yczki                                                  -                  -          -
+   b  z tytu³u emisji d³u¿nych papierów wartoœciowych                     -                  -          -
+   c  inne zobowi¹zania finansowe                                     51,80             66,70       66,70
+   d  zob. fin. z tyt. zawartych um. do¿ywocia                       862,46            823,36      823,36
+   e  z tytu³u dostaw i us³ug o okresie wymagalnoœci:                255,03            221,32      221,32
+      - do 12 miesiêcy                                               255,03            221,32      221,32
+      - powy¿ej 12 miesiêcy                                               -                  -          -
+   f  zaliczki otrzymane na dostawy                                       -                  -          -
+   g  zobowi¹zania wekslowe                                               -                  -          -
+      z tytu³u podatków, ce³, ubezpieczeñ i innych
+   h  œwiadczeñ                                                       28,06             23,78       23,78
+   i  z tytu³u wynagrodzeñ                                                -                  -          -
+   j  inne                                                             8,95              5,41        5,41
+   3  Fundusze specjalne                                               2,68              2,68        2,68
+  IV  Rozliczenia miêdzyokresowe                                          -                  -          -
+   1  Ujemna wartoœæ firmy                                                -                  -          -
+   2  Inne rozliczenia miêdzyokresowe                                     -                  -          -
+      d³ugoterminowe                                                      -                  -          -
+      krótkoterminowe                                                     -                  -          -
+      Pasywa razem                                               41 331,10        36 655,02    31 789,79
+Warszawa, 17.03.2021 r.
+                                                Robert Majkowski            Dominik Maciejak
+                                                 Prezes Zarz¹du             Sporz¹dzaj¹cy
+                                                                                                     12
+
+                                           FUNDUSZ HIPOTECZNY DOM S.A.
+                    Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+Rachunek zysków i strat
+                                                                       01.01.2020r.-       01.01.2019r.-
+                             Wariant porównawczy
+                                                                        31.12.2020r.        31.12.2019r.
+ A. Przychody ze sprzeda¿y i zrównane z nimi (I+II+III+IV)                  7 310,76            4 540,38
+    - od jednostek powi¹zanych                                                      -                   -
+    I. Przychody netto ze sprzeda¿y produktów                                       -                   -
+    II. Zmiana stanu produktów (zwiêkszenie(+), zmniejszenie(-))                    -                   -
+    III. Koszt wytworzenia produktów na w³asne potrzeby jednostki                   -                   -
+    IV. Przychody netto ze sprzeda¿y towarów i materia³ów                           -                   -
+    V. Zyski z wyceny nieruchomoœci inwestycyjnych                           6 576,35            3 503,21
+    VI. Zyski z wyceny zobowi¹zañ z tyt. rent do¿ywotnich                      497,44              669,49
+    VII. Zyski ze sprzeda¿y nieruchomoœci inwestycyjnych                       236,97              367,69
+ B. Koszty dzia³alnoœci operacyjnej                                         8 528,52            5 681,96
+    I. Amortyzacja                                                              24,78               26,91
+    II. Zu¿ycie materia³ów i energii                                           178,76              158,29
+    III. Us³ugi obce                                                         1 768,82            1 674,51
+    IV. Podatki i op³aty, w tym:                                                60,01              117,66
+    - podatek akcyzowy                                                              -                   -
+    V. Wynagrodzenia                                                         1 001,92              901,09
+    VI. Ubezpieczenia spo³eczne i inne œwiadczenia                             137,71              107,69
+    - emerytalne                                                                    -                   -
+    VII. Pozosta³e koszty rodzajowe                                          1 148,18            1 229,88
+    VIII. Wartoœæ sprzedanych towarów i materia³ów                                  -                   -
+    IX. Koszty odsetek od zob. z tyt. rent do¿ywotnich                         820,23              725,82
+    X. Straty z wyceny nieruchomoœci inwestycyjnych                          1 537,20               14,06
+    XI. Straty z wyceny zobowi¹zañ z tyt. rent do¿ywotnich                   1 804,51              705,31
+    XII. Straty ze sprzeda¿y nieruchomoœci inwestycyjnych                       46,40               20,75
+ C. Zysk /Strata ze sprzeda¿y (A-B)                               -         1 217,76  -         1 141,58
+ D. Pozosta³e przychody operacyjne (I+II+III)                                 798,61              485,46
+    I. Zysk ze rozchodu niefinansowych aktywów trwa³ych                             -                   -
+    II. Dotacje                                                                     -                   -
+    III. Aktualizacja wartoœci aktywów niefinansowych                               -                   -
+    IV. Inne przychody operacyjne                                              798,61              485,46
+ E. Pozosta³e koszty operacyjne                                             1 028,55              863,75
+    I. Strata z tytu³u rozchodu niefinansowych aktywów trwa³ych                     -                   -
+    II. Aktualizacja wartoœci aktywów niefinansowych                                -                   -
+    III. Inne koszty operacyjne                                              1 028,55              863,75
+ F. Zysk / Strata z dzia³alnoœci operacyjnej (C+D-E)              -         1 447,70  -         1 519,87
+ G. Przychody finansowe                                                         0,12                0,99
+    I. Dywidendy i udzia³y w zyskach, w tym:                                        -                   -
+    a) od jednostek powi¹zanych, w tym:                                             -                   -
+    - w których jednostka posiada zaanga¿owanie w kapitale                          -                   -
+    b) od jednostek pozosta³ych, w tym:                                             -                   -
+    - w których jednostka posiada zaanga¿owanie w kapitale                          -                   -
+    II. Odsetki, w tym:                                                          0,12                0,99
+    - od jednostek powi¹zanych                                                      -                   -
+    III. Zysk z tytu³u rozchodu aktywów finansowych, w tym:                         -                   -
+    - w jednostek powi¹zanych                                                       -                   -
+    IV. Aktualizacja aktywów finansowych                                            -                   -
+    V. Inne                                                                         -                   -
+ H. Koszty finansowe                                                          401,30              368,00
+    I. Odsetki, w tym:                                                         396,88              365,74
+    - dla jednostek powi¹zanych                                                393,76              355,82
+    II. Strata z tytu³u rozchodu aktywów finansowych, w tym:                        -                   -
+    - w jednostek powi¹zanych                                                       -                   -
+    III. Aktualizacja wartoœci aktywów finansowych                                  -                   -
+    IV. Inne                                                                     4,42                2,26
+ I. Zysk / Strata brutto (F+G-H)                                  -         1 848,88  -         1 886,89
+ J. Podatek dochodowy                                                               -                   -
+ K. Pozosta³e obowi¹zkowe zmniejszenia zysku (zwiêkszenia straty)                   -                   -
+ L. Zysk / Strata netto (I-J-K)                                       -     1 848,88     -      1 886,89
+Warszawa, 17.03.2021r.
+                                              Robert Majkowski     Dominik Maciejak
+                                               Prezes Zarz¹du      Sporz¹dzaj¹cy
+                                                                                                     13
+
+                                            FUNDUSZ HIPOTECZNY DOM S.A.
+                  Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+                                                                               Przekszta³cone
+                                                                                                      Dane
+                                                                                    dane
+                                                                 za okres                       porównawcze za
+                                                                               porównawcze
+                     Zestawienie zmian w kapitale w³asnym     01.01.2020 r. -                         okres
+                                                                                  za okres
+                                                               31.12.2020 r.                     01.01.2019 r. -
+                                                                               01.01.2019 r. -
+                                                                                                  31.12.2019 r.
+                                                                                31.12.2019 r.
+ I.   Kapita³ w³asny na pocz¹tek okresu (BO)                       16 255,44        13 279,11          13 279,11
+      - zmiany przyjêtych zasad (polityki) rachunkowoœci                     -                -                  -
+      - korekty b³êdów                                                       -                -                  -
+      Kapita³ (fundusz) w³asny na pocz¹tek okresu (BO), po
+ I.a. korektach                                                    16 255,44        13 279,11          13 279,11
+ 1.   Kapita³ (fundusz) w³asny na pocz¹tek okresu                      867,40           867,40             867,40
+ 1.1. Zmiany kapita³u (funduszu) podstawowego                          282,60                 -                  -
+      a) zwiêkszenie (z tytu³u)                                        282,60                 -                  -
+      - wydania udzia³ów (emisji akcji)                                282,60                 -                  -
+      b) zmniejszenie (z tytu³u)                                             -                -                  -
+      - umorzenia udzia³ów (akcji)                                           -                -                  -
+ 1.2
+ .    Kapita³ (fundusz) podstawowy na koniec okresu                  1 150,00           867,40             867,40
+ 2.   Nale¿ne wp³aty na kapita³ podstawowy na pocz¹tek okresu                -                -                  -
+ 2.1. Zmiana nale¿nych wp³at na kapita³ podstawowy                           -                -                  -
+      a) zwiêkszenie (z tytu³u)                                              -                -                  -
+      -                                                                      -                -                  -
+      b) zmniejszenie (z tytu³u)                                             -                -                  -
+      -                                                                      -                -                  -
+ 2.2
+ .    Nale¿ne wp³aty na kapita³ podstawowy na koniec okresu                  -                -                  -
+ 3.   Akcje w³asne na pocz¹tek okresu                                        -                -                  -
+      a) zwiêkszenie                                                         -                -                  -
+      b) zmniejszenie                                                        -                -                  -
+ 3.1
+ .    Akcje w³asne na koniec okresu                                          -                -                  -
+ 4.   Kapita³ zapasowy na pocz¹tek okresu                           36 529,07        36 531,09          36 531,09
+ 4.1. Zmiany kapita³u zapasowego                                    10 586,55                 -                  -
+      a) zwiêkszenie (z tytu³u)                                     10 586,55                 -                  -
+      - emisji akcji powy¿ej wartoœci nominalnej                    10 586,55                 -                  -
+      - z podzia³u zysku                                                     -                -                  -
+      - inne                                                                 -                -                  -
+                                                                             -                -                  -
+      b) zmniejszenie (z tytu³u)                                        13,39             2,02               2,02
+      - pokrycie straty z roku poprzedniego                                  -                -                  -
+                                                                             -                -                  -
+      - emisji akcji powy¿ej wartoœci nominalnej                        13,39             2,02               2,02
+      - inne                                                                 -                -                  -
+ 4.2
+ .    Stan kapita³u zapasowego na koniec okresu                     47 102,23        36 529,07          36 529,07
+ 5.   Kapita³ z aktualizacji wyceny na pocz¹tek okresu                       -                -                  -
+ 5.1. Zmiany kapita³u z aktualizacji wyceny                                  -                -                  -
+      a) zwiêkszenie (z tytu³u)                                              -                -                  -
+      -                                                                      -                -                  -
+      b) zmniejszenie (z tytu³u)                                             -                -                  -
+                                                                                                             14
+
+                                             FUNDUSZ HIPOTECZNY DOM S.A.
+                   Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+      -                                                                              -              -              -
+ 5.2  Kapita³ z aktualizacji wyceny na koniec okresu                                 -              -              -
+ 6.   Pozosta³e kapita³y rezerwowe na pocz¹tek okresu                                -              -              -
+ 6.1. Zmiany pozosta³ych kapita³ów rezerwowych                                       -              -              -
+      a) zwiêkszenie (z tytu³u)                                                      -              -              -
+      - wp³acone lecz nie zarejestrowane podwy¿szenie kapita³u
+      podstawowego                                                                   -              -              -
+      b) zmniejszenie (z tytu³u)                                                     -              -              -
+      - zarejestrowanie podwy¿szenia kapita³u podstawowego                           -              -              -
+ 6.2
+ .    Pozosta³e kapita³y rezerwowe na koniec okresu                                  -              -              -
+ 7.   Zysk (strata) z lat ubieg³ych na pocz¹tek okresu                               -              -              -
+ 7.1. Zysk z lat ubieg³ych na pocz¹tek okresu                                        -              -              -
+      - korekty b³êdów podstawowych                                                  -              -              -
+      - zmiany przyjêtych zasad (polityki) rachunkowoœci                             -              -              -
+ 7.2. Zysk z lat ubieg³ych na pocz¹tek okresu, po korektach                          -              -              -
+      a) zwiêkszenie (z tytu³u)                                                      -              -              -
+      - podzia³u zysku z lat ubieg³ych                                               -              -              -
+      b) zmniejszenie (z tytu³u)                                                     -              -              -
+      - podzia³u zysku z lat ubieg³ych                                               -              -              -
+ 7.3
+ .    Zysk z lat ubieg³ych na koniec okresu                                          -              -              -
+ 7.4. Strata z lat ubieg³ych na pocz¹tek okresu                           -  19 254,14  -   22 757,73   -  22 757,73
+      - korekty b³êdów podstawowych                                                  -              -              -
+      - zmiany przyjêtych zasad (polityki) rachunkowoœci                             -       4 865,23              -
+ 7.5. Strata z lat ubieg³ych na pocz¹tek okresu, po korektach             -  19 254,14  -   17 892,50   -  22 757,73
+      a) zwiêkszenie (z tytu³u)                                           -   1 886,89  -    1 361,64   -   1 361,64
+      - przeniesienie straty z lat ubieg³ych do pokrycia                  -   1 886,89  -    1 361,64   -   1 361,64
+      - inne                                                                         -              -              -
+      b) zmniejszenie (z tytu³u)                                                     -              -              -
+      - inne                                                                         -              -              -
+ 7.6
+ .    Strata z lat ubieg³ych na koniec okresu                             - 21 141,03   - 19 254,14     - 24 119,38
+ 7.7
+ .    Zysk (strata) z lat ubieg³ych na koniec okresu                      - 21 141,03   - 19 254,14     - 24 119,38
+ 8.   Wynik netto                                                         - 1 848,88     - 1 886,89     -  1 886,89
+      a) zysk netto                                                                  -              -              -
+      b) strata netto                                                     -   1 848,88  -    1 886,89   -   1 886,89
+      c) odpisy z zysku                                                              -              -              -
+ II.  Kapita³ w³asny na koniec okresu (BZ)                                  25 262,32      16 255,44      11 390,21
+      Kapita³ w³asny, po uwzglêdnieniu proponowanego podzia³u
+ III. zysku (pokrycia straty)                                               25 262,32      16 255,44      11 390,21
+Warszawa, 17.03.2021r.
+                                                         Robert Majkowski              Dominik Maciejak
+                                                          Prezes Zarz¹du               Sporz¹dzaj¹cy
+                                                                                                                15
+
+                                              FUNDUSZ HIPOTECZNY DOM S.A.
+                 Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+Rachunek przep³ywów pieniê¿nych (metoda poœrednia)
+                                                    Treœæ pozycji                                      za okres              za okres
+                                                                                               01.01.2020 r. -       01.01.2019 r. -
+                                                                                                  31.12.2020 r.         31.12.2019 r.
+ A.          Przep³ywy œrodków pieniê¿nych z dzia³alnoœci operacyjnej
+      I.     Zysk (strata) netto                                                                 -    1 848,88         -    1 886,89
+     II.     Korekty razem:                                                                      -    3 589,39         -    3 521,86
+          1. Amortyzacja                                                                                   24,78                 26,91
+          2. Odpisy wartoœci firmy                                                                              -                    -
+          3. Odpisy ujemnej wartoœci firmy                                                                      -                    -
+          4. (Zyski) straty z tytu³u ró¿nic kursowych                                                           -                    -
+          5. Odsetki i udzia³y w zyskach (dywidendy)                                                      639,11                366,02
+          6. (Zysk) strata z dzia³alnoœci inwestycyjnej                                        -        4 597,97     -        3 855,66
+          7. Zmiana stanu rezerw                                                                          281,41     -           24,64
+          8. Zmiana stanu zapasów                                                                               -                    -
+          9. Zmiana stanu nale¿noœci                                                                        9,84     -           22,78
+         10. Zmiana stanu zobowi¹zañ krótkoterminowych, z wyj¹tkiem po¿yczek i kredytów                    50,01     -           45,15
+         11. Zmiana stanu rozliczeñ miêdzyokresowych                                                        3,42                 33,45
+         12. Inne korekty z dzia³alnoœci operacyjnej                                                            -                    -
+    III.     Przep³ywy pieniê¿ne netto z dzia³alnoœci operacyjnej (I+/-II)                       -    5 438,27         -    5 408,74
+ B.          Przep³ywy œrodków pieniê¿nych z dzia³alnoœci inwestycyjnej                                         -                    -
+      I.     Wp³ywy                                                                                   3 374,02              3 221,84
+          1. Zbycie wartoœci niematerialnych i prawnych oraz rzeczowych aktywów trwa³ych                        -                    -
+          2. Zbycie inwestycji w nieruchomoœci oraz wartoœci niematerialne i prawne                     2 979,50              3 121,25
+          3. Z aktywów finansowych, w tym:                                                                  0,12                  0,99
+             a) w jednostkach powi¹zanych                                                                       -                    -
+             b) w pozosta³ych jednostkach                                                                   0,12                  0,99
+             - zbycie aktywów finansowych                                                                       -                    -
+             - dywidendy i udzia³y w zyskach                                                                    -                    -
+             - sp³ata udzielonych po¿yczek d³ugoterminowych                                                     -                    -
+             - odsetki                                                                                      0,12                  0,99
+             - inne wp³ywy z aktywów finansowych                                                                -                    -
+          4. Inne wp³ywy inwestycyjne                                                                     394,39                 99,60
+     II.     Wydatki                                                                                        8,49                     -
+          1. Nabycie wartoœci niematerialnych i prawnych oraz rzeczowych aktywów trwa³ych                   8,49                     -
+          2. Inwestycje w nieruchomoœci oraz wartoœci niematerialne i prawne                                    -                    -
+          3. Na aktywa finansowe, w tym:                                                                        -                    -
+             a) w jednostkach powi¹zanych                                                                       -                    -
+             b) w pozosta³ych jednostkach                                                                       -                    -
+             - nabycie aktywów finansowych                                                                      -                    -
+             - udzielone po¿yczki d³ugoterminowe                                                                -                    -
+          4. Dywid. i inne udzia³y w zys wyp³. udzia³ (akcji) mniej                                             -                    -
+          5. Inne wydatki inwestycyjne                                                                          -                    -
+    III.     Przep³ywy pieniê¿ne netto z dzia³alnoœci inwestycyjnej (I-II)                            3 365,53              3 221,84
+ C.          Przep³ywy œrodków pieniê¿nych z dzia³alnoœci finansowej                                            -                    -
+      I.     Wp³ywy                                                                                  12 455,76              2 900,00
+          1. Wp³ywy netto z wydania udzia³ów (emisji akcji) i innych instrumentów kapita³owych
+             oraz dop³at do kapita³u                                                                  10 855,76                      -
+          2. Kredyty i po¿yczki                                                                                 -                    -
+          3. Emisja d³u¿nych papierów wartoœciowych                                                             -                    -
+          4. Inne wp³ywy finansowe                                                                      1 600,00              2 900,00
+     II.     Wydatki                                                                                 10 424,87                 934,01
+          1. Nabycie udzia³ów (akcji) w³asnych                                                                  -                    -
+          2. Dywidendy i inne wyp³aty na rzecz w³aœcicieli                                                      -                    -
+          3. Inne, ni¿ wyp³aty na rzecz w³aœcicieli, wydatki z tytu³u podzia³u zysku                            -                    -
+          4. Sp³aty kredytów i po¿yczek                                                                         -                    -
+          5. Wykup d³u¿nych papierów wartoœciowych                                                      8 900,00                     -
+          6. Z tytu³u innych zobowi¹zañ finansowych                                                       867,12                775,48
+          7. P³atnoœci zobowi¹zañ z tytu³u umów leasingu finansowego                                       18,52                 23,54
+          8. Odsetki                                                                                      639,23                135,00
+          9. Inne wydatki finansowe                                                                             -                    -
+    III.     Przep³ywy pieniê¿ne netto z dzia³alnoœci finansowej (I-II)                               2 030,89              1 965,99
+ D.          Przep³ywy pieniê¿ne netto razem (A.III+/-B.III+/-C.III)                           -           41,85     -          220,91
+ E.          Bilansowa zmiana stanu œrodków pieniê¿nych, w tym:                                -           41,85     -          220,91
+             - zmiana stanu œrodków pieniê¿nych z tytu³u ró¿nic kursowych                                       -                    -
+ F.          Œrodki pieniê¿ne na pocz¹tek okresu                                                           65,35                286,26
+ G.          Œrodki pieniê¿ne na koniec okresu (F+/-D), w tym:                                             23,50                 65,35
+             - o ograniczonej mo¿liwoœci dysponowania                                                           -                    -
+Warszawa, 17.03.2021r.
+                                                                        Robert Majkowski                       Dominik Maciejak
+                                                                         Prezes Zarz¹du                        Sporz¹dzaj¹cy
+                                                                                                                                  16
+
+                                   FUNDUSZ HIPOTECZNY DOM S.A.
+                 Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+B.         DODATKOWE INFORMACJE I OBJAŒNIENIA
+1       INFORMACJE O ZNACZ¥CYCH ZDARZENIACH DOTYCZ¥CYCH LAT UBIEG£YCH
+        UJÊTYCH W SPRAWOZDANIU FINANSOWYM ROKU OBROTOWEGO, W TYM O
+        RODZAJU POPE£NIONEGO B£ÊDU ORAZ KWOCIE KOREKTY
+          W niniejszym sprawozdaniu finansowym zosta³y ujête skutki wyceny nieruchomoœci
+          dotycz¹ce lat ubieg³ych na kwotê 4.865.233 PLN. Wycena ma zwi¹zek z podjêt¹ przez
+          Zarz¹d Spó³ki uchwa³¹ z dnia 15.03.2021 roku o zmianie zasad polityki rachunkowoœci.
+2       INFORMACJE O ZNACZ¥CYCH ZDARZENIACH, JAKIE NAST¥PI£Y PO DNIU
+        BILANSOWYM, A NIE UWZGLÊDNIONYCH W SPRAWOZDANIU FINANSOWYM
+        Nie wyst¹pi³y.
+3       WARTOŒCI NIEMATERIALNE I PRAWNE
+                              Koszty
+                          zakoñczonych   Wartoœæ       Inne wartoœci         Zaliczki na wartoœci
+                                                                                                    Razem
+                               prac       firmy    niematerialne i prawne  niematerialne i prawne
+                           rozwojowych
+ Wartoœæ pocz¹tkowa
+ Saldo otwarcia
+                                       -         -                  207,24                        -  207,24
+ Zwiêkszenia, w tym:                   -         -                       -                        -       -
+  Nabycie                              -         -                       -                        -       -
+  Aktualizacja wartoœci                -         -                       -                        -       -
+  Inne                                 -         -                       -                        -       -
+ Zmniejszenia, w tym                   -         -                       -                        -       -
+  Aktualizacja wartoœci                -         -                       -                        -       -
+  Inne                                 -         -                       -                        -       -
+ Saldo zamkniêcia
+                                       -         -                  207,24                        -  207,24
+ Umorzenie
+                                                                                                          -
+ Saldo otwarcia
+                                       -         -                  207,24                        -  207,24
+ Zwiêkszenia, w tym:                   -         -                       -                        -       -
+  Amortyzacja okresu                   -         -                       -                        -       -
+  Aktualizacja wartoœci                -         -                       -                        -       -
+  Inne                                 -         -                       -                        -       -
+ Zmniejszenia, w tym                   -         -                       -                        -       -
+  Aktualizacja wartoœci                -         -                       -                        -       -
+  Inne                                 -         -                       -                        -       -
+ Saldo zamkniêcia
+                                       -         -                  207,24                        -  207,24
+ Wartoœæ netto                         -         -                       -                        -       -
+ Saldo otwarcia                        -         -                       -                        -       -
+ Saldo zamkniêcia                      -         -                    0,00                        -    0,00
+                                                                                                        17
+
+                                   FUNDUSZ HIPOTECZNY DOM S.A.
+                 Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+4       RZECZOWE AKTYWA TRWA£E
+                                Budynki, lokale  Urz¹dzenia                  Inne     Œrodki
+                                                                 Œrodki
+                         Grunty    i obiekty     techniczne                 œrodki   trwa³e w   Razem
+                                                               transportu
+                                  in¿ynierii *    i maszyny                 trwa³e   budowie
+ Wartoœæ pocz¹tkowa
+ Saldo otwarcia
+                              -                -         29,62     333,01      5,78           -  368,41
+ Zwiêkszenia, w tym:
+                              -                -          8,49            -        -          -    8,49
+  Nabycie
+                              -                -          8,49            -        -          -    8,49
+  Aktualizacja wartoœci
+                              -                -             -            -        -          -        -
+  Inne
+                              -                -             -            -        -          -        -
+ Zmniejszenia, w tym:
+                              -                -             -            -        -          -        -
+  Aktualizacja wartoœci
+                              -                -             -            -        -          -        -
+  Inne
+                              -                -             -            -        -          -        -
+ Saldo zamkniêcia
+                              -                -         38,11     333,01      5,78           -  376,90
+ Umorzenie
+ Saldo otwarcia, w tym:
+                              -                -         29,62     283,59      5,78           -  318,99
+  Odpisy amortyzacyjne
+                              -                -         29,62     283,59      5,78           -  318,99
+ Zwiêkszenia, w tym:
+                              -                -          1,06      23,72          -          -   24,78
+  Amortyzacja okresu
+                              -                -          1,06      23,72          -          -   24,78
+  Aktualizacja wartoœci
+                              -                -             -            -        -          -        -
+  Inne
+                              -                -             -            -        -          -        -
+ Zmniejszenia, w tym:
+                              -                -             -            -        -          -        -
+  Aktualizacja wartoœci
+                              -                -             -            -        -          -        -
+  Inne
+                              -                -             -            -        -          -        -
+ Saldo zamkniêcia
+                              -                -         30,68     307,31      5,78           -  343,77
+ Wartoœæ netto
+                              -                -             -            -        -          -        -
+ Saldo otwarcia
+                              -                -             -      49,42          -          -   49,42
+ Saldo zamkniêcia
+                              -                -          7,43      25,70          -          -   33,13
+* inwestycje w obce budynki
+        Spó³ka nie posiada gruntów w u¿ytkowaniu wieczystym. Spó³ka nie posiada zobowi¹zañ
+        wobec bud¿etu pañstwa ani jednostek samorz¹du terytorialnego z tytu³u uzyskania prawa
+        w³asnoœci budynków i budowli. Spó³ka u¿ytkuje na podstawie umów najmu pomieszczenia
+        biurowe, których wartoœæ nie jest spó³ce znana.
+                                                                                                      18
+
+                                      FUNDUSZ HIPOTECZNY DOM S.A.
+                Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+5        INWESTYCJE D£UGOTERMINOWE
+                                                Wartoœci
+                                                                 D³ugoterminowe      Inne inwestycje
+                          Nieruchomoœci       niematerialne                                                   Razem
+                                                                aktywa finansowe     d³ugoterminowe
+                                                 i prawne
+ Saldo otwarcia, z
+ tego:                            31 434,11                  -                  -                     -         31 434,11
+  Wartoœæ brutto                  28 942,27                  -                  -                     -         28 942,27
+  Odpisy
+ aktualizuj¹ce                            -                  -                  -                     -                  -
+ Zwiêkszenia, w tym:              12 958,81                  -                  -                     -         12 958,81
+  Nabycie                          4 803,75                  -                  -                     -           4 803,75
+  Aktualizacja
+ wartoœci                          3 289,83                  -                  -                     -           3 289,83
+  Inne                             4 865,23                  -                  -                     -           4 865,23
+ Zmniejszenia, w tym:              3 346,08                  -                  -                     -           3 346,08
+  Sprzeda¿                         2 788,93                  -                  -                     -           2 788,93
+  Aktualizacja
+ wartoœci                              7,16                  -                  -                     -               7,16
+  Inne
+                                     550,00                  -                  -                     -             550,00
+ Saldo zamkniêcia,
+ z tego:                          41 046,83                  -                  -                     -         41 046,83
+  Wartoœæ brutto
+                                  41 046,83                  -                  -                     -         41 046,83
+  Odpisy
+ aktualizuj¹ce                            -                  -                  -                     -                  -
+6        KAPITA£Y
+         Na dzieñ bilansowy kapita³ akcyjny Spó³ki wynosi³ 1.150,00 tys. PLN i by³ podzielony
+         na 11.500.000,00 akcji o wartoœci nominalnej 0,10 PLN ka¿da.
+         Na dzieñ bilansowy struktura w³asnoœci kapita³u podstawowego Spó³ki by³a nastêpuj¹ca:
+                                                                   Wartoœæ nominalna
+                      Iloœæ akcji           Iloœæ g³osów                                Udzia³ w kapitale zak³adowym
+                                                                          akcji
+  Total FIZ              10 140 387                   10 140 387                 0,10                          88,18%
+  Robert Majkowski          341 051                      341 051                 0,10                           2,96%
+  Pozostali               1 018 562                    1 018 562                 0,10                           8,86%
+  Razem                  11 500 000                   11 500 000                 0,10                        100,00%
+7     PROPOZYCJE CO DO SPOSOBU POKRYCIA STRATY
+         Zarz¹d proponuje, aby stratê w wysokoœci 1.848,88 PLN za rok obrotowy koñcz¹cy siê
+         31.12.2020 r. pokryæ w ca³oœci zyskami osi¹gniêtymi w latach przysz³ych. Zwyczajne
+                                                                                                                       19
+
+                                          FUNDUSZ HIPOTECZNY DOM S.A.
+                    Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+          Zgromadzenie Akcjonariuszy uchwa³¹ nr 6 z dnia 18.08.2020 r. postanowi³o, ¿e strata w
+          wysokoœci 1.886,89 tys. PLN za rok 2019 zostanie pokryta z przysz³ych zysków spó³ki.
+8         REZERWY
+                                  Rezerwa na          Rezerwy na
+                                  œwiadczenia           badanie i        Rezerwa na         Sprawy
+                                                                                                              Razem
+                                   emerytalne        przygotowanie       œwiadczenia        s¹dowe
+                                   i podobne         sprawozdania
+ Stan na 31.01.2020                         7,98                14,60               0,00         343,24              365,83
+ Zwiêkszenia                                3,30                13,00            716,63          281,63            1 014,56
+ Wykorzystanie                                  -               14,60                  -                -              14,60
+ Rozwi¹zanie                                1,92                  0,00           716,63              0,00            718,55
+ Stan na 31.12.2020
+ tym:                                       9,36                13,00               0,00         624,88              647,24
+ D³ugoterminowe                                 -                    -                 -                -                  -
+ Krótkoterminowe                            9,36                13,00               0,00         624,88              647,24
+9         ODPISY AKTUALIZUJ¥CE WARTOŒÆ NALE¯NOŒCI
+          Spó³ka nie dokonywa³a w 2020 r. i w 2019 r. odpisów aktualizuj¹cych.
+10        ZOBOWI¥ZANIA D£UGOTERMINOWE
+ Struktura wymagalnoœci                  do 1 roku         1 - 3 lat        3 – 5 lat    powy¿ej 5 lat    Razem
+ Zobowi¹zania d³ugoterminowe
+ wobec jednostek pozosta³ych, w
+ tym:                                         914,26           2 083,91        2 490,82      9 637,83       15 126,82
+    a) kredyty i po¿yczki, w tym:                  -                   -               -              -              -
+    - krótkoterminowe                              -                   -               -              -              -
+    - d³ugoterminowe                               -                   -               -              -              -
+    b) z tytu³u emisji d³u¿nych
+ papierów wartoœciowych, w tym:                    -                   -               -              -              -
+    - krótkoterminowe*                             -                   -               -              -              -
+    - d³ugoterminowe*                              -                   -               -              -              -
+    c) z tytu³u leasingu
+ finansowego, w tym:                           51,80                   -               -              -         51,80
+    - krótkoterminowe                          51,80                   -               -              -         51,80
+    - d³ugoterminowe                               -                   -               -              -              -
+    d) zob. fin. z tyt. zawartych
+ umów do¿ywocia, w tym:                       862,46           2 083,91        2 490,82      9 637,83       15 075,02
+    -krótkoterminowe                          862,46                   -               -              -        862,46
+    -d³ugoterminowe                                -           2 083,91        2 490,82      9 637,83       14 212,57
+ Zobowi¹zania krótkoterminowe,
+ razem                                        914,26                   -               -              -        914,26
+ Zobowi¹zania d³ugoterminowe,
+ razem                                             -           2 083,91        2 490,82      9 637,83       14 212,57
+                                                                                                                        20
+
+                                       FUNDUSZ HIPOTECZNY DOM S.A.
+                  Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+11       ROZLICZENIA MIÊDZYOKRESOWE CZYNNE
+                                                                 31.12.2020                  31.12.2019
+ Ubezpieczenia                                                          1,62                         2,25
+ Podatek naliczony VAT do rozliczenia w nast. okresie
+                                                                        0,00                         0,00
+ Najem pomieszczeñ za styczeñ kolejnego roku
+                                                                       20,91                        20,19
+ Pozosta³e                                                              5,34                         8,86
+ Razem krótkoterminowe                                                 27,88                        31,30
+ Rozliczenia miêdzyokresowe czynne, razem
+                                                                       27,88                        31,30
+12      ROZLICZENIA MIÊDZYOKRESOWE BIERNE
+        W Spó³ce w 2020 r. i w 2019 r. nie wyst¹pi³y rozliczenia miêdzyokresowe bierne.
+13      ZOBOWI¥ZANIA ZABEZPIECZONE NA MAJ¥TKU SPÓ£KI
+        Na dzieñ bilansowy oraz na koniec ubieg³ego roku Spó³ka nie posiada³a zobowi¹zañ
+        zabezpieczonych na jej maj¹tku.
+14      ZOBOWI¥ZANIA WARUNKOWE, W TYM RÓWNIE¯ UDZIELONE PRZEZ SPÓ£KÊ
+        GWARANCJE I PORÊCZENIA, TAK¯E WEKSLOWE
+        Nie dotyczy.
+15      STRUKTURA SPRZEDA¯Y
+                                                                     za okres          za okres
+ Struktura terytorialna                                          01.01.2020 r. –    01.01.2019 r. –
+                                                                  31.12.2020 r.      31.12.2019 r.
+ Kraj                                                                             -                   -
+ Poza terytorium kraju                                                            -                   -
+ Zyski z wyceny nieruchomoœci inwestycyjnych                               6 576,35          3 503,21
+ Zyski z wyceny zob. z tyt. rent do¿ywotnich                                 497,44            669,49
+ Zyski ze sprzeda¿y nieruchomoœci inwestycyjnych                             236,97            367,69
+ Reklama na portalu funduszu                                                      -                   -
+ Przychody netto ze sprzeda¿y, razem                                       7 310,76          4 540,38
+16      WYSOKOŒÆ I WYJAŒNIENIE PRZYCZYN ODPISÓW AKTUALIZUJ¥CYCH ŒRODKI
+        TRWA£E
+         Nie wystêpuj¹.
+                                                                                                     21
+
+                                      FUNDUSZ HIPOTECZNY DOM S.A.
+                  Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+17      INFORMACJE O PRZYCHODACH, KOSZTACH I WYNIKACH DZIA£ALNOŒCI
+        ZANIECHANEJ W ROKU OBROTOWYM LUB PRZEWIDZIANEJ DO ZANIECHANIA
+        W ROKU NASTÊPNYM
+        W roku obrotowym Spó³ka nie zaniecha³a i w kolejnym roku nie planuje zaniechania ¿adnego
+        rodzaju dzia³alnoœci.
+18      PODATEK DOCHODOWY
+Uzgodnienie zysku (straty) brutto do podstawy opodatkowania przedstawia siê nastêpuj¹co:
+                                                                          za okres           za okres
+                                                                       01.01.2020 r. –   01.01.2019 r. –
+                                                                        31.12.2020 r.      31.12.2019 r.
+ Strata brutto                                                          -      1 848,88   -       1 886,89
+ Przychody nie zaliczane do dochodu do opodatkowania                           7 627,06           4 921,81
+ Naliczone odsetki                                                                     -                   -
+ Wyceny                                                                        7 599,64           4 921,81
+ Niezrealizowane ró¿nice kursowe                                                   0,60                    -
+ Odpis akt. aktywa                                                                     -                   -
+ Przychody COVID                                                                  26,81                    -
+ Rozwi¹zane rezerwy                                                                    -                   -
+ Przychody zaliczone do dochodu do opodatkowania                               2 979,50           3 121,25
+ Zap³acone odsetki                                                                     -                   -
+ Sprzeda¿ inwestycji                                                           2 979,50           3 121,25
+ Koszty podatkowe nie zaliczone do kosztów rachunkowych                        1 667,16             959,67
+ Zap³acone œwiadczenia okresowe                                                1 001,54             786,48
+ Zap³acone raty leasingowe                                                        14,90               14,53
+ Zap³acone odsetki                                                               636,12             125,08
+ Badanie sf za rok poprzedni                                                      14,60               33,58
+ Wyp³acone umowy zlecenia                                                              -                   -
+ Koszty nie uznawane za koszty uzyskania przychodu                             5 788,40           2 877,15
+ Rezerwa na koszty                                                               297,93               14,60
+ Rozwi¹zana rezerwa urlopowa                                                           - -             5,67
+ Amortyzacja                                                                      23,72               23,72
+ Aktualizacja aktywa                                                                   -              26,35
+ Naliczone odsetki                                                               393,76             355,82
+ Nie wyp³acone umowy zlecenia z narzutami                                          0,09                    -
+ Sk³adki cz³onkowskie                                                             37,88               38,00
+ Reprezentacja                                                                    12,15               17,23
+ Inne koszty (nkup)                                                               59,17               89,09
+ Niezrealizowane ró¿nice kursowe                                                   1,64                2,17
+ Limitowane wydatki na samochody osobowe                                          16,44               12,66
+ Koszty COVID                                                                     26,81                    -
+ Wyceny                                                                        4 918,80           2 303,17
+ Podstawa opodatkowania podatkiem dochodowym                            -      2 375,20   -       1 769,97
+ Straty z lat poprzednich                                                              -                   -
+ Stawka podatkowa                                                                    9%                  9%
+ Podatek dochodowy (bie¿¹ce zobowi¹zanie)                                              -                   -
+ Zmiana stanu rezerwy/ aktywa z tytu³u odroczonego podatku dochodowego                 -                   -
+ Podatek dochodowy - razem                                                             -                   -
+                                                                                                      22
+
+                                        FUNDUSZ HIPOTECZNY DOM S.A.
+                 Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+19     PRZYCZYNY WYSTÊPOWANIA RÓ¯NIC POMIÊDZY BILANSOWYMI ZMIANAMI
+       NIEKTÓRYCH POZYCJI ORAZ ZMIANAMI WYNIKAJ¥CYMI Z RACHUNKU PRZEP£YWU
+       ŒRODKÓW PIENIÊ¯NYCH
+Przep³ywy œrodków pieniê¿nych z dzia³alnoœci operacyjnej:
+A.II.12. Zmiana stanu zobowi¹zañ krótkoterminowych z wyj¹tkiem po¿yczek i kredytów
+                                                                                     2020           2019
+ Zmiana bilansowa
+                                                                                         65,71          73,40
+ Korekta o zobowi¹zania z tyt. leasingu finansowego
+                                                                                         14,90   -       44,33
+ Korekta o zobowi¹zania z tyt. nabycia wartoœci niematerialnych i prawnych oraz
+ rzeczowych aktywów trwa³ych                                                                  -              -
+ Korekta o zobowi¹zania wekslowe
+                                                                                           8,49              -
+ Korekta o zob. fin. z tyt. zawartych um. Do¿ywocia                                -      39,09 -        74,22
+                                                                                                             -
+ Razem
+                                                                                         50,01          45,15
+20     INFORMACJE              O    PRZECIÊTNYM         ZATRUDNIENIU,       Z    PODZIA£EM      NA   GRUPY
+       ZAWODOWE
+                                                   Rok koñcz¹cy siê                  Rok koñcz¹cy siê
+           Grupa zatrudnionych
+                                                      31.12.2020                        31.12.2019
+           Zarz¹d                                                        1                                 1
+           Pracownicy                                                    8                                 8
+           administracji
+           Zatrudnienie, razem                                           9                                 9
+21     INFORMACJE O WYNAGRODZENIACH, £¥CZNIE Z WYNAGRODZENIEM Z ZYSKU,
+       WYP£ACONYCH LUB NALE¯NYCH OSOBOM WCHODZ¥CYM W SK£AD ORGANÓW
+       ZARZ¥DZAJ¥CYCH I RAD NADZORCZYCH
+                                                           Rok koñcz¹cy siê           Rok koñcz¹cy siê
+ Wynagrodzenia
+                                                              31.12.2020                 31.12.2019
+ Zarz¹d Spó³ki                                                           420,00                      360,00
+ Rada Nadzorcza                                                             4,02                       5,11
+ Wynagrodzenia, razem                                                    424,02                      365,11
+                                                                                                           23
+
+                                  FUNDUSZ HIPOTECZNY DOM S.A.
+                Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+22     INFORMACJE O WYNAGRODZENIU BIEG£EGO REWIDENTA LUB PODMIOTU
+       UPRAWNIONEGO DO BADANIA SPRAWOZDAÑ FINANSOWYCH WYP£ACONYM LUB
+       NALE¯NYM ZA ROK OBROTOWY
+                                                   Rok koñcz¹cy siê          Rok koñcz¹cy siê
+         Wynagrodzenia
+                                                      31.12.2020                31.12.2019
+         Badanie rocznego jednostkowego spr.
+                                                                    13,00                    14,60
+         fin.
+         Badanie rocznego skonsolidowanego
+                                                                        -                        -
+         spr. fin.
+         Inne us³ugi poœwiadczaj¹ce                                     -                        -
+         Us³ugi doradztwa podatkowego                                   -                        -
+         Pozosta³e us³ugi                                               -                        -
+         Wynagrodzenia, razem                                       13,00                    14,60
+23     INFORMACJE O TRANSAKCJACH Z JEDNOSTKAMI POWI¥ZANYMI
+a.   Transakcje ze spó³kami powi¹zanymi
+     Nie dotyczy
+b.   Istotne transakcje ze spó³kami powi¹zanymi zawarte na innych warunkach ni¿ rynkowe
+     Nie dotyczy.
+24     INFORMACJE O PO£¥CZENIU
+       W dniu 29 paŸdziernika 2018 roku nast¹pi³o po³¹czenie spó³ki Fundusz Hipoteczny DOM S.A.
+       ( spó³ka przejmuj¹ca) ze spó³k¹ Fundusz Hipoteczny DOM S.A. S.K.A.(spó³ka
+       przejmowana).Po³¹czenie rozliczono metod¹ nabycia. Jako wartoœæ spó³ki przejmowanej
+       przyjêto jej wartoœæ aktywów netto. W wyniku po³¹czenia nie nast¹pi³o podwy¿szenie kapita³u
+       spó³ki przejmuj¹cej, nie uleg³ równie¿ zmianie jej statut. Zastosowane przez jednostkê
+       odst¹pienie od prezentacji danych porównawczych zgodnie z art.44b pkt 16 UoR nie
+       spowodowa³o zniekszta³cenia obrazu sytuacji maj¹tkowej i finansowej oraz wyniku
+       finansowego.
+25     INFORMACJE O ZMIANACH ZASAD POLITYKI RACHUNKOWOŒCI SPÓ£KI
+       W dniu 15 marca 2021 roku Zarz¹d Spó³ki podj¹³ uchwa³ê o zmianie zasad polityki
+       rachunkowoœci ze skutkiem od dnia 1 stycznia 2020 roku. Zmiana dotyczy sposobu wyceny
+       nieruchomoœci, która bêdzie dokonywana przez Spó³kê przez Spó³kê na podstawie wycen
+       sporz¹dzonych przez profesjonalny podmiot zewnêtrzny zajmuj¹cy siê okreœlaniem wartoœci
+       nieruchomoœci, nie rzadziej ni¿ na dzieñ bilansowy.
+       W wyniku zmiany polityki rachunkowoœci, spó³ka odnios³a na wynik finansowy lat ubieg³ych
+       kwotê 4.865,23 tys. PLN, a na wynik roku obrotowego, objêtego niniejszym sprawozdaniem,
+       kwotê: 2.959,95 PLN.
+                                                                                                24
+
+                                  FUNDUSZ HIPOTECZNY DOM S.A.
+              Sprawozdanie finansowe za rok koñcz¹cy siê dnia 31 grudnia 2020 roku
+(wszystkie dane liczbowe w tys. PLN )
+26    INNE INFORMACJE NI¯ WYMIENIONE POWY¯EJ, JE¯ELI MOG£YBY W ISTOTNY
+      SPOSÓB WP£YN¥Æ NA OCENÊ SYTUACJI MAJ¥TKOWEJ I FINANSOWEJ ORAZ
+      WYNIK FINANSOWY JEDNOSTKI
+      Pocz¹tek 2020 roku przyniós³ rozprzestrzenienie siê wirusa COVID-19 (koronawirusa)
+      w wielu krajach. Sytuacja ta ma negatywny wp³yw na gospodarkê œwiatow¹. Znaczne
+      os³abienie kursu waluty polskiej, fluktuacja cen towarów, spadek wartoœci akcji mog¹ mieæ
+      wp³yw na sytuacjê jednostki w roku 2021. Kierownictwo uwa¿a tak¹ sytuacjê za zdarzenie
+      niepowoduj¹ce korekt w sprawozdaniu finansowym za rok 2020, lecz za zdarzenie
+      wymagaj¹ce dodatkowych ujawnieñ. Nie jest mo¿liwe przedstawienie precyzyjnych danych
+      liczbowych, dotycz¹cych potencjalnego wp³ywu obecnej sytuacji na jednostkê.
+                                                                                            25
+

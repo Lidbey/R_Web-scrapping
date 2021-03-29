@@ -1,0 +1,644 @@
+    Raport roczny
+  QubicGames S.A.
+z siedzib¹ w Siedlcach
+       za rok 2020
+     Siedlce, 22 marca 2021 r.
+
+                                                           Raport roczny QubicGames S.A. za rok 2020
+Spis treœci
+ 1.   Podstawowe informacje o Spó³ce                                                                 s. 4
+ 2.   Pismo zarz¹du emitenta omawiaj¹ce najwa¿niejsze dokonania lub niepowodzenia emitenta w         s. 5
+      danym roku obrotowym i perspektywy rozwoju dzia³alnoœci emitenta na najbli¿szy rok
+      obrotowy, z okreœleniem adresatów raportu rocznego
+ 3.   Wybrane dane finansowe, zawieraj¹ce podstawowe pozycje rocznego sprawozdania finansowego       s. 7
+      (przeliczone na euro)
+ 4.   Opis organizacji grupy kapita³owej, z wyszczególnieniem jednostek podlegaj¹cych konsolidacji
+                                                                                                     s. 10
+      oraz jednostek nieobjêtych konsolidacj¹, z podaniem w stosunku do ka¿dej z nich co najmniej
+      nazwy (firmy), formy prawnej, siedziby, przedmiotu dzia³alnoœci i udzia³u emitenta w kapitale
+      zak³adowym i ogólnej liczbie g³osów
+ 5.   Wskazanie przyczyn niesporz¹dzania sprawozdañ skonsolidowanych przez podmiot dominuj¹cy
+                                                                                                     s. 10
+      lub przyczyn zwolnienia z konsolidacji w odniesieniu do ka¿dej jednostki zale¿nej nieobjêtej
+      konsolidacj¹
+ 6.   Wybrane dane finansowe wszystkich jednostek zale¿nych emitenta nieobjêtych konsolidacj¹,       s. 11
+      zawieraj¹ce podstawowe pozycje rocznego sprawozdania finansowego
+ 7.   Roczne sprawozdanie finansowe, sporz¹dzone zgodnie z obowi¹zuj¹cymi zasadami                   s. 11
+      rachunkowoœci i zbadane przez firmê audytorsk¹, zgodnie z obowi¹zuj¹cymi przepisami i
+      standardami zawodowymi
+ 8.   Sprawozdanie zarz¹du emitenta na temat dzia³alnoœci emitenta w okresie objêtym raportem        s. 11
+      rocznym oraz zasad sporz¹dzenia rocznego sprawozdania finansowego („sprawozdanie z
+      dzia³alnoœci emitenta”)
+ 9.   Oœwiadczenie zarz¹du, ¿e wedle ich najlepszej wiedzy, roczne sprawozdanie finansowe i dane     s. 12
+      porównywalne sporz¹dzone zosta³y zgodnie z przepisami obowi¹zuj¹cymi emitenta lub
+      standardami uznawanymi w skali miêdzynarodowej, oraz ¿e odzwierciedlaj¹ w sposób
+      prawdziwy, rzetelny i jasny sytuacjê maj¹tkow¹ i finansow¹ emitenta oraz jego wynik finansowy,
+      oraz ¿e sprawozdanie z dzia³alnoœci emitenta zawiera prawdziwy obraz sytuacji emitenta, w tym
+      opis podstawowych zagro¿eñ i ryzyk
+                                                Strona 2 z 18
+
+                                                      Raport roczny QubicGames S.A. za rok 2020
+10. Oœwiadczenie zarz¹du, ¿e podmiot uprawniony do badania sprawozdañ finansowych,            s. 13
+    dokonuj¹cy badania rocznego sprawozdania finansowego, zosta³ wybrany zgodnie z przepisami
+    prawa oraz ¿e podmiot ten oraz biegli rewidenci, dokonuj¹cy badania tego sprawozdania,
+    spe³niali warunki do sporz¹dzenia bezstronnego i niezale¿nego sprawozdania z badania
+    rocznego sprawozdania finansowego zgodnie z obowi¹zuj¹cymi przepisami, standardami
+    wykonywania zawodu i zasadami etyki zawodowej
+11. Sprawozdanie z badania podmiotu uprawnionego do badania sprawozdañ finansowych z          s. 13
+    badania rocznego sprawozdania finansowego
+12. Informacja na temat stosowania przez emitenta zasad ³adu korporacyjnego, o których mowa w s. 14
+    dokumencie „Dobre Praktyki Spó³ek Notowanych na NewConnect”
+                                           Strona 3 z 18
+
+                                                                             Raport roczny QubicGames S.A. za rok 2020
+1. Podstawowe informacje o Spó³ce
+1.1.   Dane Spó³ki
+       Firma:              QubicGames
+       Forma prawna:             spó³ka akcyjna
+       Kraj siedziby: Polska
+       Siedziba:           Siedlce
+       Adres:              ul. Katedralna 16, 08-110 Siedlce
+       tel.                + 48 531 242 300
+       fax:                + 48 25 644 36 39
+       Internet:           www.qubicgames.com
+       E-mail:             inwestor@qubicgames.com
+       Oznaczenie S¹du: S¹d Rejonowy Lublin-Wschód w Lublinie z siedzib¹ w Œwidniku, VI Wydzia³
+       Gospodarczy Krajowego Rejestru S¹dowego
+       KRS:                0000598476
+       REGON:              141229265
+       NIP:                821-25-15-641
+1.2.   Zarz¹d
+       Jakub Pieczykolan – Prezes Zarz¹du
+1.3.   Rada Nadzorcza
+       Andrzej PrzewoŸnik - Przewodnicz¹cy Rady Nadzorczej
+       Grzegorz Siczek – Wiceprzewodnicz¹cy Rady Nadzorczej
+       Kamil Skutnik - Cz³onek Rady Nadzorczej
+       Magdalena Kramer - Cz³onek Rady Nadzorczej
+       Piotr Rozmus - Cz³onek Rady Nadzorczej
+1.4.   Akcjonariat
+Na dzieñ 31 grudnia 2020 r. struktura akcjonariatu Spó³ki przedstawia³a siê nastêpuj¹co:
+                                                                                                                                    Udzia³
+                                                                                                            Wartoœæ            w kapitale
+                                                                                Iloœæ g³osów nominalna akcji                zak³adowym
+ Nazwa udzia³owca                      Seria              Iloœæ akcji                    (w %)                      z³               (w %)
+                                         1
+                                       A                       780 000                  14,72%                 78 000                 7,94%
+ Jakub Pieczykolan
+                                       B/C                   3 172 500                  29,93%                317 250               32,31%
+ Jakub Pieczykolan - razem                                  3 952 500                  44,65%                395 250               40,25%
+ Pozostali < 5%                        B/C                   5 867 500                  55,35%                586 750               59,75%
+ RAZEM                                                       9 820 000                100,00%                 982 000             100,00%
+ Nota:
+     (1) - akcje serii A s¹ akcjami uprzywilejowanymi co do g³osu w ten sposób, ¿e na ka¿d¹ 1 (jedn¹) akcjê przypadaæ bêd¹ 2 (dwa) g³osy
+                                                              Strona 4 z 18
+
+                                                           Raport roczny QubicGames S.A. za rok 2020
+2. Pismo zarz¹du omawiaj¹ce najwa¿niejsze dokonania lub niepowodzenia emitenta w danym
+    roku obrotowym i perspektywy rozwoju dzia³alnoœci emitenta na najbli¿szy rok obrotowy, z
+    okreœleniem adresatów raportu rocznego
+Szanowni Akcjonariusze,
+         W imieniu QubicGames S.A. przedstawiam Pañstwu Raport Roczny za rok 2020. Dokument zawiera
+wszelkie dane na temat dzia³alnoœci Spó³ki w ubieg³ym roku, z uwzglêdnieniem wyników finansowych i
+poczynionych inwestycji, oraz perspektywy rozwoju firmy.
+         Patrz¹c z perspektywy roku 2020, jak i obecnego roku, zdecydowanie najwa¿niejszymi decyzjami, a
+póŸniej ju¿ konkretnymi dzia³aniami, by³y te zwi¹zane z budow¹ grupy kapita³owej. Zdecydowaliœmy siê na
+rozwój dzia³alnoœci spó³ki QubicGames, jak i budowê jej wartoœci, poprzez stworzenie silnej grupy kapita³owej,
+która ju¿ w roku 2021 bêdzie oparta na trzech g³ównych filarach.
+         W tym celu w roku 2020 zosta³a powo³ana spó³ka zale¿na Untold Tales, której celem jest wydawanie
+wiêkszych tytu³ów Indie Premium na komputery PC oraz konsole, w tym konsole nowych generacji. Gry
+wydawane przez Untold Tales bêd¹ tytu³ami wiêkszymi ni¿ obecnie wydawane przez QubicGames,
+wydawanymi na wiele platform jednoczeœnie, w cenie detalicznej pomiêdzy 14,99 a 29,99 USD. Do realizacji
+tego celu zosta³ zbudowany bardzo doœwiadczony zespó³ posiadaj¹cy kompetencje w pozyskiwaniu gier oraz
+wydawaniu wiêkszych tytu³ów zarówno na komputery PC, jak i konsole Sony, Microsoft i Nintendo.
+         W najbli¿szych miesi¹cach planowanie jest powo³anie kolejnej spó³ki zale¿nej, której celem bêdzie
+wydawanie i tworzenie gier i aplikacji typu Family Entertainment. Ma to umo¿liwiæ znacznie szybszy rozwój
+tego rodzaju gier w ramach grupy kapita³owej QubicGames, wprowadzenie ich na kolejne platformy, a tak¿e
+pozyskiwanie istotnych licencji umo¿liwiaj¹cych rozwój produktów w³asnych. Do nowej spó³ki zostan¹
+przeniesione prawa autorskie do wybranych projektów w³asnych QubicGames - Coloring Book i Puzzle Book,
+a tak¿e gra Geo Quiz, planowana do wydania na prze³omie drugiego i trzeciego kwarta³u 2021 roku.
+         Po utworzeniu grupy kapita³owej sama spó³ka QubicGames skoncentruje siê na dalszej ekspansji na
+konsoli Nintendo Switch oraz rozwoju dzia³alnoœci w kierunku wydawania i produkcji gier na urz¹dzenia
+mobilne. Warto podkreœliæ, ¿e w marcu 2021 roku min¹³ 4 rok sprzeda¿y najnowszej konsoli Nintendo i
+sprzeda¿ konsoli przez te lata osi¹gnê³a 80 milionów urz¹dzeñ. W chwili obecnej jest to najlepiej sprzedaj¹ca siê
+konsola, której bie¿¹ca cotygodniowa sprzeda¿ osi¹ga zsumowany poziom sprzeda¿y konsol Sony i Microsoft
+nowej i poprzedniej generacji. Zarz¹d QubicGames przewiduje, ¿e rynek konsol Nintendo Switch bêdzie
+rozwija³ siê dynamicznie przez kolejne lata i mo¿e osi¹gn¹æ poziom nawet 150 milionów urz¹dzeñ w
+perspektywie najbli¿szych lat. Daje to doskona³e perspektywy dla producentów i wydawców gier na platformie
+Nintendo Switch przynajmniej do koñca 2024 roku.
+                                                 Strona 5 z 18
+
+                                                         Raport roczny QubicGames S.A. za rok 2020
+         Warto podkreœliæ, ¿e rok 2020 by³ czwartym rokiem z rzêdu, w którym Spó³ka zwiêkszy³a przychody
+ze sprzeda¿y za spraw¹ dystrybucji gier na konsolê Nintendo Switch. Obecnie w sprzeda¿y QubicGames ma
+ponad 60 gier i dodatków do gier dostêpnych na konsoli Nintendo. Trzeba podkreœliæ, ¿e Spó³ce uda³o siê
+utrzymaæ pozycje na konsoli Nintendo Switch pomimo sporych zmian w sklepie Nintendo eShop, które
+dotknê³y wielu wydawców Nintendo sprzedaj¹cych gry w ni¿szych cenach. Widaæ to w szczególnoœci podczas
+obecnej kampanii zwi¹zanej z 17-leciem QubicGames, która jest kolejn¹ bardzo udan¹ kampani¹ marketingow¹
+Spó³ki.
+         Obecnie Zarz¹d pracuje nad now¹ strategi¹ Spó³ki na lata 2021 – 2024, która ma uwzglêdniaæ finaln¹
+strukturê grupy kapita³owej, koncentracje dzia³añ na konsoli Nintendo Switch oraz planowane wejœcie w
+developing i wydawanie gier na urz¹dzenia mobilne. Zarz¹d Emitenta planuje tak¿e skoncentrowaæ siê wokó³
+budowy w³asnych IP, tak¿e poprzez kupowanie IP od innych developerów gier.
+         Zarz¹d QubicGames z optymizmem patrzy na rok 2021 i kolejne lata.
+Z powa¿aniem,
+Jakub Pieczykolan
+Prezes Zarz¹du
+Siedlce, 22 marca 2021 r.
+                                               Strona 6 z 18
+
+                                                            Raport roczny QubicGames S.A. za rok 2020
+3. Wybrane dane finansowe, zawieraj¹ce podstawowe pozycje rocznego sprawozdania
+   finansowego (przeliczone na euro)
+   Bilans
+  AKTYWA                                               31.12.2020    31.12.2020 31.12.2019  31.12.2019
+                                                               z³         EUR           z³       EUR
+   Aktywa trwa³e
+      Wartoœci niematerialne i prawne                   1 626 518       352 457  1 508 545     354 243
+      Rzeczowe aktywa trwa³e                              332 777        72 111    192 139      45 119
+      Nale¿noœci d³ugoterminowe                            97 161        21 054     18 180       4 269
+      Inwestycje d³ugoterminowe                         6 456 958     1 399 185  5 907 645   1 387 260
+                                                        8 513 414     1 844 807  7 626 509   1 790 891
+   Aktywa obrotowe
+      Zapasy                                            1 695 799       367 470  1 409 204     330 916
+      Nale¿noœci krótkoterminowe                        1 506 957       326 549  2 506 997     588 704
+      Inwestycje krótkoterminowe                        2 208 129       478 488    613 119     143 975
+      Krótkoterminowe rozliczenia miêdzyokresowe          802 401       173 876  1 178 954     276 847
+                                                        6 213 286     1 346 383  5 708 274   1 340 442
+  SUMA AKTYWÓW                                         14 726 700     3 191 190 13 334 783   3 131 333
+  PASYWA                                               31.12.2020    31.12.2020 31.12.2019  31.12.2019
+                                                               z³         EUR           z³       EUR
+   Kapita³ w³asny
+      Kapita³ zak³adowy                                   982 000       212 794    982 000     230 598
+      Kapita³ zapasowy                                  6 954 055     1 506 903  4 364 073   1 024 791
+      Ró¿nica kursowe z przeliczenia                            0       -20 941          0       6 049
+      Strata z lat ubieg³ych                                    0             0   -157 755     -37 045
+      Zysk netto                                        2 528 209       568 789  2 747 737     639 187
+                                                       10 464 264     2 267 545  7 936 055   1 863 580
+   Zobowi¹zania i rezerwy na zobowi¹zania
+      Rezerwy na zobowi¹zania                           1 401 989       303 803  1 079 331     253 453
+      Zobowi¹zania d³ugoterminowe                         557 113       120 723    324 573      76 218
+      Zobowi¹zania krótkoterminowe                      2 187 270       473 968  3 632 872     853 087
+      Rozliczenia miêdzyokresowe                          116 065        25 151    361 953      84 995
+                                                        4 262 436       923 645  5 398 728   1 267 753
+  SUMA PASYWÓW                                         14 726 700     3 191 190 13 334 783   3 131 333
+                                                 Strona 7 z 18
+
+                                                                  Raport roczny QubicGames S.A. za rok 2020
+Rachunek zysków i strat
+                                                               01.01.2020 -   01.01.2020 - 01.01.2019 -   01.01.2019 -
+                                                                 31.12.2020    31.12.2020   31.12.2019     31.12.2019
+                                                                           z³        EUR               z³        EUR
+ Przychody netto ze sprzeda¿y i zrównane z nimi
+   Przychody netto ze sprzeda¿y produktów                        10 895 363     2 451 205    8 980 179      2 088 997
+   Przychody netto ze sprzeda¿y towarów i materia³ów                        0            0      164 500         38 266
+                                                                 10 895 363     2 451 205    9 144 679      2 127 263
+ Koszty dzia³alnoœci operacyjnej
+   Amortyzacja                                                      -943 908     -212 358   -1 146 481       -266 698
+   Zu¿ycie materia³ów i energii                                     -120 165       -27 034       -67 650       -15 737
+   Us³ugi obce                                                   -8 314 415    -1 870 552   -5 980 241     -1 391 142
+   Podatki i op³aty                                                  -14 268        -3 210       -15 530        -3 613
+   Wynagrodzenia                                                 -1 296 276      -291 632     -430 347       -100 109
+   Ubezpieczenia spo³eczne i inne œwiadczenia                       -147 826       -33 257       -66 025       -15 359
+   Pozosta³e koszty rodzajowe                                       -165 377       -37 206    -184 112         -42 829
+   Wartoœæ sprzedanych towarów i materia³ów                                0             0     -202 864        -47 191
+                                                                -11 002 235    -2 475 249   -8 093 249     -1 882 676
+ Zysk/(Strata) ze sprzeda¿y                                        -106 872       -24 044    1 051 430        244 587
+ Pozosta³e przychody operacyjne
+   Zysk z tytu³u rozchodu niefinansowych aktywów trwa³ych                500           112             0             0
+   Dotacje                                                                 0             0        30 758         7 155
+   Inne przychody operacyjne                                          33 515         7 540         3 812           887
+                                                                      34 015         7 652        34 571         8 042
+ Pozosta³e koszty operacyjne
+   Aktualizacja wartoœci aktywów niefinansowych                      -49 228       -11 075     -339 675        -79 016
+   Inne koszty operacyjne                                           -383 147       -86 199       -10 116        -2 353
+                                                                    -432 375       -97 274     -349 792        -81 369
+ Zysk/(Strata) z dzia³alnoœci operacyjnej                          -505 232      -113 666       736 210       171 259
+ Przychody finansowe
+   Dywidendy i udzia³y w zyskach                                      52 107        11 723             0             0
+   Odsetki                                                            11 364         2 557        48 768        11 345
+   Zysk ze zbycia inwestycji                                      1 117 117       251 326              0             0
+   Aktualizacja wartoœci inwestycji                               2 479 537       557 839    2 660 186        618 821
+   Inne                                                               19 471         4 381             0             0
+                                                                  3 679 596       827 826    2 708 954        630 165
+ Koszty finansowe
+   Odsetki                                                           -31 330        -7 048       -30 243        -7 035
+   Inne                                                              -22 074        -4 966       -35 576        -8 276
+                                                                     -53 404       -12 014       -65 819       -15 311
+ Zysk brutto                                                      3 120 961       702 146    3 379 345        786 114
+ Podatek dochodowy                                                  -582 852     -131 128     -631 608       -146 926
+ Pozosta³e obowi¹zkowe zmniejszenia zysku                             -9 900        -2 227             0             0
+ Zysk netto                                                       2 528 209       568 789    2 747 737        639 187
+                                                       Strona 8 z 18
+
+                                                                       Raport roczny QubicGames S.A. za rok 2020
+Rachunek przep³ywów pieniê¿nych
+                                                                   01.01.2020 -     01.01.2020 -     01.01.2019 -    01.01.2019 -
+                                                                    31.12.2020       31.12.2020        31.12.2019     31.12.2019
+                                                                             z³            EUR                 z³          EUR
+  Przep³ywy œrodków pieniê¿nych z dzia³alnoœci
+  operacyjnej
+      Zysk netto                                                     2 528 209          568 789         2 747 737        639 187
+      Korekty razem                                                 -2 791 657         -642 759        -3 428 220       -796 807
+      Przep³ywy pieniê¿ne netto z dzia³alnoœci operacyjnej             -263 448          -73 971         -680 482       -157 620
+  Przep³ywy œrodków pieniê¿nych z dzia³alnoœci
+  inwestycyjnej
+      Wp³ywy                                                         3 295 386          741 386           100 968         23 488
+      Wydatki                                                       -1 401 726         -315 356          -868 162       -201 954
+      Przep³ywy pieniê¿ne netto z dzia³alnoœci inwestycyjnej          1 893 661         426 030          -767 193       -178 467
+  Przep³ywy œrodków pieniê¿nych z dzia³alnoœci
+  finansowej
+      Wp³ywy                                                            578 546         130 160         1 123 754        261 411
+      Wydatki                                                       -1 048 482         -235 884          -284 329        -66 142
+      Przep³ywy pieniê¿ne netto z dzia³alnoœci finansowej              -469 936        -105 725           839 425        195 270
+  Przep³ywy pieniê¿ne netto razem                                     1 160 277         246 335          -608 251       -140 817
+  Bilansowa zmiana stanu œrodków pieniê¿nych                         1 160 277          246 334          -608 251       -140 817
+  Œrodki pieniê¿ne na pocz¹tek okresu                                   280 789           65 936          889 039        206 753
+  Œrodki pieniê¿ne na koniec okresu                                   1 441 065         312 270           280 789         65 936
+Zastosowane kursy EUR
+Dane bilansowe przeliczono wed³ug œredniego kursu og³oszonego przez Prezesa NBP na dzieñ bilansowy.
+Dane z rachunku zysków i strat wyra¿one w z³otych przeliczono wed³ug kursu ustalonego jako œrednia
+arytmetyczna œrednich kursów og³aszanych przez Prezesa NBP na ka¿dy dzieñ roku obrotowego.
+Zastosowane kursy euro umieszczono w tabeli poni¿ej.
+                                                                       Bilans                     Rachunek zysków i strat
+                                                                                                01.01.2020 -      01.01.2019 -
+                                                           31.12.2020         31.12.2019         31.12.2020        31.12.2019
+Kursy stosowane do przeliczenia wybranych danych
+                                                             4,6148             4,2585             4,4449            4,2988
+finansowych
+                                                         Strona 9 z 18
+
+                                                          Raport roczny QubicGames S.A. za rok 2020
+4. Opis organizacji grupy kapita³owej, z wyszczególnieniem jednostek podlegaj¹cych
+   konsolidacji oraz jednostek nieobjêtych konsolidacj¹, z podaniem w stosunku do ka¿dej z
+   nich co najmniej nazwy (firmy), formy prawnej, siedziby, przedmiotu dzia³alnoœci i udzia³u
+   emitenta w kapitale zak³adowym i ogólnej liczbie g³osów
+   Spó³ka tworzy Grupê Kapita³ow¹, w sk³ad której wchodzi Emitent jako jednostka dominuj¹ca oraz
+   spó³ka Untold Tales S.A., w której QubicGames S.A. posiada 100% udzia³ów, jako jednostka zale¿na.
+   Spó³ka Untold Tales S.A. prowadzi dzia³alnoœæ wydawnicz¹ w zakresie gier wideo na komputery PC/Mac
+   oraz konsole, w tym konsole nowych generacji.
+   Dane Jednostki Zale¿nej na dzieñ 31 grudnia 2020 r.
+   Firma:               Untold Tales
+   Forma prawna:        spó³ka akcyjna
+   Kraj siedziby:       Polska
+   Siedziba:            Warszawa
+   Oznaczenie S¹du:     S¹d Rejonowy dla m.st. Warszawy w Warszawie, XII Wydzia³ Gospodarczy
+                        Krajowego Rejestru S¹dowego
+   KRS:                 0000860756
+   Kapita³ zak³adowy:   1.000.000 z³
+   Kapita³ zak³adowy op³acony na dzieñ 31.12.2020 r.: 1.000.000 z³
+   Udzia³ Emitenta w kapitale zak³adowym spó³ki: 100%
+   Udzia³ Emitenta w ogólnej liczbie g³osów na WZA: 100%
+5. Wskazanie przyczyn niesporz¹dzania sprawozdañ skonsolidowanych przez podmiot
+   dominuj¹cy lub przyczyn zwolnienia z konsolidacji w odniesieniu do ka¿dej jednostki zale¿nej
+   nieobjêtej konsolidacj¹
+   Spó³ka zale¿na Emitenta, Untold Tales S.A. nie zosta³a objêta konsolidacj¹ z uwagi na spe³nienie kryteriów,
+   o których mowa w art. 58 ust. 1 Ustawy o Rachunkowoœci, w szczególnoœci ze wzglêdu na nieistotny wp³yw
+   danych finansowych Untold Tales S.A. na wynik netto oraz sumê aktywów i pasywów.
+                                              Strona 10 z 18
+
+                                                          Raport roczny QubicGames S.A. za rok 2020
+6. Wybrane dane finansowe wszystkich jednostek zale¿nych emitenta nieobjêtych konsolidacj¹,
+   zawieraj¹ce podstawowe pozycje rocznego sprawozdania finansowego
+    (wszystkie dane liczbowe przedstawiono w z³otych)
+                                                        01.01.2020 -  01.01.2019 -
+    Rachunek zysków i strat                              31.12.2020    31.12.2019
+    Przychody ze sprzeda¿y                              148 134,37            -
+    Zysk/(Strata) ze sprzeda¿y                         (215 701,80)              -
+    Zysk/(Strata) z dzia³alnoœci operacyjnej           (215 701,80)              -
+    Zysk/(Strata) brutto                               (214 675,29)              -
+    Zysk/(Strata) netto                                (214 675,29)              -
+    Bilans                                               31.12.2020    31.12.2019
+    Aktywa razem                                        962 101,97            -
+    Zobowi¹zania i rezerwy na zobowi¹zania              176 777,26            -
+    Kapita³ zak³adowy                                 1 000 000,00            -
+    Kapita³ w³asny                                       785 324,71              -
+7. Roczne sprawozdanie finansowe, zbadane przez podmiot uprawniony do badania sprawozdañ
+   finansowych zgodnie z obowi¹zuj¹cymi przepisami i normami zawodowymi
+   Roczne sprawozdanie finansowe Spó³ki QubicGames S.A. stanowi Za³¹cznik nr 1 do niniejszego raportu.
+8. Sprawozdanie zarz¹du emitenta na temat dzia³alnoœci emitenta w okresie objêtym raportem
+   rocznym
+   Sprawozdanie zarz¹du emitenta na temat dzia³alnoœci emitenta w okresie objêtym raportem rocznym
+   stanowi Za³¹cznik nr 2 do niniejszego raportu.
+                                               Strona 11 z 18
+
+                                                        Raport roczny QubicGames S.A. za rok 2020
+9. Oœwiadczenie zarz¹du, ¿e wedle ich najlepszej wiedzy, roczne sprawozdanie finansowe i dane
+   porównywalne sporz¹dzone zosta³y zgodnie z przepisami obowi¹zuj¹cymi emitenta lub
+   standardami uznawanymi w skali miêdzynarodowej, oraz ¿e odzwierciedlaj¹ w sposób
+   prawdziwy, rzetelny i jasny sytuacjê maj¹tkow¹ i finansow¹ emitenta oraz jego wynik
+   finansowy, oraz ¿e sprawozdanie z dzia³alnoœci emitenta zawiera prawdziwy obraz sytuacji
+   emitenta, w tym opis podstawowych zagro¿eñ i ryzyk
+   Zarz¹d spó³ki QubicGames S.A. niniejszym oœwiadcza, ¿e wedle najlepszej wiedzy zarz¹du, roczne
+   sprawozdanie finansowe za 2020 rok i dane porównywalne sporz¹dzone zosta³y zgodnie z przepisami
+   obowi¹zuj¹cymi Spó³kê.
+   Roczne jednostkowe sprawozdanie finansowe spó³ki QubicGames S.A. za 2020 rok odzwierciedla w
+   sposób prawdziwy, rzetelny i jasny sytuacjê maj¹tkow¹ i finansow¹ QubicGames S.A. oraz jej wynik
+   finansowy.
+   Sprawozdanie z dzia³alnoœci spó³ki QubicGames S.A. za 2020 rok zawiera prawdziwy obraz sytuacji Spó³ki,
+   w tym opis podstawowych zagro¿eñ i ryzyk.
+   Jakub Pieczykolan
+   Prezes Zarz¹du
+                                             Strona 12 z 18
+
+                                                          Raport roczny QubicGames S.A. za rok 2020
+10. Oœwiadczenie zarz¹du, ¿e podmiot uprawniony do badania sprawozdañ finansowych,
+    dokonuj¹cy badania rocznego sprawozdania finansowego, zosta³ wybrany zgodnie z
+    przepisami prawa oraz ¿e podmiot ten oraz biegli rewidenci, dokonuj¹cy badania tego
+    sprawozdania, spe³niali warunki do sporz¹dzenia bezstronnego i niezale¿nego sprawozdania z
+    badania rocznego sprawozdania finansowego zgodnie z obowi¹zuj¹cymi przepisami,
+    standardami wykonywania zawodu i zasadami etyki zawodowej
+    Zarz¹d spó³ki QubicGames S.A. niniejszym oœwiadcza, ¿e FK Financial Consulting Sp. z o.o. - podmiot
+    uprawniony do badania sprawozdañ finansowych dokonuj¹cy badania rocznego sprawozdania finansowego
+    QubicGames S.A. za 2020 rok, zosta³ wybrany zgodnie z przepisami prawa, w tym dotycz¹cymi wyboru i
+    procedury wyboru firmy audytorskiej.
+    FK Financial Consulting Sp. z o.o. oraz biegli rewidenci, dokonuj¹cy badania sprawozdania finansowego
+    QubicGames S.A. za 2020 rok, spe³niali warunki do sporz¹dzenia bezstronnego i niezale¿nego
+    sprawozdania z badania rocznego sprawozdania finansowego zgodnie z obowi¹zuj¹cymi przepisami,
+    standardami wykonywania zawodu i zasadami etyki zawodowej.
+    Jakub Pieczykolan
+    Prezes Zarz¹du
+11. Sprawozdanie z badania podmiotu uprawnionego do badania sprawozdañ finansowych z
+    badania rocznego sprawozdania finansowego
+    Sprawozdanie z badania podmiotu uprawnionego do badania sprawozdañ finansowych z badania rocznego
+    sprawozdania finansowego stanowi Za³¹cznik nr 3 do niniejszego raportu.
+    Za³¹czone sprawozdanie z badania zawiera opiniê bez zastrze¿eñ.
+                                              Strona 13 z 18
+
+                                                                 Raport roczny QubicGames S.A. za rok 2020
+12. Informacja na temat stosowania przez emitenta zasad ³adu korporacyjnego, o których mowa w
+    dokumencie „Dobre Praktyki Spó³ek Notowanych na NewConnect”
+PKT                 DOBRA PRAKTYKA                       OŒWIADCZENIE                       UWAGI
+                                                         O STOSOWANIU
+                                                             DOBREJ
+                                                            PRAKTYKI
+                                                          TAK/NIE/NIE
+                                                            DOTYCZY
+1       Spó³ka powinna prowadziæ przejrzyst¹ i                TAK          W ramach powy¿szej zasady Emitent
+        efektywn¹ politykê informacyjn¹, zarówno z                         stosuje wszystkie zapisy tego punktu z
+        wykorzystaniem tradycyjnych metod, jak i z                         wy³¹czeniem transmisji obrad walnego
+        u¿yciem nowoczesnych technologii oraz                              zgromadzenia przez Internet, rejestracji
+        najnowszych          narzêdzi       komunikacji                    przebiegu obrad i upubliczniania go na
+        zapewniaj¹cych szybkoœæ, bezpieczeñstwo                            stronie internetowej. W opinii Zarz¹du
+        oraz szeroki i interaktywny dostêp do                              koszty zwi¹zane z techniczn¹ obs³ug¹
+        informacji. Spó³ka, korzystaj¹c w jak                              transmisji oraz rejestracji posiedzeñ
+        najszerszym stopniu z tych metod, powinna                          walnego zgromadzenia przez Internet s¹
+        zapewniæ odpowiedni¹ komunikacjê z                                 niewspó³mierne do ewentualnych korzyœci
+        inwestorami i analitykami, wykorzystuj¹c w                         z tego wynikaj¹cych. W momencie
+        tym celu równie¿ nowoczesne metody                                 wyra¿enia     ze   strony     akcjonariuszy
+        komunikacji        internetowej,     umo¿liwiaæ                    Emitenta potrzeby takiej transmisji, Zarz¹d
+        transmitowanie obrad walnego zgromadzenia                          podejmie dzia³ania zmierzaj¹ce do
+        z wykorzystaniem sieci Internet, rejestrowaæ                       przestrzegania powy¿szej zasady bior¹c
+        przebieg obrad i upubliczniaæ go na stronie                        pod uwagê czynnik kosztowy. Dodatkowo
+        internetowej.                                                      Emitent chcia³by zapewniæ, i¿ wszelkie
+                                                                           informacje dotycz¹ce obrad Walnego
+                                                                           Zgromadzenia       Akcjonariuszy       bêd¹
+                                                                           publikowane przy wykorzystaniu raportów
+                                                                           bie¿¹cych oraz strony internetowej Spó³ki.
+2       Spó³ka powinna zapewniæ efektywny dostêp              TAK
+        do informacji niezbêdnych do oceny sytuacji i
+        perspektyw spó³ki oraz sposobu jej
+        funkcjonowania.
+3       Spó³ka prowadzi korporacyjn¹ stronê
+        internetow¹ i zamieszcza na niej:
+3.1     Podstawowe informacje o spó³ce i jej                  TAK
+        dzia³alnoœci (strona startowa)
+3.2     Opis dzia³alnoœci emitenta ze wskazaniem              TAK
+        rodzaju dzia³alnoœci, z której emitent uzyskuje
+        najwiêcej przychodów,
+3.3     Opis rynku, na którym dzia³a emitent, wraz z          TAK
+        okreœleniem pozycji emitenta na rynku,
+3.4     ¯yciorysy zawodowe cz³onków organów                   TAK
+        spó³ki,
+3.5     Powziête przez zarz¹d, na podstawie                   TAK
+        oœwiadczenia cz³onka rady nadzorczej,
+        informacje o powi¹zaniach cz³onka rady
+        nadzorczej z akcjonariuszem dysponuj¹cym
+        akcjami reprezentuj¹cymi nie mniej ni¿ 5%
+        ogólnej     liczby     g³osów     na    walnym
+        zgromadzeniu spó³ki,
+3.6     Dokumenty korporacyjne spó³ki                         TAK
+3.7     Zarys planów strategicznych spó³ki                    TAK
+                                                      Strona 14 z 18
+
+                                                               Raport roczny QubicGames S.A. za rok 2020
+3.8  Opublikowane          prognozy       wyników            NIE         Spó³ka nie zamierza sporz¹dzaæ prognoz
+     finansowych na bie¿¹cy rok obrotowy, wraz z                         finansowych. W przypadku gdyby Spó³ka
+     za³o¿eniami do tych prognoz oraz korektami                          zdecydowa³a siê sporz¹dziæ i opublikowaæ
+     do tych prognoz (w przypadku gdy emitent                            prognozy finansowe, opinia publiczna
+     publikuje prognozy),                                                zostanie poinformowana przez Spó³kê
+                                                                         zgodnie z obowi¹zuj¹cymi przepisami.
+3.9  Strukturê      akcjonariatu    emitenta,     ze        TAK
+     wskazaniem g³ównych akcjonariuszy oraz akcji
+     znajduj¹cych siê w wolnym obrocie,
+3.10 Dane oraz kontakt z do osoby, która jest               TAK
+     odpowiedzialna w spó³ce za relacje
+     inwestorskie oraz kontakt z mediami,
+3.11 (skreœlony)                                             n/d
+3.12 Opublikowane raporty bie¿¹ce i okresowe                TAK
+3.13 Kalendarz zaplanowanych dat publikacji                 TAK
+     finansowych raportów okresowych, dat
+     walnych zgromadzeñ, a tak¿e spotkañ z
+     inwestorami i analitykami oraz konferencji
+     prasowych,
+3.14 Informacje na temat zdarzeñ korporacyjnych,            TAK
+     takich jak wyp³ata dywidendy, oraz innych
+     zdarzeñ      skutkuj¹cych     nabyciem      lub
+     ograniczeniem praw po stronie akcjonariusza,
+     z uwzglêdnieniem terminów oraz zasad
+     przeprowadzania tych operacji. Informacje te
+     powinny byæ zamieszczone w terminie
+     umo¿liwiaj¹cym podjêcie przez inwestorów
+     decyzji inwestycyjnych,
+3.15 (skreœlony)                                             n/d
+3.16 Pytania dotycz¹ce spraw objêtych porz¹dkiem            TAK
+     obrad, zadawane przed i w trakcie walnego
+     zgromadzenia, wraz z odpowiedziami na
+     zadawane pytania,
+3.17 Informacjê na temat powodów odwo³ania                  TAK
+     walnego zgromadzenia, zmiany terminu lub
+     porz¹dku obrad wraz z uzasadnieniem,
+3.18 Informacjê o przerwie w obradach walnego               TAK
+     zgromadzenia i powodach zarz¹dzenia
+     przerwy,
+3.19 Informacje na temat podmiotu, z którym                 TAK
+     spó³ka podpisa³a umowê o œwiadczenie us³ug
+     Autoryzowanego Doradcy ze wskazaniem
+     nazwy, adresu strony internetowej, numerów
+     telefonicznych      oraz     adresu      poczty
+     elektronicznej Doradcy,
+3.20 Informacjê na temat podmiotu, który pe³ni              TAK
+     funkcjê animatora akcji emitenta,
+3.21 Dokument informacyjny (prospekt emisyjny)              TAK
+     spó³ki, opublikowany w ci¹gu ostatnich 12
+     miesiêcy,
+3.22 (skreœlony)                                             n/d
+     Informacje zawarte na stronie internetowej             TAK
+     powinny byæ zamieszczane w sposób
+     umo¿liwiaj¹cy ³atwy dostêp do tych
+     informacji. Emitent powinien dokonywaæ
+     aktualizacji informacji umieszczanych na
+     stronie internetowej. W przypadku pojawienia
+     siê nowych, istotnych informacji lub
+     wyst¹pienia istotnej zmiany informacji
+     umieszczanych na stronie internetowej,
+     aktualizacja powinna zostaæ przeprowadzona
+     niezw³ocznie.
+                                                    Strona 15 z 18
+
+                                                             Raport roczny QubicGames S.A. za rok 2020
+4   Spó³ka prowadzi korporacyjn¹ stronê                   TAK
+    internetow¹, wed³ug wyboru emitenta, w
+    jêzyku polskim lub angielskim. Raporty
+    bie¿¹ce i okresowe powinny byæ zamieszczane
+    na stronie internetowej co najmniej w tym
+    samym jêzyku, w którym nastêpuje ich
+    publikacja      zgodnie      z     przepisami
+    obowi¹zuj¹cymi emitenta.
+5   Spó³ka     powinna       prowadziæ     politykê        NIE         Spó³ka     nie     wykorzystuje     obecnie
+    informacyjn¹ ze szczególnym uwzglêdnieniem                         indywidualnej sekcji relacji inwestorskich
+    potrzeb inwestorów indywidualnych. W tym                           znajduj¹c¹        siê       na       stronie
+    celu spó³ka, poza swoj¹ stron¹ korporacyjn¹                        www.GPWInfoStrefa.pl,              jednak¿e
+    powinna wykorzystywaæ indywidualn¹ dla                             zapewnia wystarczaj¹cy dostêp do
+    danej spó³ki sekcjê relacji inwestorskich                          informacji poprzez prowadzenie dzia³u
+    znajduj¹c¹         siê       na         stronie                    „Relacje     Inwestorskie”     na    stronie
+    www.GPWInfoStrefa.pl                                               investor.qubicgames.com.
+6   Emitent powinien utrzymywaæ bie¿¹ce                   TAK
+    kontakty z przedstawicielami Autoryzowanego
+    Doradcy,       celem      umo¿liwienia      mu
+    prawid³owego         wykonywania        swoich
+    obowi¹zków wobec emitenta. Spó³ka powinna
+    wyznaczyæ osobê odpowiedzialn¹ za kontakt z
+    Autoryzowanym Doradc¹.
+7   W przypadku, gdy w spó³ce nast¹pi zdarzenie,          TAK
+    które w ocenie emitenta ma istotne znaczenie
+    dla wykonywania przez Autoryzowanego
+    Doradcê swoich obowi¹zków, emitent
+    niezw³ocznie powiadomi o tym fakcie
+    Autoryzowanego Doradcê.
+8   Emitent powinien zapewniæ Autoryzowanemu              TAK
+    Doradcy dostêp do wszelkich dokumentów i
+    informacji niezbêdnych do wykonywania
+    obowi¹zków Autoryzowanego Doradcy.
+9   Emitent przekazuje w raporcie rocznym:
+9.1 Informacje na temat ³¹cznej wysokoœci                 TAK
+    wynagrodzeñ wszystkich cz³onków zarz¹du i
+    rady nadzorczej,
+9.2 Informacjê      na     temat    wynagrodzenia          NIE         Emitent nie publikuje informacji na temat
+    Autoryzowanego Doradcy otrzymywanego od                            wynagrodzenia                  wyp³acanego
+    emitenta z tytu³u œwiadczenia wobec emitenta                       Autoryzowanemu Doradcy z uwagi na
+    us³ug w ka¿dym zakresie.                                           poufnoœæ informacji zawartych w umowie.
+                                                                       Emitent dodatkowo oœwiadcza, i¿
+                                                                       wynagrodzenie to nie jest istotne z punktu
+                                                                       widzenia wyniku finansowego oraz nie
+                                                                       odbiega w sposób znacz¹cy od oferty
+                                                                       innych podmiotów œwiadcz¹cych us³ugi
+                                                                       doradcze na rynku NewConnect.
+10  Cz³onkowie zarz¹du i rady nadzorczej powinni          TAK
+    uczestniczyæ      w      obradach      walnego
+    zgromadzenia w sk³adzie umo¿liwiaj¹cym
+    udzielenie merytorycznej odpowiedzi na
+    pytania zadawane w trakcie walnego
+    zgromadzenia.
+11  Przynajmniej 2 razy w roku emitent, przy               NIE         Na      dzieñ      publikacji    niniejszego
+    wspó³pracy       Autoryzowanego      Doradcy,                      oœwiadczenia      Emitent      nie     mo¿e
+    powinien organizowaæ publicznie dostêpne                           zadeklarowaæ, i¿ bêdzie przynajmniej dwa
+    spotkanie z inwestorami, analitykami i                             razy w roku, organizowaæ publicznie
+    mediami.                                                           dostêpne spotkanie z inwestorami,
+                                                                       analitykami i mediami. Spó³ka nie wyklucza
+                                                                       jednak zmiany swojego stanowiska
+                                                                       odnoœnie stosowania tej zasady w
+                                                                       przysz³oœci.
+                                                                       Emitent        przy      wspó³pracy        z
+                                                                       Autoryzowanym         Doradc¹        planuje
+                                                                       organizowaæ co najmniej raz do roku
+                                                                       spotkania z inwestorami, analitykami i
+                                                                       mediami oraz wykorzystywaæ inne
+                                                                       narzêdzia komunikacji.
+                                                  Strona 16 z 18
+
+                                                             Raport roczny QubicGames S.A. za rok 2020
+12  Uchwa³a walnego zgromadzenia w sprawie                TAK
+    emisji akcji z prawem poboru powinna
+    precyzowaæ cenê emisyjn¹ albo mechanizm jej
+    ustalenia lub zobowi¹zaæ organ do tego
+    upowa¿niony do ustalenia jej przed dniem
+    ustalenia prawa poboru, w terminie
+    umo¿liwiaj¹cym podjêcie decyzji inwestycyjnej.
+13  Uchwa³y walnego zgromadzenia powinny                  TAK
+    zapewniaæ zachowanie niezbêdnego odstêpu
+    czasowego           pomiêdzy          decyzjami
+    powoduj¹cymi           okreœlone      zdarzenia
+    korporacyjne a datami, w których ustalane s¹
+    prawa akcjonariuszy wynikaj¹ce z tych zdarzeñ
+    korporacyjnych.
+13a W przypadku otrzymania przez zarz¹d                   TAK
+    emitenta od akcjonariusza posiadaj¹cego co
+    najmniej po³owê kapita³u zak³adowego lub co
+    najmniej po³owê ogó³u g³osów w spó³ce,
+    informacji o zwo³aniu przez niego
+    nadzwyczajnego walnego zgromadzenia w
+    trybie okreœlonym w art. 399 § 3 Kodeksu
+    spó³ek     handlowych,       zarz¹d    emitenta
+    niezw³ocznie dokonuje czynnoœci, do których
+    jest zobowi¹zany w zwi¹zku z organizacj¹ i
+    przeprowadzeniem walnego zgromadzenia.
+    Zasada ta ma zastosowanie równie¿ w
+    przypadku upowa¿nienia przez s¹ rejestrowy
+    akcjonariuszy do zwo³ania nadzwyczajnego
+    walnego zgromadzenia na podstawie art. 400 §
+    3 Kodeksu spó³ek handlowych.
+14  Dzieñ ustalenia praw do dywidendy oraz dzieñ          TAK
+    wyp³aty dywidendy powinny byæ tak ustalone,
+    aby czas przypadaj¹cy pomiêdzy nimi by³
+    mo¿liwie najkrótszy, a w ka¿dym przypadku
+    nie d³u¿szy ni¿ 15 dni roboczych. Ustalenie
+    d³u¿szego okresu pomiêdzy tymi terminami
+    wymaga szczegó³owego uzasadnienia.
+15  Uchwa³a walnego zgromadzenia w sprawie                TAK
+    dywidendy warunkowej mo¿e zawieraæ tylko
+    takie warunki, których ewentualne ziszczenie
+    nast¹pi przed dniem ustalenia prawa do
+    dywidendy.
+16  Emitent publikuje raporty miesiêczne, w                NIE         Z uwagi na fakt, i¿ publikowane raporty
+    terminie 14 dni od zakoñczenia miesi¹ca.                           bie¿¹ce     i     okresowe     zapewniaj¹
+    Raport miesiêczny powinien zawieraæ co                             akcjonariuszom oraz inwestorom dostêp
+    najmniej:                                                          do informacji daj¹cych wystarczaj¹cy obraz
+    • informacje na temat wyst¹pienia tendencji i                      sytuacji Spó³ki, Zarz¹d Emitenta nie widzi
+    zdarzeñ w otoczeniu rynkowym emitenta,                             w chwili obecnej koniecznoœci publikacji
+    które w ocenie emitenta mog¹ mieæ w                                raportów miesiêcznych
+    przysz³oœci istotne skutki dla kondycji
+    finansowej oraz wyników finansowych
+    emitenta,
+    •     zestawienie      wszystkich    informacji
+    opublikowanych przez emitenta w trybie
+    raportu bie¿¹cego w okresie objêtym
+    raportem,
+    • informacje na temat realizacji celów emisji,
+    je¿eli taka realizacja, choæby w czêœci, mia³a
+    miejsce w okresie objêtym raportem,
+    • kalendarz inwestora, obejmuj¹cy wydarzenia
+    maj¹ce mieæ miejsce w nadchodz¹cym
+    miesi¹cu, które dotycz¹ emitenta i s¹ istotne z
+    punktu widzenia interesów inwestorów, w
+    szczególnoœci daty publikacji raportów
+    okresowych,         planowanych        walnych
+    zgromadzeñ, otwarcia subskrypcji, spotkañ z
+    inwestorami lub analitykami, oraz oczekiwany
+    termin publikacji raportu analitycznego.
+                                                  Strona 17 z 18
+
+                                                            Raport roczny QubicGames S.A. za rok 2020
+16a W przypadku naruszenia przez emitenta                TAK
+    obowi¹zku informacyjnego okreœlonego w
+    Za³¹czniku      nr     3     do   Regulaminu
+    Alternatywnego Systemu Obrotu („Informacje
+    bie¿¹ce i okresowe przekazywane w
+    alternatywnym systemie obrotu na rynku
+    NewConnect”)            emitent     powinien
+    niezw³ocznie      opublikowaæ,    w     trybie
+    w³aœciwym dla przekazywania raportów
+    bie¿¹cych na rynku NewConnect, informacjê
+    wyjaœniaj¹c¹ zaistnia³¹ sytuacjê.
+17  (skreœlony)                                           n/d
+                                                 Strona 18 z 18
+

@@ -1,0 +1,390 @@
+   Sprawozdanie Zarz¹du z dzia³alnoœci
+              MedApp S.A.
+za okres od 01.01.2020 r. do 31.12.2020 r.
+       Kraków, 22 marca 2021 roku
+                    1
+
+Spis treœci
+1.1. Informacje podstawowe.
+1.2. Zdarzenia istotnie wp³ywaj¹ce na dzia³alnoœæ jednostki, które wyst¹pi³y w roku obrotowym, a tak¿e
+po jego zakoñczeniu, do dnia zatwierdzenia sprawozdania finansowego.
+1.3. Przewidywania dotycz¹ce rozwoju jednostki.
+1.4. Analiza bie¿¹cej i przewidywanej sytuacji finansowej Spó³ki.
+1.5. Informacje dotycz¹ce nabycia udzia³ów (akcji) w³asnych, a zw³aszcza o celu ich nabycia, liczbie i
+wartoœci nominalnej, ze wskazaniem, jak¹ czêœæ kapita³u zak³adowego reprezentuj¹, cenie nabycia oraz
+cenie sprzeda¿y tych udzia³ów (akcji) w przypadku ich zbycia.
+1.6. Opis istotnych czynników ryzyka dotycz¹cych dzia³alnoœci Spó³ki, w tym ryzyk dotycz¹cych
+instrumentów finansowych.
+1.7. Dane o strukturze w³asnoœci kapita³u podstawowego oraz liczbie i wartoœci nominalnej udzia³ów
+(akcji).
+1.8. Wa¿niejsze osi¹gniêcia w dziedzinie badañ i rozwoju.
+1.9. Pozosta³e wymagane informacje.
+                                                    2
+
+1.1.Informacje podstawowe
+NAZWA:                  MEDAPP Spó³ka Akcyjna
+ADRES:                  31-514 Kraków
+                        Aleja Pu³kownika W³adys³awa Beliny-Pra¿mowskiego 60
+TELEFON:                +48 533 306 117
+E-MAIL:                 biuro@medapp.pl
+STRONA WWW:             www.medapp.pl
+NIP:                    7010264750
+REGON:                  142641690
+ZARZ¥D
+Zarz¹d Spó³ki w okresie, za który sporz¹dzone jest sprawozdanie:
+Krzysztof Mêdrala – Prezes Zarz¹du
+Rafa³ Ligêziñski – Wiceprezes Zarz¹du do 17 wrzeœnia 2020 r.
+Micha³ Sosin – Cz³onek Zarz¹du od 18 wrzeœnia do 21 grudnia 2020 r.
+RADA NADZORCZA
+W sk³ad Rady Nadzorczej Spó³ki w okresie, za który sporz¹dzone jest sprawozdanie, wchodzili:
+B³a¿ej Wasielewski - Przewodnicz¹cy Rady Nadzorczej
+Wiktoria Guzik – Cz³onek Rady Nadzorczej
+Ewelina Rytter - Cz³onek Rady Nadzorczej
+Grzegorz Wrona – Cz³onek Rady Nadzorczej
+W³odzimierz Kubiak – Cz³onek Rady Nadzorczej od 15 stycznia 2020r.
+                                                    3
+
+1.2. Zdarzenia istotnie wp³ywaj¹ce na dzia³alnoœæ jednostki, które wyst¹pi³y w roku obrotowym, a tak¿e
+po jego zakoñczeniu, do dnia sporz¹dzenie sprawozdania finansowego.
+Emitent w 2020 roku koncentrowa³ siê na intensywnej komercjalizacji rozwi¹zañ CarnaLife System oraz
+CarnaLife Holo, a tak¿e nowych rozwi¹zañ, które zosta³y wprowadzone na rynek w ubieg³ym roku tj.
+Cyfrowa Przychodnia (dawna nazwa CarnaLife System Cyfrowa Przychodnia) oraz HoloComm (dawna
+nazwa SurgeonEye). Na przestrzeni ubieg³ego roku Emitent podpisa³ szereg umów, które mia³y istotny
+wp³yw na jego dzia³alnoœæ.
+W dniu 2 marca 2020 roku Emitent zosta³ wybrany w przetargu na dostawê sprzêtu medycznego
+organizowanego przez Uniwersyteckie Centrum Kliniczne w Gdañsku – wielospecjalistyczny szpital
+kliniczny przy Gdañskim Uniwersytecie Medycznym. Emitent w ramach przetargu z³o¿y³ ofertê dostawy
+autorskiego systemu wizualizacji obrazowych danych medycznych 3D CarnaLife Holo, który mo¿e byæ
+wykorzystywany m.in. w zabiegach kardiologii interwencyjnej, chirurgii naczyniowej, onkologii, ortopedii
+oraz w radiologii u³atwiaj¹c planowanie zabiegów medycznych i dedykowanych terapii.
+W dniu 16 czerwca 2020 roku Emitent podpisa³ umowê wykorzystania systemu CarnaLife Holo do
+planowania zabiegów i edukacji pacjentów z NEO Hospital Sp. z o.o. bêd¹cej w³aœcicielem "Szpitala na
+Klinach" w Krakowie. Szpital ten wykorzystuje system CarnaLife Holo do zabiegów ginekologicznych i
+onkologicznych oraz skomplikowanych zabiegów guzów w¹troby z wykorzystaniem sprzêtu NanoKnife.
+Wspó³praca z NEO Hospital zosta³a poszerzona 3 listopada 2020 r. w zakresie pilota¿owego wdro¿enia
+aplikacji CarnaLife System. W ramach Umowy Emitent dostarczy³ "Szpitalowi na Klinach" swoje
+rozwi¹zanie telemedyczne CarnaLife System do zdalnego monitorowania stanu zdrowia pacjentów oraz
+zarz¹dzania procesem leczenia. Pilota¿owo system zostanie wykorzystany w opiece nad pacjentami
+dotkniêtymi oty³oœci¹.
+W dniu 18 czerwca 2020 roku Emitent zawar³ umowê wspó³pracy z firm¹ Semicon Sp. z o.o., która od 30
+lat dzia³a w bran¿y elektronicznej. Podpisana umowa dotyczy sprzeda¿y aplikacji do odbierania danych z
+urz¹dzenia zaprojektowanego przez Semicon. Emitent z uwagi na swoje doœwiadczenie w tworzeniu
+systemów telemedycznych CarnaLife opartych o ³¹czenie siê z urz¹dzeniami zewnêtrznymi, zosta³
+wybrany na partnera, który przygotuje aplikacjê do monitorowania ww. urz¹dzeñ. Emitent posiada
+wdro¿ony system ISO 13485, co umo¿liwia Semicon szybsz¹ certyfikacjê swoich produktów jako wyrobów
+medycznych w klasie IIb. W ramach wspó³pracy aplikacja CarnaLife System jest wykorzystywana w
+urz¹dzeniach firmy Semicon przeznaczonych do analizy danych wchodz¹cych w sk³ad badañ
+laboratoryjnych. Ponadto Emitent w ramach wspó³pracy realizuje dwuletnie wsparcie techniczne oraz dba
+o rozwój dostarczonej aplikacji.
+                                                    4
+
+W dniu 10 sierpnia 2020 roku Emitent podpisa³ umowê dystrybucyjn¹ z WLOG Solutions Sp. z o.o. z
+siedzib¹ w Warszawie. Umowa dotyczy wspó³pracy w zakresie dystrybucji oferowanych przez MedApp
+S.A. aplikacji CarnaLife System, CarnaLife Holo oraz HoloComm. Ze wzglêdu na bogate doœwiadczenie w
+obszarze IT i integracji WLOG Solutions oferuje równie¿ aplikacjê CarnaLife System tj. narzêdzie dla
+pacjentów i lekarzy umo¿liwiaj¹ce zdaln¹ diagnostykê, monitoring i konsultacje online jako miejsce
+integracji dla producentów urz¹dzeñ medycznych, którzy maj¹ mo¿liwoœæ korzystania z dostêpnych
+rozwi¹zañ opartych o rozwi¹zanie chmurowe i aplikacje mobilne oraz desktopowe.
+W dniu 22 wrzeœnia 2020 roku Emitent podpisa³ z Pozitive.dev Sp. z o.o. umowê o wspó³pracy w ramach
+projektu Tumor3D. Platforma Tumor3D wykorzystuj¹ca technologiê CarnaLife Holo oferuje us³ugê
+skierowan¹ do klientów indywidualnych (B2C) wspieraj¹c¹ diagnostykê i leczenie w obszarze onkologii.
+Dystrybucjê us³ugi Tumor3D prowadzi³a spó³ka Pozitive.dev, specjalizuj¹ca siê w tworzeniu
+oprogramowania min. dla sektora medycznego. Pozitive.dev tworzy aplikacje mobilne i internetowe
+zarówno dla klientów instytucjonalnych (B2B) jak i klientów indywidualnych (B2C). Zespó³ Pozitive.dev
+planuje promocjê Tumor3D na rynkach miêdzynarodowych, zarówno w Europie jak i USA.
+Ponadto Emitent podpisa³ na przestrzeni 2020 roku szereg umów pilota¿owych na wdro¿enie rozwi¹zañ
+CarnaLife Holo, CarnaLife System oraz Cyfrowa Przychodnia, które w 2021 roku mog¹ przekszta³ciæ siê w
+sta³¹, d³ugoterminow¹ wspó³pracê komercyjn¹.
+Pomimo ogólnoœwiatowych problemów wywo³anych pandemi¹ Covid-19 Emitent kontynuowa³ w 2020r.
+dzia³alnoœæ w formie zdalnej, zapewniaj¹c pracownikom pe³n¹ mo¿liwoœæ realizowanych zadañ i skupiaj¹c
+siê na poszerzeniu funkcjonalnoœci oferowanych aplikacji CarnaLife System i CarnaLife Holo. Przyk³adem
+nowej, dodatkowej funkcjonalnoœci, która ma zastosowanie w czasie pandemii jest chocia¿by mo¿liwoœæ
+w pe³ni zdalnych konsultacji z lekarzem poprzez wideo, telefon i czat w ramach aplikacji CarnaLife System.
+W 2021 roku na dzia³alnoœæ Emitenta bêd¹ wp³ywaæ przede wszystkim powy¿sze umowy zawarte na
+przestrzeni 2020 roku, ale tak¿e nowe umowy, które mog¹ wynikaæ z zawartych w ubieg³ym roku umów
+pilota¿owych, a tak¿e potencjalne umowy zagraniczne.
+W dniu 25 stycznia 2021 roku Emitent zawar³ umowê partnersk¹ z firm¹ Insight Direct Limited z siedzib¹
+w Sheffield, Wielka Brytania. W ramach Umowy Insight Direct Limited mo¿e nabywaæ od MedApp S.A.
+okreœlone w umowie produkty, w tym przypadku oprogramowanie CarnaLife Holo oraz HoloComm wraz
+z wymaganym do obs³ugi oprogramowania sprzêtem komputerowym, które nastêpnie bêdzie dostarczane
+klientom Insight Direct Limited. Strony bêd¹ wspó³dzia³aæ w celu sk³adania ofert w przetargach
+publicznych na terytorium Wielkiej Brytanii.
+Emitent prowadzi negocjacje i rozmowy handlowe z kolejnymi podmiotami zagranicznymi w celu
+rozszerzenia dzia³alnoœci na kolejne rynki zagraniczne.
+                                                     5
+
+1.3. Przewidywania dotycz¹ce rozwoju jednostki
+SPRZEDA¯
+     <U+25AA> rozbudowa zespo³u o nowe osoby posiadaj¹ce doœwiadczenie w sprzeda¿y us³ug medycznych
+         zarówno w Polsce jak i na rynkach zagranicznych
+     <U+25AA> kontynuacja rozpoczêtych projektów wdro¿eniowych
+     <U+25AA> udzia³ w targach organizowanych w formie offline (spotkañ bezpoœrednich)
+     <U+25AA> negocjacje w zakresie podjêcia wspó³pracy z dystrybutorami zarówno w Polsce jak i za granic¹
+     <U+25AA> uruchomienie pilota¿owych wdro¿eñ u partnerów
+     <U+25AA> udzia³ w przetargach na rynku brytyjskim na mocy umowy podpisanej z Insight Direct (UK) Ltd w
+         zakresie dystrybucji produktów HoloComm i CarnaLife System w Wielkiej Brytanii
+     <U+25AA> wykorzystanie produktu CarnaLife System oraz CarnaLife Holo w kolejnych specjalizacjach
+         medycznych
+     <U+25AA> oferowanie niemieckiej wersji CarnaLife System na rynku DACH (Niemcy, Austria, Szwajcaria)
+     <U+25AA> rozpoczêcie oferowania produktu HoloComm nowym odbiorcom z bran¿y pozamedycznej
+     <U+25AA> dalsze rozwijanie przewag konkurencyjnych poprzez zwiêkszenie u¿ytecznoœci i funkcjonalnoœci
+         poszczególnych aplikacji.
+OBS£UGA KLIENTA
+    <U+25AA> utrzymywanie i pog³êbianie relacji biznesowych z obecnymi klientami poprzez oferowanie im
+        nowych funkcjonalnoœci produktów
+    <U+25AA> ci¹g³a poprawa jakoœci obs³ugi sprzeda¿owej i posprzeda¿owej
+    <U+25AA> ci¹g³a poprawa procedur serwisowych.
+ROZWÓJ PRODUKTÓW
+    <U+25AA>   rozbudowa zespo³u o nowe, dodatkowe osoby z doœwiadczeniem w komercjalizacji produktów na
+        rynku medycznym
+    <U+25AA>   udostêpnienie nowej us³ugi Cyfrowa Przychodnia bazuj¹cej na technologii CarnaLife System
+    <U+25AA>   poszerzenie zakresu oferowanych us³ug w oparciu o kolejne urz¹dzenia telemedyczne
+    <U+25AA>   poszerzenie zakresu obszarów o rynek EduTech (produkt HoloComm)
+    <U+25AA>   rozwój algorytmów analizy sygna³ów biomedycznych oraz systemu sztucznej inteligencji do
+        analizy obrazowania medycznego
+    <U+25AA>   kontynuacja prac nad obecnie wdra¿anymi rozwi¹zaniami telemedycznymi i holograficznymi
+    <U+25AA>   rozwój i sukcesywne wdra¿anie kolejnych modu³ów w technologii mieszanej rzeczywistoœci (MR)
+    <U+25AA>   recertyfikacja i podniesienie klasy wyrobu do IIb,
+    <U+25AA>   podpisanie umowy z Parexel w kontekœcie przygotowania i przeprowadzenia procesu rejestracji
+        w urzêdzie FDA,
+    <U+25AA>   wyró¿nienie CarnaLife System Z³otym God³em - Najwy¿sza Jakoœæ Quality International 2020 w
+        kategorii QI SERVICES - produkt najwy¿szej jakoœci.
+    <U+25AA>   wyró¿nienie CarnaLife Holo Z³otym God³em - Najwy¿sza Jakoœæ Quality International 2020 w
+        kategorii QI PRODUCT - produkt najwy¿szej jakoœci.
+                                                    6
+
+MARKETING I PR
+     <U+25AA> wdro¿enie nowej strony internetowej
+     <U+25AA> rebranding Spó³ki oraz przygotowanie pakietu materia³ów promuj¹cych produkty Spó³ki
+     <U+25AA> promocja w mediach spo³ecznoœciowych (w tym LinkedIn) oraz portalach i czasopismach
+         bran¿owych
+     <U+25AA> budowanie œwiadomoœci w zakresie wykorzystania mieszanej rzeczywistoœci (MR) w ochronie
+         zdrowia (szpitale oraz uczelnie wy¿sze)
+     <U+25AA> kontynuacja strategii wyst¹pieñ naukowych na konferencjach specjalistycznych
+     <U+25AA> wdro¿enie strategii PR, wspó³praca z mediami i agencj¹ PR w zakresie relacji inwestorskich.
+1.4. Analiza bie¿¹cej i przewidywanej sytuacji finansowej Spó³ki.
+W 2020 roku przychody spó³ki MedApp osi¹gnê³y poziom 6 024 tys. z³ i wzros³y o 87 procent
+w porównaniu do 2019 roku (3 226 tys. z³). Ponadto w 2020 roku MedApp wypracowa³ zysk netto
+w wysokoœci 1 915 tys. z³, co stanowi³o wzrost o 185 procent w porównaniu do 2019 roku (673 tys. z³).
+Spó³ka utrzyma³a tym samym du¿¹ dynamikê wzrostu wyników finansowych. Obecna sytuacja finansowa
+Spó³ki jest stabilna. Spó³ka ograniczy³a poziom zobowi¹zañ krótkoterminowych. Wzrós³ tak¿e poziom
+kapita³ów w³asnych Spó³ki, co by³o spowodowane objêciem akcji nowej emisji przez inwestorów oraz
+realizacj¹ warrantów subskrypcyjnych przez kluczowych pracowników Spó³ki.
+Medapp S.A. jest obecnie w fazie intensywnego wprowadzania swoich produktów na rynek
+(komercjalizacji) i jednoczesnego rozszerzania funkcjonalnoœci istniej¹cych aplikacji. Przysz³a sytuacja
+finansowa Spó³ki bêdzie w g³ównej mierze zale¿eæ od tempa realizacji przychodów ze sprzeda¿y na rynku
+krajowym i zagranicznym oraz dostêpnoœci kapita³u niezbêdnego do dalszego rozwoju portfela produktów
+w³asnych Spó³ki i uruchomienia szerokich dzia³añ marketingowych (w tym promocji i wejœcia na rynki
+zagraniczne).
+W planach Zarz¹du Spó³ki na 2021 rok jest przeprowadzenie emisji akcji serii H oraz przeniesienie notowañ
+na rynek podstawowy GPW. Emitent planuje dalsze zwiêkszanie skali dzia³alnoœci i osi¹ganych wyników
+finansowych rozszerzaj¹c jednoczeœnie dystrybucjê produktów na terenie Europy oraz przygotowuj¹c
+siê do uzyskania certyfikacji FDA w Stanach Zjednoczonych. Planowane jest tak¿e uruchomienie spó³ki
+dedykowanej do rozwoju dzia³alnoœci w regionie krajów niemieckojêzycznych DACH – tj. w Niemczech,
+Austrii i Szwajcarii. Pozyskanie zak³adanych œrodków w ramach emisji akcji od inwestorów pozwoli na
+realizacjê zak³adanej strategii Spó³ki.
+                                                    7
+
+1.5 Informacje dotycz¹ce nabyciu udzia³ów (akcji) w³asnych, a zw³aszcza o celu ich nabycia, liczbie i
+wartoœci nominalnej, ze wskazaniem, jak¹ czêœæ kapita³u zak³adowego reprezentuj¹, cenie nabycia oraz
+cenie sprzeda¿y tych udzia³ów (akcji) w przypadku ich zbycia
+Zgodnie z Uchwa³¹ nr 4/2020 Nadzwyczajnego Walnego Zgromadzenia spó³ki pod firm¹ MedApp Spó³ka
+Akcyjna z siedzib¹ w Krakowie z dnia 29 czerwca 2020 roku:
+Nadzwyczajne Walne Zgromadzenie MedApp Spó³ka Akcyjna z siedzib¹ w Krakowie („Spó³ka”), dzia³aj¹c
+na podstawie art. 359 § 1 i 2, art. 360 § 1, art. 430 § 1 oraz art. 455 § 1 Kodeksu spó³ek handlowych
+wyrazi³o zgodê na nieodp³atne nabycie przez Spó³kê akcji w³asnych Spó³ki, w celu ich umorzenia oraz
+upowa¿ni³o Zarz¹d Spó³ki do podjêcia wszelkich czynnoœci niezbêdnych do nabycia akcji w³asnych Spó³ki.
+Umorzenie, stanowi³o umorzenie dobrowolne w rozumieniu art. 359 § 1 zd. 2 Kodeksu spó³ek
+handlowych, tj. zosta³o zrealizowane za zgod¹ akcjonariusza w drodze nabycia akcji przez Spó³kê.
+Nieodp³atnemu umorzeniu podlega³y 3 (s³ownie: trzy) akcje o wartoœci nominalnej 0,10 PLN (s³ownie:
+dziesiêæ groszy) oraz o aktualnej wartoœci rynkowej ni¿szej ni¿ 1 PLN (s³ownie: jeden z³oty) ka¿da, ³¹cznie
+stanowi¹ce w przybli¿eniu 0.000001% kapita³u zak³adowego Spó³ki.. W zwi¹zku z przeprowadzeniem
+umorzenia akcji nabytych nieodp³atnie, nie by³o konieczne przeprowadzenie postêpowania
+konwokacyjnego przewidzianego w art. 456 Kodeksu spó³ek handlowych, którego koszt przekracza³by
+wartoœæ umarzanych akcji, a tym samym jego przeprowadzenie narusza³oby interesy akcjonariuszy. Akcje
+zosta³y nabyte nieodp³atnie, czyli bez wyp³aty jakiegokolwiek wynagrodzenia lub jakichkolwiek œwiadczeñ
+na rzecz zbywaj¹cego akcje akcjonariusza Amida Capital spó³ka z ograniczon¹ odpowiedzialnoœci¹ S.K.A. z
+siedzib¹ w Poznaniu.
+1.6. Opis istotnych czynników ryzyka dotycz¹cych dzia³alnoœci Spó³ki, w tym ryzyk dotycz¹cych
+instrumentów finansowych
+Ryzyko niepowodzenia strategii rozwoju Emitenta
+Z uwagi na fakt, ¿e Emitent dzia³a na dynamicznym, szybko rozwijaj¹cym siê rynku œciœle zwi¹zanym z
+innowacyjnymi technologiami, które nie maj¹ d³ugiej historii i s¹ w du¿ym stopniu obarczone ryzykiem
+zmiennoœci i nieprzewidywalnoœci, MedApp S.A. nara¿ony jest na ryzyko zwi¹zane z b³êdnym przyjêciem
+za³o¿eñ strategicznych dotycz¹cych m.in. rozwijanych us³ug i produktów oraz przysz³ego zapotrzebowania
+na nie ze strony klientów. Powy¿sze wp³ywa tak¿e na ryzyko mo¿liwych do osi¹gniêcia przychodów i
+wyników finansowych. Dzia³alnoœæ Emitenta obarczona jest ryzykiem:
+    <U+25AA> niedostosowania oferty Emitenta do oczekiwañ klientów
+    <U+25AA> nieosi¹gniêcia oczekiwanej pozycji rynkowej i tym samym niemo¿liwoœci realizacji planów
+        strategicznych.
+                                                     8
+
+Emitent stara siê ograniczaæ powy¿sze ryzyka poprzez:
+    <U+25AA> prowadzanie monitoringu trendów rynkowych i dostêpnych badañ marketingowych, dziêki
+         którym mo¿liwe jest rozpoznanie potrzeb potencjalnych klientów i zaoferowanie produktów lub
+         us³ug w najwy¿szym stopniu spe³niaj¹cych ich oczekiwania
+    <U+25AA> sta³e modyfikowanie i rozszerzanie oferty z uwzglêdnieniem zapotrzebowania potencjalnych
+         klientów
+    <U+25AA> zatrudnianie wysoko wykwalifikowanych pracowników i wspó³pracowników
+    <U+25AA> wspó³pracê z miêdzynarodowej klasy specjalistami z danych bran¿ oraz wspó³pracê z Rad¹
+         Naukow¹
+    <U+25AA> œledzenie trendów na kluczowych rynkach miêdzynarodowych (Stany Zjednoczone, Europa,
+         Emiraty Arabskie, Brazylia) poprzez uczestnictwo w najwiêkszych œwiatowych targach
+         medycznych oraz rozwijanie kontaktów z potencjalnymi klientami na rynkach zagranicznych.
+Ryzyko zwi¹zane ze zmianami technologicznymi
+Charakterystyk¹ bran¿y, w któr¹ Emitent inwestuje, jest szybkoœæ zachodz¹cych zmian technologicznych,
+które maj¹ swoje prze³o¿enie na okres wdro¿enia i funkcjonowania produktów i us³ug oferowanych na
+rynku. Tempo tych procesów oraz ich zakres powoduje, i¿ Emitent, aby zachowaæ swoj¹ pozycjê rynkow¹,
+zmuszony jest do ci¹g³ego rozwoju swojej oferty produktowej i podnoszenia jakoœci œwiadczonych us³ug.
+P³ynnoœæ i dynamika bran¿y niesie ze sob¹ ryzyko ponoszenia znacznych kosztów zwi¹zanych z
+koniecznoœci¹ wprowadzonych prac rozwojowych i ci¹g³ego dostosowywania do rosn¹cych oczekiwañ w
+obszarze nowych technologii wykorzystywanych w medycynie.
+Ryzyko zwi¹zane z tworzeniem nowych us³ug i produktów oraz pozyskiwaniem nowych kontraktów
+Emitent inwestuje w bran¿y, w której niezbêdne jest ci¹g³e ulepszanie oferowanych us³ug i produktów,
+jak równie¿ poszerzanie zakresu funkcjonalnoœci oferowanych aplikacji (CarnaLife System i CarnaLife
+Holo). Pozyskiwanie nowych klientów w procesie komercjalizacji wymaga m.in. wyprzedzania dzia³añ
+konkurencji oraz skutecznego zaspokajania rosn¹cych potrzeb klientów. Wprowadzanie nowatorskich
+us³ug wi¹¿e siê ze znacznymi kosztami, ponoszonymi na ich opracowanie, testowanie oraz wdro¿enia.
+Nie mo¿na wykluczyæ przypadku, w którym nowatorskie us³ugi i produkty wprowadzone przez Emitenta
+przynios¹ gorsze ni¿ oczekiwane rezultaty ekonomiczne.
+Ryzyko realizowanych kontraktów
+Dzia³alnoœæ Emitenta w du¿ej mierze polega na realizacji procesów i zadañ o wysokim stopniu z³o¿onoœci,
+wymagaj¹cych d³ugookresowej pracy specjalistów, co mo¿e wi¹zaæ siê z ryzykiem wyd³u¿enia czasu
+wdro¿enia, zmiany zakresu dzia³añ oraz wy¿szych kosztów zwi¹zanych z realizacj¹ projektów. Ryzyko takie
+mo¿e wi¹zaæ siê z odst¹pieniem klienta od kontraktu, ewentualnymi reklamacjami lub roszczeniami
+finansowymi. Powy¿sze zdarzenia mog¹ mieæ negatywny wp³yw na sytuacjê i wyniki finansowe Emitenta.
+Emitent minimalizuje powy¿sze ryzyka poprzez zatrudnianie posiadaj¹cych wysokie kompetencje
+specjalistów oraz doœwiadczonej kadry zarz¹dzaj¹cej.
+                                                    9
+
+Ryzyko utraty i trudnoœci w pozyskaniu kluczowych pracowników
+Istotnym elementem dzia³alnoœci Emitenta oraz jego pozycji rynkowej s¹ kluczowi pracownicy oraz kadra
+zarz¹dzaj¹ca. Emitent zatrudnia osoby dysponuj¹ce specjalistyczn¹ wiedz¹, doœwiadczeniem i
+rozumieniem tak specyficznego sektora gospodarki, jakim jest obszar wykorzystania najnowszych
+technologii w medycynie. Bior¹c pod uwagê du¿e zapotrzebowanie na specjalistów i mened¿erów z
+obszaru nowych technologii, zw³aszcza technologii wykorzystywanych w medycynie,
+istnieje ryzyko odejœcia poszczególnych cz³onków kadry zarz¹dzaj¹cej lub kluczowych pracowników, co z
+kolei mo¿e skutkowaæ trudnoœciami w prowadzeniu przez Emitenta bie¿¹cej dzia³alnoœci, a nawet
+doprowadziæ do naruszenia rynkowej pozycji Emitenta.
+Ryzyko pojawienia siê konkurencji (w tym konkurencji zagranicznej).
+Emitent dzia³a na szybko rozwijaj¹cym siê rynku us³ug dla bran¿y medycznej. Istnieje du¿e
+prawdopodobieñstwo zaistnienia na tym rynku silnej konkurencji, która mo¿e posiadaæ znacznie wiêksze
+zasoby finansowe ni¿ Emitent. Emitent stara siê ograniczaæ to ryzyko poprzez konsekwentny rozwój
+nowych innowacyjnych produktów oraz marketing i promocjê swojej marki.
+Ryzyko zwi¹zane z bezpieczeñstwem internetowym oraz ochron¹ danych osobowych
+Oparcie œwiadczonych us³ug na infrastrukturze teleinformatycznej wi¹¿e siê z zagro¿eniami typowymi dla
+sieci informatycznych, parali¿u sieci lub kradzie¿y danych o udostêpnianych us³ugach lub danych
+osobowych podlegaj¹cych rygorowi ustawy o ochronie danych osobowych. Emitent ogranicza opisane
+powy¿ej ryzyko wykorzystuj¹c uznane produkty infrastruktury informatycznej (Microsoft Azure), które
+maj¹ zainstalowane najwy¿szej jakoœci mechanizmy zabezpieczenia danych oraz implementuj¹c autorskie
+zabezpieczenia (szyfruj¹c po³¹czenia) do przechowywania danych oraz komunikacji chmury obliczeniowej
+z aplikacjami u¿ytkowników.
+Ryzyko wahañ cen akcji oraz niedostatecznej p³ynnoœci akcji
+Ceny papierów wartoœciowych notowanych w Alternatywnym Systemie Obrotu mog¹ podlegaæ
+znacz¹cym wahaniom, w zale¿noœci od kszta³towania siê relacji poda¿y i popytu.
+Relacje te zale¿¹ od wielu z³o¿onych czynników, w tym w szczególnoœci od niemo¿liwych do przewidzenia
+decyzji inwestycyjnych podejmowanych przez poszczególnych inwestorów. Wiele czynników
+wp³ywaj¹cych na ceny papierów wartoœciowych notowanych w Alternatywnym Systemie Obrotu jest
+niezale¿nych od sytuacji i dzia³añ Emitenta. Przewidzenie kierunku wahañ cen papierów wartoœciowych
+notowanych w Alternatywnym Systemie Obrotu, tak w krótkim, jak i w d³ugim terminie, jest przy tym
+bardzo trudne. Nale¿y podkreœliæ, i¿ ryzyko inwestowania w papiery wartoœciowe notowane w
+Alternatywnym Systemie Obrotu jest czêsto wiêksze od ryzyka zwi¹zanego z inwestycjami na rynku
+regulowanym, w papiery skarbowe czy te¿ w jednostki uczestnictwa w funduszach inwestycyjnych
+zrównowa¿onych. W celu poprawy p³ynnoœci obrotu swoimi papierami wartoœciowymi Emitent rozpocz¹³
+prace nad przeniesieniem notowañ na rynek g³ówny Warszawskiej Gie³dy Papierów Wartoœciowych.
+                                                   10
+
+Ryzyko dotycz¹ce instrumentów finansowych
+Emitent posiada akcje Spó³ki OZE Capital notowanej na NewConnect ujête w ksiêgach po cenie nabycia.
+1.7 Dane o strukturze w³asnoœci kapita³u podstawowego oraz liczbie i wartoœci nominalnej udzia³ów
+(akcji):
+Tabela 1 - Struktura akcjonariatu i g³osów na Walnym Zgromadzeniu MEDAPP S.A. (stan na dzieñ
+31.12.2020)
+Kapita³ zak³adowy zarejestrowany w KRS na dzieñ 31.12.2020r. wynosi 24 716 094,00 PLN.
+Na dzieñ 31.12.20202r. podwy¿szenie kapita³u zak³adowego o 287 126,40 PLN nie zosta³o zarejestrowane
+w KRS.
+                               Liczba posiadanych     Wartoœc                        Udzia³ w ogólnej
+         Akcjonariusz                                             Wartoœæ akcji
+                                       akcji         nominalna                         liczbie g³osów
+    Amida Capital Spó³ka z
+          ograniczon¹               96 279 980,00       0,10         9 627 998,00          38,51%
+  odpowiedzialnoœci¹ S.K.A.
+    Omegia Spó³ka Akcyjna                               0,10         2 218 320,4            8,87%
+                                   22 183 204,00
+      Blue Ring Sp. z o.o.         18 500 000,00        0,10       1 850 000,00             7,40%
+   Pozostali akcjonariusze          113 068 020,00      0,10       11 306 902,0            45,22%
+            RAZEM                   250 032 204,00                 25 032 204,40          100,00%
+Wartoœæ nominalna 1 akcji spó³ki MedApp S.A. wynosi 0,10 z³
+1.8 Wa¿niejsze osi¹gniêcia w dziedzinie badañ i rozwoju
+W czerwcu 2020 roku Spó³ka w procesie recertyfikacji , otrzyma³a wa¿ny trzy lata Certyfikat medyczny
+klasy IIb. Tym samym, Emitent potwierdzi³, ¿e jego rozwi¹zanie CarnaLife spe³nia najwy¿sze standardy
+urz¹dzeñ medycznych (aplikacje mobilne w ochronie zdrowia) w Unii Europejskiej. Certyfikat dotyczy
+zarówno systemu telemedycznego s³u¿¹cego do monitoringu pacjentów zdalnie jak i systemu prezentacji
+danych w rzeczywistoœci mieszanej MR (ang. Mixed Reality). Do systemu telemedycznego sukcesywnie
+dodawano kolejne urz¹dzenia medyczne, a system obrazowania zosta³ wzbogacony o kolejne
+funkcjonalnoœci niezbêdne do zastosowania w kolejnych dziedzinach medycyny.
+                                                  11
+
+Po dniu bilansowym 7 stycznia 2021 roku Emitent zosta³ przyjêty do programu partnerskiego Microsoft
+Mixed Reality (MRPP) jako Silver Partner. Status Silver MRPP umo¿liwia Spó³ce udzia³ w wydarzeniach
+marketingowo-sprzeda¿owych organizowanych przez Microsoft, w trakcie których Spó³ka ma mo¿liwoœæ
+prezentacji swoich produktów i rozwi¹zañ technologicznych partnerom oraz dystrybutorom Microsoft z
+rynków zagranicznych, co mo¿e mieæ wp³yw na popularyzacjê i reklamê produktów Spó³ki, przek³adaj¹c¹
+siê na wyniki sprzeda¿owe Spó³ki. Status Silver MRPP oznacza dla Spó³ki dostêp do us³ug, narzêdzi oraz
+wsparcia zespo³ów produktowych i sprzeda¿owych Microsoft na preferencyjnych warunkach.
+1.9. Zdarzenia po dacie bilansowej
+W dniu 6 stycznia 2021 roku Emitent zosta³ przyjêty do programu partnerskiego Microsoft Mixed Reality
+(MRPP) jako Silver Partner i tym samym uzyska³ dostêp do us³ug, narzêdzi oraz wsparcia zespo³ów
+produktowych Microsoft. Pozwoli to Spó³ce jeszcze lepiej wykorzystaæ mieszan¹ rzeczywistoœæ i us³ugi
+chmurowe Azure dla swoich klientów.
+W dniu 18 stycznia 2021 roku Emitent zawar³ umowê ubezpieczenia z Chubb European Group SE Spó³ka
+Europejska Oddzia³ w Polsce, z sum¹ gwarancyjn¹ 1.000.000 GBP i okresem ubezpieczenia od dnia 15
+stycznia 2021 roku do dnia 14 stycznia 2022 roku. Umowa ubezpieczenia dzia³alnoœci Emitenta obejmuje
+technologie informatyczne w zakresie opieki zdrowotnej, w tym przede wszystkim odpowiedzialnoœæ
+pracodawcy za skutki wypadków przy pracy, ogóln¹ odpowiedzialnoœæ cywiln¹, odpowiedzialnoœæ za
+produkty i us³ugi, odpowiedzialnoœæ za szkody inne ni¿ na osobie i w mieniu oraz wady produktów i us³ug
+oraz wady realizacyjne. Zakres terytorialny ubezpieczenia obejmuje œwiat z w³¹czeniem USA, Kanady,
+Iranu, Iraku, Kuby, Syrii, Koreañskiej Republiki Ludowo-Demokratycznej, Sudanu, Krymu Wenezueli.
+W dniu 25 stycznia 2021 roku Spó³ka zawar³a umowê partnersk¹ z Insight Direct Limited z siedzib¹ w
+Sheffield, Wielka Brytania. Umowa ma charakter ramowy. W ramach umowy Insight Direct Limited mo¿e
+nabywaæ od MedApp oprogramowanie CarnaLife Holo oraz SurgeonEye wraz z wymaganym do obs³ugi
+oprogramowania sprzêtem komputerowym.
+Spó³ka w dniu 2 lutego 2021 roku zawar³a umowê wspó³pracy z Diagnostyka Sp. z o. o. z siedzib¹ w
+Krakowie, zak³adaj¹cej dodanie nowych funkcjonalnoœci do aplikacji CarnaLife System, w szczególnoœci
+umo¿liwiaj¹cych pacjentom placówek medycznych korzystaj¹cych z aplikacji CarnaLife System
+automatyczne pobieranie wyników badañ laboratoryjnych wykonanych przez Diagnostyka Sp. z o.o. Nowa
+funkcjonalnoœæ bêdzie m.in. umo¿liwia³a udostêpnienie wyników przez pacjenta danej placówce
+medycznej korzystaj¹cej z CarnaLife System, z uwzglêdnieniem obowi¹zuj¹cych przepisów prawa dot.
+ochrony danych osobowych. Umowa zosta³a zawarta na czas okreœlony 2 (dwóch) lat, z mo¿liwoœci¹
+przed³u¿eniu na czas nieokreœlony, w przypadku, gdy ¿adna ze stron nie przeœle drugiej stronie
+oœwiadczenia o braku zamiaru przed³u¿enia umowy na co najmniej 2 tygodnie przed koñcem okresu na
+jaki zosta³a zawarta.
+                                                     12
+
+25 lutego 2021 r. Emitent otrzyma³ potwierdzenie o zawarciu Umowy konsorcjum z Uniwersytetem w
+Janinie _(Grecja), Politechnik¹ Mediolañsk¹ _(W³ochy), BioIRC- Bioengineering Research and
+Development Center (Serbia), Uniwersytetem w Patras _(Grecja), Uniwersytetem w Montpellier (Francja)
+oraz Uniwersytetem Narodowym im. Kapodistriasa w Atenach (Grecja) w ramach unijnego programu
+Maria Sk³odowska-Curie - Horyzont 2020 na rzecz badañ i innowacji oraz wspierania rozwoju kariery
+zawodowej i szkoleñ pracowników naukowych, tytu³ projektu: "Drug-coated balloon simulation and
+optimization system for the improved treatment of peripheral artery disease"/"System symulacji i
+optymalizacji balonu powlekanego lekiem wspomagaj¹cy leczenie chorób obwodowych". Partnerami
+projektu s¹ miêdzy innymi Akademia Górniczo-Hutniczaoraz Boston Scientific Limited (Irlandia).
+Spó³ka w ramach projektu bêdzie prowadzi³a badania w zakresie pomiarów struktur anatomicznych w
+obrazach medycznych w przestrzeni holograficznej oraz automatycznej segmentacji têtnic w danych z
+tomografii komputerowej z wykorzystaniem aplikacji CarnaLife Holo. W ramach konsorcjum Spó³ka pe³ni
+funkcjê Beneficjenta, co oznacza, ¿e Spó³ka w ramach udzia³u w Projekcie otrzyma w czasie jego trwania
+dofinansowanie w wysokoœci 369.957,20 Euro, przy czym œrodki te Spó³ka jest zobowi¹zana przeznaczyæ
+na prowadzenie badañ, szkolenia, networking, dzia³ania zwi¹zane z zarz¹dzaniem projektem oraz inne
+koszty poœrednie oraz koszty zwi¹zane z zatrudnieniem i utrzymaniem dwóch doktorantów, którzy bêd¹
+prowadziæ badania we wspó³pracy ze Spó³k¹.
+2.0. Pozosta³e wymagane informacje
+Zgodnie z art. 49 ust 2 sprawozdanie z dzia³alnoœci powinno obejmowaæ istotne informacje o stanie
+maj¹tkowym i sytuacji finansowej Spó³ki.
+Poni¿ej zamieszczono nieomówione wczeœniej wymagane informacje.
+Spó³ka stosuje zasady ³adu korporacyjnego („Dobre praktyki spó³ek notowanych na NewConnect”)
+zgodnie z Regulaminem ASO.
+Art. 49 ust 3 Informacja dotycz¹ca zatrudnienia w Spó³ce.
+Stan zatrudnienia na dzieñ 31.12.2020 wynosi³ 20 osób.
+                                                   13
+

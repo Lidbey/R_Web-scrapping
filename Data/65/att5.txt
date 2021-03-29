@@ -1,0 +1,1536 @@
+.
+  7 0 1 0 2 6 4 7 5 0                0 0 0 0 3 6 5 1 5 7
+                                                                                   22-03-2021
+                        01-01-2020                                           31-12-2020
+  MEDAPP S.A.
+          MA£OPOLSKIE                                           M.KRAKÓW
+          M.KRAKÓW                                              KRAKÓW
+      POLSKA                                                     MA£OPOLSKIE
+      M.KRAKÓW                                                  M.KRAKÓW
+      ALEJE P£K.W£ADYS£AWA BELINY- PRA¯MOWSKIEGO                      60
+         KRAKÓW                                       31-514               KRAKÓW
+  7211Z BADANIA NAUKOWE I PRACE ROZWOJOWE W DZIEDZINIE BIOTECHNOLOGII
+  6201Z DZIA£ALNOŒÆ ZWI¥ZANA Z OPROGRAMOWANIEM
+  7219Z BADANIA NAUKOWE I PRACE ROZWOJOWE W DZIEDZINIE POZOSTA£YCH NAUK PRZYRODNICZYCH I TECHNICZNYCH
+  6209Z POZOSTA£A DZIA£ALNOŒÆ US£UGOWA W ZAKRESIE TECHNOLOGII INFORMATYCZNYCH I KOMPUTEROWYCH
+
+.
+  01-01-2020 31-12-2020
+
+.
+.
+  Zasady rachunkowoœci przyjête do sporz¹dzenie sprawozdania finansowego s¹ zgodne z
+  ustawa o rachunkowoœci z 29 wrzeœnia 1994 roku i jej póŸniejszymi zmianami. Szczegó³owe
+  zasady wyceny aktywów i pasywów w tym amortyzacji zosta³o zamieszczone w dodatkowym
+  za³¹czniku do niniejszego sprawozdania finansowego za rok 2020 - "przyjête zasady
+  rachunkowoœci do sprawozdania finansowego za rok zakoñczony dnia 31 grudnia 2020 roku "
+
+.
+  Szczegó³owe zasady ustalania wyniku finansowego zosta³y zawarte w dodatkowym za³¹czniku
+  do sprawozdania finansowego za 2020 rok - " przyjête zasady rachunkowoœci do
+  sprawozdania finansowego za rok zakoñczony dnia 31 grudnia 2020 roku "
+
+.
+  Zasady rachunkowoœci przyjête przy sporz¹dzaniu sprawozdania finansowego s¹ zgodne z
+  Ustaw¹ o Rachunkowoœci z 29 wrzeœnia 1994 roku z póŸniejszymi zmianami, zwan¹ dalej
+  Ustaw¹.
+  Przy sporz¹dzeniu sprawozdania finansowego za rok 2020 Spó³ka korzysta³a z za³¹cznika
+  nr.1 do UoR. Rachunek zysków i strat sporz¹dzono w wariancie kalkulacyjnym a rachunek
+  przep³ywów pieniê¿nych metod¹ poœredni¹
+
+.
+.
+.
+  MEDAPP S.A.
+                                          31.12.2020
+                                                                           z³
+                  2020          2019                     2020          2019
+              12 396 163,49  7 922 106,04            20 556 780,50 16 231 767,05
+              10 733 970,21  6 140 044,86            24 716 094,00 13 850 000,00
+               6 036 000,00  1 132 318,41             1 179 417,59          0,00
+               4 697 970,21  5 007 726,45
+                        0,00         0,00
+                  35 638,58     51 949,92               287 126,40  9 868 936,00
+                  35 638,58     51 949,92
+                                                              0,00          0,00
+                  19 774,15     20 304,19            -7 541 020,28 -8 160 310,49
+                   9 132,32     21 921,66             1 915 162,79    673 141,54
+                        0,00         0,00
+                    6 732,11     9 724,07             2 660 241,69  2 524 129,97
+                                                        235 445,38     13 300,00
+                                                              0,00          0,00
+                        0,00         0,00               145 445,38          0,00
+                                                        145 445,38          0,00
+                        0,00         0,00                90 000,00     13 300,00
+                 785 587,00    930 723,00
+                                                         90 000,00     13 300,00
+                                                              0,00          0,00
+                 785 587,00    930 723,00
+                        0,00     5 000,00
+                        0,00     5 000,00                     0,00          0,00
+                        0,00         0,00
+
+.
+           0,00    140 136,00
+           0,00    140 136,00
+                              2 232 796,27 2 414 829,93
+                                      0,00         0,00
+           0,00          0,00         0,00         0,00
+     785 587,00    785 587,00
+     785 587,00          0,00
+           0,00    785 587,00         0,00         0,00
+                                      0,00     4 422,24
+                                      0,00         0,00
+     840 967,70    799 388,26
+     840 967,70    799 388,26         0,00     4 422,24
+           0,00          0,00 2 232 796,27 2 410 407,69
+  10 820 858,70 10 318 290,98       405,48       405,48
+      92 777,00          0,00
+      73 995,00          0,00
+                                507 936,57   471 337,12
+                                507 936,57   471 337,12
+      18 782,00          0,00         0,00     2 439,02
+   5 301 965,89  3 188 059,51
+           0,00     22 199,92 1 375 508,73 1 503 445,45
+           0,00          0,00   160 633,07   134 353,55
+                                188 312,42   298 427,07
+           0,00     22 199,92   192 000,04    96 000,04
+           0,00      3 439,26
+           0,00      3 439,26   192 000,04    96 000,04
+           0,00      3 439,26
+                                192 000,04    96 000,04
+   5 301 965,89  3 162 420,33
+   5 281 085,09  3 054 836,20
+   5 281 085,09  3 054 836,20
+
+.
+          22,00    101 853,00
+      20 858,80      5 731,13
+     779 395,30     69 018,65
+     779 395,30     69 018,65
+           0,00          0,00
+           0,00          0,00
+           0,00          0,00
+           0,00          0,00
+     779 395,30     69 018,65
+     779 395,30     69 018,65
+   4 646 720,51  7 061 212,82
+           0,00    515 500,00
+  23 217 022,19 18 755 897,02 23 217 022,19 18 755 897,02
+
+.
+  MEDAPP S.A.
+                                           01.01.2020 - 31.12.2020
+                                                                                    z³
+                                                              2020          2019
+                                                             16 231 767,05  5 729 689,51
+                                                                      0,00          0,00
+                                                             16 231 767,05  5 729 689,51
+                                                             13 850 000,00 12 550 000,00
+                                                             10 866 094,00  1 300 000,00
+                                                             10 866 094,30  1 300 000,00
+              emisji papierów wartoœciwych                   10 866 094,30  1 300 000,00
+                                                                      0,30          0,00
+              umorzenia przez S¹d                                     0,30          0,00
+                                                             24 716 094,00 13 850 000,00
+                                                                      0,00          0,00
+                                                              1 179 417,59          0,00
+                                                              1 179 417,59          0,00
+                                                              1 125 566,26          0,00
+                                                                 53 851,33          0,00
+                                                              1 179 417,59          0,00
+
+.
+                                                                       9 868 936,00  1 340 000,00
+                                                                      -9 581 809,60  8 528 936,00
+                                                                       1 084 126,40  9 828 936,00
+  emisji papierów wartoœciowych                                        1 084 126,40  9 828 936,00
+                                                                      10 665 936,00  1 300 000,00
+  rejestracji podwy¿szenia kapita³u podstawowego                      10 665 936,00  1 300 000,00
+                                                                         287 126,40  9 868 936,00
+                                                                      -8 160 310,49 -5 795 722,65
+                                                                               0,00          0,00
+                                                                               0,00          0,00
+                                                                         673 141,54          0,00
+                                                                         673 141,54          0,00
+                                                                         673 141,54          0,00
+  przeniesienie zysku na pokrycie straty z lat ubieg³ych                 619 290,21          0,00
+  przeniesienie z tytu³u utworzenia kapita³u zapasowego zgodnie z KSH     53 851,33          0,00
+                                                                               0,00          0,00
+                                                                       8 160 310,49  5 795 722,65
+                                                                               0,00          0,00
+                                                                               0,00          0,00
+                                                                       8 160 310,49  5 795 722,65
+                                                                               0,00  2 364 587,84
+                                                                               0,00          0,00
+  strata z roku 2018                                                           0,00  2 364 587,84
+                                                                         619 290,21          0,00
+  -przeniesienie zysku z roku 2019                                       619 290,21          0,00
+                                                                       7 541 020,28  8 160 310,49
+                                                                      -7 541 020,28 -8 160 310,49
+                                                                       1 915 162,79    673 141,54
+                                                                       1 915 162,79    673 141,54
+                                                                               0,00          0,00
+                                                                      20 556 780,50 16 231 767,05
+                                                                      20 556 780,50 16 231 767,05
+
+.
+  Liczba do³¹czonych opisów: 2 Liczba do³¹czonych plików: 2
+
+.
+                                                z³
+   1 873 583,35                 469 787,34
+          0,00  0,00       0,00       0,00 0,00 0,00
+  -19 351,93    0,00 -19 351,93       0,00 0,00 0,00
+
+.
+                                       0,00 0,00       0,00                  0,00 0,00       0,00
+                                 516 328,56 0,00 516 328,56            368 881,66 0,00 368 881,66
+  bilansowa amortyzacja
+  wy³¹czona z kosztów            309 756,24 0,00 309 756,24 15  6      309 756,24 0,00 309 756,24
+  odsetki za zw³okê zaliczane do
+  NKUP                           164 481,34 0,00 164 481,34 16  1 21    28 310,55 0,00  28 310,55
+  zrealizowane ró¿nice kursowe
+  NKUP                                 0,00 0,00       0,00 16          13 729,64 0,00  13 729,64
+  Pozosta³e koszty NKUP           41 090,98 0,00  41 090,98 16          17 085,23 0,00  17 085,23
+  darowizna                        1 000,00 0,00   1 000,00 16 14
+                                 258 619,74 0,00 258 619,74             83 078,55 0,00  83 078,55
+  nie wp³acony zus                23 174,36 0,00  23 174,36 16  1 57 a  47 638,55 0,00  47 638,55
+  wartoœæ utworzonych rezerw na
+  pozosta³e koszty               235 445,38 0,00 235 445,38 15 4e       35 440,00 0,00  35 440,00
+
+.
+                             60 938,55    0,00  60 938,55          265 568,92 0,00 265 568,92
+  wyp³acone wynagrodzenia z
+  okresu poprzedniego               0,00  0,00         0,00  15 4g 191 907,26 0,00 191 907,26
+  op³acone sk³adki z lat
+  poprzednich                47 638,55    0,00  47 638,55    15 4h  58 739,56 0,00  58 739,56
+  wykorzystane rezerwy na
+  pozosta³e koszty           13 300,00    0,00  13 300,00    15      8 500,00 0,00   8 500,00
+  pozosta³e                         0,00  0,00         0,00  15      6 422,10 0,00   6 422,10
+                             2 606 945,03 0,00  2 606 945,03       656 178,63 0,00 656 178,63
+  strata 2014                       0,00  0,00         0,00         35 706,74 0,00  35 706,74
+  strata 2015               911 118,00    0,00 911 118,00          620 471,89 0,00 620 471,89
+  strata 2016               471 947,00    0,00 471 947,00
+  strata 2017                1 134 607,91 0,00  1 134 607,91
+  strata 2018                89 272,12    0,00  89 272,12
+                                    0,00  0,00         0,00              0,00 0,00       0,00
+                                    0,00                                 0,00
+                                    0,00                                 0,00
+
+.
+              01.01.2020 - 31.12.2020
+  MEDAPP S.A.
+                                                  z³
+                            2020          2019
+                            6 024 961,96  3 226 098,36
+                            6 024 961,96  3 226 098,36
+                               558 431,31   612 810,85
+                               558 431,31   612 810,85
+                            5 466 530,65  2 613 287,51
+                               288 014,61   331 862,34
+                            2 712 164,05  1 386 908,06
+                            2 466 351,99    894 517,11
+                                     0,06    18 394,76
+                                     0,06    18 394,76
+                               350 670,46   364 423,47
+                               350 670,46   364 423,47
+                             2 115 681,59   548 488,40
+                                     0,00         0,00
+                                     0,00         0,00
+                               242 098,24    78 701,06
+                               162 734,05    67 450,84
+                                   135,70         0,00
+                                79 228,49    11 250,22
+                            1 873 583,35    469 787,34
+                               -41 579,44  -203 354,20
+                            1 915 162,79    673 141,54
+
+.
+              01.01.2020 - 31.12.2020
+  MEDAPP S.A.
+                                                      z³
+                                 2020          2019
+                                1 915 162,79    673 141,54
+                              -3 990 314,43  -4 642 857,19
+                                  818 329,73    719 383,24
+                                        0,00      2 583,05
+                                      135,70          0,00
+                                  222 145,38      4 779,27
+                                  -92 777,00          0,00
+                               -2 113 906,38 -3 076 950,71
+                                  -12 033,66    549 444,25
+                              -2 812 208,20  -2 860 358,10
+                                        0,00     18 261,81
+                              -2 075 151,64  -3 969 715,65
+                                        0,00      5 226,62
+                                        0,00      5 226,62
+                                        0,00      5 226,62
+                                        0,00          6,62
+                                        0,00      5 220,00
+                                  114 822,67     20 000,00
+                                  114 822,67          0,00
+                                        0,00     20 000,00
+                                        0,00     20 000,00
+                                        0,00     20 000,00
+                                 -114 822,67    -14 773,38
+                                3 430 350,96  4 052 770,00
+                                2 900 350,96  4 052 770,00
+                                  530 000,00          0,00
+                                  530 000,00          0,00
+                                  530 000,00          0,00
+                                2 900 350,96  4 052 770,00
+                                  710 376,65     68 280,97
+                                  710 376,65     68 280,97
+                                   69 018,65        737,68
+                                  779 395,30     69 018,65
+                                        0,00          0,00
+
+Dodatkowe informacje i objaœnienia - dla jednostki innej
+InfdodMedApp
+
+      MEDAPP S.A.
+ Dodatkowe informacje i objaœnienia
+ do sprawozdania finansowego za rok
+zakoñczony dnia 31 grudnia 2020 roku
+                                     1
+
+Nota 1. Wartoœci niematerialne i prawne
+ Wartoœci niematerialne i prawne                                             31-12-2020           31-12-2019
+ Koszty zakoñczonych prac rozwojowych                                           6 036 000,00          1 132 318,41
+ Wartoœæ firmy                                                                  4 697 970,21          5 007 726,45
+ Nabyte koncesje, patenty, licencje i podobne wartoœci, w                                  0,00                 0,00
+ tym: - oprogramowanie komputerowe
+ Inne wartoœci niematerialne i prawne                                                      0,00                 0,00
+ Zaliczki na wartoœci niematerialne i prawne                                               0,00                 0,00
+ Wartoœci niematerialne i prawne razem                                         10 733 970,21          6 140 044,86
+ Wyjaœnienie okresu dokonywania odpisów zakoñczonych prac rozwojowych oraz odpisów amortyzacyjnych od
+ wartoœci firmy
+ Koszty zakoñczonych prac rozwojowych: Ustalono odpisy amortyzacyjne na okres 5 lat, pocz¹wszy od miesi¹ca
+ nastêpuj¹cego po miesi¹cu przyjêcia prac rozwojowych do ewidencji wartoœci niematerialnych i prawnych. Wed³ug
+ przewidywañ Spó³ki w tym okresie aktywa te bêd¹ przynosi³y korzyœci ekonomiczne.
+ Spó³ka przyjê³a 5 letni okres ekonomicznej u¿ytecznoœci poniewa¿ w momencie zakoñczenia prac nad powstaniem
+ pierwszego produktu zwi¹zanego z aplikacjami mobilnymi wspomagaj¹cymi profilaktykê medyczn¹ nie by³a w
+ stanie wiarygodnie oszacowaæ okresu ekonomicznej u¿ytecznoœci rezultatów zakoñczonych prac rozwojowych , nie
+ podjê³a decyzji o ich komercjalizacji poprzez sprzeda¿ wyników prac rozwojowych. Spó³ka podjê³a decyzjê o
+ przyjêciu 5 letniego okresu u¿ytecznoœci ekonomicznej Kolejne weryfikacje potwierdzi³y przyjête za³o¿enia. W grudniu
+ 2020 roku Spó³ka przyjê³a na koszty zakoñczonych prac rozwojowych wartoœæ 5 281 121, 07 PLN, dla których przyjêty
+ jest piêcioletni okres u¿ytecznoœci ekonomicznej.
+ Wartoœæ firmy: Prezentowana wartoœæ firmy jest rezultatem po³¹czenia spó³ki ze spó³k¹ MedApp Sp. z o.o. w ci¹gu
+ okresu sprawozdawczego od 01.01.2016 - 31.12.2016, które zosta³o rozliczone metod¹ nabycia. W dniu 2.02.2016
+ roku po³¹czenie zosta³o wpisane do Krajowego Rejestru S¹dowego. Wartoœæ firmy na dzieñ po³¹czenia ustalono w
+ wysokoœci 6 195 125,37 z³ oraz ustalono odpisy amortyzacyjne na okres 20 lat.
+ Ustalenie okresu ekonomicznej u¿ytecznoœci na okres 20 lat uzasadnione zosta³o zmian¹ bran¿y Spó³ki na bran¿ê
+ Spó³ki przejêtej. Innowacyjnoœæ dzia³ania Spó³ki bran¿y medycznej polegaj¹ca na mo¿liwoœci wykorzystania
+ tworzonych przez Spó³kê narzêdzi i aplikacji informatycznych w szeroko pojêtej medycynie wi¹¿e siê z d³ugim
+ okresem ich testowania i udoskonalania przed wprowadzeniem na tzw. „ rynek „ tak wiêc przysz³e pozyskiwanie
+ korzyœci maja charakter d³ugofalowy, dlatego Spó³ka podjê³a decyzjê o dwudziestoletnim okresie amortyzacji
+ wartoœci firmy.
+Dokonano analizy przes³anek wystêpowania utraty wartoœci i nie stwierdzono wystêpowania przes³anek utraty wartoœci.
+                                                                                                                      2
+
+Nota 1.1 Zmiany w wartoœciach niematerialnych i prawnych za okres 01.01-31.12.2020
+                                                                     Koszty          Wartoœæ firmy       Autorskie            Prawa do        Oprogramowa Inne, w tym         Razem
+                                                               zakoñczonych                                 prawa          wynalazków,             nie          know-how
+                                                                      prac                              maj¹tkowe,           patentów,         komputerów
+                                                                rozwojowych                                 prawa              znaków
+                                                                                                         pokrewne,         towarowych,
+Wartoœæ brutto na pocz¹tek okresu                                  1 887 197,37         9 292 683,17      licencje  i
+                                                                                                             22 800,00         wzorów0,00          15 394,48           0,00 11 218 075,02
+Zwiêkszenia, w tym:                                                 5 281 121,07                  0,00              0,00               0,00              0,00          0,00  5 281 121,07
+– nabycie                                                                      0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– przemieszczenie wewnêtrzne                                                   0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– inne                                                              5 281 121,07                  0,00              0,00               0,00              0,00          0,00  5 281 121,07
+Zmniejszenia, w tym:                                                           0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– likwidacja                                                                   0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– rozchód                                                                      0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– przemieszczenie wewnêtrzne                                                   0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– inne                                                                         0,00               0,00              0,00               0,00              0,00          0,00          0,00
+Wartoœæ brutto na koniec okresu                                    7 168 318,44         9 292 683,17         22 800,00                 0,00        15 394,48           0,00 16 499 196,09
+Umorzenia na pocz¹tek okresu                                          754 878,96        4 284 956,72         22 800,00                 0,00        15 394,48           0,00  5 078 030,16
+Umorzenia bie¿¹ce – zwiêkszenia                                       377 439,48          309 756,24                0,00               0,00              0,00          0,00    687 195,72
+Umorzenia – zmniejszenia                                                       0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– likwidacja                                                                   0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– rozchód                                                                      0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– przemieszczenie wewnêtrzne                                                   0,00               0,00              0,00               0,00              0,00          0,00          0,00
+– inne                                                                         0,00               0,00              0,00               0,00              0,00          0,00          0,00
+Razem umorzenia na koniec okresu                                   1 132 318,44         4 594 712,96         22 800,00                 0,00        15 394,48           0,00  5 765 225,88
+Odpisy z tytu³u trwa³ej utraty wartoœci na                                    0,00                0,00             0,00                0,00              0,00          0,00          0,00
+Zwiêkszenia                                                                    0,00               0,00              0,00               0,00              0,00          0,00          0,00
+Zmniejszenia                                                                   0,00               0,00              0,00               0,00              0,00          0,00          0,00
+Odpisy z tytu³u trwa³ej utraty wartoœci na koniec                             0,00                0,00             0,00                0,00              0,00          0,00          0,00
+Wartoœæ ksiêgowa netto na pocz¹tek okresu                          1 132 318,41         5 007 726,45               0,00                0,00              0,00          0,00  6 140 044,86
+Wartoœæ ksiêgowa netto na koniec okresu                            6 036 000,00         4 697 970,21               0,00                0,00              0,00          0,00 10 733 970,21
+Stopieñ zu¿ycia od wartoœci pocz¹tkowej (%)                                15,80%             49,44%          100,00%                0,00%          100,00%          0,00%        34,94%
+W okresie 01.01-31.12.2020 Spó³ka nie u¿ytkowa³a wartoœci niematerialnych i prawnych na podstawie umowy najmu, dzier¿awy lub innej umowy, w tym umowy leasingu.
+                                                                                                                                                                                        3
+
+Nota 2. Rzeczowe aktywa trwa³e
+Rezczowe aktywa trwa³e:              31-12-2020       31-12-2019
+Œrodki trwa³e, w tym:
+- grunty (w tym prawo u¿ytkowania                0,00             0,00
+- budynki, lokale, prawa do lokali i        19 774,15        20 304,19
+- urz¹dzenia techniczne i maszyny            9 132,32        21 921,66
+- œrodki transportu                              0,00             0,00
+- inne œrodki trwa³e                         6 732,11         9 724,07
+Œrodki trwa³e w budowie                          0,00             0,00
+Zaliczki na œrodki trwa³e w budowie              0,00             0,00
+Rzeczowe aktywa trwa³e razem:               35 638,58        51 949,92
+                                                                       4
+
+Nota 2.1 .Zmiany w œrodkach trwa³ych w okresie 01.01-31.12.2020
+                                                                      Grunty           Prawo       Budynki i budowle         Maszyny i          Œrodki         Pozosta³e     Razem
+                                                                                    wieczystego       oraz bêd¹ce            urz¹dzenia      transportu      œrodki trwa³e
+                                                                                   u¿ytkowania          odrêbn¹
+                                                                                      gruntów      w³asnoœci¹ lokale
+                                                                                                     oraz prawa do
+                                                                                                          lokalu
+Wartoœæ brutto na pocz¹tek okresu                                            0,00             0,00           25 800,00          137 021,22         20 619,24      24 493,13   207 933,59
+Zwiêkszenia, w tym:                                                          0,00             0,00                 0,00         114 822,67              0,00            0,00   114 822,67
+– nabycie                                                                    0,00             0,00                 0,00         114 822,67              0,00            0,00   114 822,67
+– przemieszczenie wewnêtrzne                                                 0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– inne                                                                       0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+Zmniejszenia, w tym:                                                         0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– likwidacja                                                                 0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– przemieszczenie wewnêtrzne                                                 0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– inne                                                                       0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+Wartoœæ brutto na koniec okresu                                              0,00             0,00           25 800,00          251 843,89         20 619,24      24 493,13   322 756,26
+Umorzenie na pocz¹tek okresu                                                 0,00             0,00            5 495,81          115 099,56         20 619,24      14 769,06   155 983,67
+Umorzenia bie¿¹ce – zwiêkszenia                                              0,00             0,00              530,04          127 612,01              0,00       2 991,96    131 134,01
+Zmniejszenia, w tym:                                                         0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– likwidacja                                                                 0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– rozchód                                                                    0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– przemieszczenie wewnêtrzne                                                 0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+– inne                                                                       0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+Umorzenie na koniec okresu                                                   0,00             0,00            6 025,85          242 711,57         20 619,24      17 761,02   287 117,68
+Odpisy z tytu³u trwa³ej utraty wartoœci na pocz¹tek                          0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+Zwiêkszenia                                                                  0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+Zmniejszenia                                                                 0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+Odpisy z tytu³u trwa³ej utraty wartoœci na koniec okresu                     0,00             0,00                 0,00               0,00              0,00            0,00         0,00
+Wartoœæ ksiêgowa netto na pocz¹tek okresu                                    0,00             0,00           20 304,19           21 921,66              0,00       9 724,07     51 949,92
+Wartoœæ ksiêgowa netto na koniec okresu                                      0,00             0,00           19 774,15            9 132,32              0,00       6 732,11     35 638,58
+Stopieñ zu¿ycia od wartoœci pocz¹tkowej (%)                                0,00%            0,00%               23,36%             96,37%           100,00%          72,51%       88,96%
+W okresie 01.01-31.12.2020 Spó³ka nie u¿ytkowa³a rzeczowych aktywów trwa³ych na podstawie umowy najmu, dzier¿awy lub innej umowy, w tym umowy leasingu
+                                                                                                                                                                                     5
+
+Nota 3.Informacje o liczbie oraz wartoœci posiadanych papierów wartoœciowych lub praw, w tym œwiadectw udzia³owych,
+zamiennych d³u¿nych papierów wartoœciowych, warrantów i opcji, ze wskazaniem praw, jakie przyznaj¹
+                                                                                                inne
+                                                 d³u¿ne      inne papiery                 d³ugoterminowe
+                                udzia³y lub                                  udzielone
+                                                papiery      wartoœciowe                       aktywa          Razem
+                                  akcje                                       po¿yczki
+                                              wartoœciowe (wg rodzaju)                     finansowe (wg
+                                                                                              rodzaju)
+ Stan na pocz¹tek okresu         145 136,00    785 587,00            0,00           0,00              0,00     920 723,00
+ w tym w cenie nabycia                   0,00         0,00           0,00           0,00              0,00            0,00
+ Zwiêkszenia, w tym:             785 587,00           0,00           0,00           0,00              0,00     785 587,00
+ – nabycie                               0,00         0,00           0,00           0,00              0,00            0,00
+ -umowa datio in solution        785 587,00           0,00           0,00           0,00              0,00     785 587,00
+ – korekty aktualizuj¹ce
+ wartoœæ                                 0,00         0,00           0,00           0,00              0,00            0,00
+ – przemieszczenie
+ wewnêtrzne                              0,00         0,00           0,00           0,00              0,00            0,00
+ Zmniejszenia, w tym:            145 136,00    785 587,00            0,00           0,00              0,00     920 723,00
+ – sprzeda¿                      145 136,00           0,00           0,00           0,00              0,00     145 136,00
+ -umowa datio in solution                0,00  785 587,00            0,00           0,00              0,00     785 587,00
+ – korekty aktualizuj¹ce
+ wartoœæ                                 0,00         0,00           0,00           0,00              0,00            0,00
+ – przemieszczenie
+ wewnêtrzne                              0,00         0,00           0,00           0,00              0,00            0,00
+ Stan na koniec okresu           785 587,00           0,00           0,00           0,00              0,00     785 587,00
+ w tym w cenie nabycia           785 587,00           0,00           0,00           0,00              0,00     785 587,00
+W dniu 16 lipca 2020 roku Spó³ka zawar³a umowê Datio in Solutum z Best Unit Sp. z o.o na podstawie której Best
+Unit przenios³a na rzecz Spó³ki MedApp S.A. prawo w³asnoœci 230 000 szt. akcji na okaziciela serii D Spó³ki OZE
+Capital S.A. (dawniej CSY S.A.) w ³¹cznej kwocie 785 587 PLN
+Nota 3.1 - Udzia³y lub akcje w jednostkach podporz¹dkowanych – informacje liczbowe 31.12.2020
+Na dzieñ 31 grudnia 2020 Spó³ka nie posiada udzia³ów i akcji w jednostkach podporz¹dkowanych
+Spó³ka sprzeda³a udzia³y w MedApp Innovation Sp. z o.o. w maju 2020 roku. Wartoœæ bilansowa udzia³ów w cenie nabycia
+wynosi 5.000,00 PLN.
+Spó³ka sprzeda³a udzia³y w Telemedica Sp z o.o.. w maju 2020 roku. Wartoœæ bilansowa udzia³ów w cenie nabycia wynosi 140
+136,00 PLN.
+                                                                                                                        6
+
+Udzielone po¿yczki d³ugoterminowe (struktura walutowa)
+W latach 2019-2020 Spó³ka nie posiada³a udzielonych po¿yczek d³ugoterminowych.
+Inne inwestycje d³ugoterminowe
+W latach 2019-2020 Spó³ka nie posiada³a innych inwestycji d³ugoterminowych
+Zmiana stanu innych inwestycji d³ugoterminowych (wg grup rodzajowych)
+W latach 2019-2020 Spó³ka nie posiada³a innych inwestycji d³ugoterminowych
+Inne inwestycje d³ugoterminowe (struktura walutowa)
+W latach 2019-2020 Spó³ka nie posiada³a innych inwestycji d³ugoterminowych
+Nota 4. D³ugoterminowe rozliczenia miêdzyokresowe
+Zmiana stanu aktywów z tytu³u odroczonego podatku dochodowego
+                                                                     31-12-2020       31-12-2019
+ 1. Stan aktywów z tytu³u odroczonego podatku dochodowego na               799 388,26       596 054,79
+ pocz¹tek  okresu,na
+ a) odniesionych       tym: finansowy w kwocie netto
+                    w wynik                                                799 388,26       596 054,79
+ b) odniesionych na kapita³ w³asny                                               0,00             0,00
+ 2. Zwiêkszenia                                                            840 967,70       799 388,26
+ a) odniesione na wynik finansowy okresu w zwi¹zku z ujemnymi               44 734,62        15 784,92
+ ró¿nicami  przejœciowymi
+ – nie wyp³acone   wynagrodzenia                                                 0,00         9 051,32
+ – nie wyp³acone delegacje                                                       0,00             0,00
+ – ró¿nice kursowe                                                               0,00             0,00
+ – naliczone odsetki                                                             0,00             0,00
+ – rezerwa na koszty us³ug obcych                                           44 734,62         2 527,00
+ – rezerwy pozosta³e                                                             0,00         4 206,60
+ b) odniesione na wynik finansowy okresu w zwi¹zku ze strat¹               796 233,08       783 603,34
+ podatkow¹
+ –           (z tytu³u)
+   strata podatkowa   2015r.                                                     0,00       173 112,42
+ – strata podatkowa 2016r.                                                  89 669,93       179 339,88
+ – strata podatkowa 2017r.                                                 215 575,50       431 151,04
+ – strata podatkowa 2018r.                                                 490 987,65             0,00
+ c) odniesione na kapita³ w³asny w zwi¹zku z ujemnymi ró¿nicami                  0,00             0,00
+ przejœciowymi
+ d) odniesione na kapita³ w³asny w zwi¹zku ze strat¹ podatkow¹ (z                0,00             0,00
+ tytu³u)
+ 3. Zmniejszenia                                                           799 388,26       596 054,79
+ a) odniesione na wynik finansowy okresu w zwi¹zku z ujemnymi               15 784,92        90 348,71
+ ró¿nicami
+ –          przejœciowymi
+   niewyp³aconych           (z tytu³u)
+                     wynagrodzeñ                                             9 051,32        83 652,64
+ – niewyp³aconych delegacji                                                      0,00           340,63
+ – naliczonych odsetek                                                           0,00         2 331,35
+ – ró¿nic kursowych                                                              0,00         2 409,10
+ – rezerw na zobowi¹zania                                                    6 733,34         1 615,00
+ b) odniesione na wynik finansowy okresu w zwi¹zku ze strat¹               783 603,34       505 706,08
+ podatkow¹
+ –           (z tytu³u)
+   strata podatkowa   2014r.                                                     0,00             0,00
+ – strata podatkowa 2015r.                                                 173 112,42             0,00
+ – strata podatkowa 2016r.                                                 179 339,88        89 669,94
+ – strata podatkowa 2017r.                                                 431 151,04       416 036,14
+ – strata podatkowa 2018r.                                                       0,00             0,00
+ c) odniesione na kapita³ w³asny w zwi¹zku z ujemnymi ró¿nicami                  0,00             0,00
+ przejœciowymi
+ d) odniesione na(z tytu³u)
+                    kapita³ w³asny w zwi¹zku ze strat¹ podatkow¹ (z              0,00             0,00
+ tytu³u)
+ 4. Stan aktywów z tytu³u odroczonego podatku dochodowego na               840 967,70       799 388,26
+ koniec
+ a)      okresu, razem,
+    odniesionych         w tym:
+                   na wynik  finansowy                                     840 967,70       799 388,26
+ b) odniesionych na kapita³ w³asny                                               0,00             0,00
+                                                                                                       7
+
+Nota 5. Nale¿noœci krótkoterminowe
+                                                         31-12-2020          31-12-2019
+Nale¿noœci od jednostek powi¹zanych                                 0,00           22 199,92
+z tytu³u dostaw i us³ug, o okresie sp³aty:                          0,00                 0,00
+- do 12 miesiêcy                                                    0,00                 0,00
+- powy¿ej 12 miesiêcy                                               0,00                 0,00
+- inne                                                              0,00           22 199,92
+- dochodzone na drodze s¹dowej                                      0,00                 0,00
+Nale¿noœci od pozosta³ych jednostek, w których                      0,00             3 439,26
+z tytu³u dostaw i us³ug, o okresie sp³aty:                          0,00             3 439,26
+- do 12 miesiêcy                                                    0,00             3 439,26
+- powy¿ej 12 miesiêcy                                               0,00                 0,00
+- inne                                                              0,00                 0,00
+- dochodzone na drodze s¹dowej                                      0,00                 0,00
+Nale¿noœci od pozosta³ych jednostek                         5 301 965,89        3 162 420,33
+z tytu³u dostaw i us³ug, o okresie sp³aty:                  5 281 085,09        3 054 836,20
+- do 12 miesiêcy                                            5 281 085,09        3 054 836,20
+- powy¿ej 12 miesiêcy                                               0,00                 0,00
+- z tytu³u podatków, dotacji, ce³, ubezpieczeñ                     22,00          101 853,00
+- inne                                                         20 858,80             5 731,13
+- dochodzone na drodze s¹dowej                                      0,00                 0,00
+Nale¿noœci krótkoterminowe netto, razem                     5 301 965,89        3 188 059,51
+Odpisy aktualizuj¹ce wartoœæ nale¿noœci                             0,00                 0,00
+Nale¿noœci krótkoterminowe brutto, razem                    5 301 965,89        3 188 059,51
+Nota 6. Nale¿noœci krótkoterminowe od jednostek powi¹zanych
+                                                   31-12-2020          31-12-2019
+Z tytu³u dostaw i us³ug, w tym od:                            0,00          22 199,92
+- jednostek zale¿nych                                         0,00          22 199,92
+- jednostki dominuj¹cej                                       0,00                0,00
+Inne, w tym od:                                               0,00                0,00
+- jednostek zale¿nych                                         0,00                0,00
+- jednostki dominuj¹cej                                       0,00                0,00
+Dochodzone na drodze s¹dowej, w tym od:                       0,00                0,00
+- jednostek zale¿nych                                         0,00                0,00
+- jednostki dominuj¹cej                                       0,00                0,00
+Nale¿noœci krótkoterminowe od jednostek
+powi¹zanych netto, razem                                      0,00          22 199,92
+Odpisy aktualizuj¹ce wartoœæ nale¿noœci od
+jednostek powi¹zanych                                         0,00                0,00
+Nale¿noœci krótkoterminowe od jednostek
+powi¹zanych brutto, razem                                     0,00          22 199,92
+                                                                                              8
+
+Nota 6.1 Nale¿noœci krótkoterminowe od pozosta³ych jednostek, w których Spó³ka posiada zaanga¿owanie w kapitale
+                                                      31-12-2020           31-12-2019
+Z tytu³u dostaw i us³ug, w tym od:                               0,00              3 439,26
+- jednostek wspó³zale¿nych                                       0,00                  0,00
+- jednostek stowarzyszonych                                      0,00              3 439,26
+- innych jednostek                                               0,00                  0,00
+Inne, w tym od:                                                  0,00                  0,00
+- jednostek wspó³zale¿nych                                       0,00                  0,00
+- jednostek stowarzyszonych                                      0,00                  0,00
+- innych jednostek                                               0,00                  0,00
+Dochodzone na drodze s¹dowej, w tym od:                          0,00                  0,00
+- jednostek wspó³zale¿nych                                       0,00                  0,00
+- jednostek stowarzyszonych                                      0,00                  0,00
+- innych jednostek                                               0,00                  0,00
+Nale¿noœci krótkoterminowe od pozosta³ych                        0,00              3 439,26
+Odpisy aktualizuj¹ce wartoœæ nale¿noœci od                       0,00                  0,00
+Nale¿noœci krótkoterminowe od pozosta³ych                        0,00              3 439,26
+Nota 6.2 Nale¿noœci krótkoterminowe od pozosta³ych jednostek
+                                                      31-12-2020           31-12-2019
+Z tytu³u dostaw i us³ug, w tym od:                       5 281 085,09         3 054 836,20
+- wspólnika jednostki wspó³zale¿nej                              0,00                  0,00
+- znacz¹cego inwestora                                           0,00                  0,00
+- innych jednostek                                       5 281 085,09         3 054 836,20
+Z tytu³u podatków, dotacji, ce³, ubezpieczeñ                    22,00           101 853,00
+Inne, w tym od:                                             20 858,80              5 731,13
+- wspólnika jednostki wspó³zale¿nej                              0,00                  0,00
+- znacz¹cego inwestora                                           0,00                  0,00
+- innych jednostek                                          20 858,80              5 731,13
+Dochodzone na drodze s¹dowej, w tym od:                          0,00                  0,00
+- wspólnika jednostki wspó³zale¿nej                              0,00                  0,00
+- znacz¹cego inwestora
+- innych jednostek                                               0,00                  0,00
+Nale¿noœci krótkoterminowe od pozosta³ych                5 301 965,89         3 162 420,33
+Odpisy aktualizuj¹ce wartoœæ nale¿noœci od                       0,00                  0,00
+Nale¿noœci krótkoterminowe od pozosta³ych                5 301 965,89         3 162 420,33
+Zmiana stanu odpisów aktualizuj¹cych wartoœæ nale¿noœci krótkoterminowych
+W latach 2019-2020 Spó³ka nie tworzy³a odpisów aktualizuj¹cych wartoœæ nale¿noœci.
+                                                                                                                9
+
+Nota 7. Nale¿noœci sporne oraz nale¿noœci przeterminowane
+ W latach 2019-2020 w Spó³ce nie wystêpowa³y nale¿noœci sporne ani istotne nale¿noœci przeterminowane, które
+nale¿a³oby obj¹æ odpisem aktualizuj¹cym.
+Udzielone po¿yczki krótkoterminowe (struktura walutowa)
+W latach 2019-2020 Spó³ka nie udzieli³a ¿adnej po¿yczki krótkoterminowej
+ Nota 8. Œrodki pieniê¿ne i inne aktywa pieniê¿ne (struktura walutowa)
+                                                             31-12-2020          31-12-2019
+ w walucie polskiej                                          779 395,30           69 018,65
+ w USD                                                              0,00                0,00
+ po przeliczeniu USD na PLN                                         0,00                0,00
+ w EUR                                                              0,00                1,82
+ po przeliczeniu EUR na PLN                                         0,00                0,00
+ Œrodki pieniê¿ne i inne aktywa pieniê¿ne, razem             779 395,30           69 018,65
+Na dzieñ 31-12-2020 roku Spó³ka nie posiada³a œrodków pieniê¿nych na rachunku VAT
+Inne inwestycje krótkoterminowe (wg rodzaju)
+W latach 2019-2020 w Spó³ce nie wystêpowa³y inne inwestycje krótkoterminowe.
+Inne inwestycje krótkoterminowe (struktura walutowa)
+W latach 2019-2020 w Spó³ce nie wystêpowa³y inne inwestycje krótkoterminowe.
+Nota 9. Krótkoterminowe rozliczenia miêdzyokresowe
+ Krótkoterminowe rozliczenia miêdzyokresowe kosztów                  31-12-2020          31-12-2019
+ (czynne), w tym:
+ 1. Polisy ubezpieczenia osób i sk³adników maj¹tku                          0,00                0,00
+ 2.Koszty zwi¹zane z animacj¹ akcji                                   317 991,00                0,00
+ 3. Koszty rocznego utrzymania domen                                        0,00            1 856,71
+ 4. VAT od faktur niezap³aconych - z³e d³ugi naliczony                 80 559,07           80 559,07
+ 5. VAT do rozliczenia w przysz³ym okresie                             24 688,89           12 963,86
+ 6. Koszty niezakoñczonych prac rozwojowych, w tym:                 4 042 529,00        6 959 398,54
+  - koszty wynagrodzeñ                                              2 715 274,35        3 871 194,12
+  - koszty us³ug                                                    1 154 071,33        2 967 464,53
+  - koszty materia³ów                                                 173 183,32          120 739,89
+ 7. Koszty u¿ytkowanych licencji i certyfikatów                             0,00            2 898,32
+ 8. Koszty dotycz¹ce otrzymanych grantów                              128 000,00                0,00
+ 9. Pozosta³e koszty dotycz¹ce przysz³ych okresów                           0,00                0,00
+ 10. Pozosta³e koszty dotycz¹ce przysz³ych okresów                     52 952,55            3 536,32
+ Krótkoterminowe rozliczenia miêdzyokresowe kosztów
+ (czynne), razem                                                    4 646 720,51        7 061 212,82
+Koszty niezakoñczonych prac rozwojowych na dzieñ 31.12.2020 roku dotycz¹ projektów:
+- CarnaLife Holo2 w wysokoœci :3 401 799,35 PLN
+- SurgeronEye w wysokoœci: 640 729,65 PLN
+Zgodnie z art. 39 ustawy o rachunkowoœci Spó³ka dokonuje czynnych rozliczeñ miêdzyokresowych kosztów, je¿eli dotycz¹ one
+przysz³ych okresów sprawozdawczych. Koszty zwi¹zane z pracami rozwojowymi projektu CarnaLife System zosta³y na dzieñ
+31.12.2020 roku przeniesione na koszty zakoñczonych prac rozwojowych (wartoœci niematerialne i prawne) w kwocie
+                                                                                                                      10
+
+5 281 121,07 PLN Spó³ka ustala na ka¿dy dzieñ bilansowy przewidywany okres ich trwania (rozliczenia), w przypadku gdy
+przewidywany czas rozliczenia jest nie d³u¿szy ni¿ 12 miesiêcy od dnia bilansowego, prezentowane s¹ jako krótkoterminowe
+aktywa, w pozosta³ych przypadkach jako d³ugoterminowe.
+Nota 10. Akcje (udzia³y) w³asne
+W latach 2019-2020 pozycja nie wyst¹pi³a.
+Nota 11. Odpisy aktualizuj¹ce z tytu³u trwa³ej utraty wartoœci
+.
+W roku 2019 oraz 2020 nie utworzono odpisów z tytu³u trwa³ej utraty wartoœci.
+Dokonano analizy przes³anek wystêpowania trwa³ej utraty wartoœci aktywów i nie stwierdzono wystêpowania przes³anek
+trwa³ej ich utraty wartoœci.
+Nota 12. Kapita³ zak³adowy
+Struktura kapita³u zak³adowego
+ Kapita³ akcyjny (w iloœciach sztuk)              2020            2019
+           Akcje na okaziciela serii A             1 000 000        1 000 000
+           Akcje na okaziciela serii B            32 000 000       32 000 000
+           Akcje na okaziciela serii C             8 000 000        8 000 000
+       Akcje zwyk³e na okaziciela serii D         60 000 000       60 000 000
+       Akcje zwyk³e na okaziciela serii E         48 255 000       39 655 000
+       Akcje zwyk³e na okaziciela serii F         98 775 624       96 534 360
+       Akcje zwyk³e na okaziciela serii G          2 001 580
+                                                 250 032 204     237 189 360
+.
+Na dzieñ 31.12.2019 r. podwy¿szenie kapita³u zak³adowego o 15 155 000 000 szt. akcji serii E oraz 83 534 360 szt. akcji serii F
+nie zosta³o zarejestrowane w KRS.
+Na dzieñ 31.12.2020 r. podwy¿szenie kapita³u zak³adowego o 2 871 264 szt. akcji (2 000 000 szt. akcji seria E i 871 264 szt.
+akcji serii F) nie zosta³o zarejestrowane w KRS.
+Wartoœæ nominalna akcji
+Wszystkie wyemitowane akcje posiadaj¹ wartoœæ nominaln¹ wynosz¹c¹ 0,10 PLN
+Akcje serii B zosta³y pokryte wk³adem niepieniê¿nym o wartoœci 3 200 000,00 PLN, pozosta³e akcje wk³adem pieniê¿nym.
+Na dzieñ 31.12.2019 roku akcje serii E w iloœci 5 155 000 nie zosta³y op³acone.
+Zobowi¹zania z tytu³u objêtych akcji wynosi 515 500,00 PLN i jest prezentowane w pozycji Aktywów "Nale¿ne wp³aty na
+kapita³ zak³adowy". Powy¿sze zobowi¹zanie zosta³o op³acone w styczniu 2020 roku
+ Kapita³ akcyjny (w wartoœci                       2020               2019
+ nominalnej)
+         Akcje na okaziciela serii A                100 000,00       100 000,00
+         Akcje na okaziciela serii B              3 200 000,00 3 200 000,00
+         Akcje na okaziciela serii C                800 000,00       800 000,00
+    Akcje zwyk³e na okaziciela serii D            6 000 000,00 6 000 000,00
+     Akcje zwyk³e na okaziciela serii E           4 825 500,00 3 965 500,00
+     Akcje zwyk³e na okaziciela serii F           9 877 562,40 9 653 436,00
+    Akcje zwyk³e na okaziciela serii G              200 158,00
+                                                 25 003 220,40 23 718 936,00
+Prawa akcjonariuszy
+Akcje nie s¹ uprzywilejowane. Nie wystêpuj¹ ograniczenia praw do akcji.
+                                                                                                                            11
+
+Nota 12.1. Struktura w³asnoœci kapita³u podstawowego na dzieñ 31.12.2020
+Kapita³ zak³adowy zarejestrowany w KRS na dzieñ 31.12.2020 r. wynosi 24 716 094,00 PLN.
+Na dzieñ 31.12.2020 r. podwy¿szenie kapita³u zak³adowego o 287 126,40 PLN nie zosta³o zarejestrowane w KRS.
+                                                                                                           Procentowy
+                                   Liczba posiadanych                                                        udzia³ w
+          Akcjonariusz                                          Udzia³ w
+                                           akcji                                     Liczba g³osów        ogólnej liczbie
+                                                              akcjonariacie
+                                                                                                             g³osów
+      Amida Capital Sp. z o.o.
+                                            96 279 980               38,51%                 96 279 980            38,51%
+      SKA
+      Omegia S.A.                           22 183 204                8,87%                 22 183 204              8,87%
+      Blue Ring Sp. z o.o.                  18 500 000                7,40%                 18 500 000              7,40%
+      Pozostali akcjonariusze              113 069 020               45,22%                113 069 020            45,22%
+                                           250 032 204              100,00%                250 032 204          100,00%
+Kapita³ zak³adowy zarejestrowany w KRS na dzieñ 31.12.2019 r. wynosi 13 850 000,00 PLN
+Na dzieñ 31.12.2019 r. podwy¿szenie kapita³u zak³adowego o 9 868 936,00 PLN nie zosta³o zarejestrowane w KRS.
+                                                                           Wartoœæ
+    Struktura w³asnoœci kapita³u                                                            Udzia³ w
+                                                                          nominalna                      Udzia³ w
+     zak³adowego (akcjonariusze         Liczba akcji   Iloœæ g³osów                         kapitale
+                                                                             akcji                     zarz¹dzaniu
+  posiadaj¹cy co najmniej 5% akcji)                                                      zak³adowym*
+                                                                            (w PLN)
+ 1. Amida Capital Spó³ka z
+ ograniczon¹
+ odpowiedzialnoœci¹ S.K.A.
+                                          96 456 352      96 456 352      9 645 635,20          40,67%
+ 2. Blue Ring Sp. z o.o.                  18 500 000      18 500 000      1 850 000,00           7,80%
+ 3. Omegia Spó³ka Akcyjna                 22 183 204      22 183 204      2 218 320,40           9,35%
+ 4. Pozostali akcjonariusze             100 049 804      100 049 804    10 004 980,40           42,18%
+                               Razem    237 189 360      237 189 360    23 718 936,00            100%
+Nota 13. Kapita³ z aktualizacji wyceny
+W latach 2019-2020 Spó³ka nie utworzy³a kapita³u z aktualizacji wyceny.
+Nota 14. Pozosta³e kapita³y rezerwowe
+                                                     31-12-2020        31-12-2019
+ Pozosta³e kapita³y rezerwowe (wed³ug
+ celu przeznaczenia)                                  287 126,40       9 868 936,00
+ a) podwy¿szenie kapita³u zak³adowego
+ przed rejestracj¹
+                                                      287 126,40       9 868 936,00
+ Pozosta³e kapita³y rezerwowe razem                   287 126,40       9 868 936,00
+Pozosta³e kapita³y rezerwowe na dzieñ 31.12.2020 roku stanowi¹ objête akcje serii E w liczbie 2 000 000 i akcje serii F w
+liczbie 871 264.
+Na dzieñ 31.12.2020 roku objête akcje pokryto wk³adem pieniê¿nym.
+                                                                                                                          12
+
+Nota 15. Odpisy z zysku netto w ci¹gu roku obrotowego
+W latach 2019-2020 nie wyst¹pi³y odpisy z zysku netto w ci¹gu lat obrotowych.
+Nota 16. Rezerwy na zobowi¹zania
+Zmiana stanu rezerwy z tytu³u odroczonego podatku dochodowego
+                                                                    31.12.2020   31.12.2019
+1. Stan rezerwy z tytu³u odroczonego podatku dochodowego na                 0,00         0,00
+a) odniesionej na wynik finansowy                                           0,00         0,00
+b) odniesionej na kapita³ w³asny                                            0,00         0,00
+2. Zwiêkszenia                                                              0,00        20,73
+a) odniesione na wynik finansowy okresu z tytu³u dodatnich                  0,00        20,73
+– wycena walutowa                                                           0,00         0,00
+– aktualizacja wartoœci aktywów finansowych                                 0,00         0,00
+– inne                                                                      0,00        20,73
+b) odniesione na kapita³ w³asny w zwi¹zku z dodatnimi                       0,00         0,00
+3. Zmniejszenia                                                             0,00        20,73
+a) odniesione na wynik finansowy okresu w zwi¹zku z dodatnimi               0,00        20,73
+– wycena walutowa                                                           0,00         0,00
+– aktualizacja wartoœci aktywów finansowych                                 0,00         0,00
+– inne                                                                      0,00        20,73
+b) odniesione na kapita³ w³asny w zwi¹zku z dodatnimi                       0,00         0,00
+4. Stan rezerwy z tytu³u odroczonego podatku dochodowego na                 0,00         0,00
+a) odniesionej na wynik finansowy                                           0,00         0,00
+b) odniesionej na kapita³ w³asny                                            0,00         0,00
+Nota 17. Zmiana stanu rezerw na œwiadczenia pracownicze i podobne oraz pozosta³ych rezerw
+Za okres 01.01.do 31.12.2020 roku
+                                  Stan na       Zwiêkszenia    Wykorzystani Rozwi¹zanie Stan na koniec
+                                 pocz¹tek                            e                        okresu
+1. Na œwiadczenia emerytalne             0,00     145 445,38            0,00         0,00     145 445,38
+a) d³ugoterminowe                        0,00            0,00           0,00         0,00           0,00
+b) krótkoterminowe                       0,00     145 445,38            0,00         0,00     145 445,38
+–rezerwy na niewykorzystane
+urlopy                                   0,00     145 445,38            0,00         0,00     145 445,38
+2. Pozosta³e rezerwy, w tym:       13 300,00       90 000,00       13 300,00         0,00      90 000,00
+b) krótkoterminowe                 13 300,00       90 000,00       13 300,00         0,00      90 000,00
+– badanie sprawozdanie             13 300,00             0,00      13 300,00         0,00           0,00
+– niewyp³acone premie                    0,00      90 000,00            0,00         0,00      90 000,00
+Razem                              13 300,00      235 445,38       13 300,00         0,00     235 445,38
+Nota 18. Zobowi¹zania d³ugoterminowe
+W latach 2019-2020 Spó³ka nie zaci¹gnê³a d³ugoterminowych zobowi¹zañ.
+                                                                                                         13
+
+Nota 19. Zobowi¹zania krótkoterminowe
+Nota 19.1. Zobowi¹zania krótkoterminowe wobec jednostek powi¹zanych oraz pozosta³ych
+                     Wyszczególnienie                          31-12-2020            31-12-2019
+1. Zobowi¹zania wobec jednostek powi¹zanych:                               0,00                  0,00
+a) wobec jednostek zale¿nych                                               0,00                  0,00
+b) wobec jednostki dominuj¹cej                                             0,00                  0,00
+2. Zobowi¹zania od pozosta³ych jednostek, w których
+jednostka posiada zaanga¿owanie w kapitale
+                                                                           0,00              4 422,24
+a) wobec jednostek wspó³zale¿nych                                          0,00                  0,00
+b) wobec jednostek stowarzyszonych                                         0,00              4 422,24
+– inne                                                                     0,00              4 422,24
+c) wobec innych jednostek                                                  0,00                  0,00
+3. Zobowi¹zania od pozosta³ych jednostek                           2 232 796,27          2 410 407,69
+a) wobec wspólnika jednostki wspó³zale¿nej                                 0,00                  0,00
+b) wobec znacz¹cego inwestora                                              0,00                  0,00
+– inne                                                                     0,00                  0,00
+c) wobec innych jednostek                                          2 232 796,27          2 410 407,69
+– z tytu³u po¿yczek i kredytów, w tym:                                   405,48                405,48
+ --d³ugoterminowe w okresie sp³aty                                         0,00                  0,00
+– z tytu³u dostaw i us³ug o okresie wymagalnoœci:                    507 936,57            471 337,12
+ --do 12 miesiêcy                                                    507 936,57            471 337,12
+ --powy¿ej 12 miesiêcy                                                     0,00                  0,00
+– zaliczki otrzymane na dostawy i us³ugi                                   0,00              2 439,02
+– z tytu³u podatków, ce³, ubezpieczeñ spo³ecznych i
+zdrowotnych oraz innych tytu³ów publicznoprawnych
+                                                                   1 375 508,73          1 503 445,45
+– z tytu³u wynagrodzeñ                                               160 633,07            134 353,55
+– inne                                                               188 312,42            298 427,07
+4. Fundusze specjalne (wg tytu³ów)                                         0,00                  0,00
+Zobowi¹zania krótkoterminowe razem:                                2 232 796,27          2 414 829,93
+*Spó³ka zgodnie z umow¹ nr 180000/292326/20 z dnia 2.01.2020 posiada roz³o¿one na raty zobowi¹zania wobec Zak³adu
+Ubezpieczeñ Spo³ecznych.
+Nota 19.2.Zobowi¹zania krótkoterminowe z tytu³u kredytów i po¿yczek
+Na dzieñ 31.12.2019 i 31-12-2020 roku zobowi¹zania krótkoterminowe z tytu³u po¿yczek wynosi³y 405,48 PLN i stanowi³y
+naliczone odsetki.
+Nota 19.3. Zobowi¹zania zabezpieczone na maj¹tku jednostki
+W latach 2019-2020 w Spó³ce nie wystêpowa³y zobowi¹zania zabezpieczone na maj¹tku spó³ki.
+Nota 19.4. Zobowi¹zania krótkoterminowe z tytu³u wyemitowanych d³u¿nych instrumentów finansowych
+W latach 2019-2020 w Spó³ce nie wystêpowa³y zobowi¹zania z tytu³u wyemitowanych d³u¿nych instrumentów finansowych
+                                                                                                                  14
+
+Nota 20. Rozliczenia miêdzyokresowe
+ Rozliczenia miêdzyokresowe                          31.12.2020      31.12.2019
+ 1. Zmiana stanu ujemnej wartoœæ firmy                       0,00            0,00
+ 2. Inne rozliczenia miêdzyokresowe, w tym:            192 000,04       96 000,04
+ a) bierne rozliczenia miêdzyokresowe kosztów
+                                                             0,00            0,00
+ – d³ugoterminowe (wg tytu³ów)                               0,00            0,00
+ – krótkoterminowe (wg tytu³ów)                              0,00            0,00
+ b) rozliczenia miêdzyokresowe przychodów              192 000,04       96 000,04
+ – d³ugoterminowe (wg tytu³ów)                               0,00            0,00
+ – krótkoterminowe (wg tytu³ów)                        192 000,04       96 000,04
+     * sprzeda¿ us³ug                                        0,04            0,04
+     * granty                                          192 000,00       96 000,00
+  Inne rozliczenia miêdzyokresowe razem                192 000,04       96 000,04
+Na podstawie podpisanej umowy o powierzenie grantu w ramach programu operacyjnego inteligentny rozwój zawartej z
+Polsk¹ Agencj¹ Inwestycji i Handlu otrzymano w 2019 roku grant w wysokoœci 96 000,00 PLN.
+W roku 2020 otrzymano kolejny grant w wysokoœci 96 000 PLN
+Nota 21. Nale¿noœci i zobowi¹zania warunkowe
+ Zobowi¹zania warunkowe na rzecz
+                                            2020             2019
+ jednostek powi¹zanych i pozosta³ych
+    1. Zobowi¹zania warunkowe z tytu³u
+                                                     0                0
+ udzielonych gwarancji i porêczeñ
+    2. Zobowi¹zania warunkowe z tytu³u
+                                            320 000,00       320 000,00
+ weksli in blanco na rzecz:
+       – jednostek zale¿nych                         0             0,00
+       – jednostek wspó³zale¿nych                    0             0,00
+       – jednostek stowarzyszonych                   0             0,00
+       – znacz¹cego inwestora                        0             0,00
+       – wspólnika jednostki
+                                                     0             0,00
+ wspó³zale¿nej
+       – jednostki dominuj¹cej                       0             0,00
+       - innych jednostek                   320 000,00       320 000,00
+ Zobowi¹zania warunkowe razem               320 000,00       320 000,00
+Spó³ka w 2019 roku jako zabezpieczenie prawid³owego wykonania umów zawartych z Polsk¹ Agencj¹ Inwestycji i Handlu
+wnios³a weksle in blanco. Zabezpieczenie zosta³o ustanowione do wysokoœci 320 000,00 PLN
+                                                                                                                  15
+
+Nota 22. Przychody netto ze sprzeda¿y produktów
+Nota 22.1. Przychody netto ze sprzeda¿y produktów (struktura rzeczowa - rodzaje dzia³alnoœci)
+                                                           2020                 2019
+a) Sprzeda¿ us³ug                                         6 024 961,96         3 226 098,36
+od jednostek powi¹zanych, w tym:                                   0,00                  0,00
+od jednostek zale¿nych                                             0,00                  0,00
+od pozosta³ych jednostek, w których Spó³ka posiada
+zaanga¿owanie w kapitale, w tym:                                   0,00                  0,00
+od jednostek wspó³zale¿nych                                        0,00                  0,00
+od jednostek stowarzyszonych                                       0,00                  0,00
+od innych jednostek                                                0,00                  0,00
+od pozosta³ych jednostek                                  6 024 961,96         3 226 098,36
+b) Sprzeda¿ produktów                                              0,00                  0,00
+od jednostek powi¹zanych, w tym:                                   0,00                  0,00
+od jednostek zale¿nych                                             0,00                  0,00
+od pozosta³ych jednostek, w których Spó³ka posiada
+zaanga¿owanie w kapitale, w tym:                                   0,00                  0,00
+od jednostek wspó³zale¿nych                                        0,00                  0,00
+od jednostek stowarzyszonych                                       0,00                  0,00
+od innych jednostek                                                0,00                  0,00
+od pozosta³ych jednostek                                           0,00
+Przychody netto ze sprzeda¿y produktów, razem             6 024 961,96         3 226 098,36
+Nota 22.2. Przychody netto ze sprzeda¿y produktów (struktura terytorialna)
+                                                            2020                 2019
+a) kraj                                                    6 024 961,96           158 935,57
+od jednostek powi¹zanych, w tym:                                    0,00                  0,00
+od jednostek zale¿nych                                              0,00                  0,00
+od pozosta³ych jednostek, w których Spó³ka
+posiada zaanga¿owanie w kapitale, w tym:                            0,00                  0,00
+od jednostek wspó³zale¿nych                                         0,00                  0,00
+od jednostek stowarzyszonych                                        0,00                  0,00
+od innych jednostek                                                 0,00                  0,00
+od pozosta³ych jednostek                                   6 024 961,96             158 935,57
+b) eksport                                                          0,00          3 067 162,79
+od jednostek powi¹zanych, w tym:                                    0,00                  0,00
+od jednostek zale¿nych                                              0,00                  0,00
+od pozosta³ych jednostek, w których Spó³ka posiada
+zaanga¿owanie w kapitale, w tym:                                    0,00                  0,00
+od jednostek wspó³zale¿nych                                         0,00                  0,00
+od jednostek stowarzyszonych                                        0,00                  0,00
+od innych jednostek                                                 0,00                  0,00
+od pozosta³ych jednostek                                                                  0,00
+Przychody netto ze sprzeda¿y produktów, razem              6 024 961,96         3 226 098,36
+                                                                                               16
+
+Nota 23. Przychody netto ze sprzeda¿y towarów i materia³ów
+Przychody netto ze sprzeda¿y towarów i materia³ów (struktura rzeczowa - rodzaje dzia³alnoœci)
+W latach 2019-2020 nie wyst¹pi³a w Spó³ce sprzeda¿ towarów i materia³ów
+Nota 24. Dane o kosztach rodzajowych oraz o kosztach wytworzenia produktów na w³asne potrzeby
+                                                 2020             2019
+A. Koszt wytworzenia produktów na
+w³asne potrzeby
+                                                      0,00               0,00
+B. Koszty wg rodzajów
+                                              3 558 609,97      1 718 770,40
+1. Amortyzacja                                  508 573,49        409 627,00
+2. Zu¿ycie materia³ów i energii                 184 859,97          35 977,76
+3. Us³ugi obce                                  737 332,09        343 463,33
+4. Podatki i op³aty, w tym:                      45 184,90           3 539,72
+5. Wynagrodzenia                              1 359 022,47        546 661,70
+6. Ubezpieczenia spo³eczne i inne               139 619,55          47 638,55
+7. Pozosta³e koszty rodzajowe (z tytu³u)        584 017,50        331 862,34
+– podró¿e s³u¿bowe                               66 581,36        102 727,21
+– koszty reprezentacji i reklamy                365 030,36        223 571,51
+– inne                                          152 405,78           5 563,62
+C. Zmiany w zakresie kosztów                          0,00               0,00
+rozliczonych
+1.             +/- inwentaryzacyjnych
+    Z tytu³u ró¿nic                                   0,00               0,00
+2. Odpisanie zaniechanej produkcji                    0,00               0,00
+3. Odpisanie kosztów bez efektu                       0,00               0,00
+4. Inne                                               0,00               0,00
+D. Zmiana stanu zapasów, produktów i
+rozliczeñ miêdzyokresowych kosztów                    0,00        612 810,85
++/-
+1. Produkty gotowe                                    0,00               0,00
+2. Pó³produkty i produkty w toku                      0,00               0,00
+3. Rozliczenia miêdzyokresowe kosztów                 0,00        612 810,85
+E. Koszt w³asny produkcji sprzedanej          3 558 609,97      2 331 581,25
+– koszt wytworzenia sprzedanych                 558 431,31        612 810,85
+– koszt wytworzenia œwiadczeñ na
+w³asne potrzeby                                       0,00               0,00
+– koszty sprzeda¿y                              288 014,61        331 862,34
+– koszty ogólnego zarz¹du                     2 712 164,05      1 386 908,06
+F. Wartoœæ sprzedanych towarów i
+materia³ów                                            0,00               0,00
+Nota 25. Inne przychody operacyjne
+                                                        2020                2019
+I. Rozwi¹zane rezerwy (z tytu³u)                                0,00                  0,00
+– na zobowi¹znia                                                0,00                  0,00
+II. Pozosta³e, w tym:                                           0,06            18 394,76
+- inne                                                          0,06            18 394,76
+Inne przychody operacyjne RAZEM                                 0,06            18 394,76
+                                                                                              17
+
+Nota 26. Inne koszty operacyjne
+                                                     2020            2019
+I. Utworzone rezerwy (z tytu³u)                             0,00           0,00
+II. Pozosta³e, w tym:                                350 670,46      364 423,47
+1) odpis aktualizuj¹cy wartoœæ nale¿noœci                   0,00           0,00
+Przyczyna utworzenia:
+2) odpis aktualizuj¹cy wartoœæ niematerialn¹ i              0,00           0,00
+Przyczyna utworzenia:
+3) odpis aktualizuj¹cy wartoœæ nieruchomoœci                0,00           0,00
+Przyczyna utworzenia:
+4) amortyzacja wartoœci firmy                        309 756,24      309 756,24
+5) koszty postêpowania s¹dowego                         5 610,13           0,00
+6) darowizny                                            1 000,00           0,00
+7) inne                                                34 304,09      54 667,23
+Inne koszty operacyjne RAZEM                         350 670,46      364 423,47
+Nota 27. Przychody finansowe
+W latach 2019 i 2020 nie wyst¹pi³y w Spó³ce przychody finansowe
+Nota 28. Koszty finansowe
+I. Koszty finansowe z tytu³u odsetek razem                162 734,05        67 450,84
+1) od kredytów i po¿yczek                                       0,00         2 586,00
+a) dla jednostek powi¹zanych, w tym:                            0,00             0,00
+b) dla innych jednostek                                         0,00         2 586,00
+2) pozosta³e odsetki                                      162 734,05        64 864,84
+a) dla jednostek powi¹zanych, w tym:                            0,00             0,00
+b) dla innych jednostek                                   162 734,05        64 864,84
+II. Strata z tytu³u rozchodu aktywów finansowych              135,70             0,00
+III. Inne koszty finansowe razem                           79 228,49        11 250,22
+1) ujemne ró¿nice kursowe                                  87 729,95        13 729,64
+2) dodatnie ró¿nice kursowe                                -8 501,46        -2 479,42
+                                                                                      18
+
+Nota 29.1. Podatek dochodowy odroczony
+Podatek dochodowy odroczony, wykazany w rachunku zysków i
+strat:                                                                    2020       2019
+- zmniejszenie (zwiêkszenie) z tytu³u powstania i odwrócenia siê
+ró¿nic przejœciowych                                                -41 579,44 -203 354,20
+- zmniejszenie (zwiêkszenie) z tytu³u zmiany stawek podatkowych            0,00       0,00
+- zmniejszenie (zwiêkszenie) z tytu³u z poprzednio nieujêtej straty
+podatkowej, ulgi podatkowej lub ró¿nicy przejœciowej
+poprzedniego okresu
+                                                                           0,00       0,00
+- zmniejszenie (zwiêkszenie) z tytu³u odpisania aktywów z tytu³u
+odroczonego podatku dochodowego lub braku mo¿liwoœci
+wykorzystania rezerwy na odroczony podatek dochodowy
+                                                                           0,00       0,00
+- inne sk³adniki podatku odroczonego (wg tytu³ów)                          0,00       0,00
+Podatek dochodowy odroczony, razem                                  -41 579,44 -203 354,20
+- ujêtego w kapitale w³asnym                                               0,00       0,00
+- ujety w wyniku finansowym                                         -41 579,44 -203 354,20
+Nota 30. Pozosta³e obowi¹zkowe zmniejszenia zysku (zwiêkszenia straty)
+W latach 2019-2020 pozycja nie wyst¹pi³a.
+Nota 31. Sposób podzia³u zysku lub pokrycia straty za prezentowane lata obrotowe, a w przypadku
+niezakoñczonego roku obrotowego – propozycja podzia³u zysku lub pokrycia straty
+                                                                        2020               2019
+ ZYSK / STRATA NETTO                                                    1 915 162,79        673 141,54
+ Kapita³ (fundusz) zapasowy (+/-)                                        153 213 ,02         53 851,33
+ Kapita³ (fundusz) rezerwowy (+/-)                                                 0                 0
+ Dywidendy dla wspólników (oprocentowanie kapita³u)                                0                 0
+ Obni¿enie kapita³u podstawowego                                                   0                 0
+ Pokrycie straty z lat ubieg³ych                                        1 761 949,76        619 290,21
+ Pokrycie straty z zysków lat przysz³ych                                           0              0,00
+                                                                                                       19
+
+Nota 32. Struktura œrodków pieniê¿nych do rachunku przep³ywów pieniê¿nych
+Pozycja A.II.3. Odsetki i udzia³y w           2020                  2019
+zyskach (dywidendy)
+Odsetki od udzielony po¿yczek                           0,00                  0,00
+Odsetki od kredytów                                     0,00              2 583,05
+Otrzymane i zarachowane dywidendy                       0,00                  0,00
+Zap³acone i zarachowane dywidendy                       0,00                  0,00
+Pozosta³e odsetki                                       0,00                  0,00
+Razem odsetki                                           0,00              2 583,05
+Pozycja A.II.5. Zmiana stanu rezerw na        2020                  2019
+zobowi¹zania
+Rezerwa z tytu³u odroczonego podatku
+dochodowego                                             0,00                  0,00
+Pozosta³e rezerwy                                 235 445,38             13 300,00
+Razem                                             235 445,38             13 300,00
+Zmiana stanu                                      222 145,38              4 779,27
+Pozycja A.II.6. Zmiana stanu zapasów          2020                  2019
+Koszty zakupu                                           0,00                  0,00
+Zmiana stanu, w tym:                              -92 777,00            -77 149,17
+Pozycja A.II.7. Zmiana stanu nale¿noœci       2020                  2019
+Nale¿noœci d³ugoterminowe                               0,00                  0,00
+Nale¿noœci krótkoterminowe od
+jednostek powi¹zanych                                   0,00             22 199,92
+Nale¿noœci krótkoterminowe od
+pozosta³ych jednostek, w których
+jednostka posiada zaanga¿owanie w
+kapitale                                                0,00              3 439,26
+Nale¿noœci krótkoterminowe od
+pozosta³ych jednostek                           5 301 965,89          3 162 420,33
+Razem nale¿noœci                                5 301 965,89          3 188 059,51
+Zmiana stanu nale¿noœci                         2 113 906,38          3 076 950,71
+Pozycja A.II.8. Zmiana stanu zobowi¹zañ       2020                  2019
+krótkoterminowych, bez kredytów i
+po¿yczek
+Zobowi¹zania krótkoterminowe wobec
+pozosta³ych jednostek, w których
+jednostka posiada zaanga¿owanie w
+kapitale                                                0,00              4 422,24
+Zobowi¹zania krótkoterminowe wobec
+pozosta³ych jednostek                           2 232 796,27          2 410 407,69
+Razem zobowi¹zania, w tym:                      2 232 796,27          2 414 829,93
+Zobowi¹zania z tytu³u zakupu wartoœci
+niematerialnych i prawnych i œrodków
+trwa³ych                                                0,00                  0,00
+Razem zobowi¹zania z dzia³alnoœci
+inwestycyjnej                                           0,00                  0,00
+Zobowi¹zania z tytu³u objêcia akcji                     0,00                  0,00
+Inne zobowi¹zania finansowe                             0,00                  0,00
+                                                                                   20
+
+Zobowi¹zania z tytu³u kredytów i
+po¿yczek                                        405,48         405,48
+Razem zobowi¹zania z dzia³alnoœci
+finansowej                                      405,48         405,48
+Zobowi¹zania z dzia³alnoœci operacyjnej   2 232 390,79   2 414 424,45
+Zmiana stanu zobowi¹zañ
+krótkoterminowych bez kredytów i
+po¿yczek (wynikaj¹ca z bilansu)
+                                           -182 033,66    592 933,71
+Kompensata zobowi¹zañ z tyt. po¿yczek             0,00     -43 489,46
+kompensata zobowi¹zañ nale¿noœciami
+za objête akcje                              25 000,00
+kompensata zobowi¹zañ nale¿noœciami
+za sprzedane udzia³y                        145 000,00
+Zmiana stanu zobowi¹zañ                     -12 033,66     549 444,25
+Pozycja A.II.9. Zmiana stanu rozliczeñ  2020           2019
+miêdzyokresowych
+D³ugoterminowe rozliczenia
+miêdzyokresowe                              840 967,70     799 388,26
+Krótkoterminowe rozliczenia
+miêdzyokresowe                            4 646 720,51   7 061 212,82
+Razem                                     5 487 688,21   7 860 601,08
+Krótkoterminowe rozliczenia
+miêdzyokresowe (pasywa)                     192 000,04      96 000,04
+Razem                                       192 000,04      96 000,04
+Zmiana stanu rozliczeñ
+miêdzyokresowych ( wynikaj¹ca z
+bilansu)                                 -2 468 912,87   2 860 358,10
+Korekta o przyjête zakoñczone prace
+rozwojowe                                 5 281 121,07           0,00
+Zmiana stanu rozliczeñ
+miêdzyokresowych                          2 812 208,20   2 860 358,10
+Pozycja A.II.10. Inne korekty           2020           2019
+Umorzenie po¿yczek d³ugoterminowych
+(plus)                                            0,00           0,00
+B³¹d lat ubieg³ych                                0,00           0,00
+Pozosta³e                                         0,00      18 261,81
+Razem                                             0,00           0,00
+Zmiana stanu                                      0,00           0,00
+Pozycja E. Bilansowa zmiana œrodków     2020           2019
+pieniê¿nych
+Œrodki pieniê¿ne w kasie                          0,00           8,08
+Œrodki pieniê¿ne na rachunkach
+bankowych                                   779 395,30      69 018,65
+Razem œrodki pieniê¿ne oraz
+ekwiwalenty œrodków pieniê¿nych             779 395,30      69 026,73
+Zmiana œrodków pieniê¿nych oraz
+ekwiwalentów œrodków pieniê¿nych            710 376,65      69 018,65
+Wycena bilansowa œrodków pieniê¿nych              0,00           0,00
+Zmiana stanu œrodków pieniê¿nych z
+tytu³u ró¿nic kursowych                           0,00           0,00
+Œrodki pieniê¿ne o ograniczonej
+mo¿liwoœci dysponowania                           0,00           0,00
+                                                                      21
+
+Nota 33. Dane dotycz¹ce zobowi¹zañ wobec bud¿etu pañstwa lub jednostek samorz¹du terytorialnego z tytu³u
+uzyskania prawa w³asnoœci budynków i budowli
+Spó³ka nie posiada zobowi¹zañ wobec bud¿etu pañstwa lub jednostek samorz¹du terytorialnego z tytu³u uzyskania praw
+w³asnoœci budynków i budowli.
+Nota 34. Informacje o przychodach, kosztach i wynikach dzia³alnoœci zaniechanej w danym okresie lub
+przewidzianej do zaniechania w nastêpnym okresie
+W latach 2019-2020 roku nie wyst¹pi³a dzia³alnoœæ zaniechana. Spó³ka nie przewiduje dzia³alnoœci do zaniechania w 2021
+roku
+Nota 35. Koszt wytworzenia œrodków trwa³ych w budowie, w tym odsetki oraz ró¿nice kursowe, które
+powiêkszy³y koszt wytworzenia œrodków trwa³ych w roku obrotowym oraz koszt wytworzenia œrodków
+trwa³ych na w³asne potrzeby
+W latach 2019-2020 Spó³ka nie wytworzy³a w³asnymi si³ami œrodków trwa³ych na w³asne potrzeby.
+Nota 36. Odsetki oraz ró¿nice kursowe, które powiêkszy³y cenê nabycia towarów lub koszt wytworzenia
+produktów w roku obrotowym
+W latach 2019-2020 cena nabycia towarów ani koszt wytworzenia produktów nie zosta³y powiêkszone o odsetki i ró¿nice
+kursowe.
+Nota 37. Poniesione oraz planowane nak³ady inwestycyjne
+Poniesione nak³ady inwestycyjne oraz planowane w okresie najbli¿szych 12 miesiêcy od dnia bilansowego nak³ady
+inwestycyjne, w tym na niefinansowe aktywa trwa³e; odrêbnie nale¿y wykazaæ poniesione i planowane nak³ady na ochronê
+œrodowiska naturalnego
+ W roku 2019 Spó³ka nie ponios³a ¿adnych nak³adów inwestycyjnych . W roku 2020 Spó³ka wydatkowa³a na nak³ady
+inwestycyjne kwotê 114 822,67 PLN i dotyczy³y sprzêtu komputerowego i elektronicznego .
+W latach 2019-2020 Spó³ka nie ponios³a nak³adów na ochronê œrodowiska naturalnego . Spó³ka nie planuje w roku 2021
+ponieœæ takowych nak³adów
+Nota 38. Informacje o przychodach i kosztach o nadzwyczajnej wartoœci lub które wyst¹pi³y incydentalnie, w
+tym ich kwotê i charakter
+W 2019- 2020 nie wyst¹pi³y w MedApp S.A. ¿adne incydentalne przychody i koszty o nadzwyczajnej wartoœci. Wszelkie
+istotne dla Spó³ki zdarzenia i zwi¹zane z tym rezerwy zosta³y opisane w niniejszym sprawozdaniu finansowym.
+Nota 39. Informacje o kosztach zwi¹zanych z pracami badawczymi i pracami rozwojowymi, które nie zosta³y
+zakwalifikowane zgodnie z art. 33 ust. 2 ustawy o rachunkowoœci do wartoœci niematerialnych i prawnych
+                                                                   2020                       2019
+ Koszty prac rozwojowych zakoñczonych
+ niepowodzeniem, które nie da³y                                     0,00                         0
+ zamierzonych efektów
+ Koszty prac rozwojowych zakoñczonych
+ efektem pozytywnym, których z ró¿nych                              0,00                         0
+ przyczyn nie wdro¿ono
+ Koszty ponoszone na etapie prac
+                                                                       0                         0
+ badawczych
+ Koszty niezakoñczonych prac rozwojowych                   4 042 529,00               6 959 396,00
+                                                                                                                    22
+
+Nota 40. Transakcje zawarte z podmiotami powi¹zanymi, zawarte na innych warunkach ni¿ rynkowe
+Wszystkie transakcje zawarte z podmiotami powi¹zanymi odby³y siê na warunkach rynkowych.
+Nota 41. Informacje o charakterze i celu gospodarczym zawartych przez Spó³kê umów nieuwzglêdnionych w
+bilansie w zakresie niezbêdnym do oceny ich wp³ywu na sytuacjê maj¹tkow¹, finansow¹ i wynik finansowy
+Spó³ka w 2019 i 2020 roku nie zawiera³a umów, których nie uwzglêdni³a w sprawozdaniu finansowym, a które mog³yby
+mieæ wp³yw na sytuacjê maj¹tkow¹, finansow¹ i wynik finansowy.
+Nota 42. Informacje o wspólnych przedsiêwziêciach
+W okresie sprawozdawczym oraz w okresach porównawczych (2019 i 2020) nie wyst¹pi³y wspólne przedsiêwziêcia.
+Nota 43. Informacje o przeciêtnym zatrudnieniu, z podzia³em na grupy zawodowe
+                          Przeciêtna liczba  Przeciêtna liczba
+                          zatrudnionych w    zatrudnionych w
+                             2020 roku          2019 roku
+ Ogó³em, z tego:                       17,25             18,76
+ – pracownicy umys³owi                 17,25             18,76
+Nota 44. Informacje o wartoœci wynagrodzenia, nagród lub korzyœci wyp³aconych, nale¿nych lub potencjalnie
+nale¿nych osobom wchodz¹cym w sk³ad organów zarz¹dzaj¹cych, nadzoruj¹cych i administruj¹cych
+                            Wynagrodzenia                              2020              2019
+    I. Wyp³acone lub nale¿ne wynagrodzenia osobom wchodz¹cym
+                                                                       258 018,64         258 018,64
+ w sk³ad organów zarz¹dzaj¹cych, w tym:
+        1. Wynagrodzenie                                               609 677,41         202 828,94
+           MATEUSZ KIEREPKA                                                     0         182 755,71
+           TOMASZ KUCIEL                                                     0,00           7 170,00
+           MÊDRALA KRZYSZTOF                                           480 000,00          12 903,23
+           LIGÊZIÑSKI RAFA£                                             67 462,36               0,00
+           SOSIN MICHA£                                                 62 215,05               0,00
+        2. Nagrody i wynagrodzenie z zysku                                      0          55 189,70
+           MATEUSZ KIEREPKA                                                     0          55 189,70
+           TOMASZ KUCIEL                                                        0               0,00
+    II. Wyp³acone lub nale¿ne wynagrodzenia osobom wchodz¹cym
+                                                                        28 366,00           3 306,00
+ w sk³ad organów nadzoruj¹cych, w tym:
+        1. Wynagrodzenie                                                28 366,00           3 306,00
+           GUZIK WIKTORIA                                                3 306,00             551,00
+           MÊDRALA KRZYSZTOF                                                 0,00           1 102,00
+           WASILEWSKI B£A¯EJ                                             7 418,00           1 102,00
+           RYTTER EWELINA                                                5 612,00             551,00
+           KUBIAK W£ODZIMIERZ                                            6 316,00               0,00
+           WRONA GRZEGORZ                                                5 714,00               0,00
+        2. Nagrody i wynagrodzenie z zysku                                   0,00               0,00
+ RAZEM                                                                 638 043,41         261 324,64
+                                                                                                              23
+
+Nota 45. Informacje o wszelkich zobowi¹zaniach wynikaj¹cych z emerytur i œwiadczeñ o podobnym charakterze
+Informacje o wszelkich zobowi¹zaniach wynikaj¹cych z emerytur i œwiadczeñ o podobnym charakterze dla by³ych osób
+zarz¹dzaj¹cych, nadzoruj¹cych albo by³ych cz³onków organów administruj¹cych oraz o zobowi¹zaniach zaci¹gniêtych w
+zwi¹zku z tymi emeryturami, ze wskazaniem kwoty ogó³em dla ka¿dej kategorii organu
+Spó³ka na dzieñ 31 grudnia 2020 roku nie posiada ¿adnych zobowi¹zañ wynikaj¹cych z emerytur i œwiadczeñ o podobnym
+charakterze na rzecz by³ych osób zarz¹dzaj¹cych i nadzoruj¹cych.
+Nota 46. Zaliczki, kredyty, po¿yczki i œwiadczenia o podobnym charakterze udzielone osobom wchodz¹cym w
+sk³ad organów zarz¹dzaj¹cych, nadzoruj¹cych i administruj¹cych
+Osoby zarz¹dzaj¹ce i cz³onkowie rady nadzorczej MedApp S.A. nie posiadaj¹ niesp³aconych zaliczek, kredytów, po¿yczek,
+gwarancji i porêczeñ oraz innych umów zobowi¹zuj¹cych do œwiadczeñ na rzecz Spó³ki. MedApp S.A. nie udziela³a im oraz
+bliskim im osobom ¿adnych zaliczek, kredytów, po¿yczek, gwarancji i porêczeñ oraz nie zawiera³a innych umów
+zobowi¹zuj¹cych do œwiadczeñ na rzecz Spó³ki.
+Nota 47. Informacje o wynagrodzeniu firmy audytorskiej
+                 Wyszczególnienie                    2020            2019
+Badanie ustawowe w rozumieniu art. 2 pkt 1
+ustawy z dnia 11 maja 2 017 r . o bieg³ych
+rewidentach, firmach audytorskich oraz nadzorze
+publicznym                                             13 300,00      13 300,00
+Inne us³ugi atestacyjne                                58 000,00           0,00
+Us³ugi doradztwa podatkowego                                0,00           0,00
+Pozosta³e us³ugi                                        5 000,00           0,00
+Razem                                                  76 300,00      13 300,00
+Nota 48. Informacje o istotnych zdarzeniach, dotycz¹cych lat ubieg³ych, ujêtych w sprawozdaniu finansowym za
+bie¿¹cy okres
+W sprawozdaniu finansowym za rok 2020 nie ujêto znacz¹cych zdarzeñ za lata ubieg³e ze wzglêdu na fakt, ¿e zdarzenia takie
+nie wyst¹pi³y.
+Nota 49. Informacje o istotnych zdarzeniach, jakie nast¹pi³y po dniu bilansowym, a nieuwzglêdnionych
+w sprawozdaniu finansowym oraz o ich wp³ywie na sytuacjê maj¹tkow¹, finansow¹ oraz wynik finansowy
+jednostki
+W dniu 6 stycznia 2021 roku Spó³ka zosta³a przyjêta do programu partnerskiego Microsoft Mixed Reality (MRPP) jako Silver
+Partner i tym samym uzyska³ dostêp do us³ug, narzêdzi oraz wsparcia zespo³ów produktowych Microsoft. Pozwoli to Spó³ce
+jeszcze lepiej wykorzystaæ mieszan¹ rzeczywistoœæ i us³ugi chmurowe Azure dla swoich klientów.
+W dniu 17 stycznia 2021 roku Zarz¹d MedApp S.A. z siedzib¹ w Krakowie, uzyska³ informacjê o otrzymaniu od spó³ki
+Microsoft (ONE MICROSOFT WAY z siedzib¹ w REDMOND, Waszyngton, 98052-6399, Stany Zjednoczone Ameryki) statusu
+Mixed Reality Distributor - Managed Partner (DMP).
+W dniu 18 stycznia 2021 roku Spólka zawar³a umowê ubezpieczenia z Chubb European Group SE Spó³ka Europejska Oddzia³ w
+Polsce, z sum¹ gwarancyjn¹ 1.000.000 GBP i okresem ubezpieczenia od dnia 15 stycznia 2021 roku do dnia 14 stycznia 2022
+roku. Umowa ubezpieczenia dzia³alnoœci Spó³ki obejmuje technologie informatyczne w zakresie opieki zdrowotnej, w tym
+                                                                                                                      24
+
+przede wszystkim odpowiedzialnoœæ pracodawcy za skutki wypadków przy pracy, ogóln¹ odpowiedzialnoœæ cywiln¹,
+odpowiedzialnoœæ za produkty i us³ugi, odpowiedzialnoœæ za szkody inne ni¿ na osobie i w mieniu oraz wady produktów i
+us³ug oraz wady realizacyjne. Zakres terytorialny ubezpieczenia obejmuje œwiat z w³¹czeniem USA, Kanady, Iranu, Iraku, Kuby,
+Syrii, Koreañskiej Republiki Ludowo-Demokratycznej, Sudanu, Krymu Wenezueli.
+W dniu 25 stycznia 2021 roku Spó³ka zawar³a umowê partnersk¹ z Insight Direct Limited z siedzib¹ w Sheffield, Wielka
+Brytania. Umowa ma charakter ramowy. W ramach umowy Insight Direct Limited mo¿e nabywaæ od MedApp
+oprogramowanie CarnaLife Holo oraz SurgeonEye wraz z wymaganym do obs³ugi oprogramowania sprzêtem komputerowym,
+które nastêpnie bêdzie dostarczane klientom Insight Direct Limited. Strony bêd¹ wspó³dzia³aæ w celu sk³adania ofert w
+przetargach publicznych na terytorium Wielkiej Brytanii. Umowa zosta³a zawarta na czas nieokreœlony, a ka¿da ze Stron ma
+mo¿liwoœæ rozwi¹zania umowy z zachowaniem 6 miesiêcznego okresu wypowiedzenia. Umowa przewiduje mo¿liwoœæ
+rozwi¹zania umowy bez zachowania okresu wypowiedzenia w œciœle okreœlonych okolicznoœciach. Umowa podlega prawu
+angielskiemu, a Strony podda³y siê wy³¹cznej jurysdykcji s¹dów angielskich w odniesieniu do wszelkich sporów powsta³ych w
+zwi¹zku z ni¹.
+Spó³ka w dniu 2 lutego 2021 rok zawar³a umowê wspó³pracy z Diagnostyka sp. z o. o. z siedzib¹ w Krakowie. Umowa reguluje
+wspó³pracê Stron zak³adaj¹c¹ dodanie nowych funkcjonalnoœci do aplikacji CarnaLife System (zaawansowanej platformy
+medycyny cyfrowej wspomagaj¹cej diagnozowanie pacjentów, w tym zdalne dokonywanie oceny oraz monitorowanie stanu
+ich zdrowia dedykowanej placówkom medycznym i szpitalom), w szczególnoœci umo¿liwiaj¹cych pacjentom placówek
+medycznych korzystaj¹cych z CarnaLife System, posiadaj¹cym aplikacjê CarnaLife System automatyczne pobieranie wyników
+badañ laboratoryjnych wykonanych przez Diagnostyka Sp. z o.o. z mo¿liwoœci¹ udostêpnienia tych wyników przez pacjenta
+danej placówce medycznej korzystaj¹cej z CarnaLife System, z uwzglêdnieniem obowi¹zuj¹cych przepisów prawa dot.
+ochrony danych osobowych. Umowa zosta³a zawarta na czas okreœlony 2 (dwóch) lat. Umowa ulega przed³u¿eniu na czas
+nieokreœlony, w przypadku, gdy ¿adna ze Stron nie przeœle drugiej Stronie oœwiadczenia o braku zamiaru przed³u¿enia Umowy
+na co najmniej 2 tygodnie przed koñcem okresu na jaki zosta³a zawarta.
+25 lutego 2021 r. Spó³ka otrzyma³ potwierdzenie o zawarciu Umowy konsorcjum z Uniwersytetem w Janinie _(Grecja),
+Politechnik¹ Mediolañsk¹ _(W³ochy), BioIRC- Bioengineering Research and Development Center (Serbia), Uniwersytetem w
+Patras _(Grecja), Uniwersytetem w Montpellier (Francja) oraz Uniwersytetem Narodowym im. Kapodistriasa w Atenach
+(Grecja) w ramach unijnego programu Maria Sk³odowska-Curie - Horyzont 2020 na rzecz badañ i innowacji oraz wspierania
+rozwoju kariery zawodowej i szkoleñ pracowników naukowych, tytu³ projektu: "Drug-coated balloon simulation and
+optimization system for the improved treatment of peripheral artery disease"/"System symulacji i optymalizacji balonu
+powlekanego lekiem wspomagaj¹cy leczenie chorób obwodowych". Partnerami projektu s¹ miêdzy innymi Akademia
+Górniczo-Hutniczaoraz Boston Scientific Limited _(Irlandia). Spó³ka w ramach projektu bêdzie prowadzi³a badania w zakresie
+pomiarów struktur anatomicznych w obrazach medycznych w przestrzeni holograficznej oraz automatycznej segmentacji
+têtnic w danych z tomografii komputerowej z wykorzystaniem aplikacji CarnaLife Holo. W ramach konsorcjum Spó³ka pe³ni
+funkcjê Beneficjenta, co oznacza, ¿e Spó³ka w ramach udzia³u w Projekcie otrzyma w czasie jego trwania dofinansowanie w
+wysokoœci 369.957,20 Euro, przy czym œrodki te Spó³ka jest zobowi¹zana przeznaczyæ na prowadzenie badañ, szkolenia,
+networking, dzia³ania zwi¹zane z zarz¹dzaniem projektem oraz inne koszty poœrednie oraz koszty zwi¹zane z zatrudnieniem i
+utrzymaniem dwóch doktorantów, którzy bêd¹ prowadziæ badania we wspó³pracy ze Spó³k¹.
+Nota 50. Informacja o zmianie stosowanych zasad (polityki) rachunkowoœci i sposobu sporz¹dzania
+sprawozdania finansowego
+Zmiany stosowanych zasad (polityki) rachunkowoœci i sposobu sporz¹dzania sprawozdania finansowego, dokonanych w
+stosunku do poprzedniego roku obrotowego (lat obrotowych), ich przyczyny, tytu³y oraz wp³yw wywo³anych tym skutków
+finansowych na sytuacjê maj¹tkow¹ i finansow¹, p³ynnoœæ oraz wynik finansowy i rentownoœæ.
+Nie nast¹pi³a zmiana stosowanych zasad (polityki) rachunkowoœci i sposobu sporz¹dzania sprawozdania finansowego.
+Nota 51. Informacja o dokonanych korektach b³êdów
+Dokonane korekty b³êdów, ich przyczyny, tytu³y oraz wp³yw wywo³anych tym skutków finansowych na sytuacjê maj¹tkow¹ i
+finansow¹, p³ynnoœæ oraz wynik finansowy i rentownoœæ, w tym informacje o przychodach i kosztach z tytu³u b³êdów
+pope³nionych w latach ubieg³ych odnoszonych w roku obrotowym na kapita³ (fundusz) w³asny z podaniem ich kwot i rodzaju
+W 2020 roku nie dokonano korekty b³êdów z lat ubieg³ych ze wzglêdu na ich niewyst¹pienie.
+                                                                                                                         25
+
+Nota 52. Ocena niepewnoœci co do mo¿liwoœci kontynuowania dzia³alnoœci i opis istotnych ryzyk dotycz¹cych
+dzia³alnoœci Spó³ki
+Przysz³a sytuacja finansowa Spó³ki bêdzie w g³ównej mierze zale¿eæ od tempa realizacji przychodów ze sprzeda¿y na rynku
+krajowym i zagranicznym oraz dostêpnoœci kapita³u niezbêdnego do dalszego rozwoju portfela produktów w³asnych Spó³ki i
+uruchomienia szerokich dzia³añ marketingowych (w tym promocji i wejœcia na rynki zagraniczne).
+Z uwagi na fakt, ¿e Spó³ka dzia³a na dynamicznym, szybko rozwijaj¹cym siê rynku œciœle zwi¹zanym z innowacyjnymi
+technologiami, które nie maj¹ d³ugiej historii i s¹ w du¿ym stopniu obarczone ryzykiem zmiennoœci i nieprzewidywalnoœci,
+MedApp S.A. nara¿ony jest na ryzyko zwi¹zane z b³êdnym przyjêciem za³o¿eñ strategicznych dotycz¹cych m.in. rozwijanych
+us³ug i produktów oraz przysz³ego zapotrzebowania na nie ze strony klientów. Powy¿sze wp³ywa tak¿e na ryzyko mo¿liwych
+do osi¹gniêcia przychodów i wyników finansowych. Dzia³alnoœæ Spó³ki obarczona jest ryzykiem:
+     <U+F0A7> niedostosowania oferty Spó³ki do oczekiwañ klientów
+     <U+F0A7> nieosi¹gniêcia oczekiwanej pozycji rynkowej i tym samym niemo¿liwoœci realizacji planów strategicznych.
+Spó³ka stara siê ograniczaæ powy¿sze ryzyka poprzez:
+     <U+F0A7> prowadzanie monitoringu trendów rynkowych i dostêpnych badañ marketingowych, dziêki którym mo¿liwe jest
+          rozpoznanie potrzeb potencjalnych klientów i zaoferowanie produktów lub us³ug w najwy¿szym stopniu
+          spe³niaj¹cych ich oczekiwania
+     <U+F0A7> sta³e modyfikowanie i rozszerzanie oferty z uwzglêdnieniem zapotrzebowania potencjalnych klientów
+     <U+F0A7> zatrudnianie wysoko wykwalifikowanych pracowników i wspó³pracowników
+     <U+F0A7> wspó³pracê z miêdzynarodowej klasy specjalistami z danych bran¿ oraz wspó³pracê z Rad¹ Naukow¹
+     <U+F0A7> œledzenie trendów na kluczowych rynkach miêdzynarodowych (Stany Zjednoczone, Europa, Emiraty Arabskie,
+          Brazylia) poprzez uczestnictwo w najwiêkszych œwiatowych targach medycznych oraz rozwijanie kontaktów z
+          potencjalnymi klientami na rynkach zagranicznych.
+Charakterystyk¹ bran¿y, w któr¹ Spó³ka inwestuje, jest szybkoœæ zachodz¹cych zmian technologicznych, które maj¹ swoje
+prze³o¿enie na okres wdro¿enia i funkcjonowania produktów i us³ug oferowanych na rynku. Tempo tych procesów oraz ich
+zakres powoduje, i¿ Spó³ka, aby zachowaæ swoj¹ pozycjê rynkow¹, zmuszony jest do ci¹g³ego rozwoju swojej oferty
+produktowej i podnoszenia jakoœci œwiadczonych us³ug. P³ynnoœæ i dynamika bran¿y niesie ze sob¹ ryzyko ponoszenia
+znacznych kosztów zwi¹zanych z koniecznoœci¹ wprowadzonych prac rozwojowych i ci¹g³ego dostosowywania do rosn¹cych
+oczekiwañ w obszarze nowych technologii wykorzystywanych w medycynie.
+Spó³ka inwestuje w bran¿y, w której niezbêdne jest ci¹g³e ulepszanie oferowanych us³ug i produktów, jak równie¿
+poszerzanie zakresu funkcjonalnoœci oferowanych aplikacji (CarnaLife System i CarnaLife Holo). Pozyskiwanie nowych
+klientów w procesie komercjalizacji wymaga m.in. wyprzedzania dzia³añ konkurencji oraz skutecznego zaspokajania
+rosn¹cych potrzeb klientów. Wprowadzanie nowatorskich us³ug wi¹¿e siê ze znacznymi kosztami, ponoszonymi na ich
+opracowanie, testowanie oraz wdro¿enia.
+Nie mo¿na wykluczyæ przypadku, w którym nowatorskie us³ugi i produkty wprowadzone przez Spó³kê przynios¹ gorsze ni¿
+oczekiwane rezultaty ekonomiczne.
+Dzia³alnoœæ Spó³ki w du¿ej mierze polega na realizacji procesów i zadañ o wysokim stopniu z³o¿onoœci, wymagaj¹cych
+d³ugookresowej pracy specjalistów, co mo¿e wi¹zaæ siê z ryzykiem wyd³u¿enia czasu wdro¿enia, zmiany zakresu dzia³añ oraz
+wy¿szych kosztów zwi¹zanych z realizacj¹ projektów. Ryzyko takie mo¿e wi¹zaæ siê z odst¹pieniem klienta od kontraktu,
+ewentualnymi reklamacjami lub roszczeniami finansowymi. Powy¿sze zdarzenia mog¹ mieæ negatywny wp³yw na sytuacjê i
+wyniki finansowe Spó³ki. Spó³ka minimalizuje powy¿sze ryzyka poprzez zatrudnianie posiadaj¹cych wysokie kompetencje
+specjalistów oraz doœwiadczonej kadry zarz¹dzaj¹cej
+Nota 53. Inne informacje ni¿ wymienione, je¿eli mog³yby w istotny sposób wp³yn¹æ na ocenê sytuacji
+maj¹tkowej i finansowej oraz wynik finansowy jednostki
+Inne informacje ni¿ wymienione w niniejszym sprawozdaniu finansowym, które mog³yby w istotny sposób wp³yn¹æ na ocenê
+sytuacji maj¹tkowej i finansowej oraz wynik finansowy Spó³ki, nie wyst¹pi³y
+Kraków, dnia 22.03.2021 r.
+Zarz¹d Spó³ki:
+                                                                                                                      26
+
+Dodatkowe informacje i objaœnienia - dla jednostki innej
+zasadyrachMedApp
+
+       MEDAPP S.A.
+Przyjête zasady (polityka) rachunkowoœci
+  do sprawozdania finansowego za rok
+ zakoñczony dnia 31 grudnia 2020 roku
+
+Spó³ka wycenia aktywa i pasywa , sporz¹dza sprawozdanie finansowe zgodnie z Ustaw¹ o Rachunkowoœci z
+dnia 29.09.1994 r. z póŸniejszymi zmianami
+Aktywa ujmowane s¹ w ksiêgach w cenie nabycia tj. w cenie zakupu obejmuj¹cej kwotê nale¿n¹ sprzedaj¹cemu
+bez podlegaj¹cych odliczeniu podatku VAT oraz podatku akcyzowego, a w przypadku importu powiêkszonej o
+obci¹¿enia o charakterze publicznoprawnym oraz powiêkszonej o koszty bezpoœrednio zwi¹zane z zakupem i
+przystosowaniem sk³adnika aktywów do stanu zdatnego do u¿ywania lub wprowadzenia do obrotu.
+Wartoœci niematerialne i prawne wyceniane s¹ wed³ug cen nabycia, kosztów wytworzenia pomniejszonych o
+odpisy amortyzacyjne lub umorzeniowe, a tak¿e o odpisy z tytu³u trwa³ej utraty wartoœci. Amortyzacja
+dokonywana jest metod¹ liniow¹, w równych ratach co miesi¹c, pocz¹wszy od pierwszego dnia miesi¹ca
+nastêpuj¹cego po miesi¹cu, w którym wartoœæ ta zosta³a przyjêta do u¿ytkowania, do koñca miesi¹ca w którym
+nastêpuje zrównanie sumy odpisów umorzeniowych z ich wartoœci¹ pocz¹tkow¹ lub w którym postawiono je w
+stan likwidacji, zbyto lub stwierdzono niedobór. Wartoœci niematerialne wycenia siê oraz dokonuje odpisów
+stosuj¹c postanowienia art.31 ust.2 oraz art.32 ust.1-4 i ust 6 ustawy o rachunkowoœci.
+Wartoœæ firmy
+Wartoœæ pocz¹tkowa wartoœci firmy ustalana jest zgodnie z art. 33 ust. 4 ustawy o rachunkowoœci. Od wartoœci
+firmy jednostka dokonuje odpisów amortyzacyjnych przez okres jej ekonomicznej u¿ytecznoœci. Okres 5 letni
+jest stosowany wy³¹cznie w przypadku, gdy nie mo¿na wiarygodnie oszacowaæ okresu ekonomicznej
+u¿ytecznoœci. Dla wystêpuj¹cej w Spó³ce wartoœci firmy zosta³ ustalony okres ekonomicznej u¿ytecznoœci
+wynosz¹cy 20 lat.
+Zakoñczone prace rozwojowe
+Pocz¹tkowo koszty prac rozwojowych ujmuje siê na koncie czynnych rozliczeñ miêdzyokresowych kosztów i tak
+s¹ wykazywane w bilansie do czasu zakoñczenia pracy rozwojowej. Po zakoñczeniu prac rozwojowych nale¿y
+stwierdziæ, czy spe³niaj¹ warunki okreœlone w art. 33 ust. 2 ustawy o rachunkowoœci, je¿eli tak to ujmowane s¹
+w ewidencji wartoœci niematerialnych i prawnych i s¹ amortyzowane. Je¿eli nie spe³niaj¹ powy¿szych
+warunków, to obci¹¿aj¹ koszty okresu (pozosta³e koszty operacyjne), w którym zosta³y zakoñczone. Koszty
+zakoñczonych prac rozwojowych odpisuje siê przez okres ekonomicznej u¿ytecznoœci rezultatów prac
+rozwojowych. Je¿eli w wyj¹tkowych przypadkach nie mo¿na wiarygodnie oszacowaæ okresu ekonomicznej
+u¿ytecznoœci rezultatów zakoñczonych prac rozwojowych, to okres dokonywania odpisów nie mo¿e przekraczaæ
+5 lat.
+Moment zakoñczenia prac rozwojowych
+Moment zakoñczenia prac rozwojowych Spó³ka definiuje jako moment, w którym produkt (lub us³uga) jest
+przetestowany a iloœæ zastosowanych i przeprowadzonych testów wykonanych w ró¿nych warunkach i na
+ró¿nych przypadkach nie wykazuje b³êdów systemowych i jest powtarzalny.
+Œrodki trwa³e wyceniane s¹ wed³ug cen nabycia, kosztów wytworzenia lub wartoœci przeszacowanej (po
+aktualizacji wyceny) pomniejszonych o odpisy amortyzacyjne lub umorzeniowe, a tak¿e o odpisy z tytu³u
+trwa³ej utraty wartoœci.
+Odpisy amortyzacyjne dokonywane s¹ metod¹ liniow¹ od œrodków trwa³ych o wartoœci powy¿ej 10 000,00 z³
+pocz¹wszy od miesi¹ca nastêpnego po miesi¹cu oddania do u¿ytkowania. Œrodki trwa³e o wartoœci ni¿szej lub
+równej 10 000,00 amortyzowane s¹ jednorazowo w miesi¹cu oddania do u¿ywania lub w nastêpnym. Okresy i
+stawki amortyzacyjne weryfikowane s¹ nie czêœciej ni¿ raz w roku. Przyjmuje siê stawki amortyzacyjne
+uwzglêdniaj¹ce czas faktycznego zu¿ycia œrodków trwa³ych.
+Œrodki trwale w budowie wycenia siê w wysokoœci kosztów poniesionych na nabycie lub wytworzenie œrodków
+trwa³ych lub wartoœci niematerialnych i prawnych, które powstan¹ w wyniku zakoñczenia budowy.
+D³ugoterminowe aktywa finansowe wycenia siê w cenach nabycia pomniejszonych o odpisy z tytu³u trwa³ej
+utraty wartoœci.
+Udzia³y w jednostkach podporz¹dkowanych wycenia siê w cenach nabycia pomniejszonych o odpisy z tytu³u
+trwa³ej utraty wartoœci.
+
+Akcje w pozosta³ych jednostkach
+Akcje w pozosta³ych jednostkach zaliczone do kategorii dostêpne do sprzeda¿y wycenia siê w wiarygodnie
+ustalonej wartoœci godziwej bez jej pomniejszania o koszty transakcji, jakie jednostka ponios³aby, zbywaj¹c te
+aktywa lub wy³¹czaj¹c je z ksi¹g rachunkowych z innych przyczyn, chyba ¿e wysokoœæ tych kosztów by³aby
+znacz¹ca. Akcje, dla których nie istnieje cena rynkowa ustalona w aktywnym obrocie regulowanym albo których
+wartoœæ godziwa nie mo¿e byæ ustalona w inny wiarygodny sposób, wycenia siê w cenie nabycia pomniejszonej
+o odpisy z tytu³u trwa³ej utraty wartoœci, które s¹ ujmowane jako koszt finansowy w wyniku.
+D³ugoterminowe rozliczenia miêdzyokresowe stanowi¹ m.in. aktywa z tytu³u odroczonego podatku
+dochodowego. Aktywa z tytu³u odroczonego podatku dochodowego ustala siê w wysokoœci kwoty
+przewidzianej w przysz³oœci do odliczenia od podatku dochodowego w zwi¹zku z wystêpuj¹cymi ujemnymi
+ró¿nicami przejœciowymi, z uwzglêdnieniem zasady ostro¿noœci.
+Do d³ugoterminowych rozliczeñ miêdzyokresowych zaliczane s¹ tak¿e inne rozliczenia miêdzyokresowe o
+przewidywanym czasie rozliczenia d³u¿szym ni¿ 12 miesiêcy od dnia bilansowego.
+Nale¿noœci ujmuje siê w ksiêgach rachunkowych w kwotach wymaganej zap³aty. Nale¿noœci w walucie polskiej
+wycenia siê wed³ug wartoœci nominalnej. Wyra¿one w walutach obcych nale¿noœci wycenia siê wed³ug kursu
+œredniego NBP z dnia poprzedzaj¹cego dzieñ operacji gospodarczej.
+Wartoœæ nale¿noœci aktualizuje siê uwzglêdniaj¹c stopieñ prawdopodobieñstwa ich zap³aty przez dokonanie
+odpisu aktualizacyjnego. Odpisy aktualizacyjne odnosi siê w ciê¿ar kosztów operacyjnych lub finansowych w
+zale¿noœci od rodzaju nale¿noœci, którego odpis dotyczy.
+Nale¿noœci umorzone, przedawnione lub nieœci¹galne, które by³y aktualizowane zmniejszaj¹ dokonane
+uprzednio odpisy aktualizuj¹ce ich wartoœæ. Nale¿noœci umorzone, przedawnione lub nieœci¹galne
+nieaktualizowane odnosi siê w ciê¿ar kosztów operacyjnych lub finansowych w zale¿noœci od rodzaju
+nale¿noœci.
+Nale¿noœci wyra¿one w walutach obcych wycenia siê na dzieñ bilansowy po obowi¹zuj¹cym na ten dzieñ
+œrednim kursie NBP.
+Œrodki pieniê¿ne ujmowane s¹ wed³ug wartoœci nominalnej. Œrodki pieniê¿ne w walutach obcych wycenia siê
+wed³ug kursu faktycznie zastosowanego przez bank finansuj¹cy. W przypadku braku kursu faktycznie
+zastosowanego do wyceny œrodków pieniê¿nych przyjmuje siê œredni kurs NBP z dnia poprzedzaj¹cego dzieñ
+operacji gospodarczej
+Œrodki pieniê¿ne wyra¿one w walutach obcych wycenia siê na dzieñ bilansowy po obowi¹zuj¹cym na ten dzieñ
+œrednim kursie NBP.
+Inwestycje krótkoterminowe aktywa finansowe w postaci akcji, udzia³ów i innych papierów wartoœciowych
+wycenia siê w cenie nabycia nie wy¿szej ni¿ cena rynkowa na dzieñ bilansowy.
+Krótkoterminowe rozliczenia miêdzyokresowe czynne obejmuj¹ poniesione koszty, które dotycz¹ przysz³ych
+okresów sprawozdawczych o przewidywanym czasie rozliczenia nie d³u¿szym ni¿ 12 miesiêcy od dnia
+bilansowego. Koszty te s¹ odnoszone w koszty okresu w równych miesiêcznych ratach przez okres, którego
+dotycz¹.
+Niezakoñczone prace rozwojowe
+Do rozliczeñ miêdzyokresowych czynnych zaliczane s¹ równie¿ koszty niezakoñczonych prac rozwojowych.
+Proces powstawania tych aktywów dzieli siê na dwa etapy: etap prac badawczych i etap prac rozwojowych.
+Tylko koszty wynikaj¹ce z etapu prac rozwojowych mog¹ byæ aktywowane. Koszty etapu prac badawczych s¹
+ujmowane jako koszt okresu.
+Koszty niezakoñczonych prac rozwojowych aktywowane s¹ w nastêpuj¹cy sposób:
+- koszty wynagrodzeñ obejmuj¹ koszty pracowników przypisanych do konkretnych projektów,
+- koszty us³ug przyporz¹dkowywane s¹ na podstawie szczegó³owej identyfikacji projektów
+- koszty materia³ów przyporz¹dkowane na podstawie szczegó³owej identyfikacji projektów.
+Spó³ka ocenia czy aktywowane koszty spe³niaj¹ definicjê aktywów tzn. czy s¹ to kontrolowane przez jednostkê
+zasoby maj¹tkowe o wiarygodnie okreœlonej wartoœci, powsta³e w wyniku przesz³ych zdarzeñ, które spowoduj¹
+w przysz³oœci wp³yw do jednostki korzyœci ekonomicznych. Spó³ka uznaje, ¿e sk³adnik jest kontrolowany, jeœli
+Spó³ka sprawuje kontrolê nad korzyœciami, które bêdzie uzyskiwaæ z tych prac rozwojowych (np. prawo
+w³asnoœci, proces certyfikacji czy recertyfikacji, mo¿liwoœæ licencjonowania). Za wiarygodnie ustalon¹ wartoœæ
+
+kosztów prac rozwojowych uznaje siê kwotê powsta³¹ poprzez przypisywanie do poszczególnych prac kosztów
+zu¿ytych materia³ów, us³ug obcych i wynagrodzeñ pracowników zaanga¿owanych w tworzenie prac
+rozwojowych. Prace rozwojowe musz¹ powstaæ w wyniku zdarzeñ przesz³ych, czyli musz¹ to byæ ju¿ poniesione
+koszty. Przeprowadzona ocena musi tak¿e wskazywaæ, ¿e prace rozwojowe wg przewidywañ spowoduj¹ wp³yw
+do Spó³ki korzyœci ekonomicznych np. poprzez wykorzystywanie do œwiadczenia us³ug przeznaczonych na
+sprzeda¿, udzielania licencji lub sublicencji, op³at za wykorzystanie.
+Spó³ka na ka¿dy dzieñ bilansowy weryfikuje czy koszty niezakoñczonych prac rozwojowych spe³niaj¹ definicjê
+aktywów oraz ustala szacowany okres ich rozliczenia. Je¿eli szacowany przez Spó³kê czas rozliczenia na dzieñ
+bilansowy jest nie d³u¿szy ni¿ 12 miesiêcy od dnia bilansowego koszty niezakoñczonych prac rozwojowych
+stanowi¹ krótkoterminowe rozliczenia miêdzyokresowe czynne. Do d³ugoterminowych rozliczeñ
+miêdzyokresowych czynnych zaliczane s¹ niezakoñczone prace rozwojowe o szacowanym na dzieñ bilansowy
+czasie rozliczenia d³u¿szym ni¿ 12 miesiêcy od dnia bilansowego. Zmiany wartoœci szacunkowych dokonuje siê
+stosuj¹c podejœcie prospektywne.
+Rezerwy na zobowi¹zania
+Rezerwê z tytu³u odroczonego podatku dochodowego tworzy siê w przypadku wyst¹pienia dodatnich ró¿nic
+przejœciowych, które spowoduj¹ w przysz³oœci zwiêkszenie podstawy opodatkowania podatkiem dochodowym.
+Rezerwê tworzy siê w wysokoœci kwoty podatku dochodowego wymagaj¹cej w przysz³oœci zap³aty.
+Pozosta³e rezerwy na zobowi¹zania obejmuj¹ wartoœæ prawdopodobnych zobowi¹zañ przypadaj¹cych na
+bie¿¹cy okres sprawozdawczy
+Kapita³y w³asne ujmuje siê w ksiêgach rachunkowych i sprawozdaniu finansowym wed³ug wartoœci nominalnej
+w podziale wed³ug ich rodzajów.
+Kapita³ zak³adowy Spó³ki wykazuje siê w wysokoœci okreœlonej w statucie i wpisanej w rejestrze s¹dowym.
+Podwy¿szenie kapita³u zak³adowego, które do dnia bilansowego zosta³o wniesione, ale nie zosta³o
+zarejestrowane przez w³aœciwy s¹d rejestrowy wykazuje siê jako pozosta³e kapita³y rezerwowe z wydzieleniem
+odrêbnej podpozycji.
+Objête do dnia bilansowego akcje w warunkowo podwy¿szonym kapitale zak³adowym Spó³ka prezentuje w
+pozosta³ych kapita³ach rezerwowych do dnia zarejestrowania podwy¿szenia kapita³u zak³adowego przez
+w³aœciwy s¹d rejestrowy.
+Warunkowe podwy¿szenie kapita³u zak³adowego nastêpuje w drodze emisji nowych akcji. Do dnia objêcia akcji
+w warunkowo podwy¿szonym kapitale zak³adowym Spó³ka nie ujmuje w ksiêgach kapita³u warunkowego.
+W momencie rejestracji podwy¿szenia kapita³u zak³adowego przez w³aœciwy s¹d rejestrowy wartoœæ
+zarejestrowanego podwy¿szenia kapita³u zak³adowego przenoszona jest z pozosta³ych kapita³ów rezerwowych
+do kapita³u zak³adowego Spó³ki.
+Zobowi¹zania ujmuje siê w ksiêgach rachunkowych w kwotach wymaganej zap³aty. Zobowi¹zania w walucie
+polskiej wycenia siê wed³ug wartoœci nominalnej. Wyra¿one w walutach obcych zobowi¹zania na dzieñ ich
+powstania wycenia siê wed³ug kursu œredniego NBP z dnia poprzedzaj¹cego dzieñ operacji gospodarczej.
+Zobowi¹zanie wyra¿one w walutach obcych wycenia siê na dzieñ bilansowy po obowi¹zuj¹cym na ten dzieñ
+œrednim kursie NBP.
+Dostawy niefakturowane na dzieñ bilansowy s¹ zaliczane do zobowi¹zañ z tytu³u dostaw i us³ug.
+Rozliczenia miêdzyokresowe przychodów obejmuj¹ zafakturowane przychody, które dotycz¹ przysz³ych
+okresów sprawozdawczych. Przychody te s¹ odnoszone na przychody okresu, którego dotycz¹.
+Przychody obejmuj¹ niew¹tpliwe, nale¿ne lub uzyskane kwoty netto ze sprzeda¿y, tj. pomniejszone o nale¿ny
+podatek od towarów i us³ug (VAT), z operacji finansowych oraz z innych tytu³ów, w tym m.in. zysków ze zbycia
+niefinansowych aktywów trwa³ych, aktualizacji wyceny aktywów niefinansowych, rozwi¹zania rezerw na
+przysz³e ryzyko, kar, grzywien i odszkodowañ, otrzymania darowizny, dop³at, refundacji, itp. Przychody s¹
+ujmowane w okresach, których dotycz¹ niezale¿nie od terminów ich zap³aty.
+Koszty dzia³alnoœci obejmuj¹ koszty rodzajowe wraz z wartoœci¹ sprzedanych towarów i materia³ów, pozosta³e
+koszty operacyjne i koszty finansowe z wyj¹tkiem tych, które dotycz¹ nastêpnych okresów sprawozdawczych i
+zgodnie z zasad¹ zachowania wspó³miernoœci przychodów i kosztów odnoszone s¹ na rozliczenia
+miêdzyokresowe kosztów.
+
+Spó³ka ewidencjonowa³a koszty w uk³adzie porównawczym (zespó³ 4) oraz w uk³adzie kalkulacyjnym (zespó³ 5).
+Na koszty dzia³alnoœci operacyjnej sk³adaj¹ siê: amortyzacja, zu¿ycie materia³ów i energii, koszty us³ug obcych,
+podatki i op³aty, wynagrodzenia, ubezpieczenia spo³eczne i inne œwiadczenia oraz pozosta³e koszty rodzajowe.
+Rachunek zysków i strat sporz¹dza siê w wariancie kalkulacyjnym.
+Na wynik finansowy (zysk/stratê netto) wykazany w rachunku zysków i strat sk³adaj¹ siê: zysk/strata ze
+sprzeda¿y, zysk/strata z pozosta³ej dzia³alnoœci operacyjnej, zysk/strata z dzia³alnoœci finansowej, zysk brutto i
+podatek dochodowy.
+Wynik finansowy obejmuje wszystkie osi¹gniête i przypadaj¹ce na rzecz jednostki przychody oraz zwi¹zane z
+tymi przychodami koszty zgodnie z zasadami memoria³u, wspó³miernoœci przychodów i kosztów oraz ostro¿nej
+wyceny pomniejszony o podatek dochodowy.
+Ewidencja kosztów prowadzona jest w uk³adzie rodzajowym na kontach zespo³u 4 i 5. W celu ustalenia wyniku
+finansowego na dzieñ koñcz¹cy rok obrotowy, dokonuje siê zamkniêcia kont kosztów zespo³u 4 i kont
+wynikowych zespo³u 7 przenosz¹c przychody ze sprzeda¿y i koszty ich uzyskania na konto 860 „wynik
+finansowy”
+Przyjête przez Spó³kê zasady rachunkowoœci stosowane by³y w roku obrotowym w sposób ci¹g³y.
+
+Informacja o podpisach z³o¿onych na pliku XML sprawozdania finansowego
+ data podpisu          osoba podpisuj¹ca
+ 2021-03-22 10:45:22   Alicja Weso³owska
+                              Elektronicznie
+         Krzysztof            podpisany przez
+                              Krzysztof Mêdrala
+         Mêdrala              Data: 2021.03.22
+                              11:11:36 +01'00'
+
